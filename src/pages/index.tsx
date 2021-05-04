@@ -1,11 +1,12 @@
 import { GetStaticProps } from 'next';
+import Link from 'next/link';
 import React from 'react';
 
 import { Head, Nav } from '../components';
-import { Ecosystem, getTop20Ecos } from '../db';
+import { ecoQ, Ecosystem } from '../db';
 
 export const getStaticProps: GetStaticProps = async () => {
-	const ecos = getTop20Ecos();
+	const ecos = ecoQ.top20();
 
 	return {
 		props: {
@@ -18,7 +19,7 @@ interface IndexProps {
 	ecos: Ecosystem[];
 }
 
-export default function Index({ ecos }: IndexProps) {
+export default function Index({ ecos }: IndexProps): React.ReactElement {
 	return (
 		<>
 			<Head />
@@ -33,7 +34,7 @@ export default function Index({ ecos }: IndexProps) {
 			<div className="columns">
 				{ecos.map((eco) => (
 					<div className="column col-3" key={eco.slug}>
-						<div className="card">
+						<div className="card m-2">
 							<div className="card-header">
 								<div className="card-title h5">{eco.title}</div>
 								<div className="card-subtitle text-gray">
@@ -44,9 +45,11 @@ export default function Index({ ecos }: IndexProps) {
 								See {eco.reposCount} repos
 							</div>
 							<div className="card-footer">
-								<button className="btn btn-primary">
-									Discover devs.
-								</button>
+								<Link href={`/ecosystem/${eco.slug}`}>
+									<button className="btn btn-primary">
+										Discover devs.
+									</button>
+								</Link>
 							</div>
 						</div>
 					</div>

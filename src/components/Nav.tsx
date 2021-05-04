@@ -1,12 +1,13 @@
+import Link from 'next/link';
 import React from 'react';
 
 export function Nav(): React.ReactElement {
 	return (
 		<header className="navbar p-2">
 			<section className="navbar-section">
-				<a href="/" className="navbar-brand mr-2">
-					CryptoDevs
-				</a>
+				<span className="navbar-brand mr-2">
+					<Link href="/">CryptoDevs</Link>
+				</span>
 			</section>
 		</header>
 	);
