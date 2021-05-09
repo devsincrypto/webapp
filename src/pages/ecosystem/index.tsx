@@ -1,14 +1,12 @@
 import { GetStaticProps } from 'next';
-import Link from 'next/link';
 import React from 'react';
 
-import { Head, Nav } from '../components';
-import { EcosystemList } from '../components/EcosystemList';
-import { ecoQ, Ecosystem } from '../db';
+import { EcosystemList, Head, Nav } from '../../components';
+import { ecoQ, Ecosystem } from '../../db';
 
 // eslint-disable-next-line @typescript-eslint/require-await
 export const getStaticProps: GetStaticProps = async () => {
-	const ecos = ecoQ.top5();
+	const ecos = ecoQ.all();
 
 	return {
 		props: {
@@ -17,11 +15,11 @@ export const getStaticProps: GetStaticProps = async () => {
 	};
 };
 
-interface IndexProps {
+interface EcoIndexProps {
 	ecos: Ecosystem[];
 }
 
-export default function Index({ ecos }: IndexProps): React.ReactElement {
+export default function EcoIndex({ ecos }: EcoIndexProps): React.ReactElement {
 	return (
 		<>
 			<Head />
@@ -35,7 +33,6 @@ export default function Index({ ecos }: IndexProps): React.ReactElement {
 
 			<div className="thin-container">
 				<EcosystemList ecos={ecos} />
-				<Link href="/ecosystem">See all Ecosystems</Link>
 			</div>
 		</>
 	);
