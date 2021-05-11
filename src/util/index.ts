@@ -1,4 +1,4 @@
 export * from './format';
 export * from './helpers';
-export * from './supabase';
+export * from './supabaseClient';
 export * from './useUser';

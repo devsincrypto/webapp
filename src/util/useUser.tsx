@@ -12,7 +12,7 @@ import React, {
 	useState,
 } from 'react';
 
-import { supabase, SupabaseSubscription, SupabaseUser } from './supabase';
+import { supabase, SupabaseSubscription, SupabaseUser } from './supabaseClient';
 
 interface UserContext {
 	session: Session | null;

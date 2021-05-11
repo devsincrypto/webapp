@@ -19,14 +19,14 @@ export function UserList({ users }: UserListProps): React.ReactElement {
 						</div>
 					</div>
 					<div className="tile-content">
-						<p className="tile-title">
+						<div className="tile-title">
 							<h4>
 								#{index + 1} {user.githubLogin}{' '}
 							</h4>
 							<span className="chip">
 								Score: {kFormatter(user.score)}
 							</span>
-						</p>
+						</div>
 						<p className="tile-subtitle">
 							Earths Mightiest Heroes joined forces to take on
 							threats that were too big for any one hero to

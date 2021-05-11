@@ -10,7 +10,7 @@ export function Nav({ ecoPath }: NavProps): React.ReactElement {
 		<header className="navbar p-2">
 			<section className="navbar-section">
 				<span className="navbar-brand mr-2">
-					<Link href="/">CryptoDevs</Link>
+					<Link href="/">Devs in Crypto</Link>
 				</span>
 				{ecoPath && (
 					<ul className="breadcrumb">

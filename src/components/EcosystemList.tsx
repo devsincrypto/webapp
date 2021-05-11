@@ -21,14 +21,14 @@ export function EcosystemList({
 						</div>
 					</div>
 					<div className="tile-content">
-						<p className="tile-title d-flex">
+						<div className="tile-title d-flex">
 							<h4>
 								#{i + 1} {eco.title}
 							</h4>
 							<span className="chip">
 								Popularity: {kFormatter(eco.popularity)}
 							</span>
-						</p>
+						</div>
 						<p className="tile-subtitle">
 							Found{' '}
 							<span className="text-primary">
