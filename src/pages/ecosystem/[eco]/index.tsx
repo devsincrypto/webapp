@@ -3,7 +3,7 @@ import React from 'react';
 
 import { kFormatter } from '../../../common';
 import { Head, Nav, UserList } from '../../../components';
-import { CommitCount, commitQ, ecoQ, Ecosystem } from '../../../db';
+import { ecoQ, Ecosystem, User, userQ } from '../../../db';
 
 // eslint-disable-next-line @typescript-eslint/require-await
 export const getStaticPaths: GetStaticPaths = async () => {
@@ -23,14 +23,14 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 
 	const ecoSlug = params.eco as string;
 	const eco = ecoQ.get(ecoSlug);
-	const users = commitQ.top20UsersByEcosystem(ecoSlug);
+	const users = userQ.top20UsersByEco(ecoSlug);
 
 	return { props: { eco, users } };
 };
 
 interface EcosystemProps {
 	eco: Ecosystem;
-	users: CommitCount[];
+	users: User[];
 }
 
 function linkToGithub(repoName: string): string {

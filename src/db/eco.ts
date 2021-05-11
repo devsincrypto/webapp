@@ -50,8 +50,8 @@ SELECT
 	p.popularity
 FROM ecosystems e
 INNER JOIN popularity p on p.top_level_eco = e.slug
-${limitClause}
 ${orderByClause}
+${limitClause}
 `;
 
 export function all(): Ecosystem[] {

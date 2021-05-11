@@ -1,10 +1,10 @@
 import React from 'react';
 
 import { kFormatter } from '../common';
-import { CommitCount } from '../db';
+import { User } from '../db';
 
 interface UserListProps {
-	users: CommitCount[];
+	users: User[];
 }
 
 export function UserList({ users }: UserListProps): React.ReactElement {

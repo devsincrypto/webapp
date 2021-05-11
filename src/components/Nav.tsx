@@ -24,6 +24,14 @@ export function Nav({ ecoPath }: NavProps): React.ReactElement {
 					</ul>
 				)}
 			</section>
+			<section className="navbar-section">
+				<Link href="/signin">
+					<button>Sign In</button>
+				</Link>
+				<Link href="/signup">
+					<button>Sign Up</button>
+				</Link>
+			</section>
 		</header>
 	);
 }
