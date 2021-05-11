@@ -10,7 +10,7 @@
 	},
 	"dependencies": {
 		"@stripe/stripe-js": "^1.14.0",
-		"@supabase/supabase-js": "^1.11.10",
+		"@supabase/supabase-js": "^1.11.11",
 		"@types/better-sqlite3": "^5.4.1",
 		"better-sqlite3": "^7.1.5",
 		"next": "10.1.3",
