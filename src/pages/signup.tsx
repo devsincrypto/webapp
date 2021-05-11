@@ -3,8 +3,8 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useEffect, useState } from 'react';
 
-import { updateUserName, useUser } from '../common';
 import { Head, Nav } from '../components';
+import { updateUserName, useUser } from '../util';
 
 export default function SignUp(): React.ReactElement {
 	const [user, setUser] = useState<User | null>(null);

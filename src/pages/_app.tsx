@@ -3,7 +3,7 @@ import '../styles/global.css';
 import type { AppProps } from 'next/app';
 import React from 'react';
 
-import { UserContextProvider } from '../common';
+import { UserContextProvider } from '../util';
 
 export default function MyApp({
 	Component,

@@ -1,8 +1,8 @@
 import Link from 'next/link';
 import React from 'react';
 
-import { kFormatter } from '../common';
 import { Ecosystem } from '../db';
+import { kFormatter } from '../util';
 
 interface EcosystemListProps {
 	ecos: Ecosystem[];

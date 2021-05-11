@@ -1,9 +1,9 @@
 import { GetServerSideProps } from 'next';
 import React from 'react';
 
-import { kFormatter } from '../../../common';
 import { Head, Nav, UserList } from '../../../components';
 import { ecoQ, Ecosystem, User, userQ } from '../../../db';
+import { kFormatter } from '../../../util';
 
 // TODO We should replace this with static generation, but it was too slow on
 // Vercel (>45min).
