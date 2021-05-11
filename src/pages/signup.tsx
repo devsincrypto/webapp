@@ -4,7 +4,8 @@ import { useRouter } from 'next/router';
 import React, { useEffect, useState } from 'react';
 
 import { Head, Nav } from '../components';
-import { updateUserName, useUser } from '../util';
+import { updateUserName } from '../util/supabaseClient';
+import { useUser } from '../util/useUser';
 
 export default function SignUp(): React.ReactElement {
 	const [user, setUser] = useState<User | null>(null);

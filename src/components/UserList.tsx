@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 import { User } from '../db';
-import { kFormatter } from '../util';
+import { kFormatter } from '../util/format';
 
 interface UserListProps {
 	users: User[];

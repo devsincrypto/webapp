@@ -2,8 +2,7 @@ import { GetStaticProps } from 'next';
 import Link from 'next/link';
 import React from 'react';
 
-import { Footer, Head, Nav } from '../components';
-import { EcosystemList } from '../components/EcosystemList';
+import { EcosystemList, Footer, Head, Nav } from '../components';
 import { ecoQ, Ecosystem } from '../db';
 
 // eslint-disable-next-line @typescript-eslint/require-await

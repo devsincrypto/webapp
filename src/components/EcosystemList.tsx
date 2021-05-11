@@ -2,7 +2,7 @@ import Link from 'next/link';
 import React from 'react';
 
 import { Ecosystem } from '../db';
-import { kFormatter } from '../util';
+import { kFormatter } from '../util/format';
 
 interface EcosystemListProps {
 	ecos: Ecosystem[];

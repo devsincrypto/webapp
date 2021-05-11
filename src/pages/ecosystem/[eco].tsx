@@ -3,7 +3,7 @@ import React from 'react';
 
 import { Footer, Head, Nav, UserList } from '../../components';
 import { ecoQ, Ecosystem, User, userQ } from '../../db';
-import { kFormatter } from '../../util';
+import { kFormatter } from '../../util/format';
 
 // TODO We should replace this with static generation, but it was too slow on
 // Vercel (>45min).
