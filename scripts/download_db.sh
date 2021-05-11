@@ -2,4 +2,4 @@
 
 set -e
 
-wget $CRYPTODEVS_SQLITE_URL -O cryptodevs.sqlite
+curl $CRYPTODEVS_SQLITE_URL -o cryptodevs.sqlite
