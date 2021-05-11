@@ -1,22 +1,14 @@
-import { GetStaticPaths, GetStaticProps } from 'next';
+import { GetServerSideProps } from 'next';
 import React from 'react';
 
 import { kFormatter } from '../../../common';
 import { Head, Nav, UserList } from '../../../components';
 import { ecoQ, Ecosystem, User, userQ } from '../../../db';
 
+// TODO We should replace this with static generation, but it was too slow on
+// Vercel (>45min).
 // eslint-disable-next-line @typescript-eslint/require-await
-export const getStaticPaths: GetStaticPaths = async () => {
-	const ecos = ecoQ.allSlugs();
-
-	return {
-		fallback: false,
-		paths: ecos.map((eco) => ({ params: { eco } })),
-	};
-};
-
-// eslint-disable-next-line @typescript-eslint/require-await
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getServerSideProps: GetServerSideProps = async ({ params }) => {
 	if (!params?.eco) {
 		throw new Error('`params.eco` should not be empty');
 	}
@@ -25,7 +17,9 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 	const eco = ecoQ.get(ecoSlug);
 	const users = userQ.top20UsersByEco(ecoSlug);
 
-	return { props: { eco, users } };
+	return {
+		props: { eco, users },
+	};
 };
 
 interface EcosystemProps {
