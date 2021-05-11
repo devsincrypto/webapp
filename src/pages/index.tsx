@@ -2,7 +2,7 @@ import { GetStaticProps } from 'next';
 import Link from 'next/link';
 import React from 'react';
 
-import { Head, Nav } from '../components';
+import { Footer, Head, Nav } from '../components';
 import { EcosystemList } from '../components/EcosystemList';
 import { ecoQ, Ecosystem } from '../db';
 
@@ -33,10 +33,12 @@ export default function Index({ ecos }: IndexProps): React.ReactElement {
 				</div>
 			</div>
 
-			<div className="thin-container">
+			<div className="thin-container p-2">
+				<h2>Top 5 Ecosystems</h2>
 				<EcosystemList ecos={ecos} />
 				<Link href="/ecosystem">See all Ecosystems</Link>
 			</div>
+			<Footer />
 		</>
 	);
 }

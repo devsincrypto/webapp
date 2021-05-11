@@ -1,7 +1,7 @@
 import { GetStaticProps } from 'next';
 import React from 'react';
 
-import { EcosystemList, Head, Nav } from '../../components';
+import { EcosystemList, Footer, Head, Nav } from '../../components';
 import { ecoQ, Ecosystem } from '../../db';
 
 // eslint-disable-next-line @typescript-eslint/require-await
@@ -31,9 +31,11 @@ export default function EcoIndex({ ecos }: EcoIndexProps): React.ReactElement {
 				</div>
 			</div>
 
-			<div className="thin-container">
+			<div className="thin-container p-2">
+				<h2>All Ecosystems</h2>
 				<EcosystemList ecos={ecos} />
 			</div>
+			<Footer />
 		</>
 	);
 }

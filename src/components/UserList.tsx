@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 import { User } from '../db';
 import { kFormatter } from '../util';
@@ -8,36 +8,45 @@ interface UserListProps {
 }
 
 export function UserList({ users }: UserListProps): React.ReactElement {
+	const [limit, setLimit] = useState(20);
+
 	return (
 		<>
 			<h2>Top {users.length} users:</h2>
-			{users.map((user, index) => (
-				<div className="tile" key={user.githubLogin}>
-					<div className="tile-icon">
-						<div className="example-tile-icon">
-							<i className="icon icon-file centered"></i>
-						</div>
-					</div>
-					<div className="tile-content">
-						<div className="tile-title">
-							<h4>
-								#{index + 1} {user.githubLogin}{' '}
-							</h4>
-							<span className="chip">
-								Score: {kFormatter(user.score)}
-							</span>
-						</div>
-						<p className="tile-subtitle">
-							Earths Mightiest Heroes joined forces to take on
-							threats that were too big for any one hero to
-							tackle...
-						</p>
-					</div>
-					<div className="tile-action">
-						<button className="btn btn-primary">Join</button>
-					</div>
-				</div>
-			))}
+			<table className="table">
+				<thead>
+					<tr>
+						<th>Rank</th>
+						<th>Github Login</th>
+						<th>Score</th>
+						<th></th>
+					</tr>
+				</thead>
+				<tbody>
+					{users.slice(0, limit).map((user, i) => (
+						<tr key={user.githubLogin}>
+							<td>#{i + 1}</td>
+							<td>{user.githubLogin}</td>
+							<td>{kFormatter(user.score)}</td>
+							<td>See Profile</td>
+						</tr>
+					))}
+				</tbody>
+			</table>
+			<button
+				className="btn btn-sm"
+				disabled={limit >= users.length}
+				onClick={() => setLimit(limit + 20)}
+			>
+				Load more
+			</button>
+			<button
+				className="btn btn-sm"
+				disabled={limit >= users.length}
+				onClick={() => setLimit(users.length)}
+			>
+				Load all
+			</button>
 		</>
 	);
 }

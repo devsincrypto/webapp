@@ -21,8 +21,7 @@ INNER JOIN ecosystems e ON e.slug = er.ecosystem_slug
 WHERE (e.slug = ? OR e.path LIKE ? OR e.path LIKE ?)
 AND c.github_login NOT LIKE '%[bot]%' AND c.github_login NOT LIKE '%-bot%'
 GROUP BY githubLogin
-ORDER BY score DESC
-LIMIT 20;`
+ORDER BY score DESC;`
 		)
 		.all(ecoSlug, `${ecoSlug}/%`, `%/${ecoSlug}/%`) as User[];
 }

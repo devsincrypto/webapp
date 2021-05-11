@@ -12,40 +12,33 @@ export function EcosystemList({
 	ecos,
 }: EcosystemListProps): React.ReactElement {
 	return (
-		<>
-			{ecos.map((eco, i) => (
-				<div className="tile" key={eco.slug}>
-					<div className="tile-icon">
-						<div className="example-tile-icon">
-							<i className="icon icon-file centered"></i>
-						</div>
-					</div>
-					<div className="tile-content">
-						<div className="tile-title d-flex">
-							<h4>
-								#{i + 1} {eco.title}
-							</h4>
-							<span className="chip">
-								Popularity: {kFormatter(eco.popularity)}
-							</span>
-						</div>
-						<p className="tile-subtitle">
-							Found{' '}
-							<span className="text-primary">
-								{kFormatter(eco.userCount)} users
-							</span>{' '}
-							and {kFormatter(eco.repoCount)} repositories.
-						</p>
-					</div>
-					<div className="tile-action">
-						<Link href={`/ecosystem/${eco.slug}`}>
-							<button className="btn btn-primary">
-								See Ecosystem
-							</button>
-						</Link>
-					</div>
-				</div>
-			))}
-		</>
+		<table className="table">
+			<thead>
+				<tr>
+					<th>Rank</th>
+					<th>Ecosystem</th>
+					<th>Popularity</th>
+					<th>Users</th>
+					<th></th>
+				</tr>
+			</thead>
+			<tbody>
+				{ecos.map((eco, i) => (
+					<tr key={eco.slug}>
+						<td>#{i + 1}</td>
+						<td>{eco.title}</td>
+						<td>{kFormatter(eco.popularity)}</td>
+						<td>{kFormatter(eco.userCount)}</td>
+						<td>
+							<Link href={`/ecosystem/${eco.slug}`}>
+								<button className="btn btn-primary">
+									See Ecosystem
+								</button>
+							</Link>
+						</td>
+					</tr>
+				))}
+			</tbody>
+		</table>
 	);
 }

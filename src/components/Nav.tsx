@@ -2,10 +2,11 @@ import Link from 'next/link';
 import React from 'react';
 
 interface NavProps {
+	activeEcoSlug?: string;
 	ecoPath?: string;
 }
 
-export function Nav({ ecoPath }: NavProps): React.ReactElement {
+export function Nav({ activeEcoSlug, ecoPath }: NavProps): React.ReactElement {
 	return (
 		<header className="navbar p-2">
 			<section className="navbar-section">
@@ -14,11 +15,18 @@ export function Nav({ ecoPath }: NavProps): React.ReactElement {
 				</span>
 				{ecoPath && (
 					<ul className="breadcrumb">
+						<li className="breadcrumb-item">
+							<Link href="/ecosystem">ecosystems</Link>
+						</li>
 						{ecoPath.split('/').map((ecoSlug) => (
 							<li className="breadcrumb-item" key={ecoSlug}>
-								<Link href={`/ecosystem/${ecoSlug}`}>
-									{ecoSlug}
-								</Link>
+								{activeEcoSlug === ecoSlug ? (
+									ecoSlug
+								) : (
+									<Link href={`/ecosystem/${ecoSlug}`}>
+										{ecoSlug}
+									</Link>
+								)}
 							</li>
 						))}
 					</ul>

@@ -1,7 +1,7 @@
 import { GetServerSideProps } from 'next';
 import React from 'react';
 
-import { Head, Nav, UserList } from '../../../components';
+import { Footer, Head, Nav, UserList } from '../../../components';
 import { ecoQ, Ecosystem, User, userQ } from '../../../db';
 import { kFormatter } from '../../../util';
 
@@ -38,7 +38,7 @@ export default function Eco({
 	return (
 		<>
 			<Head />
-			<Nav ecoPath={eco.path} />
+			<Nav activeEcoSlug={eco.slug} ecoPath={eco.path} />
 			<div className="hero bg-gray">
 				<div className="hero-body">
 					<h1>{eco.title}</h1>
@@ -50,9 +50,10 @@ export default function Eco({
 				</div>
 			</div>
 
-			<div className="thin-container">
+			<div className="thin-container p-2">
 				<UserList users={users} />
 			</div>
+			<Footer />
 		</>
 	);
 }

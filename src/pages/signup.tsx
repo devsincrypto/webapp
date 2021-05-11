@@ -50,7 +50,7 @@ export default function SignUp(): React.ReactElement {
 		<>
 			<Head />
 			<Nav />
-			<div className="thin-container">
+			<div className="thin-container p-2">
 				<form onSubmit={handleSignup}>
 					{message.content && <div>{message.content}</div>}
 					<input
