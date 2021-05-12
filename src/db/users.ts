@@ -6,7 +6,7 @@ export interface User {
 	score: number;
 }
 
-export function top20UsersByEco(ecoSlug: string): User[] {
+export function usersByEco(ecoSlug: string): User[] {
 	return db
 		.prepare(
 			`
@@ -24,12 +24,4 @@ GROUP BY githubLogin
 ORDER BY score DESC;`
 		)
 		.all(ecoSlug, `${ecoSlug}/%`, `%/${ecoSlug}/%`) as User[];
-}
-
-export function githubLoginById(id: number): string {
-	return (db
-		.prepare(
-			`SELECT github_login AS githubLogin FROM users WHERE rowid = ?;`
-		)
-		.get(id) as User).githubLogin;
 }
