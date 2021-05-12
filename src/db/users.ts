@@ -1,7 +1,8 @@
 import { db } from './db';
 
 export interface User {
-	githubLogin: string;
+	githubLoginEncrypted: string;
+	githubLoginMasked: string;
 	id: number;
 	score: number;
 }
@@ -12,15 +13,16 @@ export function usersByEco(ecoSlug: string): User[] {
 			`
 SELECT
 	c.rowid as id,
-	c.github_login as githubLogin,
+	github_login_masked as githubLoginMasked,
+	c.github_login_encrypted as githubLoginEncrypted,
 	SUM(c.commit_count * (r.stars + r.forks + r.watchers)) as score
 FROM commits c
 INNER JOIN repos r ON r.name = c.repo_name
 INNER JOIN ecosystem_repos er ON er.repo_name = r.name
 INNER JOIN ecosystems e ON e.slug = er.ecosystem_slug
+INNER JOIN users u ON u.github_login_encrypted = c.github_login_encrypted
 WHERE (e.slug = ? OR e.path LIKE ? OR e.path LIKE ?)
-AND c.github_login NOT LIKE '%[bot]%' AND c.github_login NOT LIKE '%-bot%'
-GROUP BY githubLogin
+GROUP BY githubLoginEncrypted
 ORDER BY score DESC;`
 		)
 		.all(ecoSlug, `${ecoSlug}/%`, `%/${ecoSlug}/%`) as User[];
