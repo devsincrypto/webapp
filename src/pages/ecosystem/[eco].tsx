@@ -2,7 +2,7 @@ import { GetServerSideProps } from 'next';
 import React from 'react';
 
 import { Footer, Head, Nav, UserList } from '../../components';
-import { ecoQ, Ecosystem, User, userQ } from '../../db';
+import { Ecosystem, User } from '../../db';
 import { kFormatter } from '../../util/format';
 
 // TODO We should replace this with static generation, but it was too slow on
@@ -14,8 +14,12 @@ export const getServerSideProps: GetServerSideProps = async ({ params }) => {
 	}
 
 	const ecoSlug = params.eco as string;
-	const eco = ecoQ.get(ecoSlug);
-	const users = userQ.top20UsersByEco(ecoSlug);
+	const eco = (await import(
+		`../../db/json/ecosystems/bySlug/${ecoSlug}.json`
+	)) as Ecosystem;
+	const users = (await import(
+		`../../db/json/users/byEco/${ecoSlug}.json`
+	)) as User[];
 
 	return {
 		props: { eco, users },

@@ -3,11 +3,12 @@ import Link from 'next/link';
 import React from 'react';
 
 import { EcosystemList, Footer, Head, Nav } from '../components';
-import { ecoQ, Ecosystem } from '../db';
+import type { Ecosystem } from '../db';
+import all from '../db/json/ecosystems/all.json';
 
 // eslint-disable-next-line @typescript-eslint/require-await
 export const getStaticProps: GetStaticProps = async () => {
-	const ecos = ecoQ.top5();
+	const ecos = all;
 
 	return {
 		props: {

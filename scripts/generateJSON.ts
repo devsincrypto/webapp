@@ -7,26 +7,46 @@ import * as userQ from '../src/db/users';
 
 async function genAllEcos() {
 	await fs.writeFile(
-		'./src/db/json/ecosystem/all.json',
+		'./src/db/json/ecosystems/all.json',
 		JSON.stringify(ecoQ.all(), undefined, '\t')
 	);
 }
 
-async function genIndividualEcos() {
-	const b = new cliProgress.SingleBar({});
-	const slugs = ecoQ.allSlugs();
-	b.start(slugs.length, 0);
+async function genIndividualEcos(slugs: string[], mb: cliProgress.MultiBar) {
+	const b = mb.create(slugs.length, 0);
 	await promiseAllLimit(
 		20,
 		slugs.map((slug) => async () => {
-			console.log('PrOCESSING slug=', slug);
-			if (existsSync(`./src/db/json/ecosystem/${slug}.json`)) {
+			// Skip file if file already exists.
+			if (existsSync(`./src/db/json/ecosystems/bySlug/${slug}.json`)) {
 				b.increment();
 				return;
 			}
 
 			await fs.writeFile(
-				`./src/db/json/ecosystem/${slug}.json`,
+				`./src/db/json/ecosystems/bySlug/${slug}.json`,
+				JSON.stringify(ecoQ.get(slug), undefined, '\t')
+			);
+			b.increment();
+		})
+	);
+
+	b.stop();
+}
+
+async function genEcoUsers(slugs: string[], mb: cliProgress.MultiBar) {
+	const b = mb.create(slugs.length, 0);
+	await promiseAllLimit(
+		20,
+		slugs.map((slug) => async () => {
+			// Skip file if file already exists.
+			if (existsSync(`./src/db/json/users/byEco/${slug}.json`)) {
+				b.increment();
+				return;
+			}
+
+			await fs.writeFile(
+				`./src/db/json/users/byEco/${slug}.json`,
 				JSON.stringify(userQ.usersByEco(slug), undefined, '\t')
 			);
 			b.increment();
@@ -36,16 +56,24 @@ async function genIndividualEcos() {
 	b.stop();
 }
 
-async function genEcoSlugs() {
+async function genEcoSlugs(slugs: string[]) {
 	await fs.writeFile(
-		'./src/db/json/ecosystem/slugs.json',
-		JSON.stringify(ecoQ.allSlugs(), undefined, '\t')
+		'./src/db/json/ecosystems/slugs.json',
+		JSON.stringify(slugs, undefined, '\t')
 	);
 }
 
 export async function main(): Promise<void> {
 	console.log('Starting script to generate JSONs.');
-	await Promise.all([genAllEcos(), genEcoSlugs(), genIndividualEcos()]);
+	const mb = new cliProgress.MultiBar({});
+
+	const slugs = ecoQ.allSlugs();
+	await Promise.all([
+		genAllEcos(),
+		genEcoSlugs(slugs),
+		genIndividualEcos(slugs, mb),
+		genEcoUsers(slugs, mb),
+	]);
 }
 
 main().catch((err) => {
