@@ -4,7 +4,7 @@
 	"private": true,
 	"scripts": {
 		"dev": "next dev",
-		"build": "./scripts/download_db.sh && next build",
+		"build": "next build",
 		"generate-json": "ts-node -P ./scripts/tsconfig.json ./scripts/generateJSON.ts",
 		"lint": "tsc --noEmit && eslint . --ext ts,tsx",
 		"start": "next start"

@@ -24,9 +24,12 @@ export function UserList({ users }: UserListProps): React.ReactElement {
 				</thead>
 				<tbody>
 					{users.slice(0, limit).map((user, i) => (
-						<tr key={user.githubLogin}>
+						<tr key={user.githubLoginEncrypted}>
 							<td>#{i + 1}</td>
-							<td>{user.githubLogin}</td>
+							<td>
+								{user.githubLoginMasked}
+								{'*'.repeat(8)}
+							</td>
 							<td>{kFormatter(user.score)}</td>
 							<td>See Profile</td>
 						</tr>
