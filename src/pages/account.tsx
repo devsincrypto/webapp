@@ -7,15 +7,13 @@ import { useUser } from '../util/useUser';
 
 function Card({ title, description, footer, children }: any) {
 	return (
-		<div className="border border-accents-1	max-w-3xl w-full p rounded-md m-auto my-8">
-			<div className="px-5 py-4">
-				<h3 className="text-2xl mb-1 font-medium">{title}</h3>
-				<p className="text-accents-5">{description}</p>
+		<div>
+			<div>
+				<h3>{title}</h3>
+				<p>{description}</p>
 				{children}
 			</div>
-			<div className="border-t border-accents-1 bg-primary-2 p-4 text-accents-3 rounded-b-md">
-				{footer}
-			</div>
+			<div>{footer}</div>
 		</div>
 	);
 }
@@ -44,9 +42,9 @@ export default function Account(): React.ReactElement {
 		subscription &&
 		new Intl.NumberFormat('en-US', {
 			style: 'currency',
-			currency: subscription.prices.currency,
+			currency: subscription.prices?.currency,
 			minimumFractionDigits: 0,
-		}).format(subscription.prices.unit_amount / 100);
+		}).format((subscription?.prices?.unit_amount || 0) / 100);
 
 	return (
 		<section className="bg-black mb-32">
@@ -85,7 +83,9 @@ export default function Account(): React.ReactElement {
 						{!userLoaded ? (
 							<div className="h-12 mb-6">Loading...</div>
 						) : subscriptionPrice && subscription ? (
-							`${subscriptionPrice}/${subscription.prices.interval}`
+							`${subscriptionPrice}/${
+								subscription?.prices?.interval || 'no interval'
+							}`
 						) : (
 							<Link href="/">
 								<a>Choose your plan</a>

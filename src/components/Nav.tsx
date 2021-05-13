@@ -35,11 +35,14 @@ export function Nav({ activeEcoSlug, ecoPath }: NavProps): React.ReactElement {
 				)}
 			</section>
 			<section className="navbar-section">
+				<Link href="/pricing">
+					<button className="btn btn-link">Pricing</button>
+				</Link>
 				<Link href="/signin">
-					<button>Sign In</button>
+					<button className="btn btn-sm">Sign In</button>
 				</Link>
 				<Link href="/signup">
-					<button>Sign Up</button>
+					<button className="btn btn-sm">Sign Up</button>
 				</Link>
 			</section>
 		</header>
