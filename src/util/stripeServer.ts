@@ -1,4 +1,3 @@
-import { loadStripe, Stripe as StripeJS } from '@stripe/stripe-js';
 import Stripe from 'stripe';
 
 export const stripe = new Stripe(
@@ -15,16 +14,3 @@ export const stripe = new Stripe(
 		},
 	}
 );
-
-let stripePromise: Promise<StripeJS | null> | undefined;
-
-export const getStripe = (): Promise<StripeJS | null> | undefined => {
-	if (!stripePromise) {
-		stripePromise = loadStripe(
-			(process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY_LIVE ??
-				process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY) as string
-		);
-	}
-
-	return stripePromise;
-};

@@ -9,7 +9,7 @@ export const getURL = (): string => {
 	return url.includes('http') ? url : `https://${url}`;
 };
 
-export const postData = async ({
+export const postData = async <T = any>({
 	url,
 	token,
 	data,
@@ -17,7 +17,7 @@ export const postData = async ({
 	url: string;
 	token?: string;
 	data?: any;
-}): Promise<any> => {
+}): Promise<T> => {
 	const res = await fetch(url, {
 		method: 'POST',
 		// eslint-disable-next-line @typescript-eslint/ban-ts-comment
@@ -27,7 +27,7 @@ export const postData = async ({
 		body: JSON.stringify(data),
 	});
 
-	return res.json();
+	return res.json() as Promise<T>;
 };
 
 export const toDateTime = (secs: number): Date => {
