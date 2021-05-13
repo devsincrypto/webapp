@@ -48,8 +48,11 @@ export const UserContextProvider: FunctionComponent = (
 	const [userLoaded, setUserLoaded] = useState(false);
 	const [session, setSession] = useState<Session | null>(null);
 	const [user, setUser] = useState<User | null>(null);
-	const [userDetails, setUserDetails] = useState(null);
-	const [subscription, setSubscription] = useState(null);
+	const [userDetails, setUserDetails] = useState<SupabaseUser | null>(null);
+	const [
+		subscription,
+		setSubscription,
+	] = useState<SupabaseSubscription | null>(null);
 
 	useEffect(() => {
 		const session = supabase.auth.session();
@@ -67,24 +70,21 @@ export const UserContextProvider: FunctionComponent = (
 		};
 	}, []);
 
-	const getUserDetails = () => supabase.from('users').select('*').single();
+	const getUserDetails = () =>
+		supabase.from<SupabaseUser>('users').select('*').single();
 	const getSubscription = () =>
 		supabase
-			.from('subscriptions')
+			.from<SupabaseSubscription>('subscriptions')
 			.select('*, prices(*, products(*))')
 			.in('status', ['trialing', 'active'])
 			.single();
 
 	useEffect(() => {
 		if (user) {
-			Promise.allSettled([getUserDetails(), getSubscription()])
-				.then((results) => {
-					// eslint-disable-next-line
-					// @ts-ignore
-					setUserDetails(results[0].value.data); // eslint-disable-line
-					// eslint-disable-next-line
-					// @ts-ignore
-					setSubscription(results[1].value.data); // eslint-disable-line
+			Promise.all([getUserDetails(), getSubscription()])
+				.then(([userDetails, sub]) => {
+					setUserDetails(userDetails.data);
+					setSubscription(sub.data);
 					setUserLoaded(true);
 				})
 				.catch(console.error);

@@ -44,7 +44,6 @@ export default function Index({ ecos }: IndexProps): React.ReactElement {
 				<EcosystemList ecos={ecos} />
 				<Link href="/ecosystem">See all Ecosystems</Link>
 			</div>
-			<Footer />
 		</>
 	);
 }

@@ -1,7 +1,7 @@
 import { GetStaticProps } from 'next';
 import React from 'react';
 
-import { Pricing } from '../components/pricing';
+import { Head, Nav, Pricing } from '../components';
 import {
 	getActiveProductsWithPrices,
 	SupabaseProduct,
@@ -14,7 +14,6 @@ export const getStaticProps: GetStaticProps = async () => {
 		props: {
 			products,
 		},
-		revalidate: 60,
 	};
 };
 
@@ -25,5 +24,28 @@ interface PricingProps {
 export default function PricingPage({
 	products,
 }: PricingProps): React.ReactElement {
-	return <Pricing products={products} />;
+	return (
+		<>
+			<Head />
+			<Nav />
+			<div className="thin-container">
+				<Pricing products={products} />
+				<section className="section">
+					<h2 className="text-center">Still have some questions?</h2>
+					<p className="text-center">
+						Send an email to{' '}
+						<div className="chip">
+							<figure
+								className="avatar avatar-sm"
+								data-initial="AM"
+							></figure>
+							amaury@devsincrypto.com
+						</div>
+						,
+						<br />I reply pretty fast.
+					</p>
+				</section>
+			</div>
+		</>
+	);
 }

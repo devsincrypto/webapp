@@ -63,7 +63,6 @@ export default function Eco({
 			<div className="thin-container p-2">
 				<UserList eco={eco} users={users} />
 			</div>
-			<Footer />
 		</>
 	);
 }

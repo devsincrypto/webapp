@@ -35,7 +35,6 @@ export default function EcoIndex({ ecos }: EcoIndexProps): React.ReactElement {
 			<div className="thin-container p-2">
 				<EcosystemList ecos={ecos} />
 			</div>
-			<Footer />
 		</>
 	);
 }

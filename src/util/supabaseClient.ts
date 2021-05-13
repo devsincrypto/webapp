@@ -60,20 +60,27 @@ export const supabase = createClient(
 	process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY as string
 );
 
-export async function getActiveProductsWithPrices() {
+export async function getActiveProductsWithPrices(): Promise<
+	SupabaseProduct[]
+> {
 	const { data, error } = await supabase
-		.from('products')
+		.from<SupabaseProduct>('products')
 		.select('*, prices(*)')
 		.eq('active', true)
+		// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+		// @ts-ignore Supabase typings error?
 		.eq('prices.active', true)
+		// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+		// @ts-ignore Supabase typings error?
 		.order('metadata->index')
+		// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+		// @ts-ignore Supabase typings error?
 		.order('unit_amount', { foreignTable: 'prices' });
 
 	if (error) {
 		throw error;
 	}
 
-	// eslint-disable-next-line
 	return data || [];
 }
 
