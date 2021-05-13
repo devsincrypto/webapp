@@ -13,6 +13,8 @@ export function Nav({ activeEcoSlug, ecoPath }: NavProps): React.ReactElement {
 				<span className="navbar-brand mr-2">
 					<Link href="/">Devs in Crypto</Link>
 				</span>
+			</section>
+			<section className="navbar-section">
 				{ecoPath && (
 					<ul className="breadcrumb">
 						<li className="breadcrumb-item">

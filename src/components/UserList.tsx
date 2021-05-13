@@ -1,19 +1,22 @@
 import React, { useState } from 'react';
 
-import { User } from '../db';
+import { Ecosystem, User } from '../db';
 import { kFormatter } from '../util/format';
 
 interface UserListProps {
+	eco: Ecosystem;
 	users: User[];
 }
 
-export function UserList({ users }: UserListProps): React.ReactElement {
+export function UserList({ eco, users }: UserListProps): React.ReactElement {
 	const [limit, setLimit] = useState(20);
 
 	return (
-		<>
-			<h2>Top {users.length} users:</h2>
-			<table className="table">
+		<section className="section">
+			<h2>
+				Top {limit} {eco.title} users
+			</h2>
+			<table className="table table-striped">
 				<thead>
 					<tr>
 						<th>Rank</th>
@@ -27,10 +30,18 @@ export function UserList({ users }: UserListProps): React.ReactElement {
 						<tr key={user.githubLoginEncrypted}>
 							<td>#{i + 1}</td>
 							<td>
-								{user.githubLoginMasked}
-								{'*'.repeat(8)}
+								<div className="chip">
+									<figure
+										className="avatar avatar-sm"
+										data-initial={user.githubLoginMasked}
+									></figure>
+									{user.githubLoginMasked}
+									{'*'.repeat(8)}
+								</div>
 							</td>
-							<td>{kFormatter(user.score)}</td>
+							<td>
+								<code>{kFormatter(user.score)}</code>
+							</td>
 							<td>See Profile</td>
 						</tr>
 					))}
@@ -50,6 +61,6 @@ export function UserList({ users }: UserListProps): React.ReactElement {
 			>
 				Load all
 			</button>
-		</>
+		</section>
 	);
 }

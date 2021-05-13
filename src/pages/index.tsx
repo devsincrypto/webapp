@@ -28,13 +28,19 @@ export default function Index({ ecos }: IndexProps): React.ReactElement {
 			<Nav />
 			<div className="hero bg-gray">
 				<div className="hero-body">
-					<h1>All the crypto developers, ranked.</h1>
+					<h1>
+						All the developers working
+						<br />
+						in <strong>blockchain</strong> and{' '}
+						<strong>crypto</strong>.
+						<br />
+						Ranked.
+					</h1>
 					<p>This is a hero example</p>
 				</div>
 			</div>
 
 			<div className="thin-container p-2">
-				<h2>Top 5 Ecosystems</h2>
 				<EcosystemList ecos={ecos} />
 				<Link href="/ecosystem">See all Ecosystems</Link>
 			</div>

@@ -14,12 +14,12 @@ export const getServerSideProps: GetServerSideProps = async ({ params }) => {
 	}
 
 	const ecoSlug = params.eco as string;
-	const eco = (await import(
+	const eco = ((await import(
 		`../../db/json/ecosystems/bySlug/${ecoSlug}.json`
-	)) as Ecosystem;
-	const users = (await import(
+	)) as { default: Ecosystem }).default;
+	const users = ((await import(
 		`../../db/json/users/byEco/${ecoSlug}.json`
-	)) as User[];
+	)) as { default: User[] }).default;
 
 	return {
 		props: { eco, users },
@@ -55,7 +55,7 @@ export default function Eco({
 			</div>
 
 			<div className="thin-container p-2">
-				<UserList users={users} />
+				<UserList eco={eco} users={users} />
 			</div>
 			<Footer />
 		</>

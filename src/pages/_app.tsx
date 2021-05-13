@@ -11,7 +11,9 @@ export default function MyApp({
 }: AppProps): React.ReactElement {
 	return (
 		<UserContextProvider>
-			<Component {...pageProps} />
+			<div className="p-2">
+				<Component {...pageProps} />
+			</div>
 		</UserContextProvider>
 	);
 }
