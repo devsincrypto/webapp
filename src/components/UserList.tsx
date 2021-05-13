@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import React, { useState } from 'react';
 
 import { Ecosystem, User } from '../db';
@@ -20,7 +21,13 @@ export function UserList({ eco, users }: UserListProps): React.ReactElement {
 				<thead>
 					<tr>
 						<th>Rank</th>
-						<th>Github Login</th>
+						<th>
+							Github Login (
+							<Link href="/signin">
+								<button className="btn btn-sm">Sign in</button>
+							</Link>
+							to reveal)
+						</th>
 						<th>Score</th>
 						<th></th>
 					</tr>
