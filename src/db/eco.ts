@@ -28,7 +28,7 @@ const popularityQuery = ({
 WITH popularity AS (
 	SELECT
 		COUNT(DISTINCT(r.name)) AS repoCount,
-		COUNT(DISTINCT(c.github_login)) AS userCount,
+		COUNT(DISTINCT(c.github_login_encrypted)) AS userCount,
 		SUM(r.forks + r.stars + r.watchers) AS popularity,
 		CASE instr(e.path, '/') WHEN 0 THEN
 			e.path
@@ -72,7 +72,7 @@ const popularityForSlugQuery = `
 WITH popularity AS (
 	SELECT
 		COUNT(DISTINCT(r.name)) AS repoCount,
-		COUNT(DISTINCT(c.github_login)) AS userCount,
+		COUNT(DISTINCT(c.github_login_encrypted)) AS userCount,
 		SUM(r.forks + r.stars + r.watchers) AS popularity
 	FROM ecosystems e
 	INNER JOIN ecosystem_repos er ON er.ecosystem_slug = e.slug

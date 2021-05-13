@@ -1,43 +1,73 @@
-import React from 'react';
+import Link from 'next/link';
+import React, { useState } from 'react';
 
-import { kFormatter } from '../common';
-import { User } from '../db';
+import { Ecosystem, User } from '../db';
+import { kFormatter } from '../util/format';
 
 interface UserListProps {
+	eco: Ecosystem;
 	users: User[];
 }
 
-export function UserList({ users }: UserListProps): React.ReactElement {
+export function UserList({ eco, users }: UserListProps): React.ReactElement {
+	const [limit, setLimit] = useState(20);
+
 	return (
-		<>
-			<h2>Top {users.length} users:</h2>
-			{users.map((user, index) => (
-				<div className="tile" key={user.githubLogin}>
-					<div className="tile-icon">
-						<div className="example-tile-icon">
-							<i className="icon icon-file centered"></i>
-						</div>
-					</div>
-					<div className="tile-content">
-						<p className="tile-title">
-							<h4>
-								#{index + 1} {user.githubLogin}{' '}
-							</h4>
-							<span className="chip">
-								Score: {kFormatter(user.score)}
-							</span>
-						</p>
-						<p className="tile-subtitle">
-							Earths Mightiest Heroes joined forces to take on
-							threats that were too big for any one hero to
-							tackle...
-						</p>
-					</div>
-					<div className="tile-action">
-						<button className="btn btn-primary">Join</button>
-					</div>
-				</div>
-			))}
-		</>
+		<section className="section">
+			<h2>
+				Top {limit} {eco.title} users
+			</h2>
+			<table className="table table-striped">
+				<thead>
+					<tr>
+						<th>Rank</th>
+						<th>
+							Github Login (
+							<Link href="/signin">
+								<button className="btn btn-sm">Sign in</button>
+							</Link>
+							to reveal)
+						</th>
+						<th>Score</th>
+						<th></th>
+					</tr>
+				</thead>
+				<tbody>
+					{users.slice(0, limit).map((user, i) => (
+						<tr key={user.githubLoginEncrypted}>
+							<td>#{i + 1}</td>
+							<td>
+								<div className="chip">
+									<figure
+										className="avatar avatar-sm"
+										data-initial={user.githubLoginMasked}
+									></figure>
+									{user.githubLoginMasked}
+									{'*'.repeat(8)}
+								</div>
+							</td>
+							<td>
+								<code>{kFormatter(user.score)}</code>
+							</td>
+							<td>See Profile</td>
+						</tr>
+					))}
+				</tbody>
+			</table>
+			<button
+				className="btn btn-sm"
+				disabled={limit >= users.length}
+				onClick={() => setLimit(limit + 20)}
+			>
+				Load more
+			</button>
+			<button
+				className="btn btn-sm"
+				disabled={limit >= users.length}
+				onClick={() => setLimit(users.length)}
+			>
+				Load all
+			</button>
+		</section>
 	);
 }

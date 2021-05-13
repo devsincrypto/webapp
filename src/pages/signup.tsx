@@ -3,8 +3,9 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useEffect, useState } from 'react';
 
-import { updateUserName, useUser } from '../common';
 import { Head, Nav } from '../components';
+import { updateUserName } from '../util/supabaseClient';
+import { useUser } from '../util/useUser';
 
 export default function SignUp(): React.ReactElement {
 	const [user, setUser] = useState<User | null>(null);
@@ -50,7 +51,7 @@ export default function SignUp(): React.ReactElement {
 		<>
 			<Head />
 			<Nav />
-			<div className="thin-container">
+			<div className="thin-container p-2">
 				<form onSubmit={handleSignup}>
 					{message.content && <div>{message.content}</div>}
 					<input

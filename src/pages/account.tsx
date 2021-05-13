@@ -2,7 +2,8 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useEffect, useState } from 'react';
 
-import { postData, useUser } from '../common';
+import { postData } from '../util/helpers';
+import { useUser } from '../util/useUser';
 
 function Card({ title, description, footer, children }: any) {
 	return (

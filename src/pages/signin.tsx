@@ -2,8 +2,8 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useEffect, useState } from 'react';
 
-import { useUser } from '../common';
 import { Head, Nav } from '../components';
+import { useUser } from '../util/useUser';
 
 export default function Signin(): React.ReactElement {
 	const [email, setEmail] = useState('');
