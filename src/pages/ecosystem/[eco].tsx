@@ -1,14 +1,20 @@
-import { GetServerSideProps } from 'next';
+import { GetStaticPaths, GetStaticProps } from 'next';
 import React from 'react';
 
 import { Footer, Head, Nav, UserList } from '../../components';
 import { Ecosystem, User } from '../../db';
+import ecoSlugs from '../../db/json/ecosystems/slugs.json';
 import { kFormatter } from '../../util/format';
 
-// TODO We should replace this with static generation, but it was too slow on
-// Vercel (>45min).
 // eslint-disable-next-line @typescript-eslint/require-await
-export const getServerSideProps: GetServerSideProps = async ({ params }) => {
+export const getStaticPaths: GetStaticPaths = async () => {
+	return {
+		paths: ecoSlugs.map((eco) => ({ params: { eco } })),
+		fallback: false,
+	};
+};
+
+export const getStaticProps: GetStaticProps = async ({ params }) => {
 	if (!params?.eco) {
 		throw new Error('`params.eco` should not be empty');
 	}
