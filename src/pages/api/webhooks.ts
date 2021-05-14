@@ -47,7 +47,7 @@ const webhookHandler = async (
 		try {
 			event = stripe.webhooks.constructEvent(buf, sig, webhookSecret);
 		} catch (err) {
-			console.log(`❌ Error message: ${(err as Error).message}`);
+			console.error(`❌ Error message: ${(err as Error).message}`);
 			return res
 				.status(400)
 				.send(`Webhook Error: ${(err as Error).message}`);
@@ -114,7 +114,7 @@ const webhookHandler = async (
 						throw new Error('Unhandled relevant event!');
 				}
 			} catch (error) {
-				console.log(error);
+				console.error(error);
 				return res.json({
 					error: 'Webhook handler failed. View logs.',
 				});

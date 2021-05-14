@@ -23,7 +23,6 @@ interface EcoIndexProps {
 export default function EcoIndex({ ecos }: EcoIndexProps): React.ReactElement {
 	return (
 		<>
-			<Head />
 			<Nav />
 			<div className="hero bg-gray">
 				<div className="hero-body">

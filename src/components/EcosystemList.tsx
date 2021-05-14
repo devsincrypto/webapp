@@ -31,8 +31,12 @@ export function EcosystemList({
 						<tr key={eco.slug}>
 							<td>#{i + 1}</td>
 							<td>{eco.title}</td>
-							<td>{kFormatter(eco.popularity)}</td>
-							<td>{kFormatter(eco.userCount)}</td>
+							<td>
+								<code>{kFormatter(eco.popularity)}</code>
+							</td>
+							<td>
+								<code>{kFormatter(eco.userCount)}</code>
+							</td>
 							<td>
 								<Link href={`/ecosystem/${eco.slug}`}>
 									<button className="btn btn-primary">

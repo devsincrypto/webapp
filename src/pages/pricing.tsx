@@ -1,35 +1,48 @@
 import { GetStaticProps } from 'next';
 import React from 'react';
 
-import { Head, Nav, Pricing } from '../components';
+import { Head, Nav, PricingCard } from '../components';
 import {
 	getActiveProductsWithPrices,
-	SupabaseProduct,
+	SupabaseProductWithPrice,
 } from '../util/supabaseClient';
 
 export const getStaticProps: GetStaticProps = async () => {
 	const products = await getActiveProductsWithPrices();
 
+	// We just have one product for now.
+	if (products.length !== 1) {
+		throw new Error(`Expected 1 product, found ${products.length}.`);
+	}
+
 	return {
 		props: {
-			products,
+			product: products[0],
 		},
 	};
 };
 
 interface PricingProps {
-	products: SupabaseProduct[];
+	product: SupabaseProductWithPrice;
 }
 
 export default function PricingPage({
-	products,
+	product,
 }: PricingProps): React.ReactElement {
 	return (
 		<>
-			<Head />
 			<Nav />
 			<div className="thin-container">
-				<Pricing products={products} />
+				<div className="section">
+					<h1 className="text-center">Pricing Plan</h1>
+					<p className="text-center">
+						One unique plan, same for everyone. No yearly discount,
+						no pay-as-you-go.
+						<br />
+						Just <mark>one simple plan</mark>.
+					</p>
+					<PricingCard product={product} />
+				</div>
 				<section className="section">
 					<h2 className="text-center">Still have some questions?</h2>
 					<p className="text-center">

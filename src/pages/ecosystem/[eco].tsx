@@ -1,7 +1,7 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
 import React from 'react';
 
-import { Footer, Head, Nav, UserList } from '../../components';
+import { Head, Nav, UserList } from '../../components';
 import { Ecosystem, User } from '../../db';
 import ecoSlugs from '../../db/json/ecosystems/slugs.json';
 import { kFormatter } from '../../util/format';
@@ -47,7 +47,6 @@ export default function Eco({
 }: EcosystemProps): React.ReactElement {
 	return (
 		<>
-			<Head />
 			<Nav activeEcoSlug={eco.slug} ecoPath={eco.path} />
 			<div className="hero bg-gray">
 				<div className="hero-body">

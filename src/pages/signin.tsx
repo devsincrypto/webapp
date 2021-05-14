@@ -2,13 +2,13 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useEffect, useState } from 'react';
 
-import { Head, Nav } from '../components';
+import { Nav } from '../components';
 import { useUser } from '../util/useUser';
 
 export default function Signin(): React.ReactElement {
 	const [email, setEmail] = useState('');
 	const [password, setPassword] = useState('');
-	const [showPasswordInput, setShowPasswordInput] = useState(false);
+	const [showPasswordInput, setShowPasswordInput] = useState(true);
 	const [loading, setLoading] = useState(false);
 	const [message, setMessage] = useState<{ type?: string; content?: string }>(
 		{}
@@ -41,84 +41,94 @@ export default function Signin(): React.ReactElement {
 		}
 	}, [router, user]);
 
-	if (!user)
-		return (
-			<>
-				<Head />
-				<Nav />
+	return (
+		<>
+			<Nav />
 
-				{message.content && (
-					<div
-						className={`${
-							message.type === 'error'
-								? 'text-pink'
-								: 'text-green'
-						} border ${
-							message.type === 'error'
-								? 'border-pink'
-								: 'border-green'
-						} p-3`}
-					>
-						{message.content}
-					</div>
-				)}
-
-				{showPasswordInput ? (
-					<form onSubmit={handleSignin}>
-						<input
-							type="email"
-							placeholder="Email"
-							value={email}
-							onChange={(e) => setEmail(e.currentTarget.value)}
-							required
-						/>
-						<input
-							type="password"
-							placeholder="Password"
-							value={password}
-							onChange={(e) => setPassword(e.currentTarget.value)}
-							required
-						/>
-						<button
-							type="submit"
-							disabled={!password.length || !email.length}
+			{user ? (
+				<p>Redirecting...</p>
+			) : (
+				<>
+					{message.content && (
+						<div
+							className={`${
+								message.type === 'error'
+									? 'text-pink'
+									: 'text-green'
+							} border ${
+								message.type === 'error'
+									? 'border-pink'
+									: 'border-green'
+							} p-3`}
 						>
-							Sign in
-						</button>
-					</form>
-				) : (
-					<form onSubmit={handleSignin}>
-						<input
-							type="email"
-							placeholder="Email"
-							value={email}
-							onChange={(e) => setEmail(e.currentTarget.value)}
-							required
-						/>
-						<button type="submit" disabled={!email.length}>
-							Send magic link
-						</button>
-					</form>
-				)}
+							{message.content}
+						</div>
+					)}
 
-				<button
-					onClick={() => {
-						if (showPasswordInput) setPassword('');
-						setShowPasswordInput(!showPasswordInput);
-						setMessage({});
-					}}
-				>
-					{`Or sign in with ${
-						showPasswordInput ? 'magic link' : 'password'
-					}.`}
-				</button>
+					{showPasswordInput ? (
+						<form onSubmit={handleSignin}>
+							<input
+								type="email"
+								placeholder="Email"
+								value={email}
+								onChange={(e) =>
+									setEmail(e.currentTarget.value)
+								}
+								required
+							/>
+							<input
+								type="password"
+								placeholder="Password"
+								value={password}
+								onChange={(e) =>
+									setPassword(e.currentTarget.value)
+								}
+								required
+							/>
+							<button
+								type="submit"
+								disabled={
+									loading || !password.length || !email.length
+								}
+							>
+								{loading ? 'Signing in...' : 'Sign in'}
+							</button>
+						</form>
+					) : (
+						<form onSubmit={handleSignin}>
+							<input
+								type="email"
+								placeholder="Email"
+								value={email}
+								onChange={(e) =>
+									setEmail(e.currentTarget.value)
+								}
+								required
+							/>
+							<button type="submit" disabled={!email.length}>
+								Send magic link
+							</button>
+						</form>
+					)}
 
-				<span className="pt-1 text-center text-sm">
-					Don&apos;t have an account?
-					<Link href="/signup">Sign up.</Link>
-				</span>
-			</>
-		);
+					<button
+						onClick={() => {
+							if (showPasswordInput) setPassword('');
+							setShowPasswordInput(!showPasswordInput);
+							setMessage({});
+						}}
+					>
+						{`Or sign in with ${
+							showPasswordInput ? 'magic link' : 'password'
+						}.`}
+					</button>
 
-	return <div className="m-6">Loading...</div>;
+					<p>
+						Don&apos;t have an account?
+						<Link href="/signup">Sign up.</Link>
+					</p>
+				</>
+			)}
+		</>
+	);
 }

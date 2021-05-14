@@ -1,3 +1,5 @@
+import axios from 'axios';
+
 export const getURL = (): string => {
 	const url =
 		process?.env?.URL && process.env.URL !== ''
@@ -18,16 +20,15 @@ export const postData = async <T = any>({
 	token?: string;
 	data?: any;
 }): Promise<T> => {
-	const res = await fetch(url, {
+	const { data: res } = await axios<T>({
 		method: 'POST',
-		// eslint-disable-next-line @typescript-eslint/ban-ts-comment
-		// @ts-ignore
-		headers: new Headers({ 'Content-Type': 'application/json', token }),
-		credentials: 'same-origin',
-		body: JSON.stringify(data),
+		headers: { 'Content-Type': 'application/json', token },
+		data,
+		url,
+		withCredentials: true,
 	});
 
-	return res.json() as Promise<T>;
+	return res;
 };
 
 export const toDateTime = (secs: number): Date => {

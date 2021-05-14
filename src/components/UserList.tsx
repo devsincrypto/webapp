@@ -24,9 +24,9 @@ export function UserList({ eco, users }: UserListProps): React.ReactElement {
 						<th>
 							Github Login (
 							<Link href="/signin">
-								<button className="btn btn-sm">Sign in</button>
+								<button className="btn btn-sm">Sign up</button>
 							</Link>
-							to reveal)
+							to reveal full profile)
 						</th>
 						<th>Score</th>
 						<th></th>

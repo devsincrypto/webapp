@@ -26,6 +26,10 @@ export interface SupabaseProduct {
 	prices?: SupabasePrice[]; // Populated on join.
 }
 
+export interface SupabaseProductWithPrice extends SupabaseProduct {
+	prices: SupabasePrice[];
+}
+
 export interface SupabaseSubscription {
 	id: string;
 	cancel_at: Date | null;
@@ -61,10 +65,10 @@ export const supabase = createClient(
 );
 
 export async function getActiveProductsWithPrices(): Promise<
-	SupabaseProduct[]
+	SupabaseProductWithPrice[]
 > {
 	const { data, error } = await supabase
-		.from<SupabaseProduct>('products')
+		.from<SupabaseProductWithPrice>('products')
 		.select('*, prices(*)')
 		.eq('active', true)
 		// eslint-disable-next-line @typescript-eslint/ban-ts-comment

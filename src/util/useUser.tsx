@@ -25,6 +25,7 @@ interface UserContext {
 		url?: string | null;
 		error: Error | null;
 	}>;
+	signOut: () => Promise<void>;
 	signUp: (
 		options: UserCredentials
 	) => Promise<{
@@ -99,10 +100,11 @@ export const UserContextProvider: FunctionComponent = (
 		subscription,
 		signIn: (options: UserCredentials) => supabase.auth.signIn(options),
 		signUp: (options: UserCredentials) => supabase.auth.signUp(options),
-		signOut: () => {
+		signOut: async () => {
 			setUserDetails(null);
 			setSubscription(null);
-			return supabase.auth.signOut();
+			const { error } = await supabase.auth.signOut();
+			if (error) throw error;
 		},
 	};
 	return <UserContext.Provider value={value} {...props} />;

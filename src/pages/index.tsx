@@ -24,7 +24,6 @@ interface IndexProps {
 export default function Index({ ecos }: IndexProps): React.ReactElement {
 	return (
 		<>
-			<Head />
 			<Nav />
 			<div className="hero bg-gray">
 				<div className="hero-body">
