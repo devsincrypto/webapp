@@ -68,7 +68,7 @@ export default function Signin(): React.ReactElement {
 						)}
 
 						{showPasswordInput ? (
-							<form>
+							<form onSubmit={handleSignin}>
 								<div className="form-group">
 									<input
 										type="email"

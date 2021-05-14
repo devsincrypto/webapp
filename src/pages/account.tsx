@@ -1,9 +1,8 @@
 import { GetStaticProps } from 'next';
-import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useEffect, useState } from 'react';
 
-import { Head, Nav } from '../components';
+import { Nav } from '../components';
 import { PricingCard } from '../components/PricingCard';
 import { postData } from '../util/helpers';
 import {
@@ -34,7 +33,7 @@ interface AccountProps {
 export default function Account({ product }: AccountProps): React.ReactElement {
 	const [loading, setLoading] = useState(false);
 	const router = useRouter();
-	const { userLoaded, user, session, userDetails, subscription } = useUser();
+	const { userLoaded, user, session, subscription } = useUser();
 
 	useEffect(() => {
 		if (!user) router.replace('/signin').catch(console.error);
@@ -87,8 +86,13 @@ export default function Account({ product }: AccountProps): React.ReactElement {
 							{subscription && (
 								<>
 									<p>Manage your subscription on Stripe.</p>
-									<button onClick={redirectToCustomerPortal}>
-										Open customer portal
+									<button
+										disabled={loading}
+										onClick={redirectToCustomerPortal}
+									>
+										{loading
+											? 'Redirecting to Stripe...'
+											: 'Open customer portal'}
 									</button>
 								</>
 							)}
