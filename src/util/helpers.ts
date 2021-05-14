@@ -20,11 +20,8 @@ export const postData = async <T = any>({
 	token?: string;
 	data?: any;
 }): Promise<T> => {
-	const { data: res } = await axios<T>({
-		method: 'POST',
+	const { data: res } = await axios.post<T>(url, data, {
 		headers: { 'Content-Type': 'application/json', token },
-		data,
-		url,
 		withCredentials: true,
 	});
 

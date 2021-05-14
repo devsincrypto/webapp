@@ -1,9 +1,13 @@
-import React from 'react';
+import React, { ReactElement } from 'react';
 
 import { Footer } from './Footer';
 import { Head } from './Head';
 
-export const Layout: React.FunctionComponent = ({ children }) => {
+export interface LayoutProps {
+	children: React.ReactChild;
+}
+
+export function Layout({ children }: LayoutProps): ReactElement {
 	return (
 		<>
 			<Head />
@@ -13,4 +17,4 @@ export const Layout: React.FunctionComponent = ({ children }) => {
 			</div>
 		</>
 	);
-};
+}
