@@ -14,7 +14,7 @@ export function Nav({ activeEcoSlug, ecoPath }: NavProps): React.ReactElement {
 	const router = useRouter();
 
 	return (
-		<header className="navbar p-2">
+		<header className="navbar">
 			<section className="navbar-section">
 				<span className="navbar-brand mr-2">
 					<Link href="/">Devs in Crypto</Link>

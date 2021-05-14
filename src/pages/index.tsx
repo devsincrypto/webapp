@@ -39,7 +39,7 @@ export default function Index({ ecos }: IndexProps): React.ReactElement {
 				</div>
 			</div>
 
-			<div className="thin-container p-2">
+			<div className="thin-container">
 				<EcosystemList ecos={ecos} />
 				<Link href="/ecosystem">See all Ecosystems</Link>
 			</div>

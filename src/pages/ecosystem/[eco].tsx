@@ -59,7 +59,7 @@ export default function Eco({
 				</div>
 			</div>
 
-			<div className="thin-container p-2">
+			<div className="thin-container">
 				<UserList eco={eco} users={users} />
 			</div>
 		</>

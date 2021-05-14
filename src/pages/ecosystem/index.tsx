@@ -1,7 +1,7 @@
 import { GetStaticProps } from 'next';
 import React from 'react';
 
-import { EcosystemList, Footer, Head, Nav } from '../../components';
+import { EcosystemList, Nav } from '../../components';
 import { Ecosystem } from '../../db';
 import all from '../../db/json/ecosystems/all.json';
 
@@ -31,7 +31,7 @@ export default function EcoIndex({ ecos }: EcoIndexProps): React.ReactElement {
 				</div>
 			</div>
 
-			<div className="thin-container p-2">
+			<div className="thin-container">
 				<EcosystemList ecos={ecos} />
 			</div>
 		</>

@@ -48,86 +48,105 @@ export default function Signin(): React.ReactElement {
 			{user ? (
 				<p>Redirecting...</p>
 			) : (
-				<>
-					{message.content && (
-						<div
-							className={`${
-								message.type === 'error'
-									? 'text-pink'
-									: 'text-green'
-							} border ${
-								message.type === 'error'
-									? 'border-pink'
-									: 'border-green'
-							} p-3`}
-						>
-							{message.content}
-						</div>
-					)}
-
-					{showPasswordInput ? (
-						<form onSubmit={handleSignin}>
-							<input
-								type="email"
-								placeholder="Email"
-								value={email}
-								onChange={(e) =>
-									setEmail(e.currentTarget.value)
-								}
-								required
-							/>
-							<input
-								type="password"
-								placeholder="Password"
-								value={password}
-								onChange={(e) =>
-									setPassword(e.currentTarget.value)
-								}
-								required
-							/>
-							<button
-								type="submit"
-								disabled={
-									loading || !password.length || !email.length
-								}
+				<section className="section thin-container columns">
+					<div className="column col-8 col-mx-auto">
+						<h2>Sign in</h2>
+						{message.content && (
+							<div
+								className={`${
+									message.type === 'error'
+										? 'text-pink'
+										: 'text-green'
+								} border ${
+									message.type === 'error'
+										? 'border-pink'
+										: 'border-green'
+								} p-3`}
 							>
-								{loading ? 'Signing in...' : 'Sign in'}
-							</button>
-						</form>
-					) : (
-						<form onSubmit={handleSignin}>
-							<input
-								type="email"
-								placeholder="Email"
-								value={email}
-								onChange={(e) =>
-									setEmail(e.currentTarget.value)
-								}
-								required
-							/>
-							<button type="submit" disabled={!email.length}>
-								Send magic link
-							</button>
-						</form>
-					)}
+								{message.content}
+							</div>
+						)}
 
-					<button
-						onClick={() => {
-							if (showPasswordInput) setPassword('');
-							setShowPasswordInput(!showPasswordInput);
-							setMessage({});
-						}}
-					>
-						{`Or sign in with ${
-							showPasswordInput ? 'magic link' : 'password'
-						}.`}
-					</button>
+						{showPasswordInput ? (
+							<form>
+								<div className="form-group">
+									<input
+										type="email"
+										placeholder="Email"
+										value={email}
+										onChange={(e) =>
+											setEmail(e.currentTarget.value)
+										}
+										required
+									/>
+								</div>
 
-					<p>
-						Don&apos;t have an account?
-						<Link href="/signup">Sign up.</Link>
-					</p>
-				</>
+								<div className="form-group">
+									<input
+										type="password"
+										placeholder="Password"
+										value={password}
+										onChange={(e) =>
+											setPassword(e.currentTarget.value)
+										}
+										required
+									/>
+								</div>
+
+								<button
+									className="btn btn-primary"
+									type="submit"
+									disabled={
+										loading ||
+										!password.length ||
+										!email.length
+									}
+								>
+									{loading ? 'Signing in...' : 'Sign in'}
+								</button>
+							</form>
+						) : (
+							<form onSubmit={handleSignin}>
+								<div className="form-group">
+									<input
+										type="email"
+										placeholder="Email"
+										value={email}
+										onChange={(e) =>
+											setEmail(e.currentTarget.value)
+										}
+										required
+									/>
+								</div>
+								<button type="submit" disabled={!email.length}>
+									Send magic link
+								</button>
+							</form>
+						)}
+
+						<button
+							className="btn btn-link"
+							onClick={() => {
+								if (showPasswordInput) setPassword('');
+								setShowPasswordInput(!showPasswordInput);
+								setMessage({});
+							}}
+						>
+							{`Or sign in with ${
+								showPasswordInput ? 'magic link' : 'password'
+							}.`}
+						</button>
+
+						<p>
+							Don&apos;t have an account?
+							<Link href="/signup">
+								<button className="btn btn-link">
+									Sign up.
+								</button>
+							</Link>
+						</p>
+					</div>
+				</section>
 			)}
 		</>
 	);

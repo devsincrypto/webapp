@@ -68,11 +68,11 @@ export default function Account({ product }: AccountProps): React.ReactElement {
 				{userLoaded ? (
 					<>
 						<section className="section">
-							<h3>
+							<h2>
 								{subscriptionName
 									? `You are currently on the ${subscriptionName} plan.`
 									: "You currently don't have any subscriptions."}
-							</h3>
+							</h2>
 
 							<div>
 								{subscriptionPrice ? (
@@ -95,7 +95,7 @@ export default function Account({ product }: AccountProps): React.ReactElement {
 						</section>
 
 						<section className="section">
-							<h3>Your Details</h3>
+							<h2>Your Details</h2>
 							<div className="columns">
 								<form className="column col-8 col-mx-auto">
 									<div className="form-group">
