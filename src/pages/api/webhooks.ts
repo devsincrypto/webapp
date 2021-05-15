@@ -1,3 +1,4 @@
+import { withSentry } from '@sentry/nextjs';
 import { NextApiRequest, NextApiResponse } from 'next';
 import Stripe from 'stripe';
 
@@ -128,4 +129,4 @@ const webhookHandler = async (
 	}
 };
 
-export default webhookHandler;
+export default withSentry(webhookHandler);

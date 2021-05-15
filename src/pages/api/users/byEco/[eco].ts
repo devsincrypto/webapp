@@ -1,3 +1,4 @@
+import { withSentry } from '@sentry/nextjs';
 import { NextApiRequest, NextApiResponse } from 'next';
 
 import { User } from '../../../../db';
@@ -7,7 +8,7 @@ import {
 	getUser,
 } from '../../../../util/supabaseServer';
 
-export default async function handler(
+async function usersbyEco(
 	req: NextApiRequest,
 	res: NextApiResponse
 ): Promise<void> {
@@ -61,3 +62,5 @@ export default async function handler(
 
 	return res.json(users);
 }
+
+export default withSentry(usersbyEco);

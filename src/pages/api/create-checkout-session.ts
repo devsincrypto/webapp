@@ -1,3 +1,4 @@
+import { withSentry } from '@sentry/nextjs';
 import { NextApiRequest, NextApiResponse } from 'next';
 
 import { getURL } from '../../util/helpers';
@@ -63,4 +64,4 @@ const createCheckoutSession = async (
 	}
 };
 
-export default createCheckoutSession;
+export default withSentry(createCheckoutSession);

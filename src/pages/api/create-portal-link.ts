@@ -1,3 +1,4 @@
+import { withSentry } from '@sentry/nextjs';
 import { NextApiRequest, NextApiResponse } from 'next';
 
 import { getURL } from '../../util/helpers';
@@ -42,4 +43,4 @@ const createPortalLink = async (
 	}
 };
 
-export default createPortalLink;
+export default withSentry(createPortalLink);
