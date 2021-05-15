@@ -36,8 +36,17 @@ export function EcosystemList({
 					<tr>
 						<th>Rank</th>
 						<th>Ecosystem</th>
-						<th>Popularity</th>
-						<th>Users</th>
+						<th>
+							Popularity{' '}
+							<Link href="faq#how-are-ecosystems-ranked">
+								<figure
+									className="avatar avatar-sm c-hand tooltip tooltip-right"
+									data-initial="?"
+									data-tooltip="How is popularity calculated?"
+								></figure>
+							</Link>
+						</th>
+						<th>Developers</th>
 						<th></th>
 					</tr>
 				</thead>

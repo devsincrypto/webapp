@@ -70,11 +70,11 @@ export function PricingCard({ product }: PricingCardProps): React.ReactElement {
 			</div>
 			<div className="card-body">
 				<ul>
-					<li>Reveal Github logins for all users.</li>
+					<li>Reveal Github logins for all developers.</li>
 					<li>Download tables as CSV.</li>
 					<li>
 						<span className="chip">Coming Soon</span>
-						Email and LinkedIn profile for users.
+						Email and LinkedIn profile for developers.
 					</li>
 					<li>Cancel anytime.</li>
 				</ul>

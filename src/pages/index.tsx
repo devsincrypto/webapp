@@ -28,14 +28,20 @@ export default function Index({ ecos }: IndexProps): React.ReactElement {
 			<div className="hero bg-gray">
 				<div className="hero-body">
 					<h1>
-						All the developers working
+						Access all the developers working
 						<br />
 						in <strong>blockchain</strong> and{' '}
 						<strong>crypto</strong>.
 						<br />
 						Ranked.
 					</h1>
-					<p>This is a hero example</p>
+					<p>
+						Devs in Crypto sorts developers by blockchain
+						ecosystems,
+						<br />
+						and ranks them within each ecosystem by their Github
+						activity.
+					</p>
 				</div>
 			</div>
 

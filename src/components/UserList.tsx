@@ -15,7 +15,7 @@ export function UserList({ eco, users }: UserListProps): React.ReactElement {
 	return (
 		<section className="section">
 			<h2>
-				Top {limit} {eco.title} users
+				Top {limit} {eco.title} developers
 			</h2>
 			<table className="table table-striped">
 				<thead>
@@ -28,7 +28,16 @@ export function UserList({ eco, users }: UserListProps): React.ReactElement {
 							</Link>
 							to reveal full profile)
 						</th>
-						<th>Score</th>
+						<th>
+							Score{' '}
+							<Link href="/faq#how-is-developers-score-calculated">
+								<figure
+									className="avatar avatar-sm c-hand tooltip tooltip-right"
+									data-initial="?"
+									data-tooltip="How is a user's score calculated?"
+								></figure>
+							</Link>
+						</th>
 						<th></th>
 					</tr>
 				</thead>
@@ -37,20 +46,27 @@ export function UserList({ eco, users }: UserListProps): React.ReactElement {
 						<tr key={user.githubLoginEncrypted}>
 							<td>#{i + 1}</td>
 							<td>
-								<div className="chip">
-									<figure
-										className="avatar avatar-sm"
-										data-initial={user.githubLoginMasked}
-									></figure>
-									{user.githubLoginMasked}
-									{'*'.repeat(8)}
-									🔒
+								<div
+									className="d-inline tooltip tooltip-right"
+									data-tooltip="Sign up to reveal full profile"
+								>
+									<div className="chip">
+										<figure
+											className="avatar avatar-sm"
+											data-initial={
+												user.githubLoginMasked
+											}
+										></figure>
+										{user.githubLoginMasked}
+										{'*'.repeat(8)}
+										🔒
+									</div>
 								</div>
 							</td>
 							<td>
 								<code>{kFormatter(user.score)}</code>
 							</td>
-							<td>See Profile</td>
+							<td></td>
 						</tr>
 					))}
 				</tbody>

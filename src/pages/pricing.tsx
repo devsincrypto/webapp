@@ -44,6 +44,24 @@ export default function PricingPage({
 					<PricingCard product={product} />
 				</div>
 				<section className="section">
+					<h2 className="text-center">FAQ</h2>
+					<h4>How can I pay?</h4>
+					<p>
+						We partnered with{' '}
+						<a
+							href="https://stripe.com"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							Stripe
+						</a>{' '}
+						for simplified billing. You can pay by credit or debit
+						card.
+					</p>
+					<h4>In what currencies can I pay?</h4>
+					<p>You can pay in USD or in EUR.</p>
+				</section>
+				<section className="section">
 					<h2 className="text-center">Still have some questions?</h2>
 					<p className="text-center">
 						Send an email to{' '}

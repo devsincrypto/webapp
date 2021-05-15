@@ -52,7 +52,7 @@ export default function Eco({
 				<div className="hero-body">
 					<h1>{eco.title}</h1>
 					<p>
-						We found {kFormatter(eco.userCount)} users scanning
+						We found {kFormatter(eco.userCount)} developers scanning
 						through {kFormatter(eco.repoCount)} repositories in the{' '}
 						{eco.title} ecosystem.
 					</p>
