@@ -40,8 +40,9 @@ export default function Index({ ecos }: IndexProps): React.ReactElement {
 			</div>
 
 			<div className="thin-container">
-				<EcosystemList ecos={ecos} />
-				<Link href="/ecosystem">See all Ecosystems</Link>
+				<section className="section">
+					<EcosystemList ecos={ecos} />
+				</section>
 			</div>
 		</>
 	);

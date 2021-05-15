@@ -12,10 +12,25 @@ export function EcosystemList({
 	ecos,
 }: EcosystemListProps): React.ReactElement {
 	const [limit, setLimit] = useState(5);
+	const [search, setSearch] = useState('');
 
 	return (
 		<>
-			<h2>Top {limit} Ecosystems</h2>
+			<h2>
+				{search
+					? `Ecosystems matching "${search}"`
+					: `Top ${limit} Ecosystems`}
+			</h2>
+			<div className="has-icon-left float-right">
+				<input
+					className="form-input"
+					onChange={(e) => setSearch(e.currentTarget.value)}
+					placeholder="Search ecosystem"
+					value={search}
+				/>
+				<i className="form-icon icon icon-search"></i>
+			</div>
+
 			<table className="table">
 				<thead>
 					<tr>
@@ -27,25 +42,30 @@ export function EcosystemList({
 					</tr>
 				</thead>
 				<tbody>
-					{ecos.slice(0, limit).map((eco, i) => (
-						<tr key={eco.slug}>
-							<td>#{i + 1}</td>
-							<td>{eco.title}</td>
-							<td>
-								<code>{kFormatter(eco.popularity)}</code>
-							</td>
-							<td>
-								<code>{kFormatter(eco.userCount)}</code>
-							</td>
-							<td>
-								<Link href={`/ecosystem/${eco.slug}`}>
-									<button className="btn btn-primary">
-										See Ecosystem
-									</button>
-								</Link>
-							</td>
-						</tr>
-					))}
+					{ecos
+						.filter(({ title }) =>
+							title.toLowerCase().includes(search.toLowerCase())
+						)
+						.slice(0, limit)
+						.map((eco, i) => (
+							<tr key={eco.slug}>
+								<td>#{i + 1}</td>
+								<td>{eco.title}</td>
+								<td>
+									<code>{kFormatter(eco.popularity)}</code>
+								</td>
+								<td>
+									<code>{kFormatter(eco.userCount)}</code>
+								</td>
+								<td>
+									<Link href={`/ecosystem/${eco.slug}`}>
+										<button className="btn btn-primary">
+											See Ecosystem
+										</button>
+									</Link>
+								</td>
+							</tr>
+						))}
 				</tbody>
 			</table>
 			<button

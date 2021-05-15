@@ -44,6 +44,7 @@ export function UserList({ eco, users }: UserListProps): React.ReactElement {
 									></figure>
 									{user.githubLoginMasked}
 									{'*'.repeat(8)}
+									🔒
 								</div>
 							</td>
 							<td>
