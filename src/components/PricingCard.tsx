@@ -2,6 +2,7 @@ import { useRouter } from 'next/router';
 import React, { useState } from 'react';
 
 import { postData } from '../util/helpers';
+import { sentryException } from '../util/sentry';
 import { getStripe } from '../util/stripeClient';
 import type {
 	SupabasePrice,
@@ -44,7 +45,7 @@ export function PricingCard({ product }: PricingCardProps): React.ReactElement {
 			if (!stripe) {
 				throw new Error('Empty stripe object at checkout');
 			}
-			stripe.redirectToCheckout({ sessionId }).catch(console.error);
+			stripe.redirectToCheckout({ sessionId }).catch(sentryException);
 		} catch (error) {
 			alert(error);
 		} finally {

@@ -5,6 +5,7 @@ import React, { useEffect, useState } from 'react';
 import { Nav } from '../components';
 import { PricingCard } from '../components/PricingCard';
 import { postData } from '../util/helpers';
+import { sentryException } from '../util/sentry';
 import {
 	getActiveProductsWithPrices,
 	SupabaseProductWithPrice,
@@ -36,7 +37,7 @@ export default function Account({ product }: AccountProps): React.ReactElement {
 	const { userLoaded, user, session, subscription } = useUser();
 
 	useEffect(() => {
-		if (!user) router.replace('/signin').catch(console.error);
+		if (!user) router.replace('/signin').catch(sentryException);
 	}, [router, user]);
 
 	const redirectToCustomerPortal = async () => {

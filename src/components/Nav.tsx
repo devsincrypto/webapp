@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React from 'react';
 
+import { sentryException } from '../util/sentry';
 import { useUser } from '../util/useUser';
 
 interface NavProps {
@@ -74,7 +75,7 @@ export function Nav({ activeEcoSlug, ecoPath }: NavProps): React.ReactElement {
 									onClick={() =>
 										signOut()
 											.then(() => router.push('/'))
-											.catch(console.error)
+											.catch(sentryException)
 									}
 								>
 									Sign out

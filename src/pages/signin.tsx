@@ -3,6 +3,7 @@ import { useRouter } from 'next/router';
 import React, { useEffect, useState } from 'react';
 
 import { Nav } from '../components';
+import { sentryException } from '../util/sentry';
 import { useUser } from '../util/useUser';
 
 export default function Signin(): React.ReactElement {
@@ -37,7 +38,7 @@ export default function Signin(): React.ReactElement {
 
 	useEffect(() => {
 		if (user) {
-			router.replace('/account').catch(console.error);
+			router.replace('/account').catch(sentryException);
 		}
 	}, [router, user]);
 

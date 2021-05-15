@@ -2,6 +2,7 @@ import { withSentry } from '@sentry/nextjs';
 import { NextApiRequest, NextApiResponse } from 'next';
 import Stripe from 'stripe';
 
+import { sentryException } from '../../util/sentry';
 import { stripe } from '../../util/stripeServer';
 import {
 	manageSubscriptionStatusChange,
@@ -48,7 +49,7 @@ const webhookHandler = async (
 		try {
 			event = stripe.webhooks.constructEvent(buf, sig, webhookSecret);
 		} catch (err) {
-			console.error(`❌ Error message: ${(err as Error).message}`);
+			sentryException(err as Error);
 			return res
 				.status(400)
 				.send(`Webhook Error: ${(err as Error).message}`);
@@ -114,8 +115,8 @@ const webhookHandler = async (
 					default:
 						throw new Error('Unhandled relevant event!');
 				}
-			} catch (error) {
-				console.error(error);
+			} catch (err) {
+				sentryException(err as Error);
 				return res.json({
 					error: 'Webhook handler failed. View logs.',
 				});

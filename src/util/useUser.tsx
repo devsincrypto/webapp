@@ -12,6 +12,7 @@ import React, {
 	useState,
 } from 'react';
 
+import { sentryException } from './sentry';
 import { supabase, SupabaseSubscription, SupabaseUser } from './supabaseClient';
 
 interface UserContext {
@@ -88,7 +89,7 @@ export const UserContextProvider: FunctionComponent = (
 					setSubscription(sub.data);
 					setUserLoaded(true);
 				})
-				.catch(console.error);
+				.catch(sentryException);
 		}
 	}, [user]);
 
