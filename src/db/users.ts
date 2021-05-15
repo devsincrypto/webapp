@@ -1,6 +1,7 @@
 import { db } from './db';
 
 export interface User {
+	githubLogin?: string; // Only revealed for paying customers.
 	githubLoginEncrypted: string;
 	githubLoginHashed: string;
 	githubLoginMasked: string;

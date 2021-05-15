@@ -1,7 +1,7 @@
 import { GetStaticProps } from 'next';
 import React from 'react';
 
-import { Head, Nav, PricingCard } from '../components';
+import { Nav, PricingCard } from '../components';
 import {
 	getActiveProductsWithPrices,
 	SupabaseProductWithPrice,

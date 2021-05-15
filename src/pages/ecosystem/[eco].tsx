@@ -1,7 +1,7 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
 import React from 'react';
 
-import { Head, Nav, UserList } from '../../components';
+import { Nav, UserList } from '../../components';
 import { Ecosystem, User } from '../../db';
 import ecoSlugs from '../../db/json/ecosystems/slugs.json';
 import { kFormatter } from '../../util/format';
@@ -35,10 +35,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 interface EcosystemProps {
 	eco: Ecosystem;
 	users: User[];
-}
-
-function linkToGithub(repoName: string): string {
-	return `https://github.com/${repoName}`;
 }
 
 export default function Eco({

@@ -1,9 +1,8 @@
-/* eslint-disable */
-
 import { NextApiRequest, NextApiResponse } from 'next';
 
 import { getURL } from '../../util/helpers';
 import { stripe } from '../../util/stripeServer';
+import { SupabasePrice } from '../../util/supabaseClient';
 import { getUser } from '../../util/supabaseServer';
 import { createOrRetrieveCustomer } from '../../util/useDatabase';
 
@@ -13,7 +12,11 @@ const createCheckoutSession = async (
 ): Promise<void> => {
 	if (req.method === 'POST') {
 		const token = req.headers.token;
-		const { price, quantity = 1, metadata = {} } = req.body;
+		const { price, quantity = 1, metadata = {} } = req.body as {
+			price: SupabasePrice;
+			quantity: number;
+			metadata: Record<string, string>;
+		};
 
 		try {
 			if (typeof token !== 'string') {
@@ -56,7 +59,7 @@ const createCheckoutSession = async (
 		}
 	} else {
 		res.setHeader('Allow', 'POST');
-		res.status(405).end('Method Not Allowed');
+		res.status(405).json({ error: 'Method Not Allowed' });
 	}
 };
 

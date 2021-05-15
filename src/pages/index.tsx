@@ -1,8 +1,7 @@
 import { GetStaticProps } from 'next';
-import Link from 'next/link';
 import React from 'react';
 
-import { EcosystemList, Footer, Head, Nav } from '../components';
+import { EcosystemList, Nav } from '../components';
 import type { Ecosystem } from '../db';
 import all from '../db/json/ecosystems/all.json';
 

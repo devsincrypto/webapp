@@ -56,7 +56,7 @@ export interface SupabaseCustomer {
 
 export interface SupabaseUser {
 	full_name?: string;
-	uuid: string;
+	id: string;
 }
 
 export const supabase = createClient(
@@ -91,9 +91,9 @@ export async function getActiveProductsWithPrices(): Promise<
 export function updateUserName(
 	user: User,
 	name: string
-): PostgrestFilterBuilder<any> {
+): PostgrestFilterBuilder<SupabaseUser> {
 	return supabase
-		.from('users')
+		.from<SupabaseUser>('users')
 		.update({
 			full_name: name,
 		})

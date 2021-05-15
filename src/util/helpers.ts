@@ -11,14 +11,30 @@ export const getURL = (): string => {
 	return url.includes('http') ? url : `https://${url}`;
 };
 
-export const postData = async <T = any>({
+export const getData = async <T = unknown>({
+	url,
+	token,
+}: {
+	url: string;
+	token?: string;
+	data?: unknown;
+}): Promise<T> => {
+	const { data: res } = await axios.get<T>(url, {
+		headers: { 'Content-Type': 'application/json', token },
+		withCredentials: true,
+	});
+
+	return res;
+};
+
+export const postData = async <T = unknown>({
 	url,
 	token,
 	data,
 }: {
 	url: string;
 	token?: string;
-	data?: any;
+	data?: unknown;
 }): Promise<T> => {
 	const { data: res } = await axios.post<T>(url, data, {
 		headers: { 'Content-Type': 'application/json', token },
