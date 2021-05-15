@@ -1,38 +1,44 @@
 [
 	{
-		"id": 279884,
+		"id": 761970,
 		"githubLoginMasked": "md",
-		"githubLoginEncrypted": "WnEXc6jdl8/lPcSM5aAFBGxEXBsUlUXDCA==",
+		"githubLoginEncrypted": "bF9Z0wAY3SEme1pNEbr+mfgIOZbz2bFdPdp9OW8kd5Dm2GysfA==",
+		"githubLoginHashed": "c66592c11428c45bfbb7344efb0415dc6d95c8eae927c224a4a0f6641e250ad2",
 		"score": 353
 	},
 	{
-		"id": 838945,
+		"id": 390687,
 		"githubLoginMasked": "do",
-		"githubLoginEncrypted": "U3oVeL3chcvnGAioPk9OJaYsKXrd15aLiuv8bg==",
+		"githubLoginEncrypted": "QFW3e+lfCVaREH5ccH91NQ4Q8LOfhLtqNmsRnwErqdWeVLO1VxPuQw==",
+		"githubLoginHashed": "14a43182e2af0d47dc726452e48f24a09495753ed5f31fbbe6fcdafaa6419e86",
 		"score": 341
 	},
 	{
-		"id": 1918458,
+		"id": 1804192,
 		"githubLoginMasked": "Da",
-		"githubLoginEncrypted": "c3QYeLTVs9/vHxOz9ygrkpADnYUv33APqFNaYg==",
+		"githubLoginEncrypted": "etQOvBMauVwfVPOHeD5nDn7AFJe3sTlr/K4U+dCDJM5M9bnh0URhyw==",
+		"githubLoginHashed": "e9a78c1a0d4823156d9599141022c1db357cb606c6d9fed8fef5e176199bfe51",
 		"score": 7
 	},
 	{
-		"id": 1256133,
-		"githubLoginMasked": "ga",
-		"githubLoginEncrypted": "UHQUY7TRndWis7YSApQJ/rke1cZaIOM=",
-		"score": 0
-	},
-	{
-		"id": 695646,
+		"id": 986200,
 		"githubLoginMasked": "er",
-		"githubLoginEncrypted": "UmcfcrTdltNcntZPNedv3shcpDhr3+9o",
+		"githubLoginEncrypted": "oUuBm+AAZAtY8Qg8W3B/iOWWb/IZmv3UfQde13+VSvg8XXEu",
+		"githubLoginHashed": "1915a7c8a94338d669a7ca6048bae9c725adb2f9c63a40136de8e358fbea8ac2",
 		"score": 0
 	},
 	{
-		"id": 31311,
+		"id": 1734191,
 		"githubLoginMasked": "ar",
-		"githubLoginEncrypted": "VmcYcKTdwZm5Rk0sjzcLaKzmDN8rwN8m2vlu",
+		"githubLoginEncrypted": "UHvf2+7o+tBwNMWFpddHO3y3NoUCMxEW1RGG54ZPkCzfwVi8S8op",
+		"githubLoginHashed": "56d584e3746990e8df98cc27412783b9acc9e905dc752492accbd699e256c8b4",
+		"score": 0
+	},
+	{
+		"id": 986199,
+		"githubLoginMasked": "ga",
+		"githubLoginEncrypted": "CHfKh5Nmg0XawaSkOiPe4v+4dXieu5OZ+oOkQbO4KTeCIts=",
+		"githubLoginHashed": "57377edecd7d68e58e6f6a8ef71f493ffeacc199d04d03c60cd6bebccebc43b8",
 		"score": 0
 	}
 ]

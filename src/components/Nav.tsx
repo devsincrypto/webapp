@@ -16,11 +16,19 @@ export function Nav({ activeEcoSlug, ecoPath }: NavProps): React.ReactElement {
 	return (
 		<header className="navbar">
 			<section className="navbar-section">
-				<span className="navbar-brand mr-2">
-					<Link href="/">Devs in Crypto</Link>
-				</span>
+				<Link href="/">
+					<a href="#" className="navbar-brand mr-2">
+						Devs in Crypto
+					</a>
+				</Link>
+				<Link href="/pricing">
+					<button className="btn btn-link">Pricing</button>
+				</Link>
+				<Link href="/faq">
+					<button className="btn btn-link">FAQ</button>
+				</Link>
 			</section>
-			<section className="navbar-section">
+			<section className="navbar-center">
 				{ecoPath && (
 					<ul className="breadcrumb">
 						<li className="breadcrumb-item">
@@ -41,9 +49,6 @@ export function Nav({ activeEcoSlug, ecoPath }: NavProps): React.ReactElement {
 				)}
 			</section>
 			<section className="navbar-section">
-				<Link href="/pricing">
-					<button className="btn btn-link">Pricing</button>
-				</Link>
 				{user ? (
 					<div className="dropdown dropdown-right">
 						<button className="btn btn-link dropdown-toggle">

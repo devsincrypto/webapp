@@ -1,38 +1,44 @@
 [
 	{
-		"id": 1306115,
+		"id": 811120,
 		"githubLoginMasked": "do",
-		"githubLoginEncrypted": "U3obfrOIypu5Kp0mJqV3dwZIAW2FkVm0qA==",
+		"githubLoginEncrypted": "I0T8aJIX5WEUyG1t5fXSJiYuU4dSDJaqhhUv4dat/ml3Fx5LQQ==",
+		"githubLoginHashed": "e7d7cffd068891c72de5bd4590c70c4260728c1dfdaac895dae6c5a2f6be4501",
 		"score": 443776
 	},
 	{
-		"id": 7679,
+		"id": 33271,
 		"githubLoginMasked": "Je",
-		"githubLoginEncrypted": "fXAEdLzAoMvlEjM73OIXW4KGnQffl3ZwOBo=",
+		"githubLoginEncrypted": "kd/n8Smv3+a+DLxusBnluPbScauP0EuqvU1stmBNaNpxmCXhR8I=",
+		"githubLoginHashed": "3c4c690a1ff2eee8d9042064df127cd7ac5a4dc646699dfebb0676ebcad210a0",
 		"score": 129121
 	},
 	{
-		"id": 344420,
+		"id": 152149,
 		"githubLoginMasked": "ph",
-		"githubLoginEncrypted": "R30TfbjBkN7ow7wgPrReoooNDImDCz1kQg==",
+		"githubLoginEncrypted": "al7OcDKTWW5iIpzZGmXZLZcupvb+gQD7qSM/gYDltVEeuEzaVw==",
+		"githubLoginHashed": "84a65c6324aa01263bc11990086468db331321532b49f6d7e18c4e624c0ee8fd",
 		"score": 23688
 	},
 	{
-		"id": 481962,
+		"id": 811345,
 		"githubLoginMasked": "hl",
-		"githubLoginEncrypted": "X3kXf7XYh3/RCLLZ/kATxIRxG631Xok=",
+		"githubLoginEncrypted": "xjNpKDDiNdRzsxK7x+uVtRlgnFIIYMFiJBSRLGo8RTbaLP0=",
+		"githubLoginHashed": "834beead7084b62bb97dfa4c80e81133c16b526be1354b5c384bdaee6a7240cb",
 		"score": 1941
 	},
 	{
-		"id": 158880,
-		"githubLoginMasked": "kh",
-		"githubLoginEncrypted": "XH0XfbDRk8Spkus9kCtntR015PTRbIB2",
+		"id": 152148,
+		"githubLoginMasked": "in",
+		"githubLoginEncrypted": "sDCpmYEiXwTpIbeb4i8g8LdtGyk/J4djJGSKIDf4lfda0KfhwwM=",
+		"githubLoginHashed": "f76d07298c6cd5f29e65eedc5d75aa067730aa086561f7a916bc14696d813fdd",
 		"score": 0
 	},
 	{
-		"id": 482024,
-		"githubLoginMasked": "in",
-		"githubLoginEncrypted": "XnsSfr3cgMPlEWm8Eguu8aGd7Bwk9KNsLf0=",
+		"id": 689040,
+		"githubLoginMasked": "kh",
+		"githubLoginEncrypted": "UqzthmGlFH9MEt+w7gT5C7iTrw1VYYvBbnGA9rcfyoTiTM2N",
+		"githubLoginHashed": "2ef0cd9fa41ccc0210f0ba4be15c816119f857c3c7909f380e89b3cfa1e305c1",
 		"score": 0
 	}
 ]
