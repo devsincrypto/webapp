@@ -1,7 +1,7 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
 import React from 'react';
 
-import { Footer, Head, Nav, UserList } from '../../components';
+import { Nav, UserList } from '../../components';
 import { Ecosystem, User } from '../../db';
 import ecoSlugs from '../../db/json/ecosystems/slugs.json';
 import { kFormatter } from '../../util/format';
@@ -37,33 +37,27 @@ interface EcosystemProps {
 	users: User[];
 }
 
-function linkToGithub(repoName: string): string {
-	return `https://github.com/${repoName}`;
-}
-
 export default function Eco({
 	eco,
 	users,
 }: EcosystemProps): React.ReactElement {
 	return (
 		<>
-			<Head />
 			<Nav activeEcoSlug={eco.slug} ecoPath={eco.path} />
 			<div className="hero bg-gray">
 				<div className="hero-body">
 					<h1>{eco.title}</h1>
 					<p>
-						We found {kFormatter(eco.userCount)} users scanning
+						We found {kFormatter(eco.userCount)} developers scanning
 						through {kFormatter(eco.repoCount)} repositories in the{' '}
 						{eco.title} ecosystem.
 					</p>
 				</div>
 			</div>
 
-			<div className="thin-container p-2">
+			<div className="thin-container">
 				<UserList eco={eco} users={users} />
 			</div>
-			<Footer />
 		</>
 	);
 }

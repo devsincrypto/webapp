@@ -12,36 +12,69 @@ export function EcosystemList({
 	ecos,
 }: EcosystemListProps): React.ReactElement {
 	const [limit, setLimit] = useState(5);
+	const [search, setSearch] = useState('');
 
 	return (
 		<>
-			<h2>Top {limit} Ecosystems</h2>
+			<h2>
+				{search
+					? `Ecosystems matching "${search}"`
+					: `Top ${limit} Ecosystems`}
+			</h2>
+			<div className="has-icon-left float-right">
+				<input
+					className="form-input"
+					onChange={(e) => setSearch(e.currentTarget.value)}
+					placeholder="Search ecosystem"
+					value={search}
+				/>
+				<i className="form-icon icon icon-search"></i>
+			</div>
+
 			<table className="table">
 				<thead>
 					<tr>
 						<th>Rank</th>
 						<th>Ecosystem</th>
-						<th>Popularity</th>
-						<th>Users</th>
+						<th>
+							Popularity{' '}
+							<Link href="faq#how-are-ecosystems-ranked">
+								<figure
+									className="avatar avatar-sm c-hand tooltip tooltip-right"
+									data-initial="?"
+									data-tooltip="How is popularity calculated?"
+								></figure>
+							</Link>
+						</th>
+						<th>Developers</th>
 						<th></th>
 					</tr>
 				</thead>
 				<tbody>
-					{ecos.slice(0, limit).map((eco, i) => (
-						<tr key={eco.slug}>
-							<td>#{i + 1}</td>
-							<td>{eco.title}</td>
-							<td>{kFormatter(eco.popularity)}</td>
-							<td>{kFormatter(eco.userCount)}</td>
-							<td>
-								<Link href={`/ecosystem/${eco.slug}`}>
-									<button className="btn btn-primary">
-										See Ecosystem
-									</button>
-								</Link>
-							</td>
-						</tr>
-					))}
+					{ecos
+						.filter(({ title }) =>
+							title.toLowerCase().includes(search.toLowerCase())
+						)
+						.slice(0, limit)
+						.map((eco, i) => (
+							<tr key={eco.slug}>
+								<td>#{i + 1}</td>
+								<td>{eco.title}</td>
+								<td>
+									<code>{kFormatter(eco.popularity)}</code>
+								</td>
+								<td>
+									<code>{kFormatter(eco.userCount)}</code>
+								</td>
+								<td>
+									<Link href={`/ecosystem/${eco.slug}`}>
+										<button className="btn btn-primary">
+											See Ecosystem
+										</button>
+									</Link>
+								</td>
+							</tr>
+						))}
 				</tbody>
 			</table>
 			<button

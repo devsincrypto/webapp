@@ -1,3 +1,5 @@
+import axios from 'axios';
+
 export const getURL = (): string => {
 	const url =
 		process?.env?.URL && process.env.URL !== ''
@@ -9,25 +11,37 @@ export const getURL = (): string => {
 	return url.includes('http') ? url : `https://${url}`;
 };
 
-export const postData = async <T = any>({
+export const getData = async <T = unknown>({
+	url,
+	token,
+}: {
+	url: string;
+	token?: string;
+	data?: unknown;
+}): Promise<T> => {
+	const { data: res } = await axios.get<T>(url, {
+		headers: { 'Content-Type': 'application/json', token },
+		withCredentials: true,
+	});
+
+	return res;
+};
+
+export const postData = async <T = unknown>({
 	url,
 	token,
 	data,
 }: {
 	url: string;
 	token?: string;
-	data?: any;
+	data?: unknown;
 }): Promise<T> => {
-	const res = await fetch(url, {
-		method: 'POST',
-		// eslint-disable-next-line @typescript-eslint/ban-ts-comment
-		// @ts-ignore
-		headers: new Headers({ 'Content-Type': 'application/json', token }),
-		credentials: 'same-origin',
-		body: JSON.stringify(data),
+	const { data: res } = await axios.post<T>(url, data, {
+		headers: { 'Content-Type': 'application/json', token },
+		withCredentials: true,
 	});
 
-	return res.json() as Promise<T>;
+	return res;
 };
 
 export const toDateTime = (secs: number): Date => {

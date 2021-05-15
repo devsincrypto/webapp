@@ -26,6 +26,10 @@ export interface SupabaseProduct {
 	prices?: SupabasePrice[]; // Populated on join.
 }
 
+export interface SupabaseProductWithPrice extends SupabaseProduct {
+	prices: SupabasePrice[];
+}
+
 export interface SupabaseSubscription {
 	id: string;
 	cancel_at: Date | null;
@@ -52,7 +56,7 @@ export interface SupabaseCustomer {
 
 export interface SupabaseUser {
 	full_name?: string;
-	uuid: string;
+	id: string;
 }
 
 export const supabase = createClient(
@@ -60,29 +64,36 @@ export const supabase = createClient(
 	process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY as string
 );
 
-export async function getActiveProductsWithPrices() {
+export async function getActiveProductsWithPrices(): Promise<
+	SupabaseProductWithPrice[]
+> {
 	const { data, error } = await supabase
-		.from('products')
+		.from<SupabaseProductWithPrice>('products')
 		.select('*, prices(*)')
 		.eq('active', true)
+		// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+		// @ts-ignore Supabase typings error?
 		.eq('prices.active', true)
+		// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+		// @ts-ignore Supabase typings error?
 		.order('metadata->index')
+		// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+		// @ts-ignore Supabase typings error?
 		.order('unit_amount', { foreignTable: 'prices' });
 
 	if (error) {
 		throw error;
 	}
 
-	// eslint-disable-next-line
 	return data || [];
 }
 
 export function updateUserName(
 	user: User,
 	name: string
-): PostgrestFilterBuilder<any> {
+): PostgrestFilterBuilder<SupabaseUser> {
 	return supabase
-		.from('users')
+		.from<SupabaseUser>('users')
 		.update({
 			full_name: name,
 		})

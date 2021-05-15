@@ -12,6 +12,7 @@ import React, {
 	useState,
 } from 'react';
 
+import { sentryException } from './sentry';
 import { supabase, SupabaseSubscription, SupabaseUser } from './supabaseClient';
 
 interface UserContext {
@@ -25,6 +26,7 @@ interface UserContext {
 		url?: string | null;
 		error: Error | null;
 	}>;
+	signOut: () => Promise<void>;
 	signUp: (
 		options: UserCredentials
 	) => Promise<{
@@ -48,8 +50,11 @@ export const UserContextProvider: FunctionComponent = (
 	const [userLoaded, setUserLoaded] = useState(false);
 	const [session, setSession] = useState<Session | null>(null);
 	const [user, setUser] = useState<User | null>(null);
-	const [userDetails, setUserDetails] = useState(null);
-	const [subscription, setSubscription] = useState(null);
+	const [userDetails, setUserDetails] = useState<SupabaseUser | null>(null);
+	const [
+		subscription,
+		setSubscription,
+	] = useState<SupabaseSubscription | null>(null);
 
 	useEffect(() => {
 		const session = supabase.auth.session();
@@ -67,27 +72,24 @@ export const UserContextProvider: FunctionComponent = (
 		};
 	}, []);
 
-	const getUserDetails = () => supabase.from('users').select('*').single();
+	const getUserDetails = () =>
+		supabase.from<SupabaseUser>('users').select('*').single();
 	const getSubscription = () =>
 		supabase
-			.from('subscriptions')
+			.from<SupabaseSubscription>('subscriptions')
 			.select('*, prices(*, products(*))')
 			.in('status', ['trialing', 'active'])
 			.single();
 
 	useEffect(() => {
 		if (user) {
-			Promise.allSettled([getUserDetails(), getSubscription()])
-				.then((results) => {
-					// eslint-disable-next-line
-					// @ts-ignore
-					setUserDetails(results[0].value.data); // eslint-disable-line
-					// eslint-disable-next-line
-					// @ts-ignore
-					setSubscription(results[1].value.data); // eslint-disable-line
+			Promise.all([getUserDetails(), getSubscription()])
+				.then(([userDetails, sub]) => {
+					setUserDetails(userDetails.data);
+					setSubscription(sub.data);
 					setUserLoaded(true);
 				})
-				.catch(console.error);
+				.catch(sentryException);
 		}
 	}, [user]);
 
@@ -99,10 +101,11 @@ export const UserContextProvider: FunctionComponent = (
 		subscription,
 		signIn: (options: UserCredentials) => supabase.auth.signIn(options),
 		signUp: (options: UserCredentials) => supabase.auth.signUp(options),
-		signOut: () => {
+		signOut: async () => {
 			setUserDetails(null);
 			setSubscription(null);
-			return supabase.auth.signOut();
+			const { error } = await supabase.auth.signOut();
+			if (error) throw error;
 		},
 	};
 	return <UserContext.Provider value={value} {...props} />;

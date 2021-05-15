@@ -3,6 +3,7 @@ import '../styles/global.css';
 import type { AppProps } from 'next/app';
 import React from 'react';
 
+import { Layout } from '../components';
 import { UserContextProvider } from '../util/useUser';
 
 export default function MyApp({
@@ -11,9 +12,9 @@ export default function MyApp({
 }: AppProps): React.ReactElement {
 	return (
 		<UserContextProvider>
-			<div className="p-2">
+			<Layout>
 				<Component {...pageProps} />
-			</div>
+			</Layout>
 		</UserContextProvider>
 	);
 }

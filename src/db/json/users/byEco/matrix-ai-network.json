@@ -1,26 +1,30 @@
 [
 	{
-		"id": 34372,
+		"id": 37747,
 		"githubLoginMasked": "Ma",
-		"githubLoginEncrypted": "enQCY7jBs+PFEwmrdNQySTQ04izisfWmRxvD7IEscyySHg==",
+		"githubLoginEncrypted": "/E3pqvXN9xnD2uwNOdR6c0kq5xV7DjRhYtn//eswMsz8sTd3fAQruvqm/Fw5nw==",
+		"githubLoginHashed": "a9286494f84bbb3d5eb654d87e7467bd9ff018f28431a9ab39b23e26e4520649",
 		"score": 107459
 	},
 	{
-		"id": 34361,
+		"id": 421162,
 		"githubLoginMasked": "ma",
-		"githubLoginEncrypted": "WnQCY7jBmsvkGhSyUqCkm8G0lHpdHXcFEFiexg==",
+		"githubLoginEncrypted": "0I2/ICFkE06wSpCs+ciH/wyNuQYrVnOVneSrePyKKukgzQ9zeRzowA==",
+		"githubLoginHashed": "e7cd093c1e95fe6f9c4f38d8eba7be94238d1d474904ccdbbcdc31b6ce266929",
 		"score": 15114
 	},
 	{
-		"id": 952873,
+		"id": 2034383,
 		"githubLoginMasked": "sh",
-		"githubLoginEncrypted": "RH0Xf7bKmt/lRE3tKNxtOqtFdCnwhKTTpY3jFa0=",
+		"githubLoginEncrypted": "H9IlM1wrY+0dpmoGbyk4u6GtoFylJzgb1RyIfGCle1chGEAF7sVXyU8=",
+		"githubLoginHashed": "73da4f06bbf42b9d41a434e22de03a38a5874031f3ffd95c579ee7cbd4c2575b",
 		"score": 1392
 	},
 	{
-		"id": 405909,
+		"id": 1264313,
 		"githubLoginMasked": "wa",
-		"githubLoginEncrypted": "QHQCfr/Ahc/lEeZ0DFGHfzGuvrqpkq/86t4=",
+		"githubLoginEncrypted": "nQChU4hUsfskj7pzSWWC49AKApNHMJ82xlYy3LgOlbJtYtkUDj4=",
+		"githubLoginHashed": "289350c0633975269b9c09f94a97d0f9bbb38a0eaaad35a60d289f3295f5446e",
 		"score": 900
 	}
 ]

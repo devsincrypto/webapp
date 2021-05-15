@@ -1,35 +1,48 @@
-import Link from 'next/link';
+import { GetStaticProps } from 'next';
 import { useRouter } from 'next/router';
 import React, { useEffect, useState } from 'react';
 
+import { Nav } from '../components';
+import { PricingCard } from '../components/PricingCard';
 import { postData } from '../util/helpers';
+import { sentryException } from '../util/sentry';
+import {
+	getActiveProductsWithPrices,
+	SupabaseProductWithPrice,
+} from '../util/supabaseClient';
 import { useUser } from '../util/useUser';
 
-function Card({ title, description, footer, children }: any) {
-	return (
-		<div>
-			<div>
-				<h3>{title}</h3>
-				<p>{description}</p>
-				{children}
-			</div>
-			<div>{footer}</div>
-		</div>
-	);
+export const getStaticProps: GetStaticProps = async () => {
+	const products = await getActiveProductsWithPrices();
+
+	// We just have one product for now.
+	if (products.length !== 1) {
+		throw new Error(`Expected 1 product, found ${products.length}.`);
+	}
+
+	return {
+		props: {
+			product: products[0],
+		},
+	};
+};
+
+interface AccountProps {
+	product: SupabaseProductWithPrice;
 }
-export default function Account(): React.ReactElement {
+
+export default function Account({ product }: AccountProps): React.ReactElement {
 	const [loading, setLoading] = useState(false);
 	const router = useRouter();
-	const { userLoaded, user, session, userDetails, subscription } = useUser();
+	const { userLoaded, user, session, subscription } = useUser();
 
 	useEffect(() => {
-		if (!user) router.replace('/signin').catch(console.error);
+		if (!user) router.replace('/signin').catch(sentryException);
 	}, [router, user]);
 
 	const redirectToCustomerPortal = async () => {
 		setLoading(true);
-		// eslint-disable-next-line
-		const { url } = await postData({
+		await postData({
 			url: '/api/create-portal-link',
 			token: session?.access_token,
 		});
@@ -47,75 +60,89 @@ export default function Account(): React.ReactElement {
 		}).format((subscription?.prices?.unit_amount || 0) / 100);
 
 	return (
-		<section className="bg-black mb-32">
-			<div className="max-w-6xl mx-auto pt-8 sm:pt-24 pb-8 px-4 sm:px-6 lg:px-8">
-				<div className="sm:flex sm:flex-col sm:align-center">
-					<h1 className="text-4xl font-extrabold text-white sm:text-center sm:text-6xl">
-						Account
-					</h1>
-					<p className="mt-5 text-xl text-accents-6 sm:text-center sm:text-2xl max-w-2xl m-auto">
-						We partnered with Stripe for a simplified billing.
-					</p>
-				</div>
+		<>
+			<Nav />
+			<div className="thin-container">
+				<h1>Account Dashboard</h1>
+
+				{userLoaded ? (
+					<>
+						<section className="section">
+							<h2>
+								{subscriptionName
+									? `You are currently on the ${subscriptionName} plan.`
+									: "You currently don't have any subscriptions."}
+							</h2>
+
+							<div>
+								{subscriptionPrice ? (
+									`${subscriptionPrice}/${
+										subscription?.prices?.interval ||
+										'no interval'
+									}`
+								) : (
+									<PricingCard product={product} />
+								)}
+							</div>
+							{subscription && (
+								<>
+									<p>Manage your subscription on Stripe.</p>
+									<button
+										disabled={loading}
+										onClick={redirectToCustomerPortal}
+									>
+										{loading
+											? 'Redirecting to Stripe...'
+											: 'Open customer portal'}
+									</button>
+								</>
+							)}
+						</section>
+
+						<section className="section">
+							<h2>Your Details</h2>
+							<div className="columns">
+								<form className="column col-8 col-mx-auto">
+									<div className="form-group">
+										<label
+											className="form-label"
+											htmlFor="input-name"
+										>
+											Please enter your full name, or a
+											display name you are comfortable
+											with.
+										</label>
+										<input
+											className="form-input"
+											id="input-name"
+											placeholder="Name"
+										/>
+									</div>
+									<div className="form-group">
+										<label
+											className="form-label"
+											htmlFor="input-email"
+										>
+											Please enter the email address you
+											want to use to login.
+											<br /> We will email you to verify
+											the change.
+										</label>
+										<input
+											className="form-input"
+											id="input-email"
+											placeholder="Email"
+											value={user?.email}
+										/>
+									</div>
+								</form>
+							</div>
+						</section>
+					</>
+				) : (
+					<p>Loading...</p>
+				)}
 			</div>
-			<div className="p-4">
-				<Card
-					title="Your Plan"
-					description={
-						subscriptionName &&
-						`You are currently on the ${subscriptionName} plan.`
-					}
-					footer={
-						<div className="flex items-start justify-between flex-col sm:flex-row sm:items-center">
-							<p className="pb-4 sm:pb-0">
-								Manage your subscription on Stripe.
-							</p>
-							<button
-								disabled={loading || !subscription}
-								onClick={redirectToCustomerPortal}
-							>
-								Open customer portal
-							</button>
-						</div>
-					}
-				>
-					<div className="text-xl mt-8 mb-4 font-semibold">
-						{!userLoaded ? (
-							<div className="h-12 mb-6">Loading...</div>
-						) : subscriptionPrice && subscription ? (
-							`${subscriptionPrice}/${
-								subscription?.prices?.interval || 'no interval'
-							}`
-						) : (
-							<Link href="/">
-								<a>Choose your plan</a>
-							</Link>
-						)}
-					</div>
-				</Card>
-				<Card
-					title="Your Name"
-					description="Please enter your full name, or a display name you are comfortable with."
-					footer={<p>Please use 64 characters at maximum.</p>}
-				>
-					<div className="text-xl mt-8 mb-4 font-semibold">
-						{userDetails ? (
-							`${userDetails?.full_name ?? ''}`
-						) : (
-							<div className="h-8 mb-6">Loading...</div>
-						)}
-					</div>
-				</Card>
-				<Card
-					title="Your Email"
-					description="Please enter the email address you want to use to login."
-					footer={<p>We will email you to verify the change.</p>}
-				>
-					<p className="text-xl mt-8 mb-4 font-semibold">
-						{user ? user.email : undefined}
-					</p>
-				</Card>
-			</div>
-		</section>
+		</>
 	);
 }

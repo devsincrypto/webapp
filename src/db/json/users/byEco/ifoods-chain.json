@@ -1,38 +1,44 @@
 [
 	{
-		"id": 69118,
+		"id": 65410,
 		"githubLoginMasked": "pa",
-		"githubLoginEncrypted": "R3QYdaPWk+jkDxQWKk0ZO+ljQII2pWrlyojp",
+		"githubLoginEncrypted": "v6cUbQZncD8vYK6x16vI+PjcOhpIbkOPQODLidW8lVXxq1wx4BSL",
+		"githubLoginHashed": "571c2bf717d5e63235bee9e134d7b73cdc924d20ff37598aaca9369e66debac7",
 		"score": 10
 	},
 	{
-		"id": 69175,
+		"id": 329358,
 		"githubLoginMasked": "ia",
-		"githubLoginEncrypted": "XnQba7TXldnjExO7LXxURPSWiXJffCMIc5NLpg==",
+		"githubLoginEncrypted": "swApb1mxq5oU8BLD0BK+wdSj4ddum3O4UCDzWwBFPzrOrmqux27cZg==",
+		"githubLoginHashed": "0775827d0fb9c9212f38d1594f4edef5bb1ed099846433c1fb48afa96897e865",
 		"score": 10
 	},
 	{
-		"id": 1343944,
+		"id": 791956,
 		"githubLoginMasked": "ho",
-		"githubLoginEncrypted": "X3oDcrnMk8TtFxO7Hc0dofXij74qlJL4/iH5dg==",
+		"githubLoginEncrypted": "iIswQTfrzJJyn7Lr7FgfLL4rOMCZW8vZ86D5UsBpeSPjm4JHp2dLkA==",
+		"githubLoginHashed": "80fc6fdb4f2bddc228e3192ad02508077b4eb83862348bd91395db2dd816fc3e",
 		"score": 9
 	},
 	{
-		"id": 819242,
-		"githubLoginMasked": "li",
-		"githubLoginEncrypted": "W3weZLjbi0LfanWyqlQ5q+cYg53IhQw=",
-		"score": 0
-	},
-	{
-		"id": 440837,
-		"githubLoginMasked": "Bl",
-		"githubLoginEncrypted": "dXkDdJPVh8/DFxO7+dT8NZodu9hXrhRmbPa+tQ==",
-		"score": 0
-	},
-	{
-		"id": 819240,
+		"id": 596650,
 		"githubLoginMasked": "IF",
-		"githubLoginEncrypted": "flMZfrXKscLqHxOMackzYTYuRWPSS/77z9luM/5hloiIgQ==",
+		"githubLoginEncrypted": "iBfy0S9cxWPBCnNkYvrQHsd6gJChitPW05NPkR5uHzonTGuvtIBnXoOq/e14Ag==",
+		"githubLoginHashed": "ea437c995bf36690276727d85ecefbbbf5fd49a35a7a121853fce152d2d7fef6",
+		"score": 0
+	},
+	{
+		"id": 1712752,
+		"githubLoginMasked": "li",
+		"githubLoginEncrypted": "1pqKNxxoy+l8se2jAOEoiY1TItCmHFkN3tnGtCwX9A8OJW0=",
+		"githubLoginHashed": "0661ed0f3b4de89da044f83de7708f5664af89599f1845e17ca3540b635e51f4",
+		"score": 0
+	},
+	{
+		"id": 947122,
+		"githubLoginMasked": "Bl",
+		"githubLoginEncrypted": "0hlvh/qBi48u9p39+u2O/oSQj/QCNeknCwYQmgR+zg3Nn6hZo80f/g==",
+		"githubLoginHashed": "3706f108e75dd964887313bec258ba654b9ebc2b2a602f0532e1a6281d2ff8b1",
 		"score": 0
 	}
 ]

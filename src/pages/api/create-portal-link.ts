@@ -1,6 +1,8 @@
+import { withSentry } from '@sentry/nextjs';
 import { NextApiRequest, NextApiResponse } from 'next';
 
 import { getURL } from '../../util/helpers';
+import { sentryException } from '../../util/sentry';
 import { stripe } from '../../util/stripeServer';
 import { getUser } from '../../util/supabaseServer';
 import { createOrRetrieveCustomer } from '../../util/useDatabase';
@@ -31,15 +33,15 @@ const createPortalLink = async (
 
 			return res.status(200).json({ url });
 		} catch (err) {
-			console.log(err);
+			sentryException(err as Error);
 			res.status(500).json({
 				error: { statusCode: 500, message: (err as Error).message },
 			});
 		}
 	} else {
 		res.setHeader('Allow', 'POST');
-		res.status(405).end('Method Not Allowed');
+		res.status(405).json({ error: 'Method Not Allowed' });
 	}
 };
 
-export default createPortalLink;
+export default withSentry(createPortalLink);

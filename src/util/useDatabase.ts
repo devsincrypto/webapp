@@ -1,11 +1,9 @@
-/* eslint-disable */
-
 import { User } from '@supabase/gotrue-js';
 import type { Stripe } from 'stripe';
 
 import { toDateTime } from './helpers';
 import { stripe } from './stripeServer';
-import {
+import type {
 	SupabaseCustomer,
 	SupabasePrice,
 	SupabaseProduct,
@@ -112,6 +110,7 @@ export const copyBillingDetailsToCustomer = async (
 	}
 	await stripe.customers.update(
 		typeof customer === 'string' ? customer : customer.id,
+		// eslint-disable-next-line @typescript-eslint/ban-ts-comment
 		// @ts-ignore Seems like discrepancy in Stripe types.
 		{ name, phone, address }
 	);
@@ -157,8 +156,9 @@ export const manageSubscriptionStatusChange = async (
 		metadata: subscription.metadata,
 		status: subscription.status,
 		price_id: subscription.items.data[0].price.id,
+		// eslint-disable-next-line @typescript-eslint/ban-ts-comment
 		// @ts-ignore FIXME Stripe types.
-		quantity: subscription.quantity,
+		quantity: subscription.quantity, // eslint-disable-line @typescript-eslint/no-unsafe-assignment
 		cancel_at_period_end: subscription.cancel_at_period_end,
 		cancel_at: subscription.cancel_at
 			? toDateTime(subscription.cancel_at)

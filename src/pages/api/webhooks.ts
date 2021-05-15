@@ -1,6 +1,8 @@
+import { withSentry } from '@sentry/nextjs';
 import { NextApiRequest, NextApiResponse } from 'next';
 import Stripe from 'stripe';
 
+import { sentryException } from '../../util/sentry';
 import { stripe } from '../../util/stripeServer';
 import {
 	manageSubscriptionStatusChange,
@@ -47,7 +49,7 @@ const webhookHandler = async (
 		try {
 			event = stripe.webhooks.constructEvent(buf, sig, webhookSecret);
 		} catch (err) {
-			console.log(`❌ Error message: ${(err as Error).message}`);
+			sentryException(err as Error);
 			return res
 				.status(400)
 				.send(`Webhook Error: ${(err as Error).message}`);
@@ -113,8 +115,8 @@ const webhookHandler = async (
 					default:
 						throw new Error('Unhandled relevant event!');
 				}
-			} catch (error) {
-				console.log(error);
+			} catch (err) {
+				sentryException(err as Error);
 				return res.json({
 					error: 'Webhook handler failed. View logs.',
 				});
@@ -124,8 +126,8 @@ const webhookHandler = async (
 		res.json({ received: true });
 	} else {
 		res.setHeader('Allow', 'POST');
-		res.status(405).end('Method Not Allowed');
+		res.status(405).json({ error: 'Method Not Allowed' });
 	}
 };
 
-export default webhookHandler;
+export default withSentry(webhookHandler);

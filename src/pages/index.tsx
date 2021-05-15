@@ -1,8 +1,7 @@
 import { GetStaticProps } from 'next';
-import Link from 'next/link';
 import React from 'react';
 
-import { EcosystemList, Footer, Head, Nav } from '../components';
+import { EcosystemList, Nav } from '../components';
 import type { Ecosystem } from '../db';
 import all from '../db/json/ecosystems/all.json';
 
@@ -24,27 +23,32 @@ interface IndexProps {
 export default function Index({ ecos }: IndexProps): React.ReactElement {
 	return (
 		<>
-			<Head />
 			<Nav />
 			<div className="hero bg-gray">
 				<div className="hero-body">
 					<h1>
-						All the developers working
+						Access all the developers working
 						<br />
 						in <strong>blockchain</strong> and{' '}
 						<strong>crypto</strong>.
 						<br />
 						Ranked.
 					</h1>
-					<p>This is a hero example</p>
+					<p>
+						Devs in Crypto sorts developers by blockchain
+						ecosystems,
+						<br />
+						and ranks them within each ecosystem by their Github
+						activity.
+					</p>
 				</div>
 			</div>
 
-			<div className="thin-container p-2">
-				<EcosystemList ecos={ecos} />
-				<Link href="/ecosystem">See all Ecosystems</Link>
+			<div className="thin-container">
+				<section className="section">
+					<EcosystemList ecos={ecos} />
+				</section>
 			</div>
-			<Footer />
 		</>
 	);
 }
