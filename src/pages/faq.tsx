@@ -49,9 +49,10 @@ export default function Faq(): React.ReactElement {
 						Ecosystems are ranked by popularity, where an
 						ecosystem&apos;s popularity is defined as the sum of all
 						its associated Github repositories&apos; popularity.
-						<br />
-						<br />A repository&apos;s popularity is, in turn, given
-						by the formula:
+					</p>
+					<p>
+						A repository&apos;s popularity is, in turn, given by the
+						formula:
 						<br />
 						<code>
 							repo.watchers_count + repo.stars_count + repo.forks
@@ -62,10 +63,37 @@ export default function Faq(): React.ReactElement {
 					<h2 id="how-is-developers-score-calculated">
 						How is a developer&apos;s score calculated?
 					</h2>
-					<p>TODO</p>
+					<p>
+						The developer&apos;s score is defined by the formula:
+						<br />
+						<code>
+							sum_over_repos( user.commit_count_in_repo *
+							repo.popularity )
+						</code>
+					</p>
+					<p>
+						This means that developers with more commits and
+						contributing to popular repos will have a higher score.
+						If you have ideas how to improve the estimation of a
+						user&apos;s score, please{' '}
+						<a
+							href="https://github.com/devsincrypto/webapp/issues/10"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							head to Github
+						</a>
+						.
+					</p>
 
 					<h2>Where did you get the data?</h2>
-					<p>TODO</p>
+					<p>
+						All data shown on Crypto in Devs is publicly available.
+					</p>
+					<p>
+						We use different sources to aggregate the data:{' '}
+						<code>TODO</code>
+					</p>
 				</div>
 			</div>
 		</>

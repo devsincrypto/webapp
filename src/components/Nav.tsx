@@ -25,6 +25,9 @@ export function Nav({ activeEcoSlug, ecoPath }: NavProps): React.ReactElement {
 				<Link href="/pricing">
 					<button className="btn btn-link">Pricing</button>
 				</Link>
+				<Link href="/analysis">
+					<button className="btn btn-link">Analysis</button>
+				</Link>
 				<Link href="/faq">
 					<button className="btn btn-link">FAQ</button>
 				</Link>

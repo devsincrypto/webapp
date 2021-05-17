@@ -7,7 +7,7 @@ export function Footer(): React.ReactElement {
 				<p>© Devs in Crypto 2021</p>
 
 				<p>
-					Made by a crypto dev based in Paris, 🇫🇷.
+					Made by a crypto dev based in Paris 🇫🇷.
 					<br />
 					<a href="mailto:amaury@devsincrypto.com">Support Email</a>
 					{' - '}

@@ -4,18 +4,31 @@ import fs from 'fs/promises';
 
 import * as ecoQ from '../src/db/eco';
 import * as userQ from '../src/db/users';
+import { promiseAllLimit } from '../src/util/helpers';
+
+const BASE_JSON_DIR = './src/db/json';
 
 async function genAllEcos() {
 	console.log('Starting genAllEcos...');
+	console.time('genAllEcos');
+
+	const baseDir = `${BASE_JSON_DIR}/ecosystems`;
+	await createDir(baseDir);
+
 	await fs.writeFile(
-		'./src/db/json/ecosystems/all.json',
+		`${baseDir}/all.json`,
 		JSON.stringify(ecoQ.all(), undefined, '\t')
 	);
-	console.log('Finished genAllEcos.');
+	console.timeEnd('genAllEcos');
 }
 
 async function genIndividualEcos(slugs: string[], mb: cliProgress.MultiBar) {
 	console.log('Starting genIndividualEcos...');
+	console.time('genIndividualEcos');
+
+	const baseDir = `${BASE_JSON_DIR}/ecosystems/bySlug`;
+	await createDir(baseDir);
+
 	const b = mb.create(slugs.length, 0);
 	await promiseAllLimit(
 		2,
@@ -23,23 +36,28 @@ async function genIndividualEcos(slugs: string[], mb: cliProgress.MultiBar) {
 			b.increment();
 
 			// Skip file if file already exists.
-			if (existsSync(`./src/db/json/ecosystems/bySlug/${slug}.json`)) {
+			if (existsSync(`${baseDir}/${slug}.json`)) {
 				return;
 			}
 
 			await fs.writeFile(
-				`./src/db/json/ecosystems/bySlug/${slug}.json`,
+				`${baseDir}/${slug}.json`,
 				JSON.stringify(ecoQ.get(slug), undefined, '\t')
 			);
 		})
 	);
 
 	b.stop();
-	console.log('Finished genIndividualEcos.');
+	console.timeEnd('genIndividualEcos');
 }
 
 async function genEcoUsers(slugs: string[], mb: cliProgress.MultiBar) {
 	console.log('Starting genEcoUsers...');
+	console.time('genEcoUsers');
+
+	const baseDir = `${BASE_JSON_DIR}/users/byEco`;
+	await createDir(baseDir);
+
 	const b = mb.create(slugs.length, 0);
 	await promiseAllLimit(
 		2,
@@ -47,35 +65,58 @@ async function genEcoUsers(slugs: string[], mb: cliProgress.MultiBar) {
 			b.increment();
 
 			// Skip file if file already exists.
-			if (existsSync(`./src/db/json/users/byEco/${slug}.json`)) {
+			if (existsSync(`${baseDir}/${slug}.json`)) {
 				return;
 			}
 
 			await fs.writeFile(
-				`./src/db/json/users/byEco/${slug}.json`,
+				`${baseDir}/${slug}.json`,
 				JSON.stringify(userQ.usersByEco(slug), undefined, '\t')
 			);
 		})
 	);
 
 	b.stop();
-	console.log('Finished genEcoUsers.');
+	console.timeEnd('genEcoUsers');
 }
 
 async function genEcoSlugs(slugs: string[]) {
 	console.log('Starting genEcoSlugs...');
+	console.time('genEcoSlugs');
+
+	const baseDir = `${BASE_JSON_DIR}/ecosystems`;
+	await createDir(baseDir);
+
 	await fs.writeFile(
-		'./src/db/json/ecosystems/slugs.json',
+		`${baseDir}/slugs.json`,
 		JSON.stringify(slugs, undefined, '\t')
 	);
-	console.log('Finished genEcoSlugs.');
+	console.timeEnd('genEcoSlugs');
+}
+
+async function genChartDevsByMonth() {
+	console.log('Starting genChartDevsByMonth...');
+	console.time('genChartDevsByMonth');
+
+	const baseDir = `${BASE_JSON_DIR}/charts`;
+	await createDir(baseDir);
+
+	await fs.writeFile(
+		`${baseDir}/devsByMonth.json`,
+		JSON.stringify(userQ.devsByMonth(), undefined, '\t')
+	);
+	console.timeEnd('genChartDevsByMonth');
 }
 
 export async function main(): Promise<void> {
 	console.log('Starting script to generate JSONs.');
 
 	const slugs = ecoQ.allSlugs();
-	await Promise.all([genAllEcos(), genEcoSlugs(slugs)]);
+	await Promise.all([
+		genAllEcos(),
+		genEcoSlugs(slugs),
+		genChartDevsByMonth(),
+	]);
 
 	const mb = new cliProgress.MultiBar({});
 	await Promise.all([genIndividualEcos(slugs, mb), genEcoUsers(slugs, mb)]);
@@ -87,30 +128,12 @@ main().catch((err) => {
 });
 
 /**
- * Like Promise.all, but with max concurrency.
+ * Create a directory if it does not exist.
  *
- * @see https://gist.github.com/jcouyang/632709f30e12a7879a73e9e132c0d56b#gistcomment-3253738
+ * @param dir - The dir to create.
  */
-async function promiseAllLimit<T>(n: number, list: (() => Promise<T>)[]) {
-	const head = list.slice(0, n);
-	const tail = list.slice(n);
-	const result: T[] = [];
-	const execute = async (
-		promise: () => Promise<T>,
-		i: number,
-		runNext: () => Promise<void>
-	) => {
-		result[i] = await promise();
-		await runNext();
-	};
-	const runNext = async () => {
-		const i = list.length - tail.length;
-		const promise = tail.shift();
-		if (promise !== undefined) {
-			await execute(promise, i, runNext);
-		}
-	};
-	await Promise.all(head.map((promise, i) => execute(promise, i, runNext)));
-
-	return result;
+async function createDir(dir: string): Promise<void> {
+	if (!existsSync(dir)) {
+		await fs.mkdir(dir, { recursive: true });
+	}
 }

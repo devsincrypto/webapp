@@ -10,6 +10,7 @@ export default class extends Document {
 						async
 						src="https://scripts.simpleanalyticscdn.com/latest.js"
 					/>
+					<script src="/crisp.js" type="text/javascript"></script>
 				</Head>
 				<body>
 					<Main />
