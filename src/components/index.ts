@@ -1,3 +1,5 @@
+export * from './charts/DevsByMonth';
+
 export * from './Head';
 export * from './Nav';
 export * from './EcosystemList';

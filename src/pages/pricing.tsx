@@ -58,8 +58,12 @@ export default function PricingPage({
 						for simplified billing. You can pay by credit or debit
 						card.
 					</p>
-					<h4>In what currencies can I pay?</h4>
-					<p>You can pay in USD or in EUR.</p>
+					<h4>What is the cancellation policy?</h4>
+					<p>
+						You can cancel anytime via your account dashboard.
+						Account cancellation is immediate, and you won&apos;t be
+						charged anymore.
+					</p>
 				</section>
 				<section className="section">
 					<h2 className="text-center">Still have some questions?</h2>

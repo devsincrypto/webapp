@@ -30,3 +30,22 @@ ORDER BY score DESC;`
 		)
 		.all(ecoSlug, `${ecoSlug}/%`, `%/${ecoSlug}/%`) as User[];
 }
+
+export interface DevsByMonthResult {
+	userCount: number;
+	monthYear: string;
+}
+
+export function devsByMonth(): DevsByMonthResult[] {
+	return db
+		.prepare(
+			`
+SELECT
+	COUNT(DISTINCT(c.github_login_hashed)) as userCount,
+	strftime('%Y-%m', c.created_at) as monthYear
+FROM commits c
+GROUP BY monthYear
+ORDER BY monthYear;`
+		)
+		.all() as DevsByMonthResult[];
+}
