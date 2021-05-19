@@ -43,7 +43,7 @@ export default function Eco({
 }: EcosystemProps): React.ReactElement {
 	return (
 		<>
-			<Nav activeEcoSlug={eco.slug} ecoPath={eco.path} />
+			<Nav />
 			<div className="hero bg-gray">
 				<div className="hero-body">
 					<h1>{eco.title}</h1>

@@ -5,12 +5,7 @@ import React from 'react';
 import { sentryException } from '../util/sentry';
 import { useUser } from '../util/useUser';
 
-interface NavProps {
-	activeEcoSlug?: string;
-	ecoPath?: string;
-}
-
-export function Nav({ activeEcoSlug, ecoPath }: NavProps): React.ReactElement {
+export function Nav(): React.ReactElement {
 	const { user, signOut } = useUser();
 	const router = useRouter();
 
@@ -31,26 +26,6 @@ export function Nav({ activeEcoSlug, ecoPath }: NavProps): React.ReactElement {
 				<Link href="/faq">
 					<button className="btn btn-link">FAQ</button>
 				</Link>
-			</section>
-			<section className="navbar-center">
-				{ecoPath && (
-					<ul className="breadcrumb">
-						<li className="breadcrumb-item">
-							<Link href="/ecosystem">ecosystems</Link>
-						</li>
-						{ecoPath.split('/').map((ecoSlug) => (
-							<li className="breadcrumb-item" key={ecoSlug}>
-								{activeEcoSlug === ecoSlug ? (
-									ecoSlug
-								) : (
-									<Link href={`/ecosystem/${ecoSlug}`}>
-										{ecoSlug}
-									</Link>
-								)}
-							</li>
-						))}
-					</ul>
-				)}
 			</section>
 			<section className="navbar-section">
 				{user ? (
