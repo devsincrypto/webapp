@@ -10,7 +10,7 @@
 		"start": "next start"
 	},
 	"dependencies": {
-		"@sentry/nextjs": "^6.4.1",
+		"@sentry/nextjs": "^6.6.0",
 		"@stripe/stripe-js": "^1.15.0",
 		"@supabase/supabase-js": "^1.11.13",
 		"@types/better-sqlite3": "^5.4.1",
