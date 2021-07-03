@@ -27,7 +27,7 @@ export default function Index({ ecos }: IndexProps): React.ReactElement {
 			<div className="hero bg-gray">
 				<div className="hero-body">
 					<h1>
-						Access all the developers working
+						Find all the developers working
 						<br />
 						in <strong>blockchain</strong> and{' '}
 						<strong>crypto</strong>.
