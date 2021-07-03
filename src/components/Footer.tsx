@@ -18,6 +18,14 @@ export function Footer(): React.ReactElement {
 					>
 						Github
 					</a>
+					{' - '}
+					<a
+						href="https://github.com/sponsors/amaurym"
+						target="_blank"
+						rel="noopener noreferrer"
+					>
+						Donate to help development
+					</a>
 				</p>
 				<a
 					href="https://vercel.com?utm_source=devsincrypto&utm_campaign=oss"
