@@ -11,7 +11,7 @@
 	},
 	"dependencies": {
 		"@papercups-io/chat-widget": "^1.1.10",
-		"@sentry/nextjs": "^6.8.0",
+		"@sentry/nextjs": "^6.10.0",
 		"@types/better-sqlite3": "^5.4.2",
 		"better-sqlite3": "^7.4.1",
 		"chart.js": "^3.4.1",
