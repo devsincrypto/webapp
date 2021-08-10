@@ -323,10 +323,10 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
-"@papercups-io/chat-widget@^1.1.10":
-  version "1.1.10"
-  resolved "https://registry.yarnpkg.com/@papercups-io/chat-widget/-/chat-widget-1.1.10.tgz#6fae6ded9e0b832310612ac4a9a841c938aceb82"
-  integrity sha512-bXmOUWWO0fOuJl0CipzXrdjvkP0elusu6H9OTw+k4H+oHtCCrYQH3Do7x66x77d2apWbaFfDvZWMul4l2NGyhw==
+"@papercups-io/chat-widget@^1.1.11":
+  version "1.1.11"
+  resolved "https://registry.yarnpkg.com/@papercups-io/chat-widget/-/chat-widget-1.1.11.tgz#bc12d791c0d7835a550fb6975595c41fd5161628"
+  integrity sha512-0wMTMbAd/2nx12CXGmtCfzxwwgI7fowvuvBoChglws5Zy3A4MhZtgKk+fNkvShLSOz2NR8JfvP4pGfiRiTDnYg==
   dependencies:
     framer-motion "^2.0.1"
     phoenix "^1.5.3"
