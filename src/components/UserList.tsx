@@ -65,20 +65,20 @@ export function UserList({ eco, users }: UserListProps): React.ReactElement {
 					))}
 				</tbody>
 			</table>
-			<button
+			<Button
 				className="btn btn-sm"
 				disabled={limit >= users.length}
 				onClick={() => setLimit(limit + 20)}
 			>
 				Load more
-			</button>
-			<button
+			</Button>
+			<Button
 				className="btn btn-sm"
 				disabled={limit >= users.length}
 				onClick={() => setLimit(users.length)}
 			>
 				Load all
-			</button>
+			</Button>
 		</section>
 	);
 }

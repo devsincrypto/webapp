@@ -1,8 +1,10 @@
+import { Page } from '@geist-ui/react';
 import { ChatWidget } from '@papercups-io/chat-widget';
 import React, { ReactElement } from 'react';
 
 import { Footer } from './Footer';
 import { Head } from './Head';
+import { Nav } from './Nav';
 
 export interface LayoutProps {
 	children: React.ReactChild;
@@ -47,10 +49,18 @@ export function Layout({ children }: LayoutProps): ReactElement {
 				</svg>
 			</a>
 			<Head />
-			<div className="p-2">
-				{children}
-				<Footer />
+			<div className="thin-container">
+				<Page>
+					<Page.Header>
+						<Nav />
+					</Page.Header>
+					<Page.Content>{children}</Page.Content>
+					<Page.Footer>
+						<Footer />
+					</Page.Footer>
+				</Page>
 			</div>
+
 			<ChatWidget
 				accountId="b07f8a0a-cbf8-4f8d-9e9b-b321f4d87eb4"
 				title="Welcome to Devs in Crypto"

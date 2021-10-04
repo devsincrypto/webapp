@@ -1,5 +1,6 @@
 import '../styles/global.css';
 
+import { CssBaseline, GeistProvider } from '@geist-ui/react';
 import type { AppProps } from 'next/app';
 import React from 'react';
 
@@ -10,10 +11,13 @@ export default function MyApp({
 	pageProps,
 }: AppProps): React.ReactElement {
 	return (
-		<Layout>
-			<>
-				<Component {...pageProps} />
-			</>
-		</Layout>
+		<GeistProvider>
+			<CssBaseline />
+			<Layout>
+				<>
+					<Component {...pageProps} />
+				</>
+			</Layout>
+		</GeistProvider>
 	);
 }

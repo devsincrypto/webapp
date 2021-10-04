@@ -1,3 +1,4 @@
+import { Button } from '@geist-ui/react';
 import Link from 'next/link';
 import React, { useState } from 'react';
 
@@ -68,29 +69,29 @@ export function EcosystemList({
 								</td>
 								<td>
 									<Link href={`/ecosystem/${eco.slug}`}>
-										<button className="btn btn-primary">
+										<Button className="btn btn-primary">
 											See Ecosystem
-										</button>
+										</Button>
 									</Link>
 								</td>
 							</tr>
 						))}
 				</tbody>
 			</table>
-			<button
+			<Button
 				className="btn btn-sm"
 				disabled={limit >= ecos.length}
 				onClick={() => setLimit(limit + 5)}
 			>
 				Load more
-			</button>
-			<button
+			</Button>
+			<Button
 				className="btn btn-sm"
 				disabled={limit >= ecos.length}
 				onClick={() => setLimit(ecos.length)}
 			>
 				Load all
-			</button>
+			</Button>
 		</>
 	);
 }

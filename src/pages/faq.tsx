@@ -5,7 +5,6 @@ import { Nav } from '../components';
 export default function Faq(): React.ReactElement {
 	return (
 		<>
-			<Nav />
 			<div className="thin-container">
 				<div className="section">
 					<h1>FAQ</h1>

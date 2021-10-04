@@ -1,7 +1,7 @@
 import { GetStaticProps } from 'next';
 import React from 'react';
 
-import { DevsByMonth, Nav } from '../components';
+import { DevsByMonth } from '../components';
 import devsByMonth from '../db/json/charts/devsByMonth.json';
 import { DevsByMonthResult } from '../db/users';
 
@@ -23,7 +23,6 @@ export default function Analysis({
 }: AnalysisProps): React.ReactElement {
 	return (
 		<>
-			<Nav />
 			<div className="thin-container">
 				<div className="section">
 					<h1>Analysis</h1>
