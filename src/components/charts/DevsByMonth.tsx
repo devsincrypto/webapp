@@ -10,8 +10,8 @@ const buildData = (devsByMonth: DevsByMonthResult[]): ChartData => ({
 		{
 			label: '# of monthly active crypto devs',
 			data: devsByMonth.map(({ userCount }) => userCount),
-			backgroundColor: 'rgb(255, 99, 132)',
-			borderColor: 'rgba(255, 99, 132, 0.2)',
+			backgroundColor: 'rgb(0, 112, 243)',
+			borderColor: 'rgba(0, 112, 243, 0.2)',
 		},
 	],
 });

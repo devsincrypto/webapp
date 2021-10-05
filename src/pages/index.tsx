@@ -32,7 +32,6 @@ export default function Index({ ecos }: IndexProps): React.ReactElement {
 					<br />
 					Ranked.
 				</Text>
-				<br />
 				<Text p>
 					Devs in Crypto sorts developers by blockchain ecosystems,
 					<br />
@@ -40,6 +39,7 @@ export default function Index({ ecos }: IndexProps): React.ReactElement {
 					activity.
 				</Text>
 			</div>
+			<br />
 			<EcosystemList ecos={ecos} />
 		</>
 	);

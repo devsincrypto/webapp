@@ -55,9 +55,8 @@ export function Layout({ children }: LayoutProps): ReactElement {
 						<Nav />
 					</Page.Header>
 					<Page.Content>{children}</Page.Content>
-					<Page.Footer>
-						<Footer />
-					</Page.Footer>
+
+					<Footer />
 				</Page>
 			</div>
 

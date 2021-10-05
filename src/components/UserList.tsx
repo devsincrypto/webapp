@@ -1,3 +1,6 @@
+import { Avatar, Button, Spacer, Table, Tag, Tooltip } from '@geist-ui/react';
+import { TableColumnRender } from '@geist-ui/react/dist/table/table-types';
+import { ChevronDown, ChevronsDown } from '@geist-ui/react-icons';
 import Link from 'next/link';
 import React, { useState } from 'react';
 
@@ -9,76 +12,93 @@ interface UserListProps {
 	users: User[];
 }
 
+interface Row extends User {
+	rank: number;
+	scoreStr: string;
+}
+
+const PAGINATION = 10;
+
 export function UserList({ eco, users }: UserListProps): React.ReactElement {
-	const [limit, setLimit] = useState(20);
+	const [limit, setLimit] = useState(PAGINATION);
+
+	const renderUser: TableColumnRender<Row> = (githubLoginMasked) => (
+		<>
+			<Tag type="lite">
+				{githubLoginMasked}
+				{'*'.repeat(8)}
+			</Tag>{' '}
+			<Tooltip
+				placement="right"
+				text="Masked for privacy reasons"
+				type="dark"
+			>
+				🔒
+			</Tooltip>
+		</>
+	);
 
 	return (
-		<section className="section">
+		<>
 			<h2>
 				Top {limit} {eco.title} developers
 			</h2>
-			<table className="table table-striped">
-				<thead>
-					<tr>
-						<th>Rank</th>
-						<th>Github Login</th>
-						<th>
-							Score{' '}
-							<Link href="/faq#how-is-developers-score-calculated">
-								<figure
-									className="avatar avatar-sm c-hand tooltip tooltip-right"
-									data-initial="?"
-									data-tooltip="How is a user's score calculated?"
-								></figure>
-							</Link>
-						</th>
-						<th></th>
-					</tr>
-				</thead>
-				<tbody>
-					{users.slice(0, limit).map((user, i) => (
-						<tr key={user.githubLoginEncrypted}>
-							<td>#{i + 1}</td>
-							<td>
-								<div
-									className="d-inline tooltip tooltip-right"
-									data-tooltip="Masked for privacy reasons"
-								>
-									<div className="chip">
-										<figure
-											className="avatar avatar-sm"
-											data-initial={
-												user.githubLoginMasked
-											}
-										></figure>
-										{user.githubLoginMasked}
-										{'*'.repeat(8)}
-										🔒
-									</div>
-								</div>
-							</td>
-							<td>
-								<code>{kFormatter(user.score)}</code>
-							</td>
-							<td></td>
-						</tr>
-					))}
-				</tbody>
-			</table>
-			<Button
-				className="btn btn-sm"
-				disabled={limit >= users.length}
-				onClick={() => setLimit(limit + 20)}
+
+			<Table
+				data={users
+					.map(
+						(user, index) =>
+							({
+								...user,
+								rank: index + 1,
+								scoreStr: kFormatter(user.score),
+							} as Row)
+					)
+					.slice(0, limit)}
 			>
-				Load more
-			</Button>
-			<Button
-				className="btn btn-sm"
-				disabled={limit >= users.length}
-				onClick={() => setLimit(users.length)}
-			>
-				Load all
-			</Button>
-		</section>
+				<Table.Column<Row> prop="rank" label="Rank" />
+				<Table.Column<Row>
+					prop="githubLoginMasked"
+					label="Github Login"
+					render={renderUser}
+				/>
+				<Table.Column<Row> prop="scoreStr">
+					Score
+					<Tooltip
+						text="How is a user's score calculated?'"
+						type="dark"
+					>
+						<Link href="/faq#how-is-developers-score-calculated">
+							<Avatar text="?" />
+						</Link>
+					</Tooltip>
+				</Table.Column>
+			</Table>
+
+			<Spacer />
+			<div className="flex justify-center">
+				<Button
+					disabled={limit >= users.length}
+					icon={<ChevronDown />}
+					onClick={() => setLimit(limit + PAGINATION)}
+					scale={1 / 2}
+					ghost
+					type="secondary"
+				>
+					Load {PAGINATION} more
+				</Button>
+				<Spacer />
+				<Button
+					disabled={limit >= users.length}
+					icon={<ChevronsDown />}
+					onClick={() => setLimit(users.length)}
+					scale={1 / 2}
+					ghost
+					type="secondary"
+				>
+					Load all {users.length}
+				</Button>
+			</div>
+		</>
 	);
 }

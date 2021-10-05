@@ -4,6 +4,30 @@
 	width: 800pt;
 }
 
+.flex {
+	display: flex;
+}
+
+.align-center {
+	align-items: center;
+}
+
+.justify-between {
+	justify-content: space-between;
+}
+
+.justify-center {
+	justify-content: center;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.w-100 {
+	width: 100%;
+}
+
 /**
  * GitHub Corners
  * Website: https://tholman.com/github-corners/
