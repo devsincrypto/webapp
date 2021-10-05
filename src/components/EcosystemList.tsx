@@ -1,3 +1,11 @@
+import { Avatar, Button, Input, Spacer, Table, Tooltip } from '@geist-ui/react';
+import { TableColumnRender } from '@geist-ui/react/dist/table/table-types';
+import {
+	ChevronDown,
+	ChevronRight,
+	ChevronsDown,
+	Search,
+} from '@geist-ui/react-icons';
 import Link from 'next/link';
 import React, { useState } from 'react';
 
@@ -8,89 +16,105 @@ interface EcosystemListProps {
 	ecos: Ecosystem[];
 }
 
+interface Row extends Ecosystem {
+	rank: number;
+	popularityStr: string;
+	userCountStr: string;
+}
+
+const PAGINATION = 5;
+
 export function EcosystemList({
 	ecos,
 }: EcosystemListProps): React.ReactElement {
-	const [limit, setLimit] = useState(5);
+	const [limit, setLimit] = useState(PAGINATION);
 	const [search, setSearch] = useState('');
+
+	const renderCtaColumn: TableColumnRender<Row> = (slug, r) => {
+		return (
+			<Link href={`/ecosystem/${slug as string}`}>
+				<Button ghost icon={<ChevronRight />} iconRight type="success">
+					See {r.userCountStr} developers
+				</Button>
+			</Link>
+		);
+	};
 
 	return (
 		<>
-			<h2>
-				{search
-					? `Ecosystems matching "${search}"`
-					: `Top ${limit} Ecosystems`}
-			</h2>
-			<div className="has-icon-left float-right">
-				<input
-					className="form-input"
-					onChange={(e) => setSearch(e.currentTarget.value)}
-					placeholder="Search ecosystem"
-					value={search}
-				/>
-				<i className="form-icon icon icon-search"></i>
+			<div className="flex align-center justify-between">
+				<h2>
+					{search
+						? `Ecosystems matching "${search}"`
+						: `Top ${limit} Ecosystems`}
+				</h2>
+				<div>
+					<Input
+						icon={<Search />}
+						onChange={(e) => setSearch(e.currentTarget.value)}
+						placeholder="Search ecosystem"
+						value={search}
+					/>
+				</div>
 			</div>
 
-			<table className="table">
-				<thead>
-					<tr>
-						<th>Rank</th>
-						<th>Ecosystem</th>
-						<th>
-							Popularity{' '}
-							<Link href="faq#how-are-ecosystems-ranked">
-								<figure
-									className="avatar avatar-sm c-hand tooltip tooltip-right"
-									data-initial="?"
-									data-tooltip="How is popularity calculated?"
-								></figure>
-							</Link>
-						</th>
-						<th>Developers</th>
-						<th></th>
-					</tr>
-				</thead>
-				<tbody>
-					{ecos
-						.filter(({ title }) =>
-							title.toLowerCase().includes(search.toLowerCase())
-						)
-						.slice(0, limit)
-						.map((eco, i) => (
-							<tr key={eco.slug}>
-								<td>#{i + 1}</td>
-								<td>{eco.title}</td>
-								<td>
-									<code>{kFormatter(eco.popularity)}</code>
-								</td>
-								<td>
-									<code>{kFormatter(eco.userCount)}</code>
-								</td>
-								<td>
-									<Link href={`/ecosystem/${eco.slug}`}>
-										<button className="btn btn-primary">
-											See Ecosystem
-										</button>
-									</Link>
-								</td>
-							</tr>
-						))}
-				</tbody>
-			</table>
-			<button
-				className="btn btn-sm"
-				disabled={limit >= ecos.length}
-				onClick={() => setLimit(limit + 5)}
+			<Table
+				data={ecos
+					.map(
+						(eco, index) =>
+							({
+								...eco,
+								popularityStr: kFormatter(eco.popularity),
+								userCountStr: kFormatter(eco.userCount),
+								rank: index + 1,
+							} as Row)
+					)
+					.filter(({ title }) =>
+						title.toLowerCase().includes(search.toLowerCase())
+					)
+					.slice(0, limit)}
 			>
-				Load more
-			</button>
-			<button
-				className="btn btn-sm"
-				disabled={limit >= ecos.length}
-				onClick={() => setLimit(ecos.length)}
-			>
-				Load all
-			</button>
+				<Table.Column<Row> prop="rank" label="Rank" />
+				<Table.Column<Row> prop="title" label="Ecosystem" />
+				<Table.Column<Row> prop="popularityStr">
+					Popularity{' '}
+					<Tooltip text={'How is popularity calculated?'} type="dark">
+						<Link href="faq#how-are-ecosystems-ranked">
+							<Avatar text="?" />
+						</Link>
+					</Tooltip>
+				</Table.Column>
+				<Table.Column<Row>
+					label="Developers"
+					prop="slug"
+					render={renderCtaColumn}
+				/>
+			</Table>
+
+			<Spacer />
+			<div className="flex justify-center">
+				<Button
+					disabled={limit >= ecos.length}
+					icon={<ChevronDown />}
+					onClick={() => setLimit(limit + PAGINATION)}
+					scale={1 / 2}
+					ghost
+					type="secondary"
+				>
+					Load {PAGINATION} more
+				</Button>
+				<Spacer />
+				<Button
+					disabled={limit >= ecos.length}
+					icon={<ChevronsDown />}
+					onClick={() => setLimit(ecos.length)}
+					scale={1 / 2}
+					ghost
+					type="secondary"
+				>
+					Load all {ecos.length}
+				</Button>
+			</div>
 		</>
 	);
 }

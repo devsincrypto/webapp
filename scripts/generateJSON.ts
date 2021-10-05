@@ -122,10 +122,12 @@ export async function main(): Promise<void> {
 	await Promise.all([genIndividualEcos(slugs, mb), genEcoUsers(slugs, mb)]);
 }
 
-main().catch((err) => {
-	console.error(err);
-	process.exit(1);
-});
+main()
+	.then(() => process.exit(0))
+	.catch((err) => {
+		console.error(err);
+		process.exit(1);
+	});
 
 /**
  * Create a directory if it does not exist.

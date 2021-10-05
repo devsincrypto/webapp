@@ -1,7 +1,8 @@
+import { Text } from '@geist-ui/react';
 import { GetStaticPaths, GetStaticProps } from 'next';
 import React from 'react';
 
-import { Nav, UserList } from '../../components';
+import { UserList } from '../../components';
 import { Ecosystem, User } from '../../db';
 import ecoSlugs from '../../db/json/ecosystems/slugs.json';
 import { kFormatter } from '../../util/format';
@@ -43,21 +44,16 @@ export default function Eco({
 }: EcosystemProps): React.ReactElement {
 	return (
 		<>
-			<Nav />
-			<div className="hero bg-gray">
-				<div className="hero-body">
-					<h1>{eco.title}</h1>
-					<p>
-						We found {kFormatter(eco.userCount)} developers scanning
-						through {kFormatter(eco.repoCount)} repositories in the{' '}
-						{eco.title} ecosystem.
-					</p>
-				</div>
+			<div>
+				<Text h1>{eco.title}</Text>
+				<Text p>
+					We found {kFormatter(eco.userCount)} developers scanning
+					through {kFormatter(eco.repoCount)} repositories in the{' '}
+					{eco.title} ecosystem.
+				</Text>
 			</div>
 
-			<div className="thin-container">
-				<UserList eco={eco} users={users} />
-			</div>
+			<UserList eco={eco} users={users} />
 		</>
 	);
 }

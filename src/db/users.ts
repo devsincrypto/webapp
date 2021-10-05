@@ -15,15 +15,15 @@ export function usersByEco(ecoSlug: string): User[] {
 			`
 SELECT
 	c.rowid as id,
-	github_login_masked as githubLoginMasked,
+	u.github_login_masked as githubLoginMasked,
 	u.github_login_encrypted as githubLoginEncrypted,
-	c.github_login_hashed as githubLoginHashed,
+	c.github_login_encrypted as githubLoginHashed,
 	SUM(c.commit_count * (r.stars + r.forks + r.watchers)) as score
 FROM commits c
 INNER JOIN repos r ON r.name = c.repo_name
 INNER JOIN ecosystem_repos er ON er.repo_name = r.name
 INNER JOIN ecosystems e ON e.slug = er.ecosystem_slug
-INNER JOIN users u ON u.github_login_hashed = c.github_login_hashed
+INNER JOIN users u ON u.github_login_encrypted = c.github_login_encrypted
 WHERE (e.slug = ? OR e.path LIKE ? OR e.path LIKE ?)
 GROUP BY githubLoginEncrypted
 ORDER BY score DESC;`
@@ -41,7 +41,7 @@ export function devsByMonth(): DevsByMonthResult[] {
 		.prepare(
 			`
 SELECT
-	COUNT(DISTINCT(c.github_login_hashed)) as userCount,
+	COUNT(DISTINCT(c.github_login_encrypted)) as userCount,
 	strftime('%Y-%m', c.created_at) as monthYear
 FROM commits c
 GROUP BY monthYear

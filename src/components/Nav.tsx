@@ -1,22 +1,29 @@
+import { Spacer, Tabs, Text } from '@geist-ui/react';
+import { useRouter } from 'next/dist/client/router';
 import Link from 'next/link';
 import React from 'react';
 
 export function Nav(): React.ReactElement {
+	const router = useRouter();
+
 	return (
-		<header className="navbar">
-			<section className="navbar-section">
+		<>
+			<Spacer />
+			<nav>
 				<Link href="/">
-					<a href="#" className="navbar-brand mr-2">
-						Devs in Crypto
-					</a>
+					<Text h3>Devs in Crypto</Text>
 				</Link>
-				<Link href="/analysis">
-					<button className="btn btn-link">Analysis</button>
-				</Link>
-				<Link href="/faq">
-					<button className="btn btn-link">FAQ</button>
-				</Link>
-			</section>
-		</header>
+			</nav>
+
+			<Tabs
+				initialValue="/"
+				onChange={(v) => router.push(v)}
+				value={router.asPath}
+			>
+				<Tabs.Item label="Home" value="/" />
+				<Tabs.Item label="Analysis" value="/analysis"></Tabs.Item>
+				<Tabs.Item label="F.A.Q." value="/faq"></Tabs.Item>
+			</Tabs>
+		</>
 	);
 }
