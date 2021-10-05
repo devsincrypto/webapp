@@ -34,7 +34,7 @@ yarn-error.log*
 .vercel
 
 # DB
-*.sqlite*
+*.sqlite
 *.db
 
 # Secrets
