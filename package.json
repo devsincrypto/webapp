@@ -16,7 +16,7 @@
 		"@sentry/nextjs": "^6.13.2",
 		"@types/better-sqlite3": "^5.4.2",
 		"better-sqlite3": "^7.4.3",
-		"chart.js": "^3.4.1",
+		"chart.js": "^3.5.1",
 		"next": "11.1.2",
 		"react": "17.0.2",
 		"react-chartjs-2": "^3.0.3",
