@@ -13,7 +13,7 @@
 		"@geist-ui/react": "^2.2.0",
 		"@geist-ui/react-icons": "^1.0.1",
 		"@papercups-io/chat-widget": "^1.1.10",
-		"@sentry/nextjs": "^6.12.0",
+		"@sentry/nextjs": "^6.13.2",
 		"@types/better-sqlite3": "^5.4.2",
 		"better-sqlite3": "^7.4.3",
 		"chart.js": "^3.4.1",
