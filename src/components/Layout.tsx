@@ -61,7 +61,7 @@ export function Layout({ children }: LayoutProps): ReactElement {
 			</div>
 
 			<ChatWidget
-				accountId="b07f8a0a-cbf8-4f8d-9e9b-b321f4d87eb4"
+				token="b07f8a0a-cbf8-4f8d-9e9b-b321f4d87eb4"
 				title="Welcome to Devs in Crypto"
 				subtitle="Ask me anything in the chat window below."
 				primaryColor="#44486d"
