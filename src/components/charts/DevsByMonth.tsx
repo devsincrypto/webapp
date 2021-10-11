@@ -1,4 +1,4 @@
-import type { ChartData } from 'chart.js';
+import type { ChartData, ChartOptions } from 'chart.js';
 import React from 'react';
 import { Line } from 'react-chartjs-2';
 
@@ -16,8 +16,10 @@ const buildData = (devsByMonth: DevsByMonthResult[]): ChartData => ({
 	],
 });
 
-const options = {
+const options: ChartOptions = {
 	scales: {
+		// eslint-disable-next-line
+		// @ts-ignore FIXME How to fix this typing error?
 		yAxes: [
 			{
 				ticks: {
@@ -42,7 +44,7 @@ export function DevsByMonth({
 				There seems to be a slight downwards pattern in monthly active
 				developers since 2018.
 			</p>
-			<Line data={buildData(devsByMonth)} options={options} type="line" />
+			<Line data={buildData(devsByMonth)} options={options} />
 		</>
 	);
 }
