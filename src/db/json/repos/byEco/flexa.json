@@ -1,5 +1,17 @@
 [
 	{
+		"forks": 14,
+		"name": "amptoken/amp-token-contracts",
+		"stars": 42,
+		"watchers": 0,
+		"repo_name": "amptoken/amp-token-contracts",
+		"ecosystem_slug": "amp",
+		"parent_slug": "flexa",
+		"path": "ethereum/flexa/amp",
+		"slug": "amp",
+		"title": "Amp"
+	},
+	{
 		"forks": 2,
 		"name": "flexahq/flexa-collateral-manager",
 		"stars": 8,
@@ -22,5 +34,17 @@
 		"path": "ethereum/flexa",
 		"slug": "flexa",
 		"title": "Flexa"
+	},
+	{
+		"forks": 2,
+		"name": "amptoken/snapshot-spaces",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "amptoken/snapshot-spaces",
+		"ecosystem_slug": "amp",
+		"parent_slug": "flexa",
+		"path": "ethereum/flexa/amp",
+		"slug": "amp",
+		"title": "Amp"
 	}
 ]

@@ -1,9 +1,10 @@
-import { Text } from '@geist-ui/react';
+import { Spacer, Text } from '@geist-ui/react';
 import { GetStaticPaths, GetStaticProps } from 'next';
 import React from 'react';
 
 import { UserList } from '../../components';
-import { Ecosystem, User } from '../../db';
+import { RepoList } from '../../components/RepoList';
+import { Ecosystem, Repo, User } from '../../db';
 import ecoSlugs from '../../db/json/ecosystems/slugs.json';
 import { kFormatter } from '../../util/format';
 
@@ -24,22 +25,27 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 	const eco = ((await import(
 		`../../db/json/ecosystems/bySlug/${ecoSlug}.json`
 	)) as { default: Ecosystem }).default;
+	const repos = ((await import(
+		`../../db/json/repos/byEco/${ecoSlug}.json`
+	)) as { default: Repo[] }).default;
 	const users = ((await import(
 		`../../db/json/users/byEco/${ecoSlug}.json`
 	)) as { default: User[] }).default;
 
 	return {
-		props: { eco, users },
+		props: { eco, repos, users },
 	};
 };
 
 interface EcosystemProps {
 	eco: Ecosystem;
+	repos: Repo[];
 	users: User[];
 }
 
 export default function Eco({
 	eco,
+	repos,
 	users,
 }: EcosystemProps): React.ReactElement {
 	return (
@@ -54,6 +60,8 @@ export default function Eco({
 			</div>
 
 			<UserList eco={eco} users={users} />
+			<Spacer h={5} />
+			<RepoList eco={eco} repos={repos} />
 		</>
 	);
 }

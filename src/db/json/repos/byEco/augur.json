@@ -132,6 +132,78 @@
 		"title": "Augur"
 	},
 	{
+		"forks": 9,
+		"name": "veilco/augur-lite",
+		"stars": 30,
+		"watchers": 0,
+		"repo_name": "veilco/augur-lite",
+		"ecosystem_slug": "veil",
+		"parent_slug": "augur",
+		"path": "ethereum/augur/veil",
+		"slug": "veil",
+		"title": "Veil"
+	},
+	{
+		"forks": 9,
+		"name": "veilco/veil-market-creation",
+		"stars": 23,
+		"watchers": 0,
+		"repo_name": "veilco/veil-market-creation",
+		"ecosystem_slug": "veil",
+		"parent_slug": "augur",
+		"path": "ethereum/augur/veil",
+		"slug": "veil",
+		"title": "Veil"
+	},
+	{
+		"forks": 15,
+		"name": "veilco/veil-contracts",
+		"stars": 17,
+		"watchers": 0,
+		"repo_name": "veilco/veil-contracts",
+		"ecosystem_slug": "veil",
+		"parent_slug": "augur",
+		"path": "ethereum/augur/veil",
+		"slug": "veil",
+		"title": "Veil"
+	},
+	{
+		"forks": 9,
+		"name": "veilco/veil-sample-tradebot",
+		"stars": 17,
+		"watchers": 0,
+		"repo_name": "veilco/veil-sample-tradebot",
+		"ecosystem_slug": "veil",
+		"parent_slug": "augur",
+		"path": "ethereum/augur/veil",
+		"slug": "veil",
+		"title": "Veil"
+	},
+	{
+		"forks": 5,
+		"name": "veilco/veil-js",
+		"stars": 17,
+		"watchers": 0,
+		"repo_name": "veilco/veil-js",
+		"ecosystem_slug": "veil",
+		"parent_slug": "augur",
+		"path": "ethereum/augur/veil",
+		"slug": "veil",
+		"title": "Veil"
+	},
+	{
+		"forks": 7,
+		"name": "veilco/predictions.global",
+		"stars": 13,
+		"watchers": 0,
+		"repo_name": "veilco/predictions.global",
+		"ecosystem_slug": "veil",
+		"parent_slug": "augur",
+		"path": "ethereum/augur/veil",
+		"slug": "veil",
+		"title": "Veil"
+	},
+	{
 		"forks": 7,
 		"name": "aug-dao/catnip",
 		"stars": 12,
@@ -142,6 +214,18 @@
 		"path": "ethereum/augur",
 		"slug": "augur",
 		"title": "Augur"
+	},
+	{
+		"forks": 4,
+		"name": "veilco/veil-api-docs",
+		"stars": 14,
+		"watchers": 0,
+		"repo_name": "veilco/veil-api-docs",
+		"ecosystem_slug": "veil",
+		"parent_slug": "augur",
+		"path": "ethereum/augur/veil",
+		"slug": "veil",
+		"title": "Veil"
 	},
 	{
 		"forks": 6,
@@ -322,6 +406,30 @@
 		"path": "ethereum/augur",
 		"slug": "augur",
 		"title": "Augur"
+	},
+	{
+		"forks": 4,
+		"name": "veilco/augur-analyzer",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "veilco/augur-analyzer",
+		"ecosystem_slug": "veil",
+		"parent_slug": "augur",
+		"path": "ethereum/augur/veil",
+		"slug": "veil",
+		"title": "Veil"
+	},
+	{
+		"forks": 4,
+		"name": "veilco/augur-node",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "veilco/augur-node",
+		"ecosystem_slug": "veil",
+		"parent_slug": "augur",
+		"path": "ethereum/augur/veil",
+		"slug": "veil",
+		"title": "Veil"
 	},
 	{
 		"forks": 2,

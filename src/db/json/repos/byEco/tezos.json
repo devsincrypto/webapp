@@ -1632,6 +1632,18 @@
 		"title": "Tezos"
 	},
 	{
+		"forks": 3,
+		"name": "DAObaker/staking-economy",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "DAObaker/staking-economy",
+		"ecosystem_slug": "blockswap-network",
+		"parent_slug": "tezos",
+		"path": "tezos/blockswap-network",
+		"slug": "blockswap-network",
+		"title": "Blockswap Network"
+	},
+	{
 		"forks": 2,
 		"name": "t3wallet/T3Wallet",
 		"stars": 8,
@@ -6058,6 +6070,18 @@
 		"path": "tezos",
 		"slug": "tezos",
 		"title": "Tezos"
+	},
+	{
+		"forks": 0,
+		"name": "DAObaker/baker-ui",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "DAObaker/baker-ui",
+		"ecosystem_slug": "blockswap-network",
+		"parent_slug": "tezos",
+		"path": "tezos/blockswap-network",
+		"slug": "blockswap-network",
+		"title": "Blockswap Network"
 	},
 	{
 		"forks": 0,

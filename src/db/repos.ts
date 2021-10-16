@@ -12,11 +12,11 @@ export function byEcosystem(ecoSlug: string): Repo[] {
 		.prepare(
 			`
 SELECT *
-FROM repos
-INNER JOIN ecosystem_repos on ecosystem_repos.repo_name = repos.name
-INNER JOIN ecosystems on ecosystem_repos.ecosystem_slug = ecosystems.slug
-WHERE ecosystems.slug = ?
-ORDER BY repos.forks + repos.stars + repos.watchers DESC;`
+FROM repos r
+INNER JOIN ecosystem_repos er on er.repo_name = r.name
+INNER JOIN ecosystems e on er.ecosystem_slug = e.slug
+WHERE e.slug = ? OR e.path LIKE ? OR e.path LIKE ?
+ORDER BY r.forks + r.stars + r.watchers DESC;`
 		)
-		.all(ecoSlug) as Repo[];
+		.all(ecoSlug, `${ecoSlug}/%`, `%/${ecoSlug}/%`) as Repo[];
 }

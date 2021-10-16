@@ -204,6 +204,18 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 421,
+		"name": "tari-project/tari",
+		"stars": 248,
+		"watchers": 0,
+		"repo_name": "tari-project/tari",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 65,
 		"name": "bradoyler/xmr-miner",
 		"stars": 522,
@@ -346,6 +358,18 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 53,
+		"name": "tari-labs/tari-university",
+		"stars": 190,
+		"watchers": 0,
+		"repo_name": "tari-labs/tari-university",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 41,
@@ -1044,6 +1068,18 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 3,
+		"name": "tari-labs/tari",
+		"stars": 41,
+		"watchers": 0,
+		"repo_name": "tari-labs/tari",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 18,
 		"name": "xmrig/xmrig-config",
 		"stars": 25,
@@ -1104,6 +1140,30 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 17,
+		"name": "tari-project/wallet-android",
+		"stars": 21,
+		"watchers": 0,
+		"repo_name": "tari-project/wallet-android",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 17,
+		"name": "tari-project/wallet-ios",
+		"stars": 20,
+		"watchers": 0,
+		"repo_name": "tari-project/wallet-ios",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 22,
 		"name": "monero-project/monero-forum",
 		"stars": 14,
@@ -1138,6 +1198,18 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 14,
+		"name": "big-neon/bn-api",
+		"stars": 21,
+		"watchers": 0,
+		"repo_name": "big-neon/bn-api",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 32,
@@ -1380,6 +1452,18 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 18,
+		"name": "tari-project/tari-dot-com",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "tari-project/tari-dot-com",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 9,
 		"name": "monero-ecosystem/monero-cpp",
 		"stars": 16,
@@ -1428,6 +1512,18 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 16,
+		"name": "tari-project/block-explorer-frontend",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "tari-project/block-explorer-frontend",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 2,
 		"name": "jklepatch/awesome-monero",
 		"stars": 22,
@@ -1462,6 +1558,18 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 13,
+		"name": "tari-project/tari-crypto",
+		"stars": 10,
+		"watchers": 0,
+		"repo_name": "tari-project/tari-crypto",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 14,
@@ -1704,6 +1812,30 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 12,
+		"name": "tari-project/blockchain-explorer-api",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "tari-project/blockchain-explorer-api",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 12,
+		"name": "big-neon/bn-web",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "big-neon/bn-web",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 2,
 		"name": "ph4r05/monero-trezor-doc",
 		"stars": 13,
@@ -1920,6 +2052,18 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 3,
+		"name": "big-neon/bigneon",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "big-neon/bigneon",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 2,
 		"name": "WooKeyWallet/monero-nodes",
 		"stars": 9,
@@ -1942,6 +2086,42 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 8,
+		"name": "big-neon/bn-mobile-react",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "big-neon/bn-mobile-react",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 5,
+		"name": "tari-project/randomx-rs",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "tari-project/randomx-rs",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 3,
+		"name": "tari-labs/libsecp256k1",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "tari-labs/libsecp256k1",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 9,
@@ -2041,6 +2221,18 @@
 	},
 	{
 		"forks": 4,
+		"name": "tari-project/RFC",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "tari-project/RFC",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 4,
 		"name": "monero-ecosystem/pymonero",
 		"stars": 5,
 		"watchers": 0,
@@ -2124,6 +2316,18 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 6,
+		"name": "tari-project/wallet-grpc-client",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "tari-project/wallet-grpc-client",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 2,
 		"name": "00-matt/moneropool",
 		"stars": 6,
@@ -2146,6 +2350,18 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 6,
+		"name": "tari-project/tari_utilities",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "tari-project/tari_utilities",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 1,
@@ -2280,6 +2496,18 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 2,
+		"name": "big-neon/bn-ios",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "big-neon/bn-ios",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 1,
 		"name": "bradoyler/xmr-paper",
 		"stars": 5,
@@ -2338,6 +2566,18 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 3,
+		"name": "tari-project/bulletproofs",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "tari-project/bulletproofs",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 4,
@@ -2449,6 +2689,18 @@
 	},
 	{
 		"forks": 2,
+		"name": "tari-project/desktop-client",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "tari-project/desktop-client",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 2,
 		"name": "mymonero/mymonero-exchange-js",
 		"stars": 3,
 		"watchers": 0,
@@ -2496,6 +2748,30 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 2,
+		"name": "big-neon/docs",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "big-neon/docs",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 1,
+		"name": "big-neon/bn-db",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "big-neon/bn-db",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 1,
 		"name": "EZForever/HiveMiner",
 		"stars": 4,
@@ -2506,6 +2782,42 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 2,
+		"name": "tari-project/pubsub",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "tari-project/pubsub",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 4,
+		"name": "tari-project/tari-config-generator",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/tari-config-generator",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 4,
+		"name": "tari-project/nodejs-pool",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/nodejs-pool",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 3,
@@ -2554,6 +2866,18 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 4,
+		"name": "tari-project/poolui",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/poolui",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 4,
@@ -2628,6 +2952,18 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 3,
+		"name": "tari-project/action-buildlibs",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "tari-project/action-buildlibs",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 0,
 		"name": "alexeyneu/tool3",
 		"stars": 3,
@@ -2653,6 +2989,18 @@
 	},
 	{
 		"forks": 1,
+		"name": "big-neon/filebeats",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "big-neon/filebeats",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 1,
 		"name": "MarinX/monerorpc",
 		"stars": 2,
 		"watchers": 0,
@@ -2662,6 +3010,30 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 2,
+		"name": "big-neon/bn-android-doorperson",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "big-neon/bn-android-doorperson",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 2,
+		"name": "tari-project/broadcast_channel",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "tari-project/broadcast_channel",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 1,
@@ -2748,6 +3120,30 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 1,
+		"name": "tari-project/validator-node",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "tari-project/validator-node",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 2,
+		"name": "big-neon/bn-about",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "big-neon/bn-about",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 0,
 		"name": "roccomuso/xmr.to",
 		"stars": 3,
@@ -2770,6 +3166,18 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 2,
+		"name": "tari-project/tari_node_controller",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/tari_node_controller",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 1,
@@ -2796,6 +3204,54 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 2,
+		"name": "tari-project/tari-data-analysis",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/tari-data-analysis",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 1,
+		"name": "tari-labs/docker",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "tari-labs/docker",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 2,
+		"name": "tari-project/node-cryptonight-hashing",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/node-cryptonight-hashing",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 1,
+		"name": "tari-project/tari-wallet-grpc-client",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "tari-project/tari-wallet-grpc-client",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 0,
 		"name": "ph4r05/ledger-app-monero-1.42-vuln",
 		"stars": 2,
@@ -2818,6 +3274,18 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 2,
+		"name": "tari-project/bus-queue",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/bus-queue",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 0,
@@ -2866,6 +3334,42 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 2,
+		"name": "big-neon/expo-server-sdk-rust",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "big-neon/expo-server-sdk-rust",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 2,
+		"name": "tari-project/deploy",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/deploy",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 1,
+		"name": "big-neon/bn-api-node",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "big-neon/bn-api-node",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 2,
@@ -2928,6 +3432,30 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 1,
+		"name": "tari-project/xmrig",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/xmrig",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 0,
+		"name": "tari-labs/pacman",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "tari-labs/pacman",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 0,
 		"name": "xmr-ru/news_xmr",
 		"stars": 1,
@@ -2952,6 +3480,18 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 1,
+		"name": "tari-labs/modelling",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-labs/modelling",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 0,
 		"name": "monerorus/wp",
 		"stars": 1,
@@ -2962,6 +3502,18 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 1,
+		"name": "tari-project/qt_wallet",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/qt_wallet",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 1,
@@ -2977,6 +3529,18 @@
 	},
 	{
 		"forks": 1,
+		"name": "tari-project/base_node_grpc_client",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/base_node_grpc_client",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 1,
 		"name": "monero-ecosystem/XMR-ETA",
 		"stars": 0,
 		"watchers": 0,
@@ -2986,6 +3550,18 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 1,
+		"name": "tari-project/rust-libp2p",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/rust-libp2p",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 0,
@@ -3012,6 +3588,54 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 1,
+		"name": "tari-project/rust-multiaddr",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/rust-multiaddr",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 0,
+		"name": "big-neon/bn-web-admin-demo",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "big-neon/bn-web-admin-demo",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 1,
+		"name": "tari-project/tokio-socks",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/tokio-socks",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 1,
+		"name": "tari-project/snow",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/snow",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 0,
 		"name": "gg2001/monero-ios",
 		"stars": 1,
@@ -3036,6 +3660,18 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 1,
+		"name": "big-neon/twilio-rs",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "big-neon/twilio-rs",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 0,
 		"name": "CipherDogs/gilfoyle-monero-alert",
 		"stars": 1,
@@ -3048,6 +3684,30 @@
 		"title": "Monero"
 	},
 	{
+		"forks": 1,
+		"name": "tari-project/tari-website",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/tari-website",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 1,
+		"name": "tari-project/yamux",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/yamux",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
 		"forks": 0,
 		"name": "amiuhle/monero-docker",
 		"stars": 0,
@@ -3058,6 +3718,66 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 0,
+		"name": "tari-labs/actix-broker",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-labs/actix-broker",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 0,
+		"name": "big-neon/bn-cube",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "big-neon/bn-cube",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 0,
+		"name": "tari-labs/ios_aurora_push",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-labs/ios_aurora_push",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 0,
+		"name": "tari-labs/yamux",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-labs/yamux",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 0,
+		"name": "big-neon/bn-front-door",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "big-neon/bn-front-door",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 0,
@@ -3094,6 +3814,18 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 0,
+		"name": "tari-labs/openapi-generator",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-labs/openapi-generator",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 0,
@@ -3157,6 +3889,18 @@
 	},
 	{
 		"forks": 0,
+		"name": "big-neon/diesel",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "big-neon/diesel",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 0,
 		"name": "shavidzet/monero-node-docker-miner",
 		"stars": 0,
 		"watchers": 0,
@@ -3166,6 +3910,18 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 0,
+		"name": "tari-labs/widdershins",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-labs/widdershins",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 0,
@@ -3241,6 +3997,30 @@
 	},
 	{
 		"forks": 0,
+		"name": "tari-project/tower",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-project/tower",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 0,
+		"name": "tari-labs/tari-crypto-ios",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-labs/tari-crypto-ios",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 0,
 		"name": "mymonero/mymonero-fraud-monitor",
 		"stars": 0,
 		"watchers": 0,
@@ -3289,6 +4069,18 @@
 	},
 	{
 		"forks": 0,
+		"name": "tari-labs/paperclip",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-labs/paperclip",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 0,
 		"name": "MorganPeterson/monero-explorer",
 		"stars": 0,
 		"watchers": 0,
@@ -3310,6 +4102,18 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 0,
+		"name": "tari-labs/tari-crypto-android",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-labs/tari-crypto-android",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 0,
@@ -3346,6 +4150,18 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 0,
+		"name": "tari-labs/in-60-seconds",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-labs/in-60-seconds",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 0,
@@ -3421,6 +4237,18 @@
 	},
 	{
 		"forks": 0,
+		"name": "big-neon/scratchpad",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "big-neon/scratchpad",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
+	},
+	{
+		"forks": 0,
 		"name": "monero-ecosystem/bip39-monero",
 		"stars": 0,
 		"watchers": 0,
@@ -3430,6 +4258,18 @@
 		"path": "monero",
 		"slug": "monero",
 		"title": "Monero"
+	},
+	{
+		"forks": 0,
+		"name": "tari-labs/rust-playground",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tari-labs/rust-playground",
+		"ecosystem_slug": "tari",
+		"parent_slug": "monero",
+		"path": "monero/tari",
+		"slug": "tari",
+		"title": "Tari"
 	},
 	{
 		"forks": 0,

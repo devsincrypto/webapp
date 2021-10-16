@@ -288,6 +288,18 @@
 		"title": "Near Protocol"
 	},
 	{
+		"forks": 23,
+		"name": "Mintbase/create-mintbase-app",
+		"stars": 25,
+		"watchers": 0,
+		"repo_name": "Mintbase/create-mintbase-app",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
+	},
+	{
 		"forks": 17,
 		"name": "near-examples/FT",
 		"stars": 26,
@@ -576,6 +588,18 @@
 		"title": "Near Protocol"
 	},
 	{
+		"forks": 4,
+		"name": "fluxprotocol/flux-protocol",
+		"stars": 18,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/flux-protocol",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
+	},
+	{
 		"forks": 9,
 		"name": "nearprotocol/near-shell",
 		"stars": 12,
@@ -586,6 +610,30 @@
 		"path": "near-protocol",
 		"slug": "near-protocol",
 		"title": "Near Protocol"
+	},
+	{
+		"forks": 11,
+		"name": "Mintbase/mintbase-bridge",
+		"stars": 10,
+		"watchers": 0,
+		"repo_name": "Mintbase/mintbase-bridge",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
+	},
+	{
+		"forks": 3,
+		"name": "fluxprotocol/flux-index-node",
+		"stars": 17,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/flux-index-node",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
 	},
 	{
 		"forks": 3,
@@ -648,6 +696,18 @@
 		"title": "Near Protocol"
 	},
 	{
+		"forks": 4,
+		"name": "fluxprotocol/flux-capacitor",
+		"stars": 15,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/flux-capacitor",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
+	},
+	{
 		"forks": 9,
 		"name": "robert-zaremba/near-clp",
 		"stars": 8,
@@ -672,6 +732,18 @@
 		"title": "Near Protocol"
 	},
 	{
+		"forks": 5,
+		"name": "fluxprotocol/amm",
+		"stars": 11,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/amm",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
+	},
+	{
 		"forks": 1,
 		"name": "nearprotocol/near-bridge",
 		"stars": 15,
@@ -689,11 +761,35 @@
 		"stars": 13,
 		"watchers": 0,
 		"repo_name": "fluxprotocol/flux-sdk",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
+	},
+	{
+		"forks": 2,
+		"name": "fluxprotocol/flux-sdk",
+		"stars": 13,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/flux-sdk",
 		"ecosystem_slug": "near-protocol",
 		"parent_slug": null,
 		"path": "near-protocol",
 		"slug": "near-protocol",
 		"title": "Near Protocol"
+	},
+	{
+		"forks": 4,
+		"name": "fluxprotocol/flux-demo",
+		"stars": 11,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/flux-demo",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
 	},
 	{
 		"forks": 6,
@@ -706,6 +802,30 @@
 		"path": "near-protocol",
 		"slug": "near-protocol",
 		"title": "Near Protocol"
+	},
+	{
+		"forks": 2,
+		"name": "Mintbase/near-nft-standards",
+		"stars": 13,
+		"watchers": 0,
+		"repo_name": "Mintbase/near-nft-standards",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
+	},
+	{
+		"forks": 4,
+		"name": "fluxprotocol/beta",
+		"stars": 10,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/beta",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
 	},
 	{
 		"forks": 3,
@@ -754,6 +874,30 @@
 		"path": "near-protocol",
 		"slug": "near-protocol",
 		"title": "Near Protocol"
+	},
+	{
+		"forks": 0,
+		"name": "Mintbase/mintbase-js",
+		"stars": 11,
+		"watchers": 0,
+		"repo_name": "Mintbase/mintbase-js",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
+	},
+	{
+		"forks": 3,
+		"name": "Mintbase/graph-mint-factory",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "Mintbase/graph-mint-factory",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
 	},
 	{
 		"forks": 5,
@@ -862,6 +1006,18 @@
 		"path": "near-protocol",
 		"slug": "near-protocol",
 		"title": "Near Protocol"
+	},
+	{
+		"forks": 3,
+		"name": "Mintbase/mintbase-near-indexer",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "Mintbase/mintbase-near-indexer",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
 	},
 	{
 		"forks": 2,
@@ -982,6 +1138,18 @@
 		"path": "near-protocol",
 		"slug": "near-protocol",
 		"title": "Near Protocol"
+	},
+	{
+		"forks": 6,
+		"name": "fluxprotocol/oracle-monorepo",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/oracle-monorepo",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
 	},
 	{
 		"forks": 3,
@@ -1150,6 +1318,18 @@
 		"path": "near-protocol",
 		"slug": "near-protocol",
 		"title": "Near Protocol"
+	},
+	{
+		"forks": 3,
+		"name": "Mintbase/near-wallet",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "Mintbase/near-wallet",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
 	},
 	{
 		"forks": 3,
@@ -1609,6 +1789,18 @@
 	},
 	{
 		"forks": 1,
+		"name": "Mintbase/mintbase-issues",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "Mintbase/mintbase-issues",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
+	},
+	{
+		"forks": 1,
 		"name": "near/near-api-unity",
 		"stars": 3,
 		"watchers": 0,
@@ -2028,6 +2220,18 @@
 		"title": "Near Protocol"
 	},
 	{
+		"forks": 0,
+		"name": "fluxprotocol/flux-lob",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/flux-lob",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
+	},
+	{
 		"forks": 1,
 		"name": "near/multistaker",
 		"stars": 2,
@@ -2122,6 +2326,18 @@
 		"path": "near-protocol",
 		"slug": "near-protocol",
 		"title": "Near Protocol"
+	},
+	{
+		"forks": 1,
+		"name": "Mintbase/flux-index-node",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "Mintbase/flux-index-node",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
 	},
 	{
 		"forks": 0,
@@ -2377,6 +2593,30 @@
 	},
 	{
 		"forks": 0,
+		"name": "fluxprotocol/flux-demo-2.0",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/flux-demo-2.0",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
+	},
+	{
+		"forks": 0,
+		"name": "fluxprotocol/nep122-implementation-demo",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/nep122-implementation-demo",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
+	},
+	{
+		"forks": 0,
 		"name": "near-examples/hackathon-starter-kit",
 		"stars": 2,
 		"watchers": 0,
@@ -2434,6 +2674,30 @@
 		"path": "near-protocol",
 		"slug": "near-protocol",
 		"title": "Near Protocol"
+	},
+	{
+		"forks": 0,
+		"name": "Mintbase/graph-oldmints",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "Mintbase/graph-oldmints",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
+	},
+	{
+		"forks": 1,
+		"name": "fluxprotocol/dao-app",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/dao-app",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
 	},
 	{
 		"forks": 1,
@@ -2530,6 +2794,18 @@
 		"path": "near-protocol",
 		"slug": "near-protocol",
 		"title": "Near Protocol"
+	},
+	{
+		"forks": 1,
+		"name": "fluxprotocol/flux-sdk-amm",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/flux-sdk-amm",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
 	},
 	{
 		"forks": 1,
@@ -2761,6 +3037,18 @@
 	},
 	{
 		"forks": 0,
+		"name": "fluxprotocol/oracle",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/oracle",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
+	},
+	{
+		"forks": 0,
 		"name": "kulapio/kulap-near-token-airdrop-poc",
 		"stars": 1,
 		"watchers": 0,
@@ -2830,6 +3118,18 @@
 		"path": "near-protocol",
 		"slug": "near-protocol",
 		"title": "Near Protocol"
+	},
+	{
+		"forks": 0,
+		"name": "fluxprotocol/amm-sdk",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/amm-sdk",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
 	},
 	{
 		"forks": 0,
@@ -3373,6 +3673,18 @@
 	},
 	{
 		"forks": 0,
+		"name": "fluxprotocol/amm-graphql-api",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/amm-graphql-api",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
+	},
+	{
+		"forks": 0,
 		"name": "Robbiekruszynski/NEAR-boiler",
 		"stars": 0,
 		"watchers": 0,
@@ -3682,6 +3994,18 @@
 		"path": "near-protocol",
 		"slug": "near-protocol",
 		"title": "Near Protocol"
+	},
+	{
+		"forks": 0,
+		"name": "fluxprotocol/flux-dao-0.5",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/flux-dao-0.5",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
 	},
 	{
 		"forks": 0,
@@ -4069,6 +4393,18 @@
 	},
 	{
 		"forks": 0,
+		"name": "fluxprotocol/flux-sdk-am",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/flux-sdk-am",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
+	},
+	{
+		"forks": 0,
 		"name": "nearprotocol/_archived_tendermint-explorer",
 		"stars": 0,
 		"watchers": 0,
@@ -4393,6 +4729,18 @@
 	},
 	{
 		"forks": 0,
+		"name": "fluxprotocol/oracle-explorer-fe",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/oracle-explorer-fe",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
+	},
+	{
+		"forks": 0,
 		"name": "nearprotocol/near-devtools",
 		"stars": 0,
 		"watchers": 0,
@@ -4582,6 +4930,18 @@
 		"path": "near-protocol",
 		"slug": "near-protocol",
 		"title": "Near Protocol"
+	},
+	{
+		"forks": 0,
+		"name": "fluxprotocol/oracle-explorer-api",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/oracle-explorer-api",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
 	},
 	{
 		"forks": 0,

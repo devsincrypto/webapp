@@ -816,6 +816,18 @@
 		"title": "Lightning"
 	},
 	{
+		"forks": 17,
+		"name": "sparkswap/sparkswap-desktop",
+		"stars": 42,
+		"watchers": 0,
+		"repo_name": "sparkswap/sparkswap-desktop",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
+	},
+	{
 		"forks": 8,
 		"name": "ElementsProject/wordpress-lightning-publisher",
 		"stars": 50,
@@ -838,6 +850,18 @@
 		"path": "bitcoin/lightning",
 		"slug": "lightning",
 		"title": "Lightning"
+	},
+	{
+		"forks": 16,
+		"name": "sparkswap/broker",
+		"stars": 40,
+		"watchers": 0,
+		"repo_name": "sparkswap/broker",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
 	},
 	{
 		"forks": 31,
@@ -994,6 +1018,18 @@
 		"path": "bitcoin/lightning",
 		"slug": "lightning",
 		"title": "Lightning"
+	},
+	{
+		"forks": 10,
+		"name": "sparkswap/lnd-engine",
+		"stars": 33,
+		"watchers": 0,
+		"repo_name": "sparkswap/lnd-engine",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
 	},
 	{
 		"forks": 7,
@@ -1486,6 +1522,18 @@
 		"path": "bitcoin/lightning",
 		"slug": "lightning",
 		"title": "Lightning"
+	},
+	{
+		"forks": 4,
+		"name": "sparkswap/broker-cli",
+		"stars": 11,
+		"watchers": 0,
+		"repo_name": "sparkswap/broker-cli",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
 	},
 	{
 		"forks": 2,
@@ -2052,6 +2100,18 @@
 		"title": "Lightning"
 	},
 	{
+		"forks": 2,
+		"name": "sparkswap/orderbook-viewer",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "sparkswap/orderbook-viewer",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
+	},
+	{
 		"forks": 3,
 		"name": "solidpayorg/lightning.money",
 		"stars": 2,
@@ -2268,6 +2328,18 @@
 		"title": "Lightning"
 	},
 	{
+		"forks": 1,
+		"name": "sparkswap/lnd",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "sparkswap/lnd",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
+	},
+	{
 		"forks": 0,
 		"name": "solidpayorg/webvouchers",
 		"stars": 3,
@@ -2424,6 +2496,18 @@
 		"title": "Lightning"
 	},
 	{
+		"forks": 1,
+		"name": "sparkswap/sparkbot",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "sparkswap/sparkbot",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
+	},
+	{
 		"forks": 0,
 		"name": "apotdevin/thunderhub-server",
 		"stars": 2,
@@ -2568,6 +2652,18 @@
 		"title": "Lightning"
 	},
 	{
+		"forks": 1,
+		"name": "sparkswap/cli-table2",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "sparkswap/cli-table2",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
+	},
+	{
 		"forks": 0,
 		"name": "tdickman/auto-loop",
 		"stars": 2,
@@ -2578,6 +2674,42 @@
 		"path": "bitcoin/lightning",
 		"slug": "lightning",
 		"title": "Lightning"
+	},
+	{
+		"forks": 1,
+		"name": "sparkswap/hosted-broker-config",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "sparkswap/hosted-broker-config",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
+	},
+	{
+		"forks": 1,
+		"name": "sparkswap/redirect",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "sparkswap/redirect",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
+	},
+	{
+		"forks": 1,
+		"name": "sparkswap/typeform-now",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "sparkswap/typeform-now",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
 	},
 	{
 		"forks": 2,
@@ -2602,6 +2734,18 @@
 		"path": "bitcoin/lightning",
 		"slug": "lightning",
 		"title": "Lightning"
+	},
+	{
+		"forks": 0,
+		"name": "sparkswap/ccxt",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "sparkswap/ccxt",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
 	},
 	{
 		"forks": 1,
@@ -2677,6 +2821,18 @@
 	},
 	{
 		"forks": 1,
+		"name": "sparkswap/slate",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "sparkswap/slate",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
+	},
+	{
+		"forks": 1,
 		"name": "Tierion/lsat-playground",
 		"stars": 0,
 		"watchers": 0,
@@ -2700,6 +2856,18 @@
 		"title": "Lightning"
 	},
 	{
+		"forks": 1,
+		"name": "sparkswap/grpc-methods",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "sparkswap/grpc-methods",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
+	},
+	{
 		"forks": 0,
 		"name": "breez/ShareExtend",
 		"stars": 1,
@@ -2710,6 +2878,18 @@
 		"path": "bitcoin/lightning",
 		"slug": "lightning",
 		"title": "Lightning"
+	},
+	{
+		"forks": 1,
+		"name": "sparkswap/relayer-proto",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "sparkswap/relayer-proto",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
 	},
 	{
 		"forks": 1,
@@ -2736,6 +2916,18 @@
 		"title": "Lightning"
 	},
 	{
+		"forks": 1,
+		"name": "sparkswap/btcutil",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "sparkswap/btcutil",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
+	},
+	{
 		"forks": 0,
 		"name": "edouardparis/lnrpc",
 		"stars": 1,
@@ -2758,6 +2950,18 @@
 		"path": "bitcoin/lightning",
 		"slug": "lightning",
 		"title": "Lightning"
+	},
+	{
+		"forks": 1,
+		"name": "sparkswap/ltcwallet",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "sparkswap/ltcwallet",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
 	},
 	{
 		"forks": 0,
@@ -2950,6 +3154,18 @@
 		"path": "bitcoin/lightning",
 		"slug": "lightning",
 		"title": "Lightning"
+	},
+	{
+		"forks": 1,
+		"name": "sparkswap/lnd-help",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "sparkswap/lnd-help",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
 	},
 	{
 		"forks": 0,
@@ -3325,6 +3541,18 @@
 	},
 	{
 		"forks": 0,
+		"name": "sparkswap/grpc-dynamic-gateway",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "sparkswap/grpc-dynamic-gateway",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
+	},
+	{
+		"forks": 0,
 		"name": "lnpay/node-lightning-gifts",
 		"stars": 0,
 		"watchers": 0,
@@ -3574,6 +3802,18 @@
 		"path": "bitcoin/lightning",
 		"slug": "lightning",
 		"title": "Lightning"
+	},
+	{
+		"forks": 0,
+		"name": "sparkswap/ltcd",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "sparkswap/ltcd",
+		"ecosystem_slug": "sparkswap",
+		"parent_slug": "lightning",
+		"path": "bitcoin/lightning/sparkswap",
+		"slug": "sparkswap",
+		"title": "Sparkswap"
 	},
 	{
 		"forks": 0,
