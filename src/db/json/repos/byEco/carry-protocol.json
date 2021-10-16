@@ -1,0 +1,26 @@
+[
+	{
+		"forks": 0,
+		"name": "carryprotocol/carry-smart-contract",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "carryprotocol/carry-smart-contract",
+		"ecosystem_slug": "carry-protocol",
+		"parent_slug": null,
+		"path": "carry-protocol",
+		"slug": "carry-protocol",
+		"title": "Carry Protocol"
+	},
+	{
+		"forks": 0,
+		"name": "carryprotocol/carry-token-crowdsale",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "carryprotocol/carry-token-crowdsale",
+		"ecosystem_slug": "carry-protocol",
+		"parent_slug": null,
+		"path": "carry-protocol",
+		"slug": "carry-protocol",
+		"title": "Carry Protocol"
+	}
+]

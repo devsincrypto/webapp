@@ -1,0 +1,98 @@
+[
+	{
+		"forks": 32,
+		"name": "insight-chain/inb-go",
+		"stars": 644,
+		"watchers": 0,
+		"repo_name": "insight-chain/inb-go",
+		"ecosystem_slug": "insight-chain",
+		"parent_slug": null,
+		"path": "insight-chain",
+		"slug": "insight-chain",
+		"title": "Insight Chain"
+	},
+	{
+		"forks": 0,
+		"name": "insight-chain/inb-wallet-android",
+		"stars": 36,
+		"watchers": 0,
+		"repo_name": "insight-chain/inb-wallet-android",
+		"ecosystem_slug": "insight-chain",
+		"parent_slug": null,
+		"path": "insight-chain",
+		"slug": "insight-chain",
+		"title": "Insight Chain"
+	},
+	{
+		"forks": 1,
+		"name": "insight-chain/inb-wallet-ios",
+		"stars": 25,
+		"watchers": 0,
+		"repo_name": "insight-chain/inb-wallet-ios",
+		"ecosystem_slug": "insight-chain",
+		"parent_slug": null,
+		"path": "insight-chain",
+		"slug": "insight-chain",
+		"title": "Insight Chain"
+	},
+	{
+		"forks": 0,
+		"name": "insight-chain/inb-explorer-web",
+		"stars": 13,
+		"watchers": 0,
+		"repo_name": "insight-chain/inb-explorer-web",
+		"ecosystem_slug": "insight-chain",
+		"parent_slug": null,
+		"path": "insight-chain",
+		"slug": "insight-chain",
+		"title": "Insight Chain"
+	},
+	{
+		"forks": 0,
+		"name": "insight-chain/inb-explorer-api",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "insight-chain/inb-explorer-api",
+		"ecosystem_slug": "insight-chain",
+		"parent_slug": null,
+		"path": "insight-chain",
+		"slug": "insight-chain",
+		"title": "Insight Chain"
+	},
+	{
+		"forks": 0,
+		"name": "insight-chain/inb-web3i.js",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "insight-chain/inb-web3i.js",
+		"ecosystem_slug": "insight-chain",
+		"parent_slug": null,
+		"path": "insight-chain",
+		"slug": "insight-chain",
+		"title": "Insight Chain"
+	},
+	{
+		"forks": 0,
+		"name": "insight-chain/documentation",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "insight-chain/documentation",
+		"ecosystem_slug": "insight-chain",
+		"parent_slug": null,
+		"path": "insight-chain",
+		"slug": "insight-chain",
+		"title": "Insight Chain"
+	},
+	{
+		"forks": 0,
+		"name": "insight-chain/inb-sdk-go",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "insight-chain/inb-sdk-go",
+		"ecosystem_slug": "insight-chain",
+		"parent_slug": null,
+		"path": "insight-chain",
+		"slug": "insight-chain",
+		"title": "Insight Chain"
+	}
+]

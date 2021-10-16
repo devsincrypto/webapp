@@ -1,0 +1,110 @@
+[
+	{
+		"forks": 40,
+		"name": "bitmax-exchange/api-doc",
+		"stars": 47,
+		"watchers": 0,
+		"repo_name": "bitmax-exchange/api-doc",
+		"ecosystem_slug": "bitmax",
+		"parent_slug": null,
+		"path": "bitmax",
+		"slug": "bitmax",
+		"title": "BitMax"
+	},
+	{
+		"forks": 4,
+		"name": "bitmax-exchange/bitmax-pro-api-demo",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "bitmax-exchange/bitmax-pro-api-demo",
+		"ecosystem_slug": "bitmax",
+		"parent_slug": null,
+		"path": "bitmax",
+		"slug": "bitmax",
+		"title": "BitMax"
+	},
+	{
+		"forks": 1,
+		"name": "bitmax-exchange/bitmax-pro-api",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "bitmax-exchange/bitmax-pro-api",
+		"ecosystem_slug": "bitmax",
+		"parent_slug": null,
+		"path": "bitmax",
+		"slug": "bitmax",
+		"title": "BitMax"
+	},
+	{
+		"forks": 2,
+		"name": "bitmax-exchange/BitMax-API-v2",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "bitmax-exchange/BitMax-API-v2",
+		"ecosystem_slug": "bitmax",
+		"parent_slug": null,
+		"path": "bitmax",
+		"slug": "bitmax",
+		"title": "BitMax"
+	},
+	{
+		"forks": 0,
+		"name": "bitmax-exchange/bitmax-futures-api-demo",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "bitmax-exchange/bitmax-futures-api-demo",
+		"ecosystem_slug": "bitmax",
+		"parent_slug": null,
+		"path": "bitmax",
+		"slug": "bitmax",
+		"title": "BitMax"
+	},
+	{
+		"forks": 1,
+		"name": "bitmax-exchange/bitmax-futures-api-doc-v2",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "bitmax-exchange/bitmax-futures-api-doc-v2",
+		"ecosystem_slug": "bitmax",
+		"parent_slug": null,
+		"path": "bitmax",
+		"slug": "bitmax",
+		"title": "BitMax"
+	},
+	{
+		"forks": 0,
+		"name": "bitmax-exchange/bitmax-futures-api-demo-v2",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "bitmax-exchange/bitmax-futures-api-demo-v2",
+		"ecosystem_slug": "bitmax",
+		"parent_slug": null,
+		"path": "bitmax",
+		"slug": "bitmax",
+		"title": "BitMax"
+	},
+	{
+		"forks": 0,
+		"name": "bitmax-exchange/bitmax-futures-api-doc",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "bitmax-exchange/bitmax-futures-api-doc",
+		"ecosystem_slug": "bitmax",
+		"parent_slug": null,
+		"path": "bitmax",
+		"slug": "bitmax",
+		"title": "BitMax"
+	},
+	{
+		"forks": 0,
+		"name": "bitmax-exchange/ccxt",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "bitmax-exchange/ccxt",
+		"ecosystem_slug": "bitmax",
+		"parent_slug": null,
+		"path": "bitmax",
+		"slug": "bitmax",
+		"title": "BitMax"
+	}
+]

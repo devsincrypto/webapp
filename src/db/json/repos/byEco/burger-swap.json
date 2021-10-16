@@ -1,0 +1,26 @@
+[
+	{
+		"forks": 40,
+		"name": "burgerswap-org/burgerswap-core",
+		"stars": 60,
+		"watchers": 0,
+		"repo_name": "burgerswap-org/burgerswap-core",
+		"ecosystem_slug": "burger-swap",
+		"parent_slug": null,
+		"path": "burger-swap",
+		"slug": "burger-swap",
+		"title": "Burger Swap"
+	},
+	{
+		"forks": 3,
+		"name": "burgerswap-org/burgerswap-subgraph",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "burgerswap-org/burgerswap-subgraph",
+		"ecosystem_slug": "burger-swap",
+		"parent_slug": null,
+		"path": "burger-swap",
+		"slug": "burger-swap",
+		"title": "Burger Swap"
+	}
+]

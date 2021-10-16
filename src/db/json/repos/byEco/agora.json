@@ -1,0 +1,62 @@
+[
+	{
+		"forks": 1,
+		"name": "AgoraBlockchain/cothority",
+		"stars": 9,
+		"watchers": 0,
+		"repo_name": "AgoraBlockchain/cothority",
+		"ecosystem_slug": "agora",
+		"parent_slug": null,
+		"path": "agora",
+		"slug": "agora",
+		"title": "Agora"
+	},
+	{
+		"forks": 1,
+		"name": "AgoraBlockchain/sl2018",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "AgoraBlockchain/sl2018",
+		"ecosystem_slug": "agora",
+		"parent_slug": null,
+		"path": "agora",
+		"slug": "agora",
+		"title": "Agora"
+	},
+	{
+		"forks": 2,
+		"name": "AgoraBlockchain/chvote-1-0",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "AgoraBlockchain/chvote-1-0",
+		"ecosystem_slug": "agora",
+		"parent_slug": null,
+		"path": "agora",
+		"slug": "agora",
+		"title": "Agora"
+	},
+	{
+		"forks": 0,
+		"name": "AgoraBlockchain/kyber",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "AgoraBlockchain/kyber",
+		"ecosystem_slug": "agora",
+		"parent_slug": null,
+		"path": "agora",
+		"slug": "agora",
+		"title": "Agora"
+	},
+	{
+		"forks": 1,
+		"name": "AgoraBlockchain/chvote-protocol-poc",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "AgoraBlockchain/chvote-protocol-poc",
+		"ecosystem_slug": "agora",
+		"parent_slug": null,
+		"path": "agora",
+		"slug": "agora",
+		"title": "Agora"
+	}
+]

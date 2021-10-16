@@ -1,0 +1,62 @@
+[
+	{
+		"forks": 5,
+		"name": "auctionity/auctionity",
+		"stars": 19,
+		"watchers": 0,
+		"repo_name": "auctionity/auctionity",
+		"ecosystem_slug": "auctionity",
+		"parent_slug": null,
+		"path": "auctionity",
+		"slug": "auctionity",
+		"title": "Auctionity"
+	},
+	{
+		"forks": 0,
+		"name": "auctionity/racoon",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "auctionity/racoon",
+		"ecosystem_slug": "auctionity",
+		"parent_slug": null,
+		"path": "auctionity",
+		"slug": "auctionity",
+		"title": "Auctionity"
+	},
+	{
+		"forks": 1,
+		"name": "auctionity/saleroom-graphql-api",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "auctionity/saleroom-graphql-api",
+		"ecosystem_slug": "auctionity",
+		"parent_slug": null,
+		"path": "auctionity",
+		"slug": "auctionity",
+		"title": "Auctionity"
+	},
+	{
+		"forks": 0,
+		"name": "auctionity/transaction-builder-openapi",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "auctionity/transaction-builder-openapi",
+		"ecosystem_slug": "auctionity",
+		"parent_slug": null,
+		"path": "auctionity",
+		"slug": "auctionity",
+		"title": "Auctionity"
+	},
+	{
+		"forks": 0,
+		"name": "auctionity/openapi-documentation",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "auctionity/openapi-documentation",
+		"ecosystem_slug": "auctionity",
+		"parent_slug": null,
+		"path": "auctionity",
+		"slug": "auctionity",
+		"title": "Auctionity"
+	}
+]

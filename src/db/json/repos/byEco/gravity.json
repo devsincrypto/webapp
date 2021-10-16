@@ -1,0 +1,62 @@
+[
+	{
+		"forks": 7,
+		"name": "Gravity-Tech/gravity-core",
+		"stars": 9,
+		"watchers": 0,
+		"repo_name": "Gravity-Tech/gravity-core",
+		"ecosystem_slug": "gravity",
+		"parent_slug": null,
+		"path": "gravity",
+		"slug": "gravity",
+		"title": "Gravity"
+	},
+	{
+		"forks": 1,
+		"name": "Gravity-Tech/gravity-documentation",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "Gravity-Tech/gravity-documentation",
+		"ecosystem_slug": "gravity",
+		"parent_slug": null,
+		"path": "gravity",
+		"slug": "gravity",
+		"title": "Gravity"
+	},
+	{
+		"forks": 0,
+		"name": "Gravity-Tech/gateway",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "Gravity-Tech/gateway",
+		"ecosystem_slug": "gravity",
+		"parent_slug": null,
+		"path": "gravity",
+		"slug": "gravity",
+		"title": "Gravity"
+	},
+	{
+		"forks": 1,
+		"name": "Gravity-Tech/integration-tests",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Gravity-Tech/integration-tests",
+		"ecosystem_slug": "gravity",
+		"parent_slug": null,
+		"path": "gravity",
+		"slug": "gravity",
+		"title": "Gravity"
+	},
+	{
+		"forks": 1,
+		"name": "Gravity-Tech/gateway-deployer",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Gravity-Tech/gateway-deployer",
+		"ecosystem_slug": "gravity",
+		"parent_slug": null,
+		"path": "gravity",
+		"slug": "gravity",
+		"title": "Gravity"
+	}
+]

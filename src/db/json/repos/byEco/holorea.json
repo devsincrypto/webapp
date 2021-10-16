@@ -1,0 +1,86 @@
+[
+	{
+		"forks": 8,
+		"name": "holo-rea/holo-rea",
+		"stars": 81,
+		"watchers": 0,
+		"repo_name": "holo-rea/holo-rea",
+		"ecosystem_slug": "holorea",
+		"parent_slug": "holo",
+		"path": "holo/holorea",
+		"slug": "holorea",
+		"title": "HoloREA"
+	},
+	{
+		"forks": 0,
+		"name": "holo-rea/ecosystem",
+		"stars": 17,
+		"watchers": 0,
+		"repo_name": "holo-rea/ecosystem",
+		"ecosystem_slug": "holorea",
+		"parent_slug": "holo",
+		"path": "holo/holorea",
+		"slug": "holorea",
+		"title": "HoloREA"
+	},
+	{
+		"forks": 1,
+		"name": "holo-rea/holo-rea-proto",
+		"stars": 12,
+		"watchers": 0,
+		"repo_name": "holo-rea/holo-rea-proto",
+		"ecosystem_slug": "holorea",
+		"parent_slug": "holo",
+		"path": "holo/holorea",
+		"slug": "holorea",
+		"title": "HoloREA"
+	},
+	{
+		"forks": 0,
+		"name": "holo-rea/app-offers-needs-marketplace",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "holo-rea/app-offers-needs-marketplace",
+		"ecosystem_slug": "holorea",
+		"parent_slug": "holo",
+		"path": "holo/holorea",
+		"slug": "holorea",
+		"title": "HoloREA"
+	},
+	{
+		"forks": 1,
+		"name": "holo-rea/valueflows-project-metarepo",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "holo-rea/valueflows-project-metarepo",
+		"ecosystem_slug": "holorea",
+		"parent_slug": "holo",
+		"path": "holo/holorea",
+		"slug": "holorea",
+		"title": "HoloREA"
+	},
+	{
+		"forks": 0,
+		"name": "holo-rea/personal-agent-react-app",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "holo-rea/personal-agent-react-app",
+		"ecosystem_slug": "holorea",
+		"parent_slug": "holo",
+		"path": "holo/holorea",
+		"slug": "holorea",
+		"title": "HoloREA"
+	},
+	{
+		"forks": 0,
+		"name": "holo-rea/app-personal-agent",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "holo-rea/app-personal-agent",
+		"ecosystem_slug": "holorea",
+		"parent_slug": "holo",
+		"path": "holo/holorea",
+		"slug": "holorea",
+		"title": "HoloREA"
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"forks": 1,
+		"name": "fuelgames/gods-unchained-api",
+		"stars": 10,
+		"watchers": 0,
+		"repo_name": "fuelgames/gods-unchained-api",
+		"ecosystem_slug": "gods-unchained",
+		"parent_slug": null,
+		"path": "gods-unchained",
+		"slug": "gods-unchained",
+		"title": "Gods Unchained"
+	},
+	{
+		"forks": 1,
+		"name": "fuelgames/gu-collectable-solidity",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "fuelgames/gu-collectable-solidity",
+		"ecosystem_slug": "gods-unchained",
+		"parent_slug": null,
+		"path": "gods-unchained",
+		"slug": "gods-unchained",
+		"title": "Gods Unchained"
+	},
+	{
+		"forks": 0,
+		"name": "fuelgames/deckstring",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "fuelgames/deckstring",
+		"ecosystem_slug": "gods-unchained",
+		"parent_slug": null,
+		"path": "gods-unchained",
+		"slug": "gods-unchained",
+		"title": "Gods Unchained"
+	},
+	{
+		"forks": 0,
+		"name": "fuelgames/go-deckstring",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "fuelgames/go-deckstring",
+		"ecosystem_slug": "gods-unchained",
+		"parent_slug": null,
+		"path": "gods-unchained",
+		"slug": "gods-unchained",
+		"title": "Gods Unchained"
+	},
+	{
+		"forks": 0,
+		"name": "fuelgames/apollo-metadata",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "fuelgames/apollo-metadata",
+		"ecosystem_slug": "gods-unchained",
+		"parent_slug": null,
+		"path": "gods-unchained",
+		"slug": "gods-unchained",
+		"title": "Gods Unchained"
+	},
+	{
+		"forks": 0,
+		"name": "fuelgames/gu-game-api",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "fuelgames/gu-game-api",
+		"ecosystem_slug": "gods-unchained",
+		"parent_slug": null,
+		"path": "gods-unchained",
+		"slug": "gods-unchained",
+		"title": "Gods Unchained"
+	}
+]

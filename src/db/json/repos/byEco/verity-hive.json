@@ -1,0 +1,26 @@
+[
+	{
+		"forks": 1,
+		"name": "verity-network/validation-node",
+		"stars": 6,
+		"watchers": 0,
+		"repo_name": "verity-network/validation-node",
+		"ecosystem_slug": "verity-hive",
+		"parent_slug": null,
+		"path": "verity-hive",
+		"slug": "verity-hive",
+		"title": "Verity Hive"
+	},
+	{
+		"forks": 0,
+		"name": "verity-network/verity-web-common",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "verity-network/verity-web-common",
+		"ecosystem_slug": "verity-hive",
+		"parent_slug": null,
+		"path": "verity-hive",
+		"slug": "verity-hive",
+		"title": "Verity Hive"
+	}
+]

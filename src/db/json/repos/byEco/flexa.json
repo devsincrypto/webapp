@@ -1,0 +1,26 @@
+[
+	{
+		"forks": 2,
+		"name": "flexahq/flexa-collateral-manager",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "flexahq/flexa-collateral-manager",
+		"ecosystem_slug": "flexa",
+		"parent_slug": "ethereum",
+		"path": "ethereum/flexa",
+		"slug": "flexa",
+		"title": "Flexa"
+	},
+	{
+		"forks": 1,
+		"name": "flexahq/capacity-smart-contracts",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "flexahq/capacity-smart-contracts",
+		"ecosystem_slug": "flexa",
+		"parent_slug": "ethereum",
+		"path": "ethereum/flexa",
+		"slug": "flexa",
+		"title": "Flexa"
+	}
+]

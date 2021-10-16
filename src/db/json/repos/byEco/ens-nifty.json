@@ -1,0 +1,38 @@
+[
+	{
+		"forks": 1,
+		"name": "ENS-Nifty/ens-nifty-frontend",
+		"stars": 11,
+		"watchers": 0,
+		"repo_name": "ENS-Nifty/ens-nifty-frontend",
+		"ecosystem_slug": "ens-nifty",
+		"parent_slug": null,
+		"path": "ens-nifty",
+		"slug": "ens-nifty",
+		"title": "ENS Nifty"
+	},
+	{
+		"forks": 2,
+		"name": "ENS-Nifty/ens-nifty-contracts",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "ENS-Nifty/ens-nifty-contracts",
+		"ecosystem_slug": "ens-nifty",
+		"parent_slug": null,
+		"path": "ens-nifty",
+		"slug": "ens-nifty",
+		"title": "ENS Nifty"
+	},
+	{
+		"forks": 1,
+		"name": "ENS-Nifty/ens-nifty-backend",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "ENS-Nifty/ens-nifty-backend",
+		"ecosystem_slug": "ens-nifty",
+		"parent_slug": null,
+		"path": "ens-nifty",
+		"slug": "ens-nifty",
+		"title": "ENS Nifty"
+	}
+]

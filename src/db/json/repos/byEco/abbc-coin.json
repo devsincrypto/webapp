@@ -1,0 +1,26 @@
+[
+	{
+		"forks": 2,
+		"name": "abbc-foundation/abbc",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "abbc-foundation/abbc",
+		"ecosystem_slug": "abbc-coin",
+		"parent_slug": null,
+		"path": "abbc-coin",
+		"slug": "abbc-coin",
+		"title": "ABBC Coin"
+	},
+	{
+		"forks": 0,
+		"name": "abbc-foundation/abbc-v0.2",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "abbc-foundation/abbc-v0.2",
+		"ecosystem_slug": "abbc-coin",
+		"parent_slug": null,
+		"path": "abbc-coin",
+		"slug": "abbc-coin",
+		"title": "ABBC Coin"
+	}
+]

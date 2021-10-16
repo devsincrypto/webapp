@@ -1,0 +1,26 @@
+[
+	{
+		"forks": 3,
+		"name": "rawcoin-project/rawcoin",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "rawcoin-project/rawcoin",
+		"ecosystem_slug": "rawcoin",
+		"parent_slug": null,
+		"path": "rawcoin",
+		"slug": "rawcoin",
+		"title": "Rawcoin"
+	},
+	{
+		"forks": 0,
+		"name": "rawcoin-project/rawcoinwallet",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "rawcoin-project/rawcoinwallet",
+		"ecosystem_slug": "rawcoin",
+		"parent_slug": null,
+		"path": "rawcoin",
+		"slug": "rawcoin",
+		"title": "Rawcoin"
+	}
+]

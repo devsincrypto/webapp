@@ -1,0 +1,62 @@
+[
+	{
+		"forks": 1,
+		"name": "bitcannery/bitcannery-cli",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "bitcannery/bitcannery-cli",
+		"ecosystem_slug": "bitcannery",
+		"parent_slug": null,
+		"path": "bitcannery",
+		"slug": "bitcannery",
+		"title": "Bitcannery"
+	},
+	{
+		"forks": 0,
+		"name": "bitcannery/bitcannery-website",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "bitcannery/bitcannery-website",
+		"ecosystem_slug": "bitcannery",
+		"parent_slug": null,
+		"path": "bitcannery",
+		"slug": "bitcannery",
+		"title": "Bitcannery"
+	},
+	{
+		"forks": 0,
+		"name": "bitcannery/bitcannery-com",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "bitcannery/bitcannery-com",
+		"ecosystem_slug": "bitcannery",
+		"parent_slug": null,
+		"path": "bitcannery",
+		"slug": "bitcannery",
+		"title": "Bitcannery"
+	},
+	{
+		"forks": 0,
+		"name": "bitcannery/bitcannery-docs",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "bitcannery/bitcannery-docs",
+		"ecosystem_slug": "bitcannery",
+		"parent_slug": null,
+		"path": "bitcannery",
+		"slug": "bitcannery",
+		"title": "Bitcannery"
+	},
+	{
+		"forks": 0,
+		"name": "bitcannery/bitcannery-dapp",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "bitcannery/bitcannery-dapp",
+		"ecosystem_slug": "bitcannery",
+		"parent_slug": null,
+		"path": "bitcannery",
+		"slug": "bitcannery",
+		"title": "Bitcannery"
+	}
+]

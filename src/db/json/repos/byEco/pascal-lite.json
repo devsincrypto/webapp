@@ -1,0 +1,38 @@
+[
+	{
+		"forks": 5,
+		"name": "PascalLite/wallet",
+		"stars": 19,
+		"watchers": 0,
+		"repo_name": "PascalLite/wallet",
+		"ecosystem_slug": "pascal-lite",
+		"parent_slug": null,
+		"path": "pascal-lite",
+		"slug": "pascal-lite",
+		"title": "Pascal Lite"
+	},
+	{
+		"forks": 2,
+		"name": "PascalLite/pascallite.com",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "PascalLite/pascallite.com",
+		"ecosystem_slug": "pascal-lite",
+		"parent_slug": null,
+		"path": "pascal-lite",
+		"slug": "pascal-lite",
+		"title": "Pascal Lite"
+	},
+	{
+		"forks": 0,
+		"name": "PascalLite/pascallite.github.io",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "PascalLite/pascallite.github.io",
+		"ecosystem_slug": "pascal-lite",
+		"parent_slug": null,
+		"path": "pascal-lite",
+		"slug": "pascal-lite",
+		"title": "Pascal Lite"
+	}
+]

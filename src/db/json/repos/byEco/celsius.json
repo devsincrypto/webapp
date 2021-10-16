@@ -1,0 +1,98 @@
+[
+	{
+		"forks": 11,
+		"name": "CelsiusNetwork/celsius-app",
+		"stars": 37,
+		"watchers": 0,
+		"repo_name": "CelsiusNetwork/celsius-app",
+		"ecosystem_slug": "celsius",
+		"parent_slug": "ethereum",
+		"path": "ethereum/celsius",
+		"slug": "celsius",
+		"title": "Celsius"
+	},
+	{
+		"forks": 23,
+		"name": "CelsiusNetwork/celsius-js-sdk",
+		"stars": 22,
+		"watchers": 0,
+		"repo_name": "CelsiusNetwork/celsius-js-sdk",
+		"ecosystem_slug": "celsius",
+		"parent_slug": "ethereum",
+		"path": "ethereum/celsius",
+		"slug": "celsius",
+		"title": "Celsius"
+	},
+	{
+		"forks": 8,
+		"name": "CelsiusNetwork/lender-app",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "CelsiusNetwork/lender-app",
+		"ecosystem_slug": "celsius",
+		"parent_slug": "ethereum",
+		"path": "ethereum/celsius",
+		"slug": "celsius",
+		"title": "Celsius"
+	},
+	{
+		"forks": 3,
+		"name": "CelsiusNetwork/celsius-token",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "CelsiusNetwork/celsius-token",
+		"ecosystem_slug": "celsius",
+		"parent_slug": "ethereum",
+		"path": "ethereum/celsius",
+		"slug": "celsius",
+		"title": "Celsius"
+	},
+	{
+		"forks": 0,
+		"name": "CelsiusNetwork/ExcelHelper",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "CelsiusNetwork/ExcelHelper",
+		"ecosystem_slug": "celsius",
+		"parent_slug": "ethereum",
+		"path": "ethereum/celsius",
+		"slug": "celsius",
+		"title": "Celsius"
+	},
+	{
+		"forks": 0,
+		"name": "CelsiusNetwork/react-native-branch-deep-linking",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "CelsiusNetwork/react-native-branch-deep-linking",
+		"ecosystem_slug": "celsius",
+		"parent_slug": "ethereum",
+		"path": "ethereum/celsius",
+		"slug": "celsius",
+		"title": "Celsius"
+	},
+	{
+		"forks": 0,
+		"name": "CelsiusNetwork/eth-contract-metadata",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "CelsiusNetwork/eth-contract-metadata",
+		"ecosystem_slug": "celsius",
+		"parent_slug": "ethereum",
+		"path": "ethereum/celsius",
+		"slug": "celsius",
+		"title": "Celsius"
+	},
+	{
+		"forks": 0,
+		"name": "CelsiusNetwork/branch-test",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "CelsiusNetwork/branch-test",
+		"ecosystem_slug": "celsius",
+		"parent_slug": "ethereum",
+		"path": "ethereum/celsius",
+		"slug": "celsius",
+		"title": "Celsius"
+	}
+]

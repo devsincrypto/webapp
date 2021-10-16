@@ -1,0 +1,38 @@
+[
+	{
+		"forks": 0,
+		"name": "RRNCIO/RRMinerPool",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "RRNCIO/RRMinerPool",
+		"ecosystem_slug": "rrchain",
+		"parent_slug": null,
+		"path": "rrchain",
+		"slug": "rrchain",
+		"title": "RRChain"
+	},
+	{
+		"forks": 1,
+		"name": "RRNCIO/RRChain",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "RRNCIO/RRChain",
+		"ecosystem_slug": "rrchain",
+		"parent_slug": null,
+		"path": "rrchain",
+		"slug": "rrchain",
+		"title": "RRChain"
+	},
+	{
+		"forks": 0,
+		"name": "RRNCIO/RRCloud",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "RRNCIO/RRCloud",
+		"ecosystem_slug": "rrchain",
+		"parent_slug": null,
+		"path": "rrchain",
+		"slug": "rrchain",
+		"title": "RRChain"
+	}
+]

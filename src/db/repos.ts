@@ -7,7 +7,7 @@ export interface Repo {
 	watchers: number;
 }
 
-export function top5ByEcosystem(ecoSlug: string): Repo[] {
+export function byEcosystem(ecoSlug: string): Repo[] {
 	return db
 		.prepare(
 			`
@@ -16,8 +16,7 @@ FROM repos
 INNER JOIN ecosystem_repos on ecosystem_repos.repo_name = repos.name
 INNER JOIN ecosystems on ecosystem_repos.ecosystem_slug = ecosystems.slug
 WHERE ecosystems.slug = ?
-ORDER BY repos.forks + repos.stars + repos.watchers DESC
-LIMIT 5;`
+ORDER BY repos.forks + repos.stars + repos.watchers DESC;`
 		)
 		.all(ecoSlug) as Repo[];
 }

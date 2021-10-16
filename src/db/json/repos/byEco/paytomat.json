@@ -1,0 +1,98 @@
+[
+	{
+		"forks": 3,
+		"name": "paytomat/ScatterAndroid",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "paytomat/ScatterAndroid",
+		"ecosystem_slug": "paytomat",
+		"parent_slug": null,
+		"path": "paytomat",
+		"slug": "paytomat",
+		"title": "Paytomat"
+	},
+	{
+		"forks": 2,
+		"name": "paytomat/wallet-connect-android",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "paytomat/wallet-connect-android",
+		"ecosystem_slug": "paytomat",
+		"parent_slug": null,
+		"path": "paytomat",
+		"slug": "paytomat",
+		"title": "Paytomat"
+	},
+	{
+		"forks": 6,
+		"name": "paytomat/ScatterKit",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "paytomat/ScatterKit",
+		"ecosystem_slug": "paytomat",
+		"parent_slug": null,
+		"path": "paytomat",
+		"slug": "paytomat",
+		"title": "Paytomat"
+	},
+	{
+		"forks": 2,
+		"name": "paytomat/paytomat-api",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "paytomat/paytomat-api",
+		"ecosystem_slug": "paytomat",
+		"parent_slug": null,
+		"path": "paytomat",
+		"slug": "paytomat",
+		"title": "Paytomat"
+	},
+	{
+		"forks": 4,
+		"name": "paytomat/Paytomat-Android-SDK",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "paytomat/Paytomat-Android-SDK",
+		"ecosystem_slug": "paytomat",
+		"parent_slug": null,
+		"path": "paytomat",
+		"slug": "paytomat",
+		"title": "Paytomat"
+	},
+	{
+		"forks": 2,
+		"name": "paytomat/Paytomat-iOS-SDK",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "paytomat/Paytomat-iOS-SDK",
+		"ecosystem_slug": "paytomat",
+		"parent_slug": null,
+		"path": "paytomat",
+		"slug": "paytomat",
+		"title": "Paytomat"
+	},
+	{
+		"forks": 0,
+		"name": "paytomat/UpdateInstallerAndroid",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "paytomat/UpdateInstallerAndroid",
+		"ecosystem_slug": "paytomat",
+		"parent_slug": null,
+		"path": "paytomat",
+		"slug": "paytomat",
+		"title": "Paytomat"
+	},
+	{
+		"forks": 0,
+		"name": "paytomat/Update-Installer-Android",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "paytomat/Update-Installer-Android",
+		"ecosystem_slug": "paytomat",
+		"parent_slug": null,
+		"path": "paytomat",
+		"slug": "paytomat",
+		"title": "Paytomat"
+	}
+]

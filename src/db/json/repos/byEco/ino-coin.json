@@ -1,0 +1,38 @@
+[
+	{
+		"forks": 0,
+		"name": "InoCoin/ino-client",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "InoCoin/ino-client",
+		"ecosystem_slug": "ino-coin",
+		"parent_slug": null,
+		"path": "ino-coin",
+		"slug": "ino-coin",
+		"title": "INO COIN"
+	},
+	{
+		"forks": 0,
+		"name": "InoCoin/ino-ionic",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "InoCoin/ino-ionic",
+		"ecosystem_slug": "ino-coin",
+		"parent_slug": null,
+		"path": "ino-coin",
+		"slug": "ino-coin",
+		"title": "INO COIN"
+	},
+	{
+		"forks": 0,
+		"name": "InoCoin/ino-electron",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "InoCoin/ino-electron",
+		"ecosystem_slug": "ino-coin",
+		"parent_slug": null,
+		"path": "ino-coin",
+		"slug": "ino-coin",
+		"title": "INO COIN"
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"forks": 8,
+		"name": "waxio/wax-api",
+		"stars": 19,
+		"watchers": 0,
+		"repo_name": "waxio/wax-api",
+		"ecosystem_slug": "wax",
+		"parent_slug": null,
+		"path": "wax",
+		"slug": "wax",
+		"title": "WAX"
+	},
+	{
+		"forks": 7,
+		"name": "waxio/wax-erc20-delivery-contract",
+		"stars": 17,
+		"watchers": 0,
+		"repo_name": "waxio/wax-erc20-delivery-contract",
+		"ecosystem_slug": "wax",
+		"parent_slug": null,
+		"path": "wax",
+		"slug": "wax",
+		"title": "WAX"
+	},
+	{
+		"forks": 0,
+		"name": "waxio/waxio.github.io",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "waxio/waxio.github.io",
+		"ecosystem_slug": "wax",
+		"parent_slug": null,
+		"path": "wax",
+		"slug": "wax",
+		"title": "WAX"
+	}
+]

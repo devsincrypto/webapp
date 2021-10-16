@@ -1,0 +1,74 @@
+[
+	{
+		"forks": 1,
+		"name": "origamiMP/OrigamiReleaseNote",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "origamiMP/OrigamiReleaseNote",
+		"ecosystem_slug": "origami",
+		"parent_slug": null,
+		"path": "origami",
+		"slug": "origami",
+		"title": "Origami"
+	},
+	{
+		"forks": 0,
+		"name": "origamiMP/OrigamiTokenSale",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "origamiMP/OrigamiTokenSale",
+		"ecosystem_slug": "origami",
+		"parent_slug": null,
+		"path": "origami",
+		"slug": "origami",
+		"title": "Origami"
+	},
+	{
+		"forks": 0,
+		"name": "origamiMP/origami-review-front",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "origamiMP/origami-review-front",
+		"ecosystem_slug": "origami",
+		"parent_slug": null,
+		"path": "origami",
+		"slug": "origami",
+		"title": "Origami"
+	},
+	{
+		"forks": 0,
+		"name": "origamiMP/origami_payment_sdk",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "origamiMP/origami_payment_sdk",
+		"ecosystem_slug": "origami",
+		"parent_slug": null,
+		"path": "origami",
+		"slug": "origami",
+		"title": "Origami"
+	},
+	{
+		"forks": 0,
+		"name": "origamiMP/origami-review-api",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "origamiMP/origami-review-api",
+		"ecosystem_slug": "origami",
+		"parent_slug": null,
+		"path": "origami",
+		"slug": "origami",
+		"title": "Origami"
+	},
+	{
+		"forks": 0,
+		"name": "origamiMP/origami_developers_documentation",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "origamiMP/origami_developers_documentation",
+		"ecosystem_slug": "origami",
+		"parent_slug": null,
+		"path": "origami",
+		"slug": "origami",
+		"title": "Origami"
+	}
+]

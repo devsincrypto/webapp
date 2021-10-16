@@ -1,0 +1,38 @@
+[
+	{
+		"forks": 3,
+		"name": "RealityCards/RealityCards-Contracts",
+		"stars": 13,
+		"watchers": 0,
+		"repo_name": "RealityCards/RealityCards-Contracts",
+		"ecosystem_slug": "reality-cards",
+		"parent_slug": "ethereum",
+		"path": "ethereum/reality-cards",
+		"slug": "reality-cards",
+		"title": "Reality Cards"
+	},
+	{
+		"forks": 0,
+		"name": "RealityCards/RealityCards-Website",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "RealityCards/RealityCards-Website",
+		"ecosystem_slug": "reality-cards",
+		"parent_slug": "ethereum",
+		"path": "ethereum/reality-cards",
+		"slug": "reality-cards",
+		"title": "Reality Cards"
+	},
+	{
+		"forks": 0,
+		"name": "RealityCards/web3x",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "RealityCards/web3x",
+		"ecosystem_slug": "reality-cards",
+		"parent_slug": "ethereum",
+		"path": "ethereum/reality-cards",
+		"slug": "reality-cards",
+		"title": "Reality Cards"
+	}
+]

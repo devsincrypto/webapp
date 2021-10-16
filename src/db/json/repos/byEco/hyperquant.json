@@ -1,0 +1,50 @@
+[
+	{
+		"forks": 3,
+		"name": "hyperquant-platform/hyperquant-contracts",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "hyperquant-platform/hyperquant-contracts",
+		"ecosystem_slug": "hyperquant",
+		"parent_slug": null,
+		"path": "hyperquant",
+		"slug": "hyperquant",
+		"title": "HyperQuant"
+	},
+	{
+		"forks": 0,
+		"name": "hyperquant-platform/hyperquant-framework",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "hyperquant-platform/hyperquant-framework",
+		"ecosystem_slug": "hyperquant",
+		"parent_slug": null,
+		"path": "hyperquant",
+		"slug": "hyperquant",
+		"title": "HyperQuant"
+	},
+	{
+		"forks": 0,
+		"name": "hyperquant-platform/merkle_tree",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "hyperquant-platform/merkle_tree",
+		"ecosystem_slug": "hyperquant",
+		"parent_slug": null,
+		"path": "hyperquant",
+		"slug": "hyperquant",
+		"title": "HyperQuant"
+	},
+	{
+		"forks": 0,
+		"name": "hyperquant-platform/token-distribution-contract",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "hyperquant-platform/token-distribution-contract",
+		"ecosystem_slug": "hyperquant",
+		"parent_slug": null,
+		"path": "hyperquant",
+		"slug": "hyperquant",
+		"title": "HyperQuant"
+	}
+]

@@ -1,0 +1,98 @@
+[
+	{
+		"forks": 3,
+		"name": "The-Terra-Foundation/CRC20-MintableToken",
+		"stars": 6,
+		"watchers": 0,
+		"repo_name": "The-Terra-Foundation/CRC20-MintableToken",
+		"ecosystem_slug": "terra-credit",
+		"parent_slug": null,
+		"path": "terra-credit",
+		"slug": "terra-credit",
+		"title": "Terra Credit"
+	},
+	{
+		"forks": 2,
+		"name": "The-Terra-Foundation/CRC20-Token",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "The-Terra-Foundation/CRC20-Token",
+		"ecosystem_slug": "terra-credit",
+		"parent_slug": null,
+		"path": "terra-credit",
+		"slug": "terra-credit",
+		"title": "Terra Credit"
+	},
+	{
+		"forks": 0,
+		"name": "The-Terra-Foundation/credit-qt-linux",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "The-Terra-Foundation/credit-qt-linux",
+		"ecosystem_slug": "terra-credit",
+		"parent_slug": null,
+		"path": "terra-credit",
+		"slug": "terra-credit",
+		"title": "Terra Credit"
+	},
+	{
+		"forks": 3,
+		"name": "The-Terra-Foundation/credit-qt-windows",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "The-Terra-Foundation/credit-qt-windows",
+		"ecosystem_slug": "terra-credit",
+		"parent_slug": null,
+		"path": "terra-credit",
+		"slug": "terra-credit",
+		"title": "Terra Credit"
+	},
+	{
+		"forks": 2,
+		"name": "The-Terra-Foundation/credit-source",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "The-Terra-Foundation/credit-source",
+		"ecosystem_slug": "terra-credit",
+		"parent_slug": null,
+		"path": "terra-credit",
+		"slug": "terra-credit",
+		"title": "Terra Credit"
+	},
+	{
+		"forks": 0,
+		"name": "The-Terra-Foundation/credit-daemon-linux",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "The-Terra-Foundation/credit-daemon-linux",
+		"ecosystem_slug": "terra-credit",
+		"parent_slug": null,
+		"path": "terra-credit",
+		"slug": "terra-credit",
+		"title": "Terra Credit"
+	},
+	{
+		"forks": 0,
+		"name": "The-Terra-Foundation/credit-qt-rasberry",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "The-Terra-Foundation/credit-qt-rasberry",
+		"ecosystem_slug": "terra-credit",
+		"parent_slug": null,
+		"path": "terra-credit",
+		"slug": "terra-credit",
+		"title": "Terra Credit"
+	},
+	{
+		"forks": 0,
+		"name": "The-Terra-Foundation/credit-qt-mac",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "The-Terra-Foundation/credit-qt-mac",
+		"ecosystem_slug": "terra-credit",
+		"parent_slug": null,
+		"path": "terra-credit",
+		"slug": "terra-credit",
+		"title": "Terra Credit"
+	}
+]

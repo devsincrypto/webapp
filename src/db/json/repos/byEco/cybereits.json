@@ -1,0 +1,50 @@
+[
+	{
+		"forks": 0,
+		"name": "Cybereits/token-service",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "Cybereits/token-service",
+		"ecosystem_slug": "cybereits",
+		"parent_slug": null,
+		"path": "cybereits",
+		"slug": "cybereits",
+		"title": "Cybereits"
+	},
+	{
+		"forks": 1,
+		"name": "Cybereits/fe-token",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "Cybereits/fe-token",
+		"ecosystem_slug": "cybereits",
+		"parent_slug": null,
+		"path": "cybereits",
+		"slug": "cybereits",
+		"title": "Cybereits"
+	},
+	{
+		"forks": 0,
+		"name": "Cybereits/ms-token",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Cybereits/ms-token",
+		"ecosystem_slug": "cybereits",
+		"parent_slug": null,
+		"path": "cybereits",
+		"slug": "cybereits",
+		"title": "Cybereits"
+	},
+	{
+		"forks": 1,
+		"name": "Cybereits/fe-portal",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Cybereits/fe-portal",
+		"ecosystem_slug": "cybereits",
+		"parent_slug": null,
+		"path": "cybereits",
+		"slug": "cybereits",
+		"title": "Cybereits"
+	}
+]

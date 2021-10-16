@@ -1,0 +1,50 @@
+[
+	{
+		"forks": 0,
+		"name": "Emanate-official/moda-dao",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Emanate-official/moda-dao",
+		"ecosystem_slug": "emanate",
+		"parent_slug": null,
+		"path": "emanate",
+		"slug": "emanate",
+		"title": "Emanate"
+	},
+	{
+		"forks": 0,
+		"name": "Emanate-official/mn8-token",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Emanate-official/mn8-token",
+		"ecosystem_slug": "emanate",
+		"parent_slug": null,
+		"path": "emanate",
+		"slug": "emanate",
+		"title": "Emanate"
+	},
+	{
+		"forks": 1,
+		"name": "Emanate-official/erc20-emt-token",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Emanate-official/erc20-emt-token",
+		"ecosystem_slug": "emanate",
+		"parent_slug": null,
+		"path": "emanate",
+		"slug": "emanate",
+		"title": "Emanate"
+	},
+	{
+		"forks": 0,
+		"name": "Emanate-official/market",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Emanate-official/market",
+		"ecosystem_slug": "emanate",
+		"parent_slug": null,
+		"path": "emanate",
+		"slug": "emanate",
+		"title": "Emanate"
+	}
+]

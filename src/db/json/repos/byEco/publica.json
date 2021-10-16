@@ -1,0 +1,86 @@
+[
+	{
+		"forks": 1,
+		"name": "PublicaIO/mvp",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "PublicaIO/mvp",
+		"ecosystem_slug": "publica",
+		"parent_slug": null,
+		"path": "publica",
+		"slug": "publica",
+		"title": "Publica"
+	},
+	{
+		"forks": 3,
+		"name": "PublicaIO/pebbles-token",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "PublicaIO/pebbles-token",
+		"ecosystem_slug": "publica",
+		"parent_slug": null,
+		"path": "publica",
+		"slug": "publica",
+		"title": "Publica"
+	},
+	{
+		"forks": 1,
+		"name": "PublicaIO/publica-contracts",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "PublicaIO/publica-contracts",
+		"ecosystem_slug": "publica",
+		"parent_slug": null,
+		"path": "publica",
+		"slug": "publica",
+		"title": "Publica"
+	},
+	{
+		"forks": 0,
+		"name": "PublicaIO/poc",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "PublicaIO/poc",
+		"ecosystem_slug": "publica",
+		"parent_slug": null,
+		"path": "publica",
+		"slug": "publica",
+		"title": "Publica"
+	},
+	{
+		"forks": 0,
+		"name": "PublicaIO/rights-token",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "PublicaIO/rights-token",
+		"ecosystem_slug": "publica",
+		"parent_slug": null,
+		"path": "publica",
+		"slug": "publica",
+		"title": "Publica"
+	},
+	{
+		"forks": 1,
+		"name": "PublicaIO/react-native-pbkdf2",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "PublicaIO/react-native-pbkdf2",
+		"ecosystem_slug": "publica",
+		"parent_slug": null,
+		"path": "publica",
+		"slug": "publica",
+		"title": "Publica"
+	},
+	{
+		"forks": 0,
+		"name": "PublicaIO/testing-environment",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "PublicaIO/testing-environment",
+		"ecosystem_slug": "publica",
+		"parent_slug": null,
+		"path": "publica",
+		"slug": "publica",
+		"title": "Publica"
+	}
+]

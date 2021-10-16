@@ -1,0 +1,122 @@
+[
+	{
+		"forks": 23,
+		"name": "Mintbase/create-mintbase-app",
+		"stars": 25,
+		"watchers": 0,
+		"repo_name": "Mintbase/create-mintbase-app",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
+	},
+	{
+		"forks": 11,
+		"name": "Mintbase/mintbase-bridge",
+		"stars": 10,
+		"watchers": 0,
+		"repo_name": "Mintbase/mintbase-bridge",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
+	},
+	{
+		"forks": 2,
+		"name": "Mintbase/near-nft-standards",
+		"stars": 13,
+		"watchers": 0,
+		"repo_name": "Mintbase/near-nft-standards",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
+	},
+	{
+		"forks": 0,
+		"name": "Mintbase/mintbase-js",
+		"stars": 11,
+		"watchers": 0,
+		"repo_name": "Mintbase/mintbase-js",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
+	},
+	{
+		"forks": 3,
+		"name": "Mintbase/graph-mint-factory",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "Mintbase/graph-mint-factory",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
+	},
+	{
+		"forks": 3,
+		"name": "Mintbase/mintbase-near-indexer",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "Mintbase/mintbase-near-indexer",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
+	},
+	{
+		"forks": 3,
+		"name": "Mintbase/near-wallet",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "Mintbase/near-wallet",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
+	},
+	{
+		"forks": 1,
+		"name": "Mintbase/mintbase-issues",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "Mintbase/mintbase-issues",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
+	},
+	{
+		"forks": 1,
+		"name": "Mintbase/flux-index-node",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "Mintbase/flux-index-node",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
+	},
+	{
+		"forks": 0,
+		"name": "Mintbase/graph-oldmints",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "Mintbase/graph-oldmints",
+		"ecosystem_slug": "mintbase",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/mintbase",
+		"slug": "mintbase",
+		"title": "Mintbase"
+	}
+]

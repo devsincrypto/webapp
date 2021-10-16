@@ -1,0 +1,98 @@
+[
+	{
+		"forks": 3,
+		"name": "actifit/actifit-landingpage",
+		"stars": 6,
+		"watchers": 0,
+		"repo_name": "actifit/actifit-landingpage",
+		"ecosystem_slug": "actifit",
+		"parent_slug": "steem",
+		"path": "steem/actifit",
+		"slug": "actifit",
+		"title": "Actifit"
+	},
+	{
+		"forks": 4,
+		"name": "actifit/actifit",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "actifit/actifit",
+		"ecosystem_slug": "actifit",
+		"parent_slug": "steem",
+		"path": "steem/actifit",
+		"slug": "actifit",
+		"title": "Actifit"
+	},
+	{
+		"forks": 3,
+		"name": "actifit/actifit-ios",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "actifit/actifit-ios",
+		"ecosystem_slug": "actifit",
+		"parent_slug": "steem",
+		"path": "steem/actifit",
+		"slug": "actifit",
+		"title": "Actifit"
+	},
+	{
+		"forks": 0,
+		"name": "actifit/actifit-bot",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "actifit/actifit-bot",
+		"ecosystem_slug": "actifit",
+		"parent_slug": "steem",
+		"path": "steem/actifit",
+		"slug": "actifit",
+		"title": "Actifit"
+	},
+	{
+		"forks": 0,
+		"name": "actifit/actifit-defi-uikit",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "actifit/actifit-defi-uikit",
+		"ecosystem_slug": "actifit",
+		"parent_slug": "steem",
+		"path": "steem/actifit",
+		"slug": "actifit",
+		"title": "Actifit"
+	},
+	{
+		"forks": 0,
+		"name": "actifit/actifit-defi-contracts",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "actifit/actifit-defi-contracts",
+		"ecosystem_slug": "actifit",
+		"parent_slug": "steem",
+		"path": "steem/actifit",
+		"slug": "actifit",
+		"title": "Actifit"
+	},
+	{
+		"forks": 0,
+		"name": "actifit/actifit-defi-frontend-amm",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "actifit/actifit-defi-frontend-amm",
+		"ecosystem_slug": "actifit",
+		"parent_slug": "steem",
+		"path": "steem/actifit",
+		"slug": "actifit",
+		"title": "Actifit"
+	},
+	{
+		"forks": 0,
+		"name": "actifit/actifit-defi-frontend-farms",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "actifit/actifit-defi-frontend-farms",
+		"ecosystem_slug": "actifit",
+		"parent_slug": "steem",
+		"path": "steem/actifit",
+		"slug": "actifit",
+		"title": "Actifit"
+	}
+]

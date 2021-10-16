@@ -1,0 +1,26 @@
+[
+	{
+		"forks": 30,
+		"name": "cryptotwenty/smartcontracts",
+		"stars": 61,
+		"watchers": 0,
+		"repo_name": "cryptotwenty/smartcontracts",
+		"ecosystem_slug": "crypto20",
+		"parent_slug": null,
+		"path": "crypto20",
+		"slug": "crypto20",
+		"title": "CRYPTO20"
+	},
+	{
+		"forks": 9,
+		"name": "cryptotwenty/c20-withdraw-dapp",
+		"stars": 30,
+		"watchers": 0,
+		"repo_name": "cryptotwenty/c20-withdraw-dapp",
+		"ecosystem_slug": "crypto20",
+		"parent_slug": null,
+		"path": "crypto20",
+		"slug": "crypto20",
+		"title": "CRYPTO20"
+	}
+]

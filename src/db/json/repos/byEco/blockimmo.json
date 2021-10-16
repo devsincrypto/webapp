@@ -1,0 +1,26 @@
+[
+	{
+		"forks": 2,
+		"name": "blockimmo-ch/openzeppelin-solidity",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "blockimmo-ch/openzeppelin-solidity",
+		"ecosystem_slug": "blockimmo",
+		"parent_slug": null,
+		"path": "blockimmo",
+		"slug": "blockimmo",
+		"title": "blockimmo"
+	},
+	{
+		"forks": 0,
+		"name": "blockimmo-ch/examples",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "blockimmo-ch/examples",
+		"ecosystem_slug": "blockimmo",
+		"parent_slug": null,
+		"path": "blockimmo",
+		"slug": "blockimmo",
+		"title": "blockimmo"
+	}
+]

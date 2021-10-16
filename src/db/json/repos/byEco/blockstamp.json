@@ -1,0 +1,98 @@
+[
+	{
+		"forks": 6,
+		"name": "BlockStamp/bst",
+		"stars": 37,
+		"watchers": 0,
+		"repo_name": "BlockStamp/bst",
+		"ecosystem_slug": "blockstamp",
+		"parent_slug": null,
+		"path": "blockstamp",
+		"slug": "blockstamp",
+		"title": "BlockStamp"
+	},
+	{
+		"forks": 3,
+		"name": "BlockStamp/BFGminer",
+		"stars": 10,
+		"watchers": 0,
+		"repo_name": "BlockStamp/BFGminer",
+		"ecosystem_slug": "blockstamp",
+		"parent_slug": null,
+		"path": "blockstamp",
+		"slug": "blockstamp",
+		"title": "BlockStamp"
+	},
+	{
+		"forks": 1,
+		"name": "BlockStamp/cpuminer",
+		"stars": 9,
+		"watchers": 0,
+		"repo_name": "BlockStamp/cpuminer",
+		"ecosystem_slug": "blockstamp",
+		"parent_slug": null,
+		"path": "blockstamp",
+		"slug": "blockstamp",
+		"title": "BlockStamp"
+	},
+	{
+		"forks": 0,
+		"name": "BlockStamp/bstjs-lib",
+		"stars": 6,
+		"watchers": 0,
+		"repo_name": "BlockStamp/bstjs-lib",
+		"ecosystem_slug": "blockstamp",
+		"parent_slug": null,
+		"path": "blockstamp",
+		"slug": "blockstamp",
+		"title": "BlockStamp"
+	},
+	{
+		"forks": 2,
+		"name": "BlockStamp/stratum3",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "BlockStamp/stratum3",
+		"ecosystem_slug": "blockstamp",
+		"parent_slug": null,
+		"path": "blockstamp",
+		"slug": "blockstamp",
+		"title": "BlockStamp"
+	},
+	{
+		"forks": 0,
+		"name": "BlockStamp/bstpool",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "BlockStamp/bstpool",
+		"ecosystem_slug": "blockstamp",
+		"parent_slug": null,
+		"path": "blockstamp",
+		"slug": "blockstamp",
+		"title": "BlockStamp"
+	},
+	{
+		"forks": 0,
+		"name": "BlockStamp/trezor-common",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "BlockStamp/trezor-common",
+		"ecosystem_slug": "blockstamp",
+		"parent_slug": null,
+		"path": "blockstamp",
+		"slug": "blockstamp",
+		"title": "BlockStamp"
+	},
+	{
+		"forks": 0,
+		"name": "BlockStamp/trezor-firmware",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "BlockStamp/trezor-firmware",
+		"ecosystem_slug": "blockstamp",
+		"parent_slug": null,
+		"path": "blockstamp",
+		"slug": "blockstamp",
+		"title": "BlockStamp"
+	}
+]

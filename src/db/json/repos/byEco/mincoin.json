@@ -1,0 +1,122 @@
+[
+	{
+		"forks": 20,
+		"name": "mincoin/mincoin",
+		"stars": 17,
+		"watchers": 0,
+		"repo_name": "mincoin/mincoin",
+		"ecosystem_slug": "mincoin",
+		"parent_slug": null,
+		"path": "mincoin",
+		"slug": "mincoin",
+		"title": "Mincoin"
+	},
+	{
+		"forks": 1,
+		"name": "xieta/mincoin",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "xieta/mincoin",
+		"ecosystem_slug": "mincoin",
+		"parent_slug": null,
+		"path": "mincoin",
+		"slug": "mincoin",
+		"title": "Mincoin"
+	},
+	{
+		"forks": 0,
+		"name": "mincoin/p2pool",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "mincoin/p2pool",
+		"ecosystem_slug": "mincoin",
+		"parent_slug": null,
+		"path": "mincoin",
+		"slug": "mincoin",
+		"title": "Mincoin"
+	},
+	{
+		"forks": 0,
+		"name": "mincoin/gitian.sigs",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "mincoin/gitian.sigs",
+		"ecosystem_slug": "mincoin",
+		"parent_slug": null,
+		"path": "mincoin",
+		"slug": "mincoin",
+		"title": "Mincoin"
+	},
+	{
+		"forks": 0,
+		"name": "mincoin/mincoinpool",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "mincoin/mincoinpool",
+		"ecosystem_slug": "mincoin",
+		"parent_slug": null,
+		"path": "mincoin",
+		"slug": "mincoin",
+		"title": "Mincoin"
+	},
+	{
+		"forks": 1,
+		"name": "mincoin/graphics",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "mincoin/graphics",
+		"ecosystem_slug": "mincoin",
+		"parent_slug": null,
+		"path": "mincoin",
+		"slug": "mincoin",
+		"title": "Mincoin"
+	},
+	{
+		"forks": 1,
+		"name": "mincoin/mincoin.us",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "mincoin/mincoin.us",
+		"ecosystem_slug": "mincoin",
+		"parent_slug": null,
+		"path": "mincoin",
+		"slug": "mincoin",
+		"title": "Mincoin"
+	},
+	{
+		"forks": 0,
+		"name": "mincoin/mincoin-seeder",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "mincoin/mincoin-seeder",
+		"ecosystem_slug": "mincoin",
+		"parent_slug": null,
+		"path": "mincoin",
+		"slug": "mincoin",
+		"title": "Mincoin"
+	},
+	{
+		"forks": 0,
+		"name": "mincoin/mincoin-whitepaper",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "mincoin/mincoin-whitepaper",
+		"ecosystem_slug": "mincoin",
+		"parent_slug": null,
+		"path": "mincoin",
+		"slug": "mincoin",
+		"title": "Mincoin"
+	},
+	{
+		"forks": 0,
+		"name": "mincoin/minaddress.org",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "mincoin/minaddress.org",
+		"ecosystem_slug": "mincoin",
+		"parent_slug": null,
+		"path": "mincoin",
+		"slug": "mincoin",
+		"title": "Mincoin"
+	}
+]

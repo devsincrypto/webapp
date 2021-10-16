@@ -1,0 +1,122 @@
+[
+	{
+		"forks": 3,
+		"name": "clearcoin/extension",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "clearcoin/extension",
+		"ecosystem_slug": "clearcoin",
+		"parent_slug": null,
+		"path": "clearcoin",
+		"slug": "clearcoin",
+		"title": "ClearCoin"
+	},
+	{
+		"forks": 1,
+		"name": "clearcoin/documents",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "clearcoin/documents",
+		"ecosystem_slug": "clearcoin",
+		"parent_slug": null,
+		"path": "clearcoin",
+		"slug": "clearcoin",
+		"title": "ClearCoin"
+	},
+	{
+		"forks": 1,
+		"name": "clearcoin/contracts",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "clearcoin/contracts",
+		"ecosystem_slug": "clearcoin",
+		"parent_slug": null,
+		"path": "clearcoin",
+		"slug": "clearcoin",
+		"title": "ClearCoin"
+	},
+	{
+		"forks": 1,
+		"name": "clearcoin/tx-monitor",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "clearcoin/tx-monitor",
+		"ecosystem_slug": "clearcoin",
+		"parent_slug": null,
+		"path": "clearcoin",
+		"slug": "clearcoin",
+		"title": "ClearCoin"
+	},
+	{
+		"forks": 2,
+		"name": "clearcoin/web3j",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "clearcoin/web3j",
+		"ecosystem_slug": "clearcoin",
+		"parent_slug": null,
+		"path": "clearcoin",
+		"slug": "clearcoin",
+		"title": "ClearCoin"
+	},
+	{
+		"forks": 1,
+		"name": "clearcoin/cljs-web3",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "clearcoin/cljs-web3",
+		"ecosystem_slug": "clearcoin",
+		"parent_slug": null,
+		"path": "clearcoin",
+		"slug": "clearcoin",
+		"title": "ClearCoin"
+	},
+	{
+		"forks": 1,
+		"name": "clearcoin/go-ethereum",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "clearcoin/go-ethereum",
+		"ecosystem_slug": "clearcoin",
+		"parent_slug": null,
+		"path": "clearcoin",
+		"slug": "clearcoin",
+		"title": "ClearCoin"
+	},
+	{
+		"forks": 1,
+		"name": "clearcoin/clojure-tensorflow",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "clearcoin/clojure-tensorflow",
+		"ecosystem_slug": "clearcoin",
+		"parent_slug": null,
+		"path": "clearcoin",
+		"slug": "clearcoin",
+		"title": "ClearCoin"
+	},
+	{
+		"forks": 1,
+		"name": "clearcoin/reagent",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "clearcoin/reagent",
+		"ecosystem_slug": "clearcoin",
+		"parent_slug": null,
+		"path": "clearcoin",
+		"slug": "clearcoin",
+		"title": "ClearCoin"
+	},
+	{
+		"forks": 1,
+		"name": "clearcoin/lacinia",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "clearcoin/lacinia",
+		"ecosystem_slug": "clearcoin",
+		"parent_slug": null,
+		"path": "clearcoin",
+		"slug": "clearcoin",
+		"title": "ClearCoin"
+	}
+]

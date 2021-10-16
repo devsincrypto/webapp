@@ -1,0 +1,50 @@
+[
+	{
+		"forks": 174,
+		"name": "austintgriffith/burner-wallet",
+		"stars": 492,
+		"watchers": 0,
+		"repo_name": "austintgriffith/burner-wallet",
+		"ecosystem_slug": "xdai",
+		"parent_slug": "poa-network",
+		"path": "ethereum/poa-network/xdai",
+		"slug": "xdai",
+		"title": "xDai"
+	},
+	{
+		"forks": 42,
+		"name": "poanetwork/token-bridge",
+		"stars": 91,
+		"watchers": 0,
+		"repo_name": "poanetwork/token-bridge",
+		"ecosystem_slug": "xdai",
+		"parent_slug": "poa-network",
+		"path": "ethereum/poa-network/xdai",
+		"slug": "xdai",
+		"title": "xDai"
+	},
+	{
+		"forks": 18,
+		"name": "dexlab-io/dexpay-pos",
+		"stars": 22,
+		"watchers": 0,
+		"repo_name": "dexlab-io/dexpay-pos",
+		"ecosystem_slug": "xdai",
+		"parent_slug": "poa-network",
+		"path": "ethereum/poa-network/xdai",
+		"slug": "xdai",
+		"title": "xDai"
+	},
+	{
+		"forks": 9,
+		"name": "AlphaWallet/ERC875-token-factory",
+		"stars": 10,
+		"watchers": 0,
+		"repo_name": "AlphaWallet/ERC875-token-factory",
+		"ecosystem_slug": "xdai",
+		"parent_slug": "poa-network",
+		"path": "ethereum/poa-network/xdai",
+		"slug": "xdai",
+		"title": "xDai"
+	}
+]

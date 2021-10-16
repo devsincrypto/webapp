@@ -1,0 +1,50 @@
+[
+	{
+		"forks": 17,
+		"name": "MercuryProtocol/web3.swift",
+		"stars": 102,
+		"watchers": 0,
+		"repo_name": "MercuryProtocol/web3.swift",
+		"ecosystem_slug": "mercury-protocol",
+		"parent_slug": null,
+		"path": "mercury-protocol",
+		"slug": "mercury-protocol",
+		"title": "Mercury Protocol"
+	},
+	{
+		"forks": 5,
+		"name": "MercuryProtocol/web3.swift-Example",
+		"stars": 16,
+		"watchers": 0,
+		"repo_name": "MercuryProtocol/web3.swift-Example",
+		"ecosystem_slug": "mercury-protocol",
+		"parent_slug": null,
+		"path": "mercury-protocol",
+		"slug": "mercury-protocol",
+		"title": "Mercury Protocol"
+	},
+	{
+		"forks": 3,
+		"name": "MercuryProtocol/global-messaging-token-contracts",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "MercuryProtocol/global-messaging-token-contracts",
+		"ecosystem_slug": "mercury-protocol",
+		"parent_slug": null,
+		"path": "mercury-protocol",
+		"slug": "mercury-protocol",
+		"title": "Mercury Protocol"
+	},
+	{
+		"forks": 1,
+		"name": "MercuryProtocol/mercury-protocol-wiki",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "MercuryProtocol/mercury-protocol-wiki",
+		"ecosystem_slug": "mercury-protocol",
+		"parent_slug": null,
+		"path": "mercury-protocol",
+		"slug": "mercury-protocol",
+		"title": "Mercury Protocol"
+	}
+]

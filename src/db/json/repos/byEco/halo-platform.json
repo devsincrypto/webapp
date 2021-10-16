@@ -1,0 +1,110 @@
+[
+	{
+		"forks": 7,
+		"name": "haloplatform/go-haloplatform",
+		"stars": 12,
+		"watchers": 0,
+		"repo_name": "haloplatform/go-haloplatform",
+		"ecosystem_slug": "halo-platform",
+		"parent_slug": null,
+		"path": "halo-platform",
+		"slug": "halo-platform",
+		"title": "Halo Platform"
+	},
+	{
+		"forks": 3,
+		"name": "haloplatform/vuex-web3-sync",
+		"stars": 10,
+		"watchers": 0,
+		"repo_name": "haloplatform/vuex-web3-sync",
+		"ecosystem_slug": "halo-platform",
+		"parent_slug": null,
+		"path": "halo-platform",
+		"slug": "halo-platform",
+		"title": "Halo Platform"
+	},
+	{
+		"forks": 1,
+		"name": "haloplatform/sdk",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "haloplatform/sdk",
+		"ecosystem_slug": "halo-platform",
+		"parent_slug": null,
+		"path": "halo-platform",
+		"slug": "halo-platform",
+		"title": "Halo Platform"
+	},
+	{
+		"forks": 0,
+		"name": "haloplatform/web3js-typings",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "haloplatform/web3js-typings",
+		"ecosystem_slug": "halo-platform",
+		"parent_slug": null,
+		"path": "halo-platform",
+		"slug": "halo-platform",
+		"title": "Halo Platform"
+	},
+	{
+		"forks": 0,
+		"name": "haloplatform/airdrop",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "haloplatform/airdrop",
+		"ecosystem_slug": "halo-platform",
+		"parent_slug": null,
+		"path": "halo-platform",
+		"slug": "halo-platform",
+		"title": "Halo Platform"
+	},
+	{
+		"forks": 0,
+		"name": "haloplatform/simple-sign-system",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "haloplatform/simple-sign-system",
+		"ecosystem_slug": "halo-platform",
+		"parent_slug": null,
+		"path": "halo-platform",
+		"slug": "halo-platform",
+		"title": "Halo Platform"
+	},
+	{
+		"forks": 1,
+		"name": "haloplatform/status",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "haloplatform/status",
+		"ecosystem_slug": "halo-platform",
+		"parent_slug": null,
+		"path": "halo-platform",
+		"slug": "halo-platform",
+		"title": "Halo Platform"
+	},
+	{
+		"forks": 0,
+		"name": "haloplatform/web3.js",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "haloplatform/web3.js",
+		"ecosystem_slug": "halo-platform",
+		"parent_slug": null,
+		"path": "halo-platform",
+		"slug": "halo-platform",
+		"title": "Halo Platform"
+	},
+	{
+		"forks": 0,
+		"name": "haloplatform/truffle-contract",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "haloplatform/truffle-contract",
+		"ecosystem_slug": "halo-platform",
+		"parent_slug": null,
+		"path": "halo-platform",
+		"slug": "halo-platform",
+		"title": "Halo Platform"
+	}
+]

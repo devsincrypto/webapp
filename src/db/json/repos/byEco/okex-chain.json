@@ -1,0 +1,74 @@
+[
+	{
+		"forks": 35,
+		"name": "okex/okexchain",
+		"stars": 110,
+		"watchers": 0,
+		"repo_name": "okex/okexchain",
+		"ecosystem_slug": "okex-chain",
+		"parent_slug": "cosmos",
+		"path": "cosmos/okex-chain",
+		"slug": "okex-chain",
+		"title": "OKEX Chain"
+	},
+	{
+		"forks": 6,
+		"name": "okex/opendex-ui",
+		"stars": 16,
+		"watchers": 0,
+		"repo_name": "okex/opendex-ui",
+		"ecosystem_slug": "okex-chain",
+		"parent_slug": "cosmos",
+		"path": "cosmos/okex-chain",
+		"slug": "okex-chain",
+		"title": "OKEX Chain"
+	},
+	{
+		"forks": 8,
+		"name": "okex/okexchain-javascript-sdk",
+		"stars": 13,
+		"watchers": 0,
+		"repo_name": "okex/okexchain-javascript-sdk",
+		"ecosystem_slug": "okex-chain",
+		"parent_slug": "cosmos",
+		"path": "cosmos/okex-chain",
+		"slug": "okex-chain",
+		"title": "OKEX Chain"
+	},
+	{
+		"forks": 0,
+		"name": "okex/opendex-desktop",
+		"stars": 10,
+		"watchers": 0,
+		"repo_name": "okex/opendex-desktop",
+		"ecosystem_slug": "okex-chain",
+		"parent_slug": "cosmos",
+		"path": "cosmos/okex-chain",
+		"slug": "okex-chain",
+		"title": "OKEX Chain"
+	},
+	{
+		"forks": 3,
+		"name": "okex/okexchain-java-sdk",
+		"stars": 6,
+		"watchers": 0,
+		"repo_name": "okex/okexchain-java-sdk",
+		"ecosystem_slug": "okex-chain",
+		"parent_slug": "cosmos",
+		"path": "cosmos/okex-chain",
+		"slug": "okex-chain",
+		"title": "OKEX Chain"
+	},
+	{
+		"forks": 2,
+		"name": "okex/okexchain-go-sdk",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "okex/okexchain-go-sdk",
+		"ecosystem_slug": "okex-chain",
+		"parent_slug": "cosmos",
+		"path": "cosmos/okex-chain",
+		"slug": "okex-chain",
+		"title": "OKEX Chain"
+	}
+]

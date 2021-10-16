@@ -1,0 +1,50 @@
+[
+	{
+		"forks": 14,
+		"name": "gapcoin/gapcoin",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "gapcoin/gapcoin",
+		"ecosystem_slug": "gapcoin",
+		"parent_slug": null,
+		"path": "gapcoin",
+		"slug": "gapcoin",
+		"title": "Gapcoin"
+	},
+	{
+		"forks": 12,
+		"name": "gapcoin/GapMiner",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "gapcoin/GapMiner",
+		"ecosystem_slug": "gapcoin",
+		"parent_slug": null,
+		"path": "gapcoin",
+		"slug": "gapcoin",
+		"title": "Gapcoin"
+	},
+	{
+		"forks": 9,
+		"name": "gapcoin/Gapcoin-PoWCore",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "gapcoin/Gapcoin-PoWCore",
+		"ecosystem_slug": "gapcoin",
+		"parent_slug": null,
+		"path": "gapcoin",
+		"slug": "gapcoin",
+		"title": "Gapcoin"
+	},
+	{
+		"forks": 2,
+		"name": "gapcoin/Gapcoin-Website",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "gapcoin/Gapcoin-Website",
+		"ecosystem_slug": "gapcoin",
+		"parent_slug": null,
+		"path": "gapcoin",
+		"slug": "gapcoin",
+		"title": "Gapcoin"
+	}
+]

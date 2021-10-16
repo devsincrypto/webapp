@@ -1,0 +1,110 @@
+[
+	{
+		"forks": 7,
+		"name": "XMaxPlatform/xmax-mainchain",
+		"stars": 14,
+		"watchers": 0,
+		"repo_name": "XMaxPlatform/xmax-mainchain",
+		"ecosystem_slug": "xmax",
+		"parent_slug": null,
+		"path": "xmax",
+		"slug": "xmax",
+		"title": "XMax"
+	},
+	{
+		"forks": 8,
+		"name": "XMaxPlatform/support-chain",
+		"stars": 6,
+		"watchers": 0,
+		"repo_name": "XMaxPlatform/support-chain",
+		"ecosystem_slug": "xmax",
+		"parent_slug": null,
+		"path": "xmax",
+		"slug": "xmax",
+		"title": "XMax"
+	},
+	{
+		"forks": 4,
+		"name": "XMaxPlatform/Documents",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "XMaxPlatform/Documents",
+		"ecosystem_slug": "xmax",
+		"parent_slug": null,
+		"path": "xmax",
+		"slug": "xmax",
+		"title": "XMax"
+	},
+	{
+		"forks": 3,
+		"name": "XMaxPlatform/xmaxjs-ecc-lib",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "XMaxPlatform/xmaxjs-ecc-lib",
+		"ecosystem_slug": "xmax",
+		"parent_slug": null,
+		"path": "xmax",
+		"slug": "xmax",
+		"title": "XMax"
+	},
+	{
+		"forks": 2,
+		"name": "XMaxPlatform/xmax-studio-js",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "XMaxPlatform/xmax-studio-js",
+		"ecosystem_slug": "xmax",
+		"parent_slug": null,
+		"path": "xmax",
+		"slug": "xmax",
+		"title": "XMax"
+	},
+	{
+		"forks": 2,
+		"name": "XMaxPlatform/xmaxjs-fcbuffer-lib",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "XMaxPlatform/xmaxjs-fcbuffer-lib",
+		"ecosystem_slug": "xmax",
+		"parent_slug": null,
+		"path": "xmax",
+		"slug": "xmax",
+		"title": "XMax"
+	},
+	{
+		"forks": 2,
+		"name": "XMaxPlatform/xmaxjs-json-lib",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "XMaxPlatform/xmaxjs-json-lib",
+		"ecosystem_slug": "xmax",
+		"parent_slug": null,
+		"path": "xmax",
+		"slug": "xmax",
+		"title": "XMax"
+	},
+	{
+		"forks": 2,
+		"name": "XMaxPlatform/xmaxjs-keygen-lib",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "XMaxPlatform/xmaxjs-keygen-lib",
+		"ecosystem_slug": "xmax",
+		"parent_slug": null,
+		"path": "xmax",
+		"slug": "xmax",
+		"title": "XMax"
+	},
+	{
+		"forks": 2,
+		"name": "XMaxPlatform/xmaxjs-api-lib",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "XMaxPlatform/xmaxjs-api-lib",
+		"ecosystem_slug": "xmax",
+		"parent_slug": null,
+		"path": "xmax",
+		"slug": "xmax",
+		"title": "XMax"
+	}
+]

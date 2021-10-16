@@ -1,0 +1,26 @@
+[
+	{
+		"forks": 2,
+		"name": "Soma-co/soma-community-token",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "Soma-co/soma-community-token",
+		"ecosystem_slug": "soma",
+		"parent_slug": null,
+		"path": "soma",
+		"slug": "soma",
+		"title": "Soma"
+	},
+	{
+		"forks": 0,
+		"name": "Soma-co/soma-snapshots",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "Soma-co/soma-snapshots",
+		"ecosystem_slug": "soma",
+		"parent_slug": null,
+		"path": "soma",
+		"slug": "soma",
+		"title": "Soma"
+	}
+]

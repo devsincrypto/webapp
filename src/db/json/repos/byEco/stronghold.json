@@ -1,0 +1,98 @@
+[
+	{
+		"forks": 1,
+		"name": "strongholdxchg/wallet-react-native",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "strongholdxchg/wallet-react-native",
+		"ecosystem_slug": "stronghold",
+		"parent_slug": "stellar",
+		"path": "stellar/stronghold",
+		"slug": "stronghold",
+		"title": "Stronghold"
+	},
+	{
+		"forks": 0,
+		"name": "strongholdxchg/xlm-aggregator",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "strongholdxchg/xlm-aggregator",
+		"ecosystem_slug": "stronghold",
+		"parent_slug": "stellar",
+		"path": "stellar/stronghold",
+		"slug": "stronghold",
+		"title": "Stronghold"
+	},
+	{
+		"forks": 0,
+		"name": "strongholdxchg/p2pb2b",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "strongholdxchg/p2pb2b",
+		"ecosystem_slug": "stronghold",
+		"parent_slug": "stellar",
+		"path": "stellar/stronghold",
+		"slug": "stronghold",
+		"title": "Stronghold"
+	},
+	{
+		"forks": 0,
+		"name": "strongholdxchg/digital-asset-disclosure",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "strongholdxchg/digital-asset-disclosure",
+		"ecosystem_slug": "stronghold",
+		"parent_slug": "stellar",
+		"path": "stellar/stronghold",
+		"slug": "stronghold",
+		"title": "Stronghold"
+	},
+	{
+		"forks": 0,
+		"name": "strongholdxchg/go",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "strongholdxchg/go",
+		"ecosystem_slug": "stronghold",
+		"parent_slug": "stellar",
+		"path": "stellar/stronghold",
+		"slug": "stronghold",
+		"title": "Stronghold"
+	},
+	{
+		"forks": 0,
+		"name": "strongholdxchg/kelp",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "strongholdxchg/kelp",
+		"ecosystem_slug": "stronghold",
+		"parent_slug": "stellar",
+		"path": "stellar/stronghold",
+		"slug": "stronghold",
+		"title": "Stronghold"
+	},
+	{
+		"forks": 0,
+		"name": "strongholdxchg/edge-react-gui",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "strongholdxchg/edge-react-gui",
+		"ecosystem_slug": "stronghold",
+		"parent_slug": "stellar",
+		"path": "stellar/stronghold",
+		"slug": "stronghold",
+		"title": "Stronghold"
+	},
+	{
+		"forks": 0,
+		"name": "strongholdxchg/compliance-protocol",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "strongholdxchg/compliance-protocol",
+		"ecosystem_slug": "stronghold",
+		"parent_slug": "stellar",
+		"path": "stellar/stronghold",
+		"slug": "stronghold",
+		"title": "Stronghold"
+	}
+]

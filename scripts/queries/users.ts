@@ -1,0 +1,39 @@
+import cliProgress from 'cli-progress';
+import { existsSync } from 'fs';
+import fs from 'fs/promises';
+
+import * as userQ from '../../src/db/users';
+import { promiseAllLimit } from '../../src/util/helpers';
+import { BASE_JSON_DIR, createDir } from './shared';
+
+export async function genEcoUsers(
+	slugs: string[],
+	mb: cliProgress.MultiBar
+): Promise<void> {
+	console.log('Starting genEcoUsers...');
+	console.time('genEcoUsers');
+
+	const baseDir = `${BASE_JSON_DIR}/users/byEco`;
+	await createDir(baseDir);
+
+	const b = mb.create(slugs.length, 0);
+	await promiseAllLimit(
+		2,
+		slugs.map((slug) => async () => {
+			b.increment();
+
+			// Skip file if file already exists.
+			if (existsSync(`${baseDir}/${slug}.json`)) {
+				return;
+			}
+
+			await fs.writeFile(
+				`${baseDir}/${slug}.json`,
+				JSON.stringify(userQ.usersByEco(slug), undefined, '\t')
+			);
+		})
+	);
+
+	b.stop();
+	console.timeEnd('genEcoUsers');
+}

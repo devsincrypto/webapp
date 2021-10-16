@@ -1,0 +1,62 @@
+[
+	{
+		"forks": 698,
+		"name": "Bitcoin-ABC/bitcoin-abc",
+		"stars": 1212,
+		"watchers": 0,
+		"repo_name": "Bitcoin-ABC/bitcoin-abc",
+		"ecosystem_slug": "bitcoin-cash-abc",
+		"parent_slug": null,
+		"path": "bitcoin-cash-abc",
+		"slug": "bitcoin-cash-abc",
+		"title": "Bitcoin Cash ABC"
+	},
+	{
+		"forks": 23,
+		"name": "Bitcoin-ABC/bitcoinabc.org",
+		"stars": 14,
+		"watchers": 0,
+		"repo_name": "Bitcoin-ABC/bitcoinabc.org",
+		"ecosystem_slug": "bitcoin-cash-abc",
+		"parent_slug": null,
+		"path": "bitcoin-cash-abc",
+		"slug": "bitcoin-cash-abc",
+		"title": "Bitcoin Cash ABC"
+	},
+	{
+		"forks": 4,
+		"name": "Bitcoin-ABC/ElectrumABC",
+		"stars": 19,
+		"watchers": 0,
+		"repo_name": "Bitcoin-ABC/ElectrumABC",
+		"ecosystem_slug": "bitcoin-cash-abc",
+		"parent_slug": null,
+		"path": "bitcoin-cash-abc",
+		"slug": "bitcoin-cash-abc",
+		"title": "Bitcoin Cash ABC"
+	},
+	{
+		"forks": 9,
+		"name": "Bitcoin-ABC/secp256k1",
+		"stars": 9,
+		"watchers": 0,
+		"repo_name": "Bitcoin-ABC/secp256k1",
+		"ecosystem_slug": "bitcoin-cash-abc",
+		"parent_slug": null,
+		"path": "bitcoin-cash-abc",
+		"slug": "bitcoin-cash-abc",
+		"title": "Bitcoin Cash ABC"
+	},
+	{
+		"forks": 5,
+		"name": "Bitcoin-ABC/qa-assets",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Bitcoin-ABC/qa-assets",
+		"ecosystem_slug": "bitcoin-cash-abc",
+		"parent_slug": null,
+		"path": "bitcoin-cash-abc",
+		"slug": "bitcoin-cash-abc",
+		"title": "Bitcoin Cash ABC"
+	}
+]

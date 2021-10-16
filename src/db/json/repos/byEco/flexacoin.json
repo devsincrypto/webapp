@@ -1,0 +1,26 @@
+[
+	{
+		"forks": 0,
+		"name": "flexacoin/smart-contracts",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "flexacoin/smart-contracts",
+		"ecosystem_slug": "flexacoin",
+		"parent_slug": null,
+		"path": "flexacoin",
+		"slug": "flexacoin",
+		"title": "Flexacoin"
+	},
+	{
+		"forks": 1,
+		"name": "flexacoin/smart-contracts-audit",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "flexacoin/smart-contracts-audit",
+		"ecosystem_slug": "flexacoin",
+		"parent_slug": null,
+		"path": "flexacoin",
+		"slug": "flexacoin",
+		"title": "Flexacoin"
+	}
+]

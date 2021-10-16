@@ -1,0 +1,74 @@
+[
+	{
+		"forks": 19,
+		"name": "solidified-platform/audits",
+		"stars": 74,
+		"watchers": 0,
+		"repo_name": "solidified-platform/audits",
+		"ecosystem_slug": "solidified",
+		"parent_slug": null,
+		"path": "solidified",
+		"slug": "solidified",
+		"title": "Solidified"
+	},
+	{
+		"forks": 5,
+		"name": "solidified-platform/contract-complexity",
+		"stars": 11,
+		"watchers": 0,
+		"repo_name": "solidified-platform/contract-complexity",
+		"ecosystem_slug": "solidified",
+		"parent_slug": null,
+		"path": "solidified",
+		"slug": "solidified",
+		"title": "Solidified"
+	},
+	{
+		"forks": 2,
+		"name": "solidified-platform/smart-contracts",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "solidified-platform/smart-contracts",
+		"ecosystem_slug": "solidified",
+		"parent_slug": null,
+		"path": "solidified",
+		"slug": "solidified",
+		"title": "Solidified"
+	},
+	{
+		"forks": 1,
+		"name": "solidified-platform/external-audits",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "solidified-platform/external-audits",
+		"ecosystem_slug": "solidified",
+		"parent_slug": null,
+		"path": "solidified",
+		"slug": "solidified",
+		"title": "Solidified"
+	},
+	{
+		"forks": 2,
+		"name": "solidified-platform/bug-bounty-contracts",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "solidified-platform/bug-bounty-contracts",
+		"ecosystem_slug": "solidified",
+		"parent_slug": null,
+		"path": "solidified",
+		"slug": "solidified",
+		"title": "Solidified"
+	},
+	{
+		"forks": 0,
+		"name": "solidified-platform/oracle-mvp",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "solidified-platform/oracle-mvp",
+		"ecosystem_slug": "solidified",
+		"parent_slug": null,
+		"path": "solidified",
+		"slug": "solidified",
+		"title": "Solidified"
+	}
+]

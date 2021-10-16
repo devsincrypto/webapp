@@ -1,0 +1,38 @@
+[
+	{
+		"forks": 8,
+		"name": "dirtprotocol/dirtoracle",
+		"stars": 21,
+		"watchers": 0,
+		"repo_name": "dirtprotocol/dirtoracle",
+		"ecosystem_slug": "dirt-protocol",
+		"parent_slug": null,
+		"path": "dirt-protocol",
+		"slug": "dirt-protocol",
+		"title": "Dirt Protocol"
+	},
+	{
+		"forks": 4,
+		"name": "dirtprotocol/dirt",
+		"stars": 21,
+		"watchers": 0,
+		"repo_name": "dirtprotocol/dirt",
+		"ecosystem_slug": "dirt-protocol",
+		"parent_slug": null,
+		"path": "dirt-protocol",
+		"slug": "dirt-protocol",
+		"title": "Dirt Protocol"
+	},
+	{
+		"forks": 1,
+		"name": "dirtprotocol/proxysigner",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "dirtprotocol/proxysigner",
+		"ecosystem_slug": "dirt-protocol",
+		"parent_slug": null,
+		"path": "dirt-protocol",
+		"slug": "dirt-protocol",
+		"title": "Dirt Protocol"
+	}
+]

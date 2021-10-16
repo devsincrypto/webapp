@@ -1,0 +1,98 @@
+[
+	{
+		"forks": 34,
+		"name": "monerov/monerov",
+		"stars": 23,
+		"watchers": 0,
+		"repo_name": "monerov/monerov",
+		"ecosystem_slug": "monerov",
+		"parent_slug": null,
+		"path": "monerov",
+		"slug": "monerov",
+		"title": "MoneroV "
+	},
+	{
+		"forks": 7,
+		"name": "monerov/monerov-explorer",
+		"stars": 13,
+		"watchers": 0,
+		"repo_name": "monerov/monerov-explorer",
+		"ecosystem_slug": "monerov",
+		"parent_slug": null,
+		"path": "monerov",
+		"slug": "monerov",
+		"title": "MoneroV "
+	},
+	{
+		"forks": 8,
+		"name": "monerov/monerov-gui",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "monerov/monerov-gui",
+		"ecosystem_slug": "monerov",
+		"parent_slug": null,
+		"path": "monerov",
+		"slug": "monerov",
+		"title": "MoneroV "
+	},
+	{
+		"forks": 7,
+		"name": "monerov/node-cryptonote-util-monerov",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "monerov/node-cryptonote-util-monerov",
+		"ecosystem_slug": "monerov",
+		"parent_slug": null,
+		"path": "monerov",
+		"slug": "monerov",
+		"title": "MoneroV "
+	},
+	{
+		"forks": 4,
+		"name": "monerov/monerovwp",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "monerov/monerovwp",
+		"ecosystem_slug": "monerov",
+		"parent_slug": null,
+		"path": "monerov",
+		"slug": "monerov",
+		"title": "MoneroV "
+	},
+	{
+		"forks": 3,
+		"name": "monerov/unbound",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "monerov/unbound",
+		"ecosystem_slug": "monerov",
+		"parent_slug": null,
+		"path": "monerov",
+		"slug": "monerov",
+		"title": "MoneroV "
+	},
+	{
+		"forks": 3,
+		"name": "monerov/monerov-wallet-generator",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "monerov/monerov-wallet-generator",
+		"ecosystem_slug": "monerov",
+		"parent_slug": null,
+		"path": "monerov",
+		"slug": "monerov",
+		"title": "MoneroV "
+	},
+	{
+		"forks": 2,
+		"name": "monerov/monerov-blockchain-explorer",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "monerov/monerov-blockchain-explorer",
+		"ecosystem_slug": "monerov",
+		"parent_slug": null,
+		"path": "monerov",
+		"slug": "monerov",
+		"title": "MoneroV "
+	}
+]

@@ -1,0 +1,62 @@
+[
+	{
+		"forks": 1,
+		"name": "ZEUS-coin/Desktop-Wallet",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "ZEUS-coin/Desktop-Wallet",
+		"ecosystem_slug": "zeusnetwork",
+		"parent_slug": null,
+		"path": "zeusnetwork",
+		"slug": "zeusnetwork",
+		"title": "ZeusNetwork"
+	},
+	{
+		"forks": 0,
+		"name": "ZEUS-coin/wallet",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "ZEUS-coin/wallet",
+		"ecosystem_slug": "zeusnetwork",
+		"parent_slug": null,
+		"path": "zeusnetwork",
+		"slug": "zeusnetwork",
+		"title": "ZeusNetwork"
+	},
+	{
+		"forks": 1,
+		"name": "ZEUS-coin/ethereum-lists",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "ZEUS-coin/ethereum-lists",
+		"ecosystem_slug": "zeusnetwork",
+		"parent_slug": null,
+		"path": "zeusnetwork",
+		"slug": "zeusnetwork",
+		"title": "ZeusNetwork"
+	},
+	{
+		"forks": 0,
+		"name": "ZEUS-coin/docs",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "ZEUS-coin/docs",
+		"ecosystem_slug": "zeusnetwork",
+		"parent_slug": null,
+		"path": "zeusnetwork",
+		"slug": "zeusnetwork",
+		"title": "ZeusNetwork"
+	},
+	{
+		"forks": 0,
+		"name": "ZEUS-coin/smart-contracts",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "ZEUS-coin/smart-contracts",
+		"ecosystem_slug": "zeusnetwork",
+		"parent_slug": null,
+		"path": "zeusnetwork",
+		"slug": "zeusnetwork",
+		"title": "ZeusNetwork"
+	}
+]

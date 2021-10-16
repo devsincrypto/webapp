@@ -1,0 +1,62 @@
+[
+	{
+		"forks": 11,
+		"name": "AventusProtocolFoundation/protocol",
+		"stars": 25,
+		"watchers": 0,
+		"repo_name": "AventusProtocolFoundation/protocol",
+		"ecosystem_slug": "aventus",
+		"parent_slug": null,
+		"path": "aventus",
+		"slug": "aventus",
+		"title": "Aventus"
+	},
+	{
+		"forks": 0,
+		"name": "AventusProtocolFoundation/protocol-classic",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "AventusProtocolFoundation/protocol-classic",
+		"ecosystem_slug": "aventus",
+		"parent_slug": null,
+		"path": "aventus",
+		"slug": "aventus",
+		"title": "Aventus"
+	},
+	{
+		"forks": 1,
+		"name": "AventusProtocolFoundation/docs",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "AventusProtocolFoundation/docs",
+		"ecosystem_slug": "aventus",
+		"parent_slug": null,
+		"path": "aventus",
+		"slug": "aventus",
+		"title": "Aventus"
+	},
+	{
+		"forks": 0,
+		"name": "AventusProtocolFoundation/token-sale",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "AventusProtocolFoundation/token-sale",
+		"ecosystem_slug": "aventus",
+		"parent_slug": null,
+		"path": "aventus",
+		"slug": "aventus",
+		"title": "Aventus"
+	},
+	{
+		"forks": 0,
+		"name": "AventusProtocolFoundation/token-sale-old",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "AventusProtocolFoundation/token-sale-old",
+		"ecosystem_slug": "aventus",
+		"parent_slug": null,
+		"path": "aventus",
+		"slug": "aventus",
+		"title": "Aventus"
+	}
+]

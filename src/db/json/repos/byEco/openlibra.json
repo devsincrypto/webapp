@@ -1,0 +1,86 @@
+[
+	{
+		"forks": 11,
+		"name": "open-libra/movemint",
+		"stars": 212,
+		"watchers": 0,
+		"repo_name": "open-libra/movemint",
+		"ecosystem_slug": "openlibra",
+		"parent_slug": null,
+		"path": "openlibra",
+		"slug": "openlibra",
+		"title": "OpenLibra"
+	},
+	{
+		"forks": 14,
+		"name": "open-libra/devnet",
+		"stars": 25,
+		"watchers": 0,
+		"repo_name": "open-libra/devnet",
+		"ecosystem_slug": "openlibra",
+		"parent_slug": null,
+		"path": "openlibra",
+		"slug": "openlibra",
+		"title": "OpenLibra"
+	},
+	{
+		"forks": 1,
+		"name": "open-libra/libra",
+		"stars": 21,
+		"watchers": 0,
+		"repo_name": "open-libra/libra",
+		"ecosystem_slug": "openlibra",
+		"parent_slug": null,
+		"path": "openlibra",
+		"slug": "openlibra",
+		"title": "OpenLibra"
+	},
+	{
+		"forks": 2,
+		"name": "open-libra/cli",
+		"stars": 9,
+		"watchers": 0,
+		"repo_name": "open-libra/cli",
+		"ecosystem_slug": "openlibra",
+		"parent_slug": null,
+		"path": "openlibra",
+		"slug": "openlibra",
+		"title": "OpenLibra"
+	},
+	{
+		"forks": 1,
+		"name": "open-libra/governance",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "open-libra/governance",
+		"ecosystem_slug": "openlibra",
+		"parent_slug": null,
+		"path": "openlibra",
+		"slug": "openlibra",
+		"title": "OpenLibra"
+	},
+	{
+		"forks": 0,
+		"name": "open-libra/synthetic-minds-move-stdlib",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "open-libra/synthetic-minds-move-stdlib",
+		"ecosystem_slug": "openlibra",
+		"parent_slug": null,
+		"path": "openlibra",
+		"slug": "openlibra",
+		"title": "OpenLibra"
+	},
+	{
+		"forks": 0,
+		"name": "open-libra/cargo-move",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "open-libra/cargo-move",
+		"ecosystem_slug": "openlibra",
+		"parent_slug": null,
+		"path": "openlibra",
+		"slug": "openlibra",
+		"title": "OpenLibra"
+	}
+]

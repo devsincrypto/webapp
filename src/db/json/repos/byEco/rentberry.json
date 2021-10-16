@@ -1,0 +1,122 @@
+[
+	{
+		"forks": 11,
+		"name": "Rentberry/coinmarketcap-api-php",
+		"stars": 20,
+		"watchers": 0,
+		"repo_name": "Rentberry/coinmarketcap-api-php",
+		"ecosystem_slug": "rentberry",
+		"parent_slug": null,
+		"path": "rentberry",
+		"slug": "rentberry",
+		"title": "Rentberry"
+	},
+	{
+		"forks": 8,
+		"name": "Rentberry/MapsUtils",
+		"stars": 6,
+		"watchers": 0,
+		"repo_name": "Rentberry/MapsUtils",
+		"ecosystem_slug": "rentberry",
+		"parent_slug": null,
+		"path": "rentberry",
+		"slug": "rentberry",
+		"title": "Rentberry"
+	},
+	{
+		"forks": 2,
+		"name": "Rentberry/geocoder",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "Rentberry/geocoder",
+		"ecosystem_slug": "rentberry",
+		"parent_slug": null,
+		"path": "rentberry",
+		"slug": "rentberry",
+		"title": "Rentberry"
+	},
+	{
+		"forks": 3,
+		"name": "Rentberry/BerryToken",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "Rentberry/BerryToken",
+		"ecosystem_slug": "rentberry",
+		"parent_slug": null,
+		"path": "rentberry",
+		"slug": "rentberry",
+		"title": "Rentberry"
+	},
+	{
+		"forks": 1,
+		"name": "Rentberry/lambda-images-resizer",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "Rentberry/lambda-images-resizer",
+		"ecosystem_slug": "rentberry",
+		"parent_slug": null,
+		"path": "rentberry",
+		"slug": "rentberry",
+		"title": "Rentberry"
+	},
+	{
+		"forks": 1,
+		"name": "Rentberry/IcoPromo",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "Rentberry/IcoPromo",
+		"ecosystem_slug": "rentberry",
+		"parent_slug": null,
+		"path": "rentberry",
+		"slug": "rentberry",
+		"title": "Rentberry"
+	},
+	{
+		"forks": 1,
+		"name": "Rentberry/mandrill-prometheus-exporter",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Rentberry/mandrill-prometheus-exporter",
+		"ecosystem_slug": "rentberry",
+		"parent_slug": null,
+		"path": "rentberry",
+		"slug": "rentberry",
+		"title": "Rentberry"
+	},
+	{
+		"forks": 1,
+		"name": "Rentberry/twilio-prometheus-exporter",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Rentberry/twilio-prometheus-exporter",
+		"ecosystem_slug": "rentberry",
+		"parent_slug": null,
+		"path": "rentberry",
+		"slug": "rentberry",
+		"title": "Rentberry"
+	},
+	{
+		"forks": 1,
+		"name": "Rentberry/esproxy",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Rentberry/esproxy",
+		"ecosystem_slug": "rentberry",
+		"parent_slug": null,
+		"path": "rentberry",
+		"slug": "rentberry",
+		"title": "Rentberry"
+	},
+	{
+		"forks": 0,
+		"name": "Rentberry/ngx-gallery",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Rentberry/ngx-gallery",
+		"ecosystem_slug": "rentberry",
+		"parent_slug": null,
+		"path": "rentberry",
+		"slug": "rentberry",
+		"title": "Rentberry"
+	}
+]

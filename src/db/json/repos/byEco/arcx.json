@@ -1,0 +1,38 @@
+[
+	{
+		"forks": 2,
+		"name": "arcxgame/liquidator-bot",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "arcxgame/liquidator-bot",
+		"ecosystem_slug": "arcx",
+		"parent_slug": "ethereum",
+		"path": "ethereum/arcx",
+		"slug": "arcx",
+		"title": "ARCX"
+	},
+	{
+		"forks": 0,
+		"name": "arcxgame/snapshot-spaces",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "arcxgame/snapshot-spaces",
+		"ecosystem_slug": "arcx",
+		"parent_slug": "ethereum",
+		"path": "ethereum/arcx",
+		"slug": "arcx",
+		"title": "ARCX"
+	},
+	{
+		"forks": 0,
+		"name": "arcxgame/audits",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "arcxgame/audits",
+		"ecosystem_slug": "arcx",
+		"parent_slug": "ethereum",
+		"path": "ethereum/arcx",
+		"slug": "arcx",
+		"title": "ARCX"
+	}
+]
