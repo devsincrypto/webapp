@@ -1,5 +1,4 @@
 import cliProgress from 'cli-progress';
-import { existsSync } from 'fs';
 import fs from 'fs/promises';
 
 import * as userQ from '../../src/db/users';
@@ -16,7 +15,7 @@ export async function genEcoUsers(
 	const baseDir = `${BASE_JSON_DIR}/users/byEco`;
 	await createDir(baseDir);
 
-	const b = mb.create(slugs.length, 0);
+	const b = mb.create(slugs.length, 0, { filename: 'genEcoUsers' });
 	await promiseAllLimit(
 		2,
 		slugs.map((slug) => async () => {

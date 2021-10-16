@@ -11,9 +11,6 @@ import { BASE_JSON_DIR, createDir } from './shared';
  * JSON file: `/ecosystem/all.json`
  */
 export async function genAllEcos(mb: cliProgress.MultiBar): Promise<void> {
-	console.log('Starting genAllEcos...');
-	console.time('genAllEcos');
-
 	const baseDir = `${BASE_JSON_DIR}/ecosystems`;
 	await createDir(baseDir);
 
@@ -24,16 +21,12 @@ export async function genAllEcos(mb: cliProgress.MultiBar): Promise<void> {
 	);
 
 	b.stop();
-	console.timeEnd('genAllEcos');
 }
 
 export async function genIndividualEcos(
 	slugs: string[],
 	mb: cliProgress.MultiBar
 ): Promise<void> {
-	console.log('Starting genIndividualEcos...');
-	console.time('genIndividualEcos');
-
 	const baseDir = `${BASE_JSON_DIR}/ecosystems/bySlug`;
 	await createDir(baseDir);
 
@@ -51,13 +44,9 @@ export async function genIndividualEcos(
 	);
 
 	b.stop();
-	console.timeEnd('genIndividualEcos');
 }
 
 export async function genEcoSlugs(slugs: string[]): Promise<void> {
-	console.log('Starting genEcoSlugs...');
-	console.time('genEcoSlugs');
-
 	const baseDir = `${BASE_JSON_DIR}/ecosystems`;
 	await createDir(baseDir);
 
@@ -65,5 +54,4 @@ export async function genEcoSlugs(slugs: string[]): Promise<void> {
 		`${baseDir}/slugs.json`,
 		JSON.stringify(slugs, undefined, '\t')
 	);
-	console.timeEnd('genEcoSlugs');
 }

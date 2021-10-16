@@ -1,5 +1,4 @@
 import cliProgress from 'cli-progress';
-import { existsSync } from 'fs';
 import fs from 'fs/promises';
 
 import * as repoQ from '../../src/db/repos';
@@ -10,9 +9,6 @@ export async function genReposByEcosystem(
 	slugs: string[],
 	mb: cliProgress.MultiBar
 ): Promise<void> {
-	console.log('Starting genReposByEcosystem...');
-	console.time('genReposByEcosystem');
-
 	const baseDir = `${BASE_JSON_DIR}/repos/byEco`;
 	await createDir(baseDir);
 
@@ -30,5 +26,4 @@ export async function genReposByEcosystem(
 	);
 
 	b.stop();
-	console.timeEnd('genReposByEcosystem');
 }

@@ -7,9 +7,6 @@ import { BASE_JSON_DIR, createDir } from './shared';
 export async function genChartDevsByMonth(
 	mb: cliProgress.MultiBar
 ): Promise<void> {
-	console.log('Starting genChartDevsByMonth...');
-	console.time('genChartDevsByMonth');
-
 	const baseDir = `${BASE_JSON_DIR}/charts`;
 	await createDir(baseDir);
 
@@ -20,5 +17,4 @@ export async function genChartDevsByMonth(
 	);
 
 	b.stop();
-	console.timeEnd('genChartDevsByMonth');
 }
