@@ -14,14 +14,12 @@ export async function main(): Promise<void> {
 	console.log('Starting script to generate JSONs.');
 
 	const slugs = ecoQ.allSlugs();
-	await Promise.all([
-		genAllEcos(),
-		genEcoSlugs(slugs),
-		genChartDevsByMonth(),
-	]);
+	await genEcoSlugs(slugs);
 
 	const mb = new cliProgress.MultiBar({});
 	await Promise.all([
+		genAllEcos(mb),
+		genChartDevsByMonth(mb),
 		genIndividualEcos(slugs, mb),
 		genEcoUsers(slugs, mb),
 		genReposByEcosystem(slugs, mb),

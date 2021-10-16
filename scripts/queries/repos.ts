@@ -22,11 +22,6 @@ export async function genReposByEcosystem(
 		slugs.map((slug) => async () => {
 			b.increment();
 
-			// Skip file if file already exists.
-			if (existsSync(`${baseDir}/${slug}.json`)) {
-				return;
-			}
-
 			await fs.writeFile(
 				`${baseDir}/${slug}.json`,
 				JSON.stringify(repoQ.byEcosystem(slug), undefined, '\t')

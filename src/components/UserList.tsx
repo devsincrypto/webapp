@@ -24,7 +24,7 @@ interface Row extends User {
 	scoreStr: string;
 }
 
-const PAGINATION = 10;
+const PAGINATION = 5;
 
 export function UserList({ eco, users }: UserListProps): React.ReactElement {
 	const [limit, setLimit] = useState(PAGINATION);

@@ -1,5 +1,4 @@
 import cliProgress from 'cli-progress';
-import { existsSync } from 'fs';
 import fs from 'fs/promises';
 
 import * as ecoQ from '../../src/db/eco';
@@ -11,17 +10,20 @@ import { BASE_JSON_DIR, createDir } from './shared';
  *
  * JSON file: `/ecosystem/all.json`
  */
-export async function genAllEcos(): Promise<void> {
+export async function genAllEcos(mb: cliProgress.MultiBar): Promise<void> {
 	console.log('Starting genAllEcos...');
 	console.time('genAllEcos');
 
 	const baseDir = `${BASE_JSON_DIR}/ecosystems`;
 	await createDir(baseDir);
 
+	const b = mb.create(1, 0);
 	await fs.writeFile(
 		`${baseDir}/all.json`,
 		JSON.stringify(ecoQ.all(), undefined, '\t')
 	);
+
+	b.stop();
 	console.timeEnd('genAllEcos');
 }
 
@@ -40,11 +42,6 @@ export async function genIndividualEcos(
 		2,
 		slugs.map((slug) => async () => {
 			b.increment();
-
-			// Skip file if file already exists.
-			if (existsSync(`${baseDir}/${slug}.json`)) {
-				return;
-			}
 
 			await fs.writeFile(
 				`${baseDir}/${slug}.json`,

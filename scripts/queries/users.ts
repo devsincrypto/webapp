@@ -22,11 +22,6 @@ export async function genEcoUsers(
 		slugs.map((slug) => async () => {
 			b.increment();
 
-			// Skip file if file already exists.
-			if (existsSync(`${baseDir}/${slug}.json`)) {
-				return;
-			}
-
 			await fs.writeFile(
 				`${baseDir}/${slug}.json`,
 				JSON.stringify(userQ.usersByEco(slug), undefined, '\t')

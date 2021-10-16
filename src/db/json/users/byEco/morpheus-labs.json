@@ -1,37 +1,37 @@
 [
 	{
-		"id": 106554,
-		"githubLoginMasked": "br",
-		"githubLoginEncrypted": "F4w9NOETRhefomnjFbfedR48vkHsTdPfb1Psd1pcbPVyeIjYaMbU",
-		"githubLoginHashed": "d8c0331cf594ff27dbca8b9c60ed8c4d4bac35476abee34a1aa7f2c02d864757",
-		"score": 206
+		"id": 520409,
+		"githubLoginMasked": "sa",
+		"githubLoginEncrypted": "DiRhotQ2WCfjgD1kIhIcupRwfC5wsfSzoJ2IFQ==",
+		"githubLoginHashed": "DiRhotQ2WCfjgD1kIhIcupRwfC5wsfSzoJ2IFQ==",
+		"score": 8709
 	},
 	{
-		"id": 106557,
+		"id": 116683,
+		"githubLoginMasked": "br",
+		"githubLoginEncrypted": "Hzd6ptUvQnu0x2RXvDUpvd9gYf7y7NRCJ8fz",
+		"githubLoginHashed": "Hzd6ptUvQnu0x2RXvDUpvd9gYf7y7NRCJ8fz",
+		"score": 207
+	},
+	{
+		"id": 170532,
 		"githubLoginMasked": "do",
-		"githubLoginEncrypted": "HQDCWTgyNcrsv3RdCslUCZWC+fWWi37Fm9BZXA8GP/bOGa9iYnH+",
-		"githubLoginHashed": "125682e58037868f5c9a57b092cac5eb7d66cb3b244ac87641bc6c25e9b1a3d0",
+		"githubLoginEncrypted": "GSp9rN4hQjvnkz09+9TFabdXFyEZ6wu2ePcP",
+		"githubLoginHashed": "GSp9rN4hQjvnkz09+9TFabdXFyEZ6wu2ePcP",
 		"score": 86
 	},
 	{
-		"id": 1219668,
+		"id": 116682,
 		"githubLoginMasked": "mi",
-		"githubLoginEncrypted": "vKofCCMZlSk1pOMHK6GkU4mFGZOulavb34M4e5owv0Aa61FLlw==",
-		"githubLoginHashed": "68027f53a9837e0820541df35ba90168ae7609b048a62a2ce506a642df95fb8b",
-		"score": 1
+		"githubLoginEncrypted": "ECxrqsQxQifjpWk9v481FZvxX4T8ZZW7gA==",
+		"githubLoginHashed": "ECxrqsQxQifjpWk9v481FZvxX4T8ZZW7gA==",
+		"score": 18
 	},
 	{
-		"id": 1990278,
-		"githubLoginMasked": "sa",
-		"githubLoginEncrypted": "OlMpdzOGjiAh7i0Bw2dmRY4/X4viGL7wFae1DSGHwdd0QRbeigby+A==",
-		"githubLoginHashed": "e499eca3935e5b2cdbe444839c561847a3e74a1faf0c94b4627c01a014c38cc6",
-		"score": 0
-	},
-	{
-		"id": 1345812,
+		"id": 240019,
 		"githubLoginMasked": "br",
-		"githubLoginEncrypted": "/VM5Hqhna8QZRcGrLt3bGQlLb8MTXdRy0UtDOBrkzIxzc3Zjfg==",
-		"githubLoginHashed": "ead5a177c2b2cdf398635a8b8b5bf2a220f7afa11279d62c49dabf65fa509365",
+		"githubLoginEncrypted": "Hzd6ptVuQCzqiH4TG1e3QPRq9Cb4LS39cg==",
+		"githubLoginHashed": "Hzd6ptVuQCzqiH4TG1e3QPRq9Cb4LS39cg==",
 		"score": 0
 	}
 ]

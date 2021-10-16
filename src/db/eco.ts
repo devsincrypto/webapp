@@ -58,16 +58,6 @@ export function all(): Ecosystem[] {
 	return db.prepare(popularityQuery({})).all() as Ecosystem[];
 }
 
-export function top5(): Ecosystem[] {
-	return db
-		.prepare(
-			popularityQuery({
-				limitClause: 'LIMIT 5',
-			})
-		)
-		.all() as Ecosystem[];
-}
-
 const popularityForSlugQuery = `
 WITH popularity AS (
 	SELECT

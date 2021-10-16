@@ -1,4 +1,4 @@
-import { Spacer, Tabs, Text } from '@geist-ui/react';
+import { Link as GeistLink, Spacer, Tabs, Text } from '@geist-ui/react';
 import { useRouter } from 'next/dist/client/router';
 import Link from 'next/link';
 import React from 'react';
@@ -11,7 +11,9 @@ export function Nav(): React.ReactElement {
 			<Spacer />
 			<nav>
 				<Link href="/">
-					<Text h3>Devs in Crypto</Text>
+					<GeistLink>
+						<Text h3>Devs in Crypto</Text>
+					</GeistLink>
 				</Link>
 			</nav>
 

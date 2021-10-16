@@ -51,7 +51,7 @@ export function RepoList({ eco, repos }: RepoListProps): React.ReactElement {
 	return (
 		<>
 			<h2>
-				Top {limit} {eco.title} Github repositories
+				Top {limit} {eco.title} repositories
 			</h2>
 
 			<Table

@@ -1,37 +1,37 @@
 [
 	{
-		"id": 1716017,
+		"id": 1341380,
 		"githubLoginMasked": "ef",
-		"githubLoginEncrypted": "mmJ/pvUbDAuRxdjFkV0GmI3ZNURjsdJtqGQRo/OTjlLKDpKU/gFO2RqM",
-		"githubLoginHashed": "ac02380c9cd6f8064919e45aade1fd07a8757620fe8ba070459cf795d2f1ad50",
-		"score": 49500
+		"githubLoginEncrypted": "GCNpoNM3RB3rtT1/hb1DlSDR7mmyUwrO7B1HZEWI",
+		"githubLoginHashed": "GCNpoNM3RB3rtT1/hb1DlSDR7mmyUwrO7B1HZEWI",
+		"score": 49775
 	},
 	{
-		"id": 1716020,
+		"id": 1341383,
 		"githubLoginMasked": "on",
-		"githubLoginEncrypted": "TFXlQMYL1kA3px2PA4t5nQg5sDtbNp/EElONt0tEh/VuiFVhNA==",
-		"githubLoginHashed": "bd602013d06e80a5bd2be2181cd0dea1231a508ad54b8d04bc79ecedfcf7ff69",
-		"score": 11160
+		"githubLoginEncrypted": "Eit8rNcrQyDw6tsL7pfOWNB9MzeVweMYbg==",
+		"githubLoginHashed": "Eit8rNcrQyDw6tsL7pfOWNB9MzeVweMYbg==",
+		"score": 11222
 	},
 	{
-		"id": 1716012,
+		"id": 1341375,
 		"githubLoginMasked": "pn",
-		"githubLoginEncrypted": "e1Mm4hLlde84aFECxj7NzZFA8J5T9rOeo+P/ZzJJ2j0TQpM=",
-		"githubLoginHashed": "359d62337284c9998daaefaf121bbf76a6052cd195b0c5ddb6d4d62c6f9f1b74",
-		"score": 1800
+		"githubLoginEncrypted": "DStgttsmRQRcxCcsz+JdlYvm95NT1kg=",
+		"githubLoginHashed": "DStgttsmRQRcxCcsz+JdlYvm95NT1kg=",
+		"score": 1991
 	},
 	{
-		"id": 1716275,
+		"id": 1341638,
 		"githubLoginMasked": "ph",
-		"githubLoginEncrypted": "91/dOSFH5i6tju7/rZ+aptjqZwlO41czY8mpRnBvJJDe5w==",
-		"githubLoginHashed": "7c85464c97797ffbd947beb063df7acbcbae0ebda8cfcd40438e73a13579af44",
-		"score": 1800
+		"githubLoginEncrypted": "DS1msdUtkdFiw+gJr+uwQTMvq6rRxQ==",
+		"githubLoginHashed": "DS1msdUtkdFiw+gJr+uwQTMvq6rRxQ==",
+		"score": 1810
 	},
 	{
-		"id": 1716004,
+		"id": 1341367,
 		"githubLoginMasked": "ve",
-		"githubLoginEncrypted": "zNYcMKf4OXp5q4HV1bVy2csOFtF18308kr8QmWUHkOwAeFJU",
-		"githubLoginHashed": "16895e2632f370d0deef887650a5daeb5fdc92ccceeb934f1a489413c5a4bce7",
-		"score": 1620
+		"githubLoginEncrypted": "CyB9rNMsXifBfuBprJ9dd9hmvmdpi7EH",
+		"githubLoginHashed": "CyB9rNMsXifBfuBprJ9dd9hmvmdpi7EH",
+		"score": 1629
 	}
 ]
