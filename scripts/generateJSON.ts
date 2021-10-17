@@ -16,7 +16,9 @@ export async function main(): Promise<void> {
 	const slugs = ecoQ.allSlugs();
 	await genEcoSlugs(slugs);
 
-	const mb = new cliProgress.MultiBar({});
+	const mb = new cliProgress.MultiBar({
+		format: '[{bar}] | {percentage}% | ETA: {eta}s | {baseDir}',
+	});
 	await Promise.all([
 		genAllEcos(mb),
 		genChartDevsByMonth(mb),

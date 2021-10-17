@@ -10,11 +10,15 @@ export async function genChartDevsByMonth(
 	const baseDir = `${BASE_JSON_DIR}/charts`;
 	await createDir(baseDir);
 
-	const b = mb.create(1, 0);
+	const b = mb.create(20, 0, { baseDir });
+	const timer = setInterval(() => b.increment(), 1000);
+
 	await fs.writeFile(
 		`${baseDir}/devsByMonth.json`,
 		JSON.stringify(userQ.devsByMonth(), undefined, '\t')
 	);
 
+	b.update(20);
+	clearInterval(timer);
 	b.stop();
 }

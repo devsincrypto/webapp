@@ -14,12 +14,16 @@ export async function genAllEcos(mb: cliProgress.MultiBar): Promise<void> {
 	const baseDir = `${BASE_JSON_DIR}/ecosystems`;
 	await createDir(baseDir);
 
-	const b = mb.create(1, 0);
+	const b = mb.create(20, 0, { baseDir });
+	const timer = setInterval(() => b.increment(), 1000);
+
 	await fs.writeFile(
 		`${baseDir}/all.json`,
 		JSON.stringify(ecoQ.all(), undefined, '\t')
 	);
 
+	b.update(20);
+	clearInterval(timer);
 	b.stop();
 }
 
@@ -30,7 +34,7 @@ export async function genIndividualEcos(
 	const baseDir = `${BASE_JSON_DIR}/ecosystems/bySlug`;
 	await createDir(baseDir);
 
-	const b = mb.create(slugs.length, 0);
+	const b = mb.create(slugs.length, 0, { baseDir });
 	await promiseAllLimit(
 		2,
 		slugs.map((slug) => async () => {

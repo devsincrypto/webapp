@@ -12,7 +12,7 @@ export async function genReposByEcosystem(
 	const baseDir = `${BASE_JSON_DIR}/repos/byEco`;
 	await createDir(baseDir);
 
-	const b = mb.create(slugs.length, 0);
+	const b = mb.create(slugs.length, 0, { baseDir });
 	await promiseAllLimit(
 		2,
 		slugs.map((slug) => async () => {

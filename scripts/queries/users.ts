@@ -9,13 +9,10 @@ export async function genEcoUsers(
 	slugs: string[],
 	mb: cliProgress.MultiBar
 ): Promise<void> {
-	console.log('Starting genEcoUsers...');
-	console.time('genEcoUsers');
-
 	const baseDir = `${BASE_JSON_DIR}/users/byEco`;
 	await createDir(baseDir);
 
-	const b = mb.create(slugs.length, 0, { filename: 'genEcoUsers' });
+	const b = mb.create(slugs.length, 0, { baseDir });
 	await promiseAllLimit(
 		2,
 		slugs.map((slug) => async () => {
@@ -29,5 +26,4 @@ export async function genEcoUsers(
 	);
 
 	b.stop();
-	console.timeEnd('genEcoUsers');
 }
