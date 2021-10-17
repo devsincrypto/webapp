@@ -12,14 +12,15 @@ export async function genReposByEcosystem(
 	const baseDir = `${BASE_JSON_DIR}/repos/byEco`;
 	await createDir(baseDir);
 
-	const b = mb.create(slugs.length, 0, { baseDir });
+	const b = mb.create(slugs.length, 0);
 	await promiseAllLimit(
 		2,
 		slugs.map((slug) => async () => {
-			b.increment();
+			const filename = `${baseDir}/${slug}.json`;
+			b.increment(1, { filename });
 
 			await fs.writeFile(
-				`${baseDir}/${slug}.json`,
+				filename,
 				JSON.stringify(repoQ.byEcosystem(slug), undefined, '\t')
 			);
 		})

@@ -9,12 +9,13 @@ export async function genChartDevsByMonth(
 ): Promise<void> {
 	const baseDir = `${BASE_JSON_DIR}/charts`;
 	await createDir(baseDir);
+	const filename = `${baseDir}/devsByMonth.json`;
 
-	const b = mb.create(20, 0, { baseDir });
+	const b = mb.create(20, 0, { filename });
 	const timer = setInterval(() => b.increment(), 1000);
 
 	await fs.writeFile(
-		`${baseDir}/devsByMonth.json`,
+		filename,
 		JSON.stringify(userQ.devsByMonth(), undefined, '\t')
 	);
 

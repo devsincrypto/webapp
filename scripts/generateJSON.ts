@@ -17,7 +17,7 @@ export async function main(): Promise<void> {
 	await genEcoSlugs(slugs);
 
 	const mb = new cliProgress.MultiBar({
-		format: '[{bar}] | {percentage}% | ETA: {eta}s | {baseDir}',
+		format: '[{bar}] | {percentage}% | ETA: {eta}s | {filename}',
 	});
 	await Promise.all([
 		genAllEcos(mb),

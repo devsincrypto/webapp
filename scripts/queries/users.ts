@@ -16,10 +16,11 @@ export async function genEcoUsers(
 	await promiseAllLimit(
 		2,
 		slugs.map((slug) => async () => {
-			b.increment();
+			const filename = `${baseDir}/${slug}.json`;
+			b.increment(1, { filename });
 
 			await fs.writeFile(
-				`${baseDir}/${slug}.json`,
+				filename,
 				JSON.stringify(userQ.usersByEco(slug), undefined, '\t')
 			);
 		})
