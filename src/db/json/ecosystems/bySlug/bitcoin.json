@@ -1,6 +1,7 @@
 {
 	"slug": "bitcoin",
 	"title": "Bitcoin",
+	"parent_slug": null,
 	"path": "bitcoin",
 	"repoCount": 739,
 	"userCount": 537,

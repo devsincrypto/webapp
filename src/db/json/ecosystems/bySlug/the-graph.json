@@ -1,6 +1,7 @@
 {
 	"slug": "the-graph",
 	"title": "The Graph",
+	"parent_slug": "ethereum",
 	"path": "ethereum/the-graph",
 	"repoCount": 390,
 	"userCount": 314,

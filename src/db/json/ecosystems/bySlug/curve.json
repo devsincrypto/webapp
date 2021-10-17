@@ -1,6 +1,7 @@
 {
 	"slug": "curve",
 	"title": "Curve",
+	"parent_slug": "ethereum",
 	"path": "ethereum/curve",
 	"repoCount": 29,
 	"userCount": 11,

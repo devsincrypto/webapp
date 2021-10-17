@@ -1,6 +1,7 @@
 {
 	"slug": "fairmint",
 	"title": "Fairmint",
+	"parent_slug": "ethereum",
 	"path": "ethereum/fairmint",
 	"repoCount": 5,
 	"userCount": 6,

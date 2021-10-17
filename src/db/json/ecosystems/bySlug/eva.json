@@ -1,6 +1,7 @@
 {
 	"slug": "eva",
 	"title": "Eva",
+	"parent_slug": "eos",
 	"path": "eos/eva",
 	"repoCount": 11,
 	"userCount": 6,

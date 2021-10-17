@@ -1,6 +1,7 @@
 {
 	"slug": "connext-network",
 	"title": "Connext Network",
+	"parent_slug": "ethereum",
 	"path": "ethereum/connext-network",
 	"repoCount": 74,
 	"userCount": 24,

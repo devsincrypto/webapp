@@ -1,6 +1,7 @@
 {
 	"slug": "cyber",
 	"title": "Cyber",
+	"parent_slug": "cosmos",
 	"path": "cosmos/cyber",
 	"repoCount": 35,
 	"userCount": 19,

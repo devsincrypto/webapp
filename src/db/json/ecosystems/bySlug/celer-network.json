@@ -1,6 +1,7 @@
 {
 	"slug": "celer-network",
 	"title": "Celer Network",
+	"parent_slug": "ethereum",
 	"path": "ethereum/celer-network",
 	"repoCount": 46,
 	"userCount": 18,

@@ -1,6 +1,7 @@
 {
 	"slug": "darwinia-network",
 	"title": "Darwinia Network",
+	"parent_slug": "polkadot",
 	"path": "polkadot/darwinia-network",
 	"repoCount": 65,
 	"userCount": 22,

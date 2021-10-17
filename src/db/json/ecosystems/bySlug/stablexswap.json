@@ -1,6 +1,7 @@
 {
 	"slug": "stablexswap",
 	"title": "StableXswap",
+	"parent_slug": "binance-coin",
 	"path": "binance-coin/stablexswap",
 	"repoCount": 10,
 	"userCount": 6,

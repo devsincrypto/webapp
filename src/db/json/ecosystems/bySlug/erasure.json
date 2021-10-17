@@ -1,6 +1,7 @@
 {
 	"slug": "erasure",
 	"title": "Erasure",
+	"parent_slug": "ethereum",
 	"path": "ethereum/erasure",
 	"repoCount": 6,
 	"userCount": 4,

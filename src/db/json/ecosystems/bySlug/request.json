@@ -1,6 +1,7 @@
 {
 	"slug": "request",
 	"title": "Request",
+	"parent_slug": "ethereum",
 	"path": "ethereum/request",
 	"repoCount": 23,
 	"userCount": 17,

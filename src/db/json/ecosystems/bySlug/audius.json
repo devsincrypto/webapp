@@ -1,6 +1,7 @@
 {
 	"slug": "audius",
 	"title": "Audius",
+	"parent_slug": "ethereum",
 	"path": "ethereum/audius",
 	"repoCount": 23,
 	"userCount": 17,

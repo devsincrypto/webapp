@@ -1,6 +1,7 @@
 {
 	"slug": "kyber-network",
 	"title": "Kyber Network",
+	"parent_slug": "ethereum",
 	"path": "ethereum/kyber-network",
 	"repoCount": 51,
 	"userCount": 29,

@@ -1,6 +1,7 @@
 {
 	"slug": "worldwide-asset-exchange",
 	"title": "Worldwide Asset eXchange",
+	"parent_slug": "eos",
 	"path": "eos/worldwide-asset-exchange",
 	"repoCount": 14,
 	"userCount": 9,

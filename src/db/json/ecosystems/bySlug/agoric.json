@@ -1,6 +1,7 @@
 {
 	"slug": "agoric",
 	"title": "Agoric",
+	"parent_slug": "cosmos",
 	"path": "cosmos/agoric",
 	"repoCount": 72,
 	"userCount": 19,

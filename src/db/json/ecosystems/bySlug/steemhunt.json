@@ -1,6 +1,7 @@
 {
 	"slug": "steemhunt",
 	"title": "Steemhunt",
+	"parent_slug": "steem",
 	"path": "steem/steemhunt",
 	"repoCount": 30,
 	"userCount": 8,

@@ -1,6 +1,7 @@
 {
 	"slug": "market-protocol",
 	"title": "Market Protocol",
+	"parent_slug": "ethereum",
 	"path": "ethereum/market-protocol",
 	"repoCount": 11,
 	"userCount": 7,

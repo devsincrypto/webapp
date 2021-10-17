@@ -1,6 +1,7 @@
 {
 	"slug": "compound",
 	"title": "Compound",
+	"parent_slug": "ethereum",
 	"path": "ethereum/compound",
 	"repoCount": 23,
 	"userCount": 13,

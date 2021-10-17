@@ -1,6 +1,7 @@
 {
 	"slug": "ixo",
 	"title": "ixo",
+	"parent_slug": "cosmos",
 	"path": "cosmos/ixo",
 	"repoCount": 53,
 	"userCount": 23,

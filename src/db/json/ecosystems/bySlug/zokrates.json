@@ -1,6 +1,7 @@
 {
 	"slug": "zokrates",
 	"title": "ZoKrates",
+	"parent_slug": "ethereum",
 	"path": "ethereum/zokrates",
 	"repoCount": 7,
 	"userCount": 7,

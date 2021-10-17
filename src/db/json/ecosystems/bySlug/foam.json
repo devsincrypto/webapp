@@ -1,6 +1,7 @@
 {
 	"slug": "foam",
 	"title": "FOAM",
+	"parent_slug": "cosmos",
 	"path": "cosmos/foam",
 	"repoCount": 51,
 	"userCount": 13,

@@ -1,6 +1,7 @@
 {
 	"slug": "worbli",
 	"title": "Worbli",
+	"parent_slug": "eos",
 	"path": "eos/worbli",
 	"repoCount": 25,
 	"userCount": 11,

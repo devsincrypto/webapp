@@ -1,6 +1,7 @@
 {
 	"slug": "ocean-protocol",
 	"title": "Ocean Protocol",
+	"parent_slug": "ethereum",
 	"path": "ethereum/ocean-protocol",
 	"repoCount": 109,
 	"userCount": 47,

@@ -1,6 +1,7 @@
 {
 	"slug": "acala",
 	"title": "Acala",
+	"parent_slug": "polkadot",
 	"path": "polkadot/acala",
 	"repoCount": 46,
 	"userCount": 21,

@@ -1,6 +1,7 @@
 {
 	"slug": "dfi-money",
 	"title": "DFI.money",
+	"parent_slug": "ethereum",
 	"path": "ethereum/dfi-money",
 	"repoCount": 22,
 	"userCount": 8,

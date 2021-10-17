@@ -1,6 +1,7 @@
 {
 	"slug": "eos-knights",
 	"title": "EOS Knights",
+	"parent_slug": "eos",
 	"path": "eos/eos-knights",
 	"repoCount": 8,
 	"userCount": 6,

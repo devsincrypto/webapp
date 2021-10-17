@@ -1,6 +1,7 @@
 {
 	"slug": "maker",
 	"title": "Maker",
+	"parent_slug": "ethereum",
 	"path": "ethereum/maker",
 	"repoCount": 263,
 	"userCount": 126,

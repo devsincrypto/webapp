@@ -1,6 +1,7 @@
 {
 	"slug": "ethereum-name-service",
 	"title": "Ethereum Name Service",
+	"parent_slug": "ethereum",
 	"path": "ethereum/ethereum-name-service",
 	"repoCount": 64,
 	"userCount": 8,

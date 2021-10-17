@@ -1,6 +1,7 @@
 {
 	"slug": "augur",
 	"title": "Augur",
+	"parent_slug": "ethereum",
 	"path": "ethereum/augur",
 	"repoCount": 44,
 	"userCount": 48,

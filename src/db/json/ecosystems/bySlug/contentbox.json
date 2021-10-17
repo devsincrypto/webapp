@@ -1,6 +1,7 @@
 {
 	"slug": "contentbox",
 	"title": "ContentBox",
+	"parent_slug": null,
 	"path": "contentbox",
 	"repoCount": 10,
 	"userCount": 10,

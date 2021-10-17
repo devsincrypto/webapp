@@ -1,6 +1,7 @@
 {
 	"slug": "definer",
 	"title": "DeFiner",
+	"parent_slug": "ethereum",
 	"path": "ethereum/definer",
 	"repoCount": 3,
 	"userCount": 5,

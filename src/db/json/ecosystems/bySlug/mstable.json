@@ -1,6 +1,7 @@
 {
 	"slug": "mstable",
 	"title": "mstable",
+	"parent_slug": "ethereum",
 	"path": "ethereum/mstable",
 	"repoCount": 21,
 	"userCount": 9,

@@ -1,6 +1,7 @@
 {
 	"slug": "origin-protocol",
 	"title": "Origin Protocol",
+	"parent_slug": "ethereum",
 	"path": "ethereum/origin-protocol",
 	"repoCount": 33,
 	"userCount": 25,

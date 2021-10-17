@@ -1,6 +1,7 @@
 {
 	"slug": "lazy-ledger",
 	"title": "Lazy Ledger",
+	"parent_slug": "cosmos",
 	"path": "cosmos/lazy-ledger",
 	"repoCount": 22,
 	"userCount": 7,

@@ -1,6 +1,7 @@
 {
 	"slug": "althea",
 	"title": "Althea",
+	"parent_slug": "cosmos",
 	"path": "cosmos/althea",
 	"repoCount": 30,
 	"userCount": 13,

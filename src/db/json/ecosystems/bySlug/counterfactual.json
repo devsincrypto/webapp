@@ -1,6 +1,7 @@
 {
 	"slug": "counterfactual",
 	"title": "Counterfactual",
+	"parent_slug": "ethereum",
 	"path": "ethereum/counterfactual",
 	"repoCount": 7,
 	"userCount": 15,

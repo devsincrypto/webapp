@@ -1,6 +1,7 @@
 {
 	"slug": "eos-nation",
 	"title": "EOS Nation",
+	"parent_slug": "eos",
 	"path": "eos/eos-nation",
 	"repoCount": 95,
 	"userCount": 19,

@@ -1,6 +1,7 @@
 {
 	"slug": "edgeware",
 	"title": "Edgeware",
+	"parent_slug": "polkadot",
 	"path": "polkadot/edgeware",
 	"repoCount": 85,
 	"userCount": 19,

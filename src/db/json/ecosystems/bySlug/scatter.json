@@ -1,6 +1,7 @@
 {
 	"slug": "scatter",
 	"title": "Scatter",
+	"parent_slug": "eos",
 	"path": "eos/scatter",
 	"repoCount": 37,
 	"userCount": 7,

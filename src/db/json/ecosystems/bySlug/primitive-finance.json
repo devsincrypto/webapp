@@ -1,6 +1,7 @@
 {
 	"slug": "primitive-finance",
 	"title": "Primitive Finance",
+	"parent_slug": "ethereum",
 	"path": "ethereum/primitive-finance",
 	"repoCount": 11,
 	"userCount": 3,

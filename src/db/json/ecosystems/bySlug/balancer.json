@@ -1,6 +1,7 @@
 {
 	"slug": "balancer",
 	"title": "Balancer",
+	"parent_slug": "ethereum",
 	"path": "ethereum/balancer",
 	"repoCount": 29,
 	"userCount": 16,

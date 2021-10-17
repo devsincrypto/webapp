@@ -1,6 +1,7 @@
 {
 	"slug": "plasm",
 	"title": "Plasm",
+	"parent_slug": "polkadot",
 	"path": "polkadot/plasm",
 	"repoCount": 22,
 	"userCount": 9,

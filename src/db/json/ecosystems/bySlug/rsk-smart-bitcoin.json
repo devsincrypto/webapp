@@ -1,6 +1,7 @@
 {
 	"slug": "rsk-smart-bitcoin",
 	"title": "RSK Smart Bitcoin",
+	"parent_slug": "bitcoin",
 	"path": "bitcoin/rsk-smart-bitcoin",
 	"repoCount": 159,
 	"userCount": 71,

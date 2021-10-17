@@ -1,6 +1,7 @@
 {
 	"slug": "uport",
 	"title": "uPort",
+	"parent_slug": "ethereum",
 	"path": "ethereum/uport",
 	"repoCount": 103,
 	"userCount": 36,

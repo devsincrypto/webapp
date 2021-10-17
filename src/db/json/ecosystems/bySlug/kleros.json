@@ -1,6 +1,7 @@
 {
 	"slug": "kleros",
 	"title": "Kleros",
+	"parent_slug": "ethereum",
 	"path": "ethereum/kleros",
 	"repoCount": 134,
 	"userCount": 20,

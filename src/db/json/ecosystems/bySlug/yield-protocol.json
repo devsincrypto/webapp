@@ -1,6 +1,7 @@
 {
 	"slug": "yield-protocol",
 	"title": "Yield Protocol",
+	"parent_slug": "ethereum",
 	"path": "ethereum/yield-protocol",
 	"repoCount": 16,
 	"userCount": 7,

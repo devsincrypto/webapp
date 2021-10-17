@@ -1,6 +1,7 @@
 {
 	"slug": "crypto-com-chain",
 	"title": "Crypto.com Chain",
+	"parent_slug": "cosmos",
 	"path": "cosmos/crypto-com-chain",
 	"repoCount": 42,
 	"userCount": 19,

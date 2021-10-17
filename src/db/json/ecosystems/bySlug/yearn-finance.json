@@ -1,6 +1,7 @@
 {
 	"slug": "yearn-finance",
 	"title": "yearn.finance",
+	"parent_slug": "ethereum",
 	"path": "ethereum/yearn-finance",
 	"repoCount": 48,
 	"userCount": 17,

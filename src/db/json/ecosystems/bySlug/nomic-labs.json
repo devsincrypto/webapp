@@ -1,6 +1,7 @@
 {
 	"slug": "nomic-labs",
 	"title": "Nomic Labs",
+	"parent_slug": "ethereum",
 	"path": "ethereum/nomic-labs",
 	"repoCount": 20,
 	"userCount": 8,

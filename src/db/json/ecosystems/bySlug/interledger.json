@@ -1,6 +1,7 @@
 {
 	"slug": "interledger",
 	"title": "Interledger",
+	"parent_slug": "xrp",
 	"path": "xrp/interledger",
 	"repoCount": 151,
 	"userCount": 68,

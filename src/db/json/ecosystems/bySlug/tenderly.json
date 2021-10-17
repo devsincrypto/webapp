@@ -1,6 +1,7 @@
 {
 	"slug": "tenderly",
 	"title": "Tenderly",
+	"parent_slug": "ethereum",
 	"path": "ethereum/tenderly",
 	"repoCount": 24,
 	"userCount": 9,

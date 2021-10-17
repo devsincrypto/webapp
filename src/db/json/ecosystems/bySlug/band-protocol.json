@@ -1,6 +1,7 @@
 {
 	"slug": "band-protocol",
 	"title": "Band Protocol",
+	"parent_slug": "ethereum",
 	"path": "ethereum/band-protocol",
 	"repoCount": 47,
 	"userCount": 20,

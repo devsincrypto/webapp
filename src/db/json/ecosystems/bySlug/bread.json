@@ -1,6 +1,7 @@
 {
 	"slug": "bread",
 	"title": "Bread",
+	"parent_slug": null,
 	"path": "bread",
 	"repoCount": 18,
 	"userCount": 15,

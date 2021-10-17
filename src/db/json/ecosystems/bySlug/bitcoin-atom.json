@@ -1,6 +1,7 @@
 {
 	"slug": "bitcoin-atom",
 	"title": "Bitcoin Atom",
+	"parent_slug": null,
 	"path": "bitcoin-atom",
 	"repoCount": 16,
 	"userCount": 5,

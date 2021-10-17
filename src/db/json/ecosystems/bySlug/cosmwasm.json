@@ -1,6 +1,7 @@
 {
 	"slug": "cosmwasm",
 	"title": "CosmWasm",
+	"parent_slug": "cosmos",
 	"path": "cosmos/cosmwasm",
 	"repoCount": 34,
 	"userCount": 14,

@@ -1,6 +1,7 @@
 {
 	"slug": "coinbase",
 	"title": "Coinbase",
+	"parent_slug": null,
 	"path": "coinbase",
 	"repoCount": 85,
 	"userCount": 102,

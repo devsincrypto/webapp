@@ -1,6 +1,7 @@
 {
 	"slug": "gnosis",
 	"title": "Gnosis",
+	"parent_slug": "ethereum",
 	"path": "ethereum/gnosis",
 	"repoCount": 247,
 	"userCount": 92,

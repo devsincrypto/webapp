@@ -1,6 +1,7 @@
 {
 	"slug": "dogecoin",
 	"title": "Dogecoin",
+	"parent_slug": null,
 	"path": "dogecoin",
 	"repoCount": 19,
 	"userCount": 22,

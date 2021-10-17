@@ -1,6 +1,7 @@
 {
 	"slug": "matter-labs",
 	"title": "Matter Labs",
+	"parent_slug": "ethereum",
 	"path": "ethereum/matter-labs",
 	"repoCount": 68,
 	"userCount": 22,

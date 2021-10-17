@@ -1,6 +1,7 @@
 {
 	"slug": "pisa-research",
 	"title": "Pisa Research",
+	"parent_slug": "ethereum",
 	"path": "ethereum/pisa-research",
 	"repoCount": 9,
 	"userCount": 6,

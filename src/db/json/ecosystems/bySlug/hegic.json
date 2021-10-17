@@ -1,6 +1,7 @@
 {
 	"slug": "hegic",
 	"title": "Hegic",
+	"parent_slug": "ethereum",
 	"path": "ethereum/hegic",
 	"repoCount": 12,
 	"userCount": 1,

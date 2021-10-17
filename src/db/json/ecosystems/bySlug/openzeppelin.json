@@ -1,6 +1,7 @@
 {
 	"slug": "openzeppelin",
 	"title": "OpenZeppelin",
+	"parent_slug": "ethereum",
 	"path": "ethereum/openzeppelin",
 	"repoCount": 61,
 	"userCount": 32,

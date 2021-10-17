@@ -1,6 +1,7 @@
 {
 	"slug": "regen-network",
 	"title": "Regen Network",
+	"parent_slug": "cosmos",
 	"path": "cosmos/regen-network",
 	"repoCount": 47,
 	"userCount": 23,

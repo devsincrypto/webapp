@@ -1,6 +1,7 @@
 {
 	"slug": "interlay",
 	"title": "Interlay",
+	"parent_slug": "polkadot",
 	"path": "polkadot/interlay",
 	"repoCount": 31,
 	"userCount": 9,

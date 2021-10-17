@@ -1,6 +1,7 @@
 {
 	"slug": "argent",
 	"title": "Argent",
+	"parent_slug": "ethereum",
 	"path": "ethereum/argent",
 	"repoCount": 18,
 	"userCount": 9,

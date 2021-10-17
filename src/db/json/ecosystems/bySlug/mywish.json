@@ -1,6 +1,7 @@
 {
 	"slug": "mywish",
 	"title": "MyWish",
+	"parent_slug": null,
 	"path": "mywish",
 	"repoCount": 68,
 	"userCount": 23,

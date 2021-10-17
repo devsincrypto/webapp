@@ -1,6 +1,7 @@
 {
 	"slug": "clover",
 	"title": "Clover",
+	"parent_slug": "polkadot",
 	"path": "polkadot/clover",
 	"repoCount": 43,
 	"userCount": 21,

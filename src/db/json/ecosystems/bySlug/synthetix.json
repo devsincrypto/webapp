@@ -1,6 +1,7 @@
 {
 	"slug": "synthetix",
 	"title": "Synthetix",
+	"parent_slug": "ethereum",
 	"path": "ethereum/synthetix",
 	"repoCount": 58,
 	"userCount": 32,

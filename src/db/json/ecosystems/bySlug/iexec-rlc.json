@@ -1,6 +1,7 @@
 {
 	"slug": "iexec-rlc",
 	"title": "iExec RLC",
+	"parent_slug": "ethereum",
 	"path": "ethereum/iexec-rlc",
 	"repoCount": 100,
 	"userCount": 22,

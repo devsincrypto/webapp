@@ -1,6 +1,7 @@
 {
 	"slug": "xdai-chain",
 	"title": "xDai Chain",
+	"parent_slug": "ethereum",
 	"path": "ethereum/xdai-chain",
 	"repoCount": 24,
 	"userCount": 6,

@@ -1,6 +1,7 @@
 {
 	"slug": "tokenpocket",
 	"title": "TokenPocket",
+	"parent_slug": "eos",
 	"path": "eos/tokenpocket",
 	"repoCount": 88,
 	"userCount": 15,

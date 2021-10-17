@@ -1,6 +1,7 @@
 {
 	"slug": "tari",
 	"title": "Tari",
+	"parent_slug": "monero",
 	"path": "monero/tari",
 	"repoCount": 52,
 	"userCount": 27,

@@ -1,6 +1,7 @@
 {
 	"slug": "raiden-network",
 	"title": "Raiden Network",
+	"parent_slug": "ethereum",
 	"path": "ethereum/raiden-network",
 	"repoCount": 33,
 	"userCount": 40,

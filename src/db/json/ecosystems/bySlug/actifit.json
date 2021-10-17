@@ -1,6 +1,7 @@
 {
 	"slug": "actifit",
 	"title": "Actifit",
+	"parent_slug": "steem",
 	"path": "steem/actifit",
 	"repoCount": 8,
 	"userCount": 1,

@@ -1,6 +1,7 @@
 {
 	"slug": "ren",
 	"title": "Ren",
+	"parent_slug": "ethereum",
 	"path": "ethereum/ren",
 	"repoCount": 76,
 	"userCount": 15,

@@ -1,6 +1,7 @@
 {
 	"slug": "uniswap",
 	"title": "Uniswap",
+	"parent_slug": "ethereum",
 	"path": "ethereum/uniswap",
 	"repoCount": 69,
 	"userCount": 48,

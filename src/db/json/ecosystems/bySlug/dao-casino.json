@@ -1,6 +1,7 @@
 {
 	"slug": "dao-casino",
 	"title": "DAO.Casino",
+	"parent_slug": "eos",
 	"path": "eos/dao-casino",
 	"repoCount": 56,
 	"userCount": 31,

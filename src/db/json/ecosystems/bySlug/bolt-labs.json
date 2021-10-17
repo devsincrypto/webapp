@@ -1,6 +1,7 @@
 {
 	"slug": "bolt-labs",
 	"title": "Bolt Labs",
+	"parent_slug": "zcash",
 	"path": "zcash/bolt-labs",
 	"repoCount": 29,
 	"userCount": 8,

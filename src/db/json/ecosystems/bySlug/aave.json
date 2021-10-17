@@ -1,6 +1,7 @@
 {
 	"slug": "aave",
 	"title": "Aave",
+	"parent_slug": "ethereum",
 	"path": "ethereum/aave",
 	"repoCount": 22,
 	"userCount": 11,

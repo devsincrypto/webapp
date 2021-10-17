@@ -1,6 +1,7 @@
 {
 	"slug": "telos",
 	"title": "Telos",
+	"parent_slug": "eos",
 	"path": "eos/telos",
 	"repoCount": 19,
 	"userCount": 15,

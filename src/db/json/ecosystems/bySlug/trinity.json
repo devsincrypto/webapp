@@ -1,6 +1,7 @@
 {
 	"slug": "trinity",
 	"title": "Trinity",
+	"parent_slug": "neo",
 	"path": "neo/trinity",
 	"repoCount": 21,
 	"userCount": 10,

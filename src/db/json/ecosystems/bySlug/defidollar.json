@@ -1,6 +1,7 @@
 {
 	"slug": "defidollar",
 	"title": "DefiDollar",
+	"parent_slug": "ethereum",
 	"path": "ethereum/defidollar",
 	"repoCount": 16,
 	"userCount": 2,

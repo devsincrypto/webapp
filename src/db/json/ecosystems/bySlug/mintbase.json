@@ -1,6 +1,7 @@
 {
 	"slug": "mintbase",
 	"title": "Mintbase",
+	"parent_slug": "near-protocol",
 	"path": "near-protocol/mintbase",
 	"repoCount": 7,
 	"userCount": 5,

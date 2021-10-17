@@ -1,6 +1,7 @@
 {
 	"slug": "storj",
 	"title": "Storj",
+	"parent_slug": "ethereum",
 	"path": "ethereum/storj",
 	"repoCount": 104,
 	"userCount": 71,

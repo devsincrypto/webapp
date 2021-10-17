@@ -1,6 +1,7 @@
 {
 	"slug": "andoromeda",
 	"title": "Andoromeda",
+	"parent_slug": "eos",
 	"path": "eos/andoromeda",
 	"repoCount": 40,
 	"userCount": 27,

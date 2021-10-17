@@ -1,6 +1,7 @@
 {
 	"slug": "totle",
 	"title": "Totle",
+	"parent_slug": "ethereum",
 	"path": "ethereum/totle",
 	"repoCount": 7,
 	"userCount": 6,

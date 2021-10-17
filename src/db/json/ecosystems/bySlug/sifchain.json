@@ -1,6 +1,7 @@
 {
 	"slug": "sifchain",
 	"title": "Sifchain",
+	"parent_slug": "cosmos",
 	"path": "cosmos/sifchain",
 	"repoCount": 14,
 	"userCount": 23,

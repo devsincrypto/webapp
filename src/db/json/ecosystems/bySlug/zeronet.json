@@ -1,6 +1,7 @@
 {
 	"slug": "zeronet",
 	"title": "ZeroNet",
+	"parent_slug": "bitcoin",
 	"path": "bitcoin/zeronet",
 	"repoCount": 4,
 	"userCount": 1,

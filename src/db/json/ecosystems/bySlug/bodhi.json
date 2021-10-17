@@ -1,6 +1,7 @@
 {
 	"slug": "bodhi",
 	"title": "Bodhi",
+	"parent_slug": "qtum",
 	"path": "qtum/bodhi",
 	"repoCount": 19,
 	"userCount": 12,

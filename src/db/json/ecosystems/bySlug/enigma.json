@@ -1,6 +1,7 @@
 {
 	"slug": "enigma",
 	"title": "Enigma",
+	"parent_slug": "ethereum",
 	"path": "ethereum/enigma",
 	"repoCount": 96,
 	"userCount": 23,

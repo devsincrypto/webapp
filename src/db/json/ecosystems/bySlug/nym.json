@@ -1,6 +1,7 @@
 {
 	"slug": "nym",
 	"title": "Nym",
+	"parent_slug": "cosmos",
 	"path": "cosmos/nym",
 	"repoCount": 18,
 	"userCount": 7,

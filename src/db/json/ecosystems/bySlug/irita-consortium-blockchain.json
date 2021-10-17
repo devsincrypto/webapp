@@ -1,6 +1,7 @@
 {
 	"slug": "irita-consortium-blockchain",
 	"title": "IRITA Consortium Blockchain",
+	"parent_slug": "cosmos",
 	"path": "cosmos/irita-consortium-blockchain",
 	"repoCount": 21,
 	"userCount": 18,

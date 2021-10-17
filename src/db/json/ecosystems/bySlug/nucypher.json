@@ -1,6 +1,7 @@
 {
 	"slug": "nucypher",
 	"title": "NuCypher",
+	"parent_slug": "ethereum",
 	"path": "ethereum/nucypher",
 	"repoCount": 47,
 	"userCount": 18,

@@ -1,6 +1,7 @@
 {
 	"slug": "giveth",
 	"title": "Giveth",
+	"parent_slug": "ethereum",
 	"path": "ethereum/giveth",
 	"repoCount": 69,
 	"userCount": 54,

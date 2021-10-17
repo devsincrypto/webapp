@@ -1,6 +1,7 @@
 {
 	"slug": "eosdac",
 	"title": "EOSDAC",
+	"parent_slug": "eos",
 	"path": "eos/eosdac",
 	"repoCount": 58,
 	"userCount": 12,

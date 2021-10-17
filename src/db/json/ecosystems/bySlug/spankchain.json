@@ -1,6 +1,7 @@
 {
 	"slug": "spankchain",
 	"title": "SpankChain",
+	"parent_slug": "ethereum",
 	"path": "ethereum/spankchain",
 	"repoCount": 12,
 	"userCount": 12,

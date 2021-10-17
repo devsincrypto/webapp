@@ -1,6 +1,7 @@
 {
 	"slug": "piedao-btc",
 	"title": "PieDAO BTC++",
+	"parent_slug": "ethereum",
 	"path": "ethereum/piedao-btc",
 	"repoCount": 51,
 	"userCount": 7,

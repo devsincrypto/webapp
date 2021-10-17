@@ -1,6 +1,7 @@
 {
 	"slug": "zapper-fi",
 	"title": "Zapper.fi",
+	"parent_slug": "ethereum",
 	"path": "ethereum/zapper-fi",
 	"repoCount": 7,
 	"userCount": 7,

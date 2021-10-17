@@ -1,6 +1,7 @@
 {
 	"slug": "orion-protocol",
 	"title": "Orion Protocol",
+	"parent_slug": "holo",
 	"path": "holo/orion-protocol",
 	"repoCount": 21,
 	"userCount": 13,

@@ -1,6 +1,7 @@
 {
 	"slug": "monkey-project",
 	"title": "Monkey Project",
+	"parent_slug": null,
 	"path": "monkey-project",
 	"repoCount": 1,
 	"userCount": 2,

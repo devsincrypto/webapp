@@ -1,6 +1,7 @@
 {
 	"slug": "helena",
 	"title": "Helena",
+	"parent_slug": "xdai",
 	"path": "ethereum/poa-network/xdai/helena",
 	"repoCount": 2,
 	"userCount": 1,

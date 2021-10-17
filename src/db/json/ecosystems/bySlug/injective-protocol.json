@@ -1,6 +1,7 @@
 {
 	"slug": "injective-protocol",
 	"title": "Injective Protocol",
+	"parent_slug": "cosmos",
 	"path": "cosmos/injective-protocol",
 	"repoCount": 33,
 	"userCount": 12,

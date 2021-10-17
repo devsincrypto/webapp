@@ -1,6 +1,7 @@
 {
 	"slug": "hylo",
 	"title": "Hylo",
+	"parent_slug": "holo",
 	"path": "holo/hylo",
 	"repoCount": 27,
 	"userCount": 13,

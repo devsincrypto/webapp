@@ -1,6 +1,7 @@
 {
 	"slug": "aragon",
 	"title": "Aragon",
+	"parent_slug": "ethereum",
 	"path": "ethereum/aragon",
 	"repoCount": 116,
 	"userCount": 58,

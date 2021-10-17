@@ -1,6 +1,7 @@
 {
 	"slug": "consensys",
 	"title": "Consensys",
+	"parent_slug": "ethereum",
 	"path": "ethereum/consensys",
 	"repoCount": 382,
 	"userCount": 262,

@@ -1,6 +1,7 @@
 {
 	"slug": "matic-network",
 	"title": "Matic Network",
+	"parent_slug": "ethereum",
 	"path": "ethereum/matic-network",
 	"repoCount": 49,
 	"userCount": 41,

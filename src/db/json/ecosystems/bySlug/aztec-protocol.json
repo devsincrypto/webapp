@@ -1,6 +1,7 @@
 {
 	"slug": "aztec-protocol",
 	"title": "Aztec Protocol",
+	"parent_slug": "ethereum",
 	"path": "ethereum/aztec-protocol",
 	"repoCount": 29,
 	"userCount": 11,

@@ -1,6 +1,7 @@
 {
 	"slug": "charm-finance",
 	"title": "Charm Finance",
+	"parent_slug": "ethereum",
 	"path": "ethereum/charm-finance",
 	"repoCount": 4,
 	"userCount": 1,

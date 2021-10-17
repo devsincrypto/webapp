@@ -1,6 +1,7 @@
 {
 	"slug": "bisq",
 	"title": "Bisq",
+	"parent_slug": "general",
 	"path": "general/bisq",
 	"repoCount": 43,
 	"userCount": 20,

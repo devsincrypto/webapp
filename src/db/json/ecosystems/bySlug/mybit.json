@@ -1,6 +1,7 @@
 {
 	"slug": "mybit",
 	"title": "MyBit",
+	"parent_slug": "ethereum",
 	"path": "ethereum/mybit",
 	"repoCount": 47,
 	"userCount": 11,

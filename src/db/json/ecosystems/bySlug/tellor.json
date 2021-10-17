@@ -1,6 +1,7 @@
 {
 	"slug": "tellor",
 	"title": "Tellor",
+	"parent_slug": "ethereum",
 	"path": "ethereum/tellor",
 	"repoCount": 64,
 	"userCount": 14,

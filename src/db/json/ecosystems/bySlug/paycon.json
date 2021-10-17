@@ -1,6 +1,7 @@
 {
 	"slug": "paycon",
 	"title": "PayCon",
+	"parent_slug": null,
 	"path": "paycon",
 	"repoCount": 1,
 	"userCount": 2,

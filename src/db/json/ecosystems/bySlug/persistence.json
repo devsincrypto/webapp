@@ -1,6 +1,7 @@
 {
 	"slug": "persistence",
 	"title": "Persistence",
+	"parent_slug": "cosmos",
 	"path": "cosmos/persistence",
 	"repoCount": 17,
 	"userCount": 6,

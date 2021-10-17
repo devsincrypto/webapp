@@ -1,6 +1,7 @@
 {
 	"slug": "cofix",
 	"title": "CoFix",
+	"parent_slug": "ethereum",
 	"path": "ethereum/cofix",
 	"repoCount": 9,
 	"userCount": 14,

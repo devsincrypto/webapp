@@ -1,6 +1,7 @@
 {
 	"slug": "loopring",
 	"title": "Loopring",
+	"parent_slug": "ethereum",
 	"path": "ethereum/loopring",
 	"repoCount": 74,
 	"userCount": 28,

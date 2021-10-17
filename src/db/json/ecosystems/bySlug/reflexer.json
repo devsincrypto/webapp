@@ -1,6 +1,7 @@
 {
 	"slug": "reflexer",
 	"title": "Reflexer",
+	"parent_slug": "ethereum",
 	"path": "ethereum/reflexer",
 	"repoCount": 105,
 	"userCount": 6,

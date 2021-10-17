@@ -1,6 +1,7 @@
 {
 	"slug": "yam-finance",
 	"title": "YAM Finance",
+	"parent_slug": "ethereum",
 	"path": "ethereum/yam-finance",
 	"repoCount": 15,
 	"userCount": 8,

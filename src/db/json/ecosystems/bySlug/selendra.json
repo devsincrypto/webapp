@@ -1,6 +1,7 @@
 {
 	"slug": "selendra",
 	"title": "Selendra",
+	"parent_slug": "polkadot",
 	"path": "polkadot/selendra",
 	"repoCount": 36,
 	"userCount": 8,

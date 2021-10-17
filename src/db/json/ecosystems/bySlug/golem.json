@@ -1,6 +1,7 @@
 {
 	"slug": "golem",
 	"title": "Golem",
+	"parent_slug": "ethereum",
 	"path": "ethereum/golem",
 	"repoCount": 127,
 	"userCount": 56,

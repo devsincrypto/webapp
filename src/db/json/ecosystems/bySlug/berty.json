@@ -1,6 +1,7 @@
 {
 	"slug": "berty",
 	"title": "Berty",
+	"parent_slug": "ipfs",
 	"path": "ipfs/berty",
 	"repoCount": 21,
 	"userCount": 21,

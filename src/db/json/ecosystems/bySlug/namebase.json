@@ -1,6 +1,7 @@
 {
 	"slug": "namebase",
 	"title": "Namebase",
+	"parent_slug": "handshake",
 	"path": "handshake/namebase",
 	"repoCount": 24,
 	"userCount": 10,

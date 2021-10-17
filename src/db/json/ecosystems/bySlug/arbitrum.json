@@ -1,6 +1,7 @@
 {
 	"slug": "arbitrum",
 	"title": "Arbitrum",
+	"parent_slug": "ethereum",
 	"path": "ethereum/arbitrum",
 	"repoCount": 31,
 	"userCount": 15,

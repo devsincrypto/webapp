@@ -1,6 +1,7 @@
 {
 	"slug": "pooltogether",
 	"title": "PoolTogether",
+	"parent_slug": "ethereum",
 	"path": "ethereum/pooltogether",
 	"repoCount": 107,
 	"userCount": 7,

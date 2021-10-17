@@ -1,6 +1,7 @@
 {
 	"slug": "dydx",
 	"title": "dYdX",
+	"parent_slug": "ethereum",
 	"path": "ethereum/dydx",
 	"repoCount": 16,
 	"userCount": 11,

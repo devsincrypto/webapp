@@ -1,6 +1,7 @@
 {
 	"slug": "metamask",
 	"title": "MetaMask",
+	"parent_slug": "ethereum",
 	"path": "ethereum/metamask",
 	"repoCount": 131,
 	"userCount": 51,

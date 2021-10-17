@@ -1,6 +1,7 @@
 {
 	"slug": "commercio-network",
 	"title": "commercio.network",
+	"parent_slug": "cosmos",
 	"path": "cosmos/commercio-network",
 	"repoCount": 28,
 	"userCount": 11,

@@ -1,6 +1,7 @@
 {
 	"slug": "dharma-protocol",
 	"title": "Dharma Protocol",
+	"parent_slug": "ethereum",
 	"path": "ethereum/dharma-protocol",
 	"repoCount": 30,
 	"userCount": 11,

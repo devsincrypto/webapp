@@ -1,6 +1,7 @@
 {
 	"slug": "akropolis",
 	"title": "Akropolis ",
+	"parent_slug": "ethereum",
 	"path": "ethereum/akropolis",
 	"repoCount": 71,
 	"userCount": 17,

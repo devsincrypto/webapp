@@ -1,6 +1,7 @@
 {
 	"slug": "unlock-protocol",
 	"title": "Unlock Protocol",
+	"parent_slug": "ethereum",
 	"path": "ethereum/unlock-protocol",
 	"repoCount": 26,
 	"userCount": 10,

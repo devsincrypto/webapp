@@ -1,6 +1,7 @@
 {
 	"slug": "perun",
 	"title": "Perun",
+	"parent_slug": "ethereum",
 	"path": "ethereum/perun",
 	"repoCount": 21,
 	"userCount": 8,

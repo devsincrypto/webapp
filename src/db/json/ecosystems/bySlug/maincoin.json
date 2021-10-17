@@ -1,6 +1,7 @@
 {
 	"slug": "maincoin",
 	"title": "Maincoin",
+	"parent_slug": null,
 	"path": "maincoin",
 	"repoCount": 6,
 	"userCount": 1,

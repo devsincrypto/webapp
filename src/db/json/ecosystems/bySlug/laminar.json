@@ -1,6 +1,7 @@
 {
 	"slug": "laminar",
 	"title": "Laminar",
+	"parent_slug": "polkadot",
 	"path": "polkadot/laminar",
 	"repoCount": 16,
 	"userCount": 12,

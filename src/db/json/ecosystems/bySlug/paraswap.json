@@ -1,6 +1,7 @@
 {
 	"slug": "paraswap",
 	"title": "Paraswap",
+	"parent_slug": "ethereum",
 	"path": "ethereum/paraswap",
 	"repoCount": 9,
 	"userCount": 11,

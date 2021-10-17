@@ -1,6 +1,7 @@
 {
 	"slug": "veil",
 	"title": "Veil",
+	"parent_slug": "augur",
 	"path": "ethereum/augur/veil",
 	"repoCount": 5,
 	"userCount": 3,

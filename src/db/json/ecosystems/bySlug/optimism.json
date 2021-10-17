@@ -1,6 +1,7 @@
 {
 	"slug": "optimism",
 	"title": "Optimism",
+	"parent_slug": "ethereum",
 	"path": "ethereum/optimism",
 	"repoCount": 56,
 	"userCount": 19,

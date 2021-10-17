@@ -1,6 +1,7 @@
 {
 	"slug": "opensea",
 	"title": "OpenSea",
+	"parent_slug": "ethereum",
 	"path": "ethereum/opensea",
 	"repoCount": 20,
 	"userCount": 16,

@@ -1,6 +1,7 @@
 {
 	"slug": "holorea",
 	"title": "HoloREA",
+	"parent_slug": "holo",
 	"path": "holo/holorea",
 	"repoCount": 6,
 	"userCount": 5,

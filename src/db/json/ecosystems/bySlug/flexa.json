@@ -1,6 +1,7 @@
 {
 	"slug": "flexa",
 	"title": "Flexa",
+	"parent_slug": "ethereum",
 	"path": "ethereum/flexa",
 	"repoCount": 2,
 	"userCount": 1,

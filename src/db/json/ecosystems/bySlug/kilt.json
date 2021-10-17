@@ -1,6 +1,7 @@
 {
 	"slug": "kilt",
 	"title": "Kilt",
+	"parent_slug": "polkadot",
 	"path": "polkadot/kilt",
 	"repoCount": 27,
 	"userCount": 13,

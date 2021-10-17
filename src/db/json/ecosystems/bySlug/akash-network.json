@@ -1,6 +1,7 @@
 {
 	"slug": "akash-network",
 	"title": "Akash Network",
+	"parent_slug": "cosmos",
 	"path": "cosmos/akash-network",
 	"repoCount": 42,
 	"userCount": 19,

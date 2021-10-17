@@ -1,6 +1,7 @@
 {
 	"slug": "vertua",
 	"title": "Vertua",
+	"parent_slug": "polkadot",
 	"path": "polkadot/vertua",
 	"repoCount": 2,
 	"userCount": 1,

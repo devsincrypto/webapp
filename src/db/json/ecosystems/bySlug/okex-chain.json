@@ -1,6 +1,7 @@
 {
 	"slug": "okex-chain",
 	"title": "OKEX Chain",
+	"parent_slug": "cosmos",
 	"path": "cosmos/okex-chain",
 	"repoCount": 6,
 	"userCount": 9,

@@ -1,6 +1,7 @@
 {
 	"slug": "funfair",
 	"title": "FunFair",
+	"parent_slug": "ethereum",
 	"path": "ethereum/funfair",
 	"repoCount": 17,
 	"userCount": 13,

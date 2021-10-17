@@ -1,6 +1,7 @@
 {
 	"slug": "fluidex",
 	"title": "FluiDex",
+	"parent_slug": "ethereum",
 	"path": "ethereum/fluidex",
 	"repoCount": 37,
 	"userCount": 6,

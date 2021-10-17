@@ -1,6 +1,7 @@
 {
 	"slug": "state-channels",
 	"title": "State Channels",
+	"parent_slug": "ethereum",
 	"path": "ethereum/state-channels",
 	"repoCount": 13,
 	"userCount": 10,

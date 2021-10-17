@@ -1,6 +1,7 @@
 {
 	"slug": "blockdaemon",
 	"title": "BlockDaemon",
+	"parent_slug": null,
 	"path": "blockdaemon",
 	"repoCount": 40,
 	"userCount": 13,

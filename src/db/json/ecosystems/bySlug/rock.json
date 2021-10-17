@@ -1,6 +1,7 @@
 {
 	"slug": "rock",
 	"title": "Rock",
+	"parent_slug": null,
 	"path": "rock",
 	"repoCount": 0,
 	"userCount": 0,

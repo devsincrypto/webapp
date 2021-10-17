@@ -1,6 +1,7 @@
 {
 	"slug": "opyn",
 	"title": "Opyn",
+	"parent_slug": "ethereum",
 	"path": "ethereum/opyn",
 	"repoCount": 22,
 	"userCount": 10,

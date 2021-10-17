@@ -1,6 +1,7 @@
 {
 	"slug": "dtube",
 	"title": "DTube",
+	"parent_slug": "steem",
 	"path": "steem/dtube",
 	"repoCount": 27,
 	"userCount": 10,

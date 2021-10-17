@@ -1,6 +1,7 @@
 {
 	"slug": "sparkswap",
 	"title": "Sparkswap",
+	"parent_slug": "lightning",
 	"path": "bitcoin/lightning/sparkswap",
 	"repoCount": 12,
 	"userCount": 8,

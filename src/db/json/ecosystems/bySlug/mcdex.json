@@ -1,6 +1,7 @@
 {
 	"slug": "mcdex",
 	"title": "MCDEX",
+	"parent_slug": "ethereum",
 	"path": "ethereum/mcdex",
 	"repoCount": 38,
 	"userCount": 15,

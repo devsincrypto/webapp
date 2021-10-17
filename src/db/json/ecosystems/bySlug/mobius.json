@@ -1,6 +1,7 @@
 {
 	"slug": "mobius",
 	"title": "Mobius",
+	"parent_slug": "stellar",
 	"path": "stellar/mobius",
 	"repoCount": 21,
 	"userCount": 15,

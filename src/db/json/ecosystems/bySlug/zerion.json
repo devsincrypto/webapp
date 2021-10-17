@@ -1,6 +1,7 @@
 {
 	"slug": "zerion",
 	"title": "Zerion",
+	"parent_slug": "ethereum",
 	"path": "ethereum/zerion",
 	"repoCount": 21,
 	"userCount": 17,

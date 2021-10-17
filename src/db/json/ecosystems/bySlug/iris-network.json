@@ -1,6 +1,7 @@
 {
 	"slug": "iris-network",
 	"title": "IRIS Network",
+	"parent_slug": "cosmos",
 	"path": "cosmos/iris-network",
 	"repoCount": 45,
 	"userCount": 29,

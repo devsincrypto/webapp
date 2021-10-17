@@ -1,6 +1,7 @@
 {
 	"slug": "pancakeswap",
 	"title": "PancakeSwap",
+	"parent_slug": "binance-coin",
 	"path": "binance-coin/pancakeswap",
 	"repoCount": 27,
 	"userCount": 14,

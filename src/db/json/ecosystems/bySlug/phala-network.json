@@ -1,6 +1,7 @@
 {
 	"slug": "phala-network",
 	"title": "Phala Network",
+	"parent_slug": "polkadot",
 	"path": "polkadot/phala-network",
 	"repoCount": 68,
 	"userCount": 21,

@@ -1,6 +1,7 @@
 {
 	"slug": "fortube",
 	"title": "ForTube",
+	"parent_slug": "ethereum",
 	"path": "ethereum/fortube",
 	"repoCount": 6,
 	"userCount": 5,

@@ -1,6 +1,7 @@
 {
 	"slug": "bittorrent",
 	"title": "BitTorrent",
+	"parent_slug": "tron",
 	"path": "tron/bittorrent",
 	"repoCount": 60,
 	"userCount": 58,

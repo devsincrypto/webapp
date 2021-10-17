@@ -1,6 +1,7 @@
 {
 	"slug": "sushi-swap",
 	"title": "Sushi Swap",
+	"parent_slug": "ethereum",
 	"path": "ethereum/sushi-swap",
 	"repoCount": 49,
 	"userCount": 18,

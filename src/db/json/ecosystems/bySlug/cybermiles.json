@@ -1,6 +1,7 @@
 {
 	"slug": "cybermiles",
 	"title": "CyberMiles",
+	"parent_slug": "secondstate",
 	"path": "secondstate/cybermiles",
 	"repoCount": 37,
 	"userCount": 27,

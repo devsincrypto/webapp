@@ -1,6 +1,7 @@
 {
 	"slug": "steem",
 	"title": "Steem",
+	"parent_slug": null,
 	"path": "steem",
 	"repoCount": 358,
 	"userCount": 184,

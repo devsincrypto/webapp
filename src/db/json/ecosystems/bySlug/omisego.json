@@ -1,6 +1,7 @@
 {
 	"slug": "omisego",
 	"title": "OmiseGo",
+	"parent_slug": "ethereum",
 	"path": "ethereum/omisego",
 	"repoCount": 41,
 	"userCount": 85,

@@ -1,6 +1,7 @@
 {
 	"slug": "tendermint",
 	"title": "Tendermint",
+	"parent_slug": "cosmos",
 	"path": "cosmos/tendermint",
 	"repoCount": 163,
 	"userCount": 216,

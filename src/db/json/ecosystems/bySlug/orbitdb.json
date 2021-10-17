@@ -1,6 +1,7 @@
 {
 	"slug": "orbitdb",
 	"title": "OrbitDB",
+	"parent_slug": "ipfs",
 	"path": "ipfs/orbitdb",
 	"repoCount": 57,
 	"userCount": 15,

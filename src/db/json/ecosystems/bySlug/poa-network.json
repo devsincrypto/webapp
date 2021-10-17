@@ -1,6 +1,7 @@
 {
 	"slug": "poa-network",
 	"title": "POA Network",
+	"parent_slug": "ethereum",
 	"path": "ethereum/poa-network",
 	"repoCount": 117,
 	"userCount": 74,

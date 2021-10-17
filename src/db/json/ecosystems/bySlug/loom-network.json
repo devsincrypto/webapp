@@ -1,6 +1,7 @@
 {
 	"slug": "loom-network",
 	"title": "Loom Network",
+	"parent_slug": "ethereum",
 	"path": "ethereum/loom-network",
 	"repoCount": 84,
 	"userCount": 36,

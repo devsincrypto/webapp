@@ -1,6 +1,7 @@
 {
 	"slug": "kava-labs",
 	"title": "Kava Labs",
+	"parent_slug": "cosmos",
 	"path": "cosmos/kava-labs",
 	"repoCount": 45,
 	"userCount": 15,

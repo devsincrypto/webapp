@@ -1,6 +1,7 @@
 {
 	"slug": "bitcoin-sv",
 	"title": "Bitcoin SV",
+	"parent_slug": null,
 	"path": "bitcoin-sv",
 	"repoCount": 34,
 	"userCount": 33,

@@ -1,6 +1,7 @@
 {
 	"slug": "bank-of-staked",
 	"title": "Bank of Staked",
+	"parent_slug": "eos",
 	"path": "eos/bank-of-staked",
 	"repoCount": 48,
 	"userCount": 4,

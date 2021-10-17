@@ -1,6 +1,7 @@
 {
 	"slug": "staked",
 	"title": "Staked",
+	"parent_slug": "ethereum",
 	"path": "ethereum/staked",
 	"repoCount": 35,
 	"userCount": 16,

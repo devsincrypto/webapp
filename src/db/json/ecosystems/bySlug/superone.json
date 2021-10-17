@@ -1,6 +1,7 @@
 {
 	"slug": "superone",
 	"title": "SuperONE",
+	"parent_slug": "eos",
 	"path": "eos/superone",
 	"repoCount": 23,
 	"userCount": 4,

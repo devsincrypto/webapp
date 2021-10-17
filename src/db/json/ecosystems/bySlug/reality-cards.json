@@ -1,6 +1,7 @@
 {
 	"slug": "reality-cards",
 	"title": "Reality Cards",
+	"parent_slug": "ethereum",
 	"path": "ethereum/reality-cards",
 	"repoCount": 3,
 	"userCount": 4,

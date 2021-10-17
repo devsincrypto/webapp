@@ -1,6 +1,7 @@
 {
 	"slug": "set-match-games",
 	"title": "Set Match Games",
+	"parent_slug": "holo",
 	"path": "holo/set-match-games",
 	"repoCount": 9,
 	"userCount": 2,

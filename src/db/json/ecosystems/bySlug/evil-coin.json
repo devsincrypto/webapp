@@ -1,6 +1,7 @@
 {
 	"slug": "evil-coin",
 	"title": "Evil Coin",
+	"parent_slug": null,
 	"path": "evil-coin",
 	"repoCount": 1,
 	"userCount": 1,

@@ -1,6 +1,7 @@
 {
 	"slug": "decentraland",
 	"title": "Decentraland",
+	"parent_slug": "ethereum",
 	"path": "ethereum/decentraland",
 	"repoCount": 167,
 	"userCount": 70,

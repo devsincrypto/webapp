@@ -1,6 +1,7 @@
 {
 	"slug": "terra",
 	"title": "Terra",
+	"parent_slug": "ethereum",
 	"path": "ethereum/terra",
 	"repoCount": 73,
 	"userCount": 24,
