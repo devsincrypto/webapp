@@ -1,0 +1,122 @@
+[
+	{
+		"forks": 19,
+		"name": "dego-labs/dego-core",
+		"stars": 19,
+		"watchers": 0,
+		"repo_name": "dego-labs/dego-core",
+		"ecosystem_slug": "dego-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/dego-finance",
+		"slug": "dego-finance",
+		"title": "Dego Finance"
+	},
+	{
+		"forks": 16,
+		"name": "dego-labs/dego-token",
+		"stars": 17,
+		"watchers": 0,
+		"repo_name": "dego-labs/dego-token",
+		"ecosystem_slug": "dego-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/dego-finance",
+		"slug": "dego-finance",
+		"title": "Dego Finance"
+	},
+	{
+		"forks": 8,
+		"name": "dego-labs/dego-nft",
+		"stars": 11,
+		"watchers": 0,
+		"repo_name": "dego-labs/dego-nft",
+		"ecosystem_slug": "dego-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/dego-finance",
+		"slug": "dego-finance",
+		"title": "Dego Finance"
+	},
+	{
+		"forks": 7,
+		"name": "dego-labs/dego-system",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "dego-labs/dego-system",
+		"ecosystem_slug": "dego-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/dego-finance",
+		"slug": "dego-finance",
+		"title": "Dego Finance"
+	},
+	{
+		"forks": 2,
+		"name": "dego-labs/treasureland-backend",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "dego-labs/treasureland-backend",
+		"ecosystem_slug": "dego-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/dego-finance",
+		"slug": "dego-finance",
+		"title": "Dego Finance"
+	},
+	{
+		"forks": 2,
+		"name": "dego-labs/dego-nft-v2",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "dego-labs/dego-nft-v2",
+		"ecosystem_slug": "dego-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/dego-finance",
+		"slug": "dego-finance",
+		"title": "Dego Finance"
+	},
+	{
+		"forks": 3,
+		"name": "dego-labs/snapshot-spaces",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "dego-labs/snapshot-spaces",
+		"ecosystem_slug": "dego-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/dego-finance",
+		"slug": "dego-finance",
+		"title": "Dego Finance"
+	},
+	{
+		"forks": 1,
+		"name": "dego-labs/audit",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "dego-labs/audit",
+		"ecosystem_slug": "dego-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/dego-finance",
+		"slug": "dego-finance",
+		"title": "Dego Finance"
+	},
+	{
+		"forks": 0,
+		"name": "dego-labs/doc",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "dego-labs/doc",
+		"ecosystem_slug": "dego-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/dego-finance",
+		"slug": "dego-finance",
+		"title": "Dego Finance"
+	},
+	{
+		"forks": 0,
+		"name": "dego-labs/erc908",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "dego-labs/erc908",
+		"ecosystem_slug": "dego-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/dego-finance",
+		"slug": "dego-finance",
+		"title": "Dego Finance"
+	}
+]

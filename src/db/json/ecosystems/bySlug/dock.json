@@ -1,6 +1,7 @@
 {
 	"slug": "dock",
 	"title": "Dock",
+	"parent_slug": null,
 	"path": "dock",
 	"repoCount": 9,
 	"userCount": 9,

@@ -1,0 +1,38 @@
+[
+	{
+		"forks": 59,
+		"name": "WrappedBTC/bitcoin-token-smart-contracts",
+		"stars": 86,
+		"watchers": 0,
+		"repo_name": "WrappedBTC/bitcoin-token-smart-contracts",
+		"ecosystem_slug": "wrapped-bitcoin",
+		"parent_slug": null,
+		"path": "wrapped-bitcoin",
+		"slug": "wrapped-bitcoin",
+		"title": "Wrapped Bitcoin"
+	},
+	{
+		"forks": 12,
+		"name": "WrappedBTC/DAO",
+		"stars": 16,
+		"watchers": 0,
+		"repo_name": "WrappedBTC/DAO",
+		"ecosystem_slug": "wrapped-bitcoin",
+		"parent_slug": null,
+		"path": "wrapped-bitcoin",
+		"slug": "wrapped-bitcoin",
+		"title": "Wrapped Bitcoin"
+	},
+	{
+		"forks": 6,
+		"name": "WrappedBTC/website",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "WrappedBTC/website",
+		"ecosystem_slug": "wrapped-bitcoin",
+		"parent_slug": null,
+		"path": "wrapped-bitcoin",
+		"slug": "wrapped-bitcoin",
+		"title": "Wrapped Bitcoin"
+	}
+]

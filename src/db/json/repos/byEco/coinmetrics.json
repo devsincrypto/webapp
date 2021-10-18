@@ -1,0 +1,62 @@
+[
+	{
+		"forks": 20,
+		"name": "coinmetrics-io/haskell-tools",
+		"stars": 56,
+		"watchers": 0,
+		"repo_name": "coinmetrics-io/haskell-tools",
+		"ecosystem_slug": "coinmetrics",
+		"parent_slug": null,
+		"path": "coinmetrics",
+		"slug": "coinmetrics",
+		"title": "Coinmetrics"
+	},
+	{
+		"forks": 10,
+		"name": "coinmetrics-io/python-tools",
+		"stars": 33,
+		"watchers": 0,
+		"repo_name": "coinmetrics-io/python-tools",
+		"ecosystem_slug": "coinmetrics",
+		"parent_slug": null,
+		"path": "coinmetrics",
+		"slug": "coinmetrics",
+		"title": "Coinmetrics"
+	},
+	{
+		"forks": 12,
+		"name": "coinmetrics-io/coincrawler",
+		"stars": 30,
+		"watchers": 0,
+		"repo_name": "coinmetrics-io/coincrawler",
+		"ecosystem_slug": "coinmetrics",
+		"parent_slug": null,
+		"path": "coinmetrics",
+		"slug": "coinmetrics",
+		"title": "Coinmetrics"
+	},
+	{
+		"forks": 12,
+		"name": "coinmetrics-io/data",
+		"stars": 13,
+		"watchers": 0,
+		"repo_name": "coinmetrics-io/data",
+		"ecosystem_slug": "coinmetrics",
+		"parent_slug": null,
+		"path": "coinmetrics",
+		"slug": "coinmetrics",
+		"title": "Coinmetrics"
+	},
+	{
+		"forks": 4,
+		"name": "coinmetrics-io/analytics",
+		"stars": 12,
+		"watchers": 0,
+		"repo_name": "coinmetrics-io/analytics",
+		"ecosystem_slug": "coinmetrics",
+		"parent_slug": null,
+		"path": "coinmetrics",
+		"slug": "coinmetrics",
+		"title": "Coinmetrics"
+	}
+]

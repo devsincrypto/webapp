@@ -1,0 +1,110 @@
+[
+	{
+		"forks": 17,
+		"name": "Kekcoin-Core/kekcoin-segwit",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "Kekcoin-Core/kekcoin-segwit",
+		"ecosystem_slug": "kekcoin",
+		"parent_slug": null,
+		"path": "kekcoin",
+		"slug": "kekcoin",
+		"title": "KekCoin"
+	},
+	{
+		"forks": 6,
+		"name": "Kekcoin-Core/memechain-api",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "Kekcoin-Core/memechain-api",
+		"ecosystem_slug": "kekcoin",
+		"parent_slug": null,
+		"path": "kekcoin",
+		"slug": "kekcoin",
+		"title": "KekCoin"
+	},
+	{
+		"forks": 1,
+		"name": "Kekcoin-Core/Kekcoin-Core",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "Kekcoin-Core/Kekcoin-Core",
+		"ecosystem_slug": "kekcoin",
+		"parent_slug": null,
+		"path": "kekcoin",
+		"slug": "kekcoin",
+		"title": "KekCoin"
+	},
+	{
+		"forks": 0,
+		"name": "Kekcoin-Core/Kekcoin-Core-old",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Kekcoin-Core/Kekcoin-Core-old",
+		"ecosystem_slug": "kekcoin",
+		"parent_slug": null,
+		"path": "kekcoin",
+		"slug": "kekcoin",
+		"title": "KekCoin"
+	},
+	{
+		"forks": 0,
+		"name": "Kekcoin-Core/memechain-gui",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Kekcoin-Core/memechain-gui",
+		"ecosystem_slug": "kekcoin",
+		"parent_slug": null,
+		"path": "kekcoin",
+		"slug": "kekcoin",
+		"title": "KekCoin"
+	},
+	{
+		"forks": 0,
+		"name": "Kekcoin-Core/kekcoin-lore",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Kekcoin-Core/kekcoin-lore",
+		"ecosystem_slug": "kekcoin",
+		"parent_slug": null,
+		"path": "kekcoin",
+		"slug": "kekcoin",
+		"title": "KekCoin"
+	},
+	{
+		"forks": 0,
+		"name": "Kekcoin-Core/kekcoin-explorer",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Kekcoin-Core/kekcoin-explorer",
+		"ecosystem_slug": "kekcoin",
+		"parent_slug": null,
+		"path": "kekcoin",
+		"slug": "kekcoin",
+		"title": "KekCoin"
+	},
+	{
+		"forks": 0,
+		"name": "Kekcoin-Core/electrum-kekcoin-server",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Kekcoin-Core/electrum-kekcoin-server",
+		"ecosystem_slug": "kekcoin",
+		"parent_slug": null,
+		"path": "kekcoin",
+		"slug": "kekcoin",
+		"title": "KekCoin"
+	},
+	{
+		"forks": 0,
+		"name": "Kekcoin-Core/Kekcoin-Graphics",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Kekcoin-Core/Kekcoin-Graphics",
+		"ecosystem_slug": "kekcoin",
+		"parent_slug": null,
+		"path": "kekcoin",
+		"slug": "kekcoin",
+		"title": "KekCoin"
+	}
+]

@@ -1,8 +1,9 @@
 {
 	"slug": "octofi",
 	"title": "OctoFi",
+	"parent_slug": "ethereum",
 	"path": "ethereum/octofi",
 	"repoCount": 10,
 	"userCount": 1,
-	"popularity": 1841
+	"popularity": 2047
 }

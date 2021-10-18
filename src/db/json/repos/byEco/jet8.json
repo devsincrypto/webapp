@@ -1,0 +1,50 @@
+[
+	{
+		"forks": 2,
+		"name": "jet8/ico-contracts",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "jet8/ico-contracts",
+		"ecosystem_slug": "jet8",
+		"parent_slug": null,
+		"path": "jet8",
+		"slug": "jet8",
+		"title": "JET8"
+	},
+	{
+		"forks": 2,
+		"name": "jet8/bounty-airdrop",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "jet8/bounty-airdrop",
+		"ecosystem_slug": "jet8",
+		"parent_slug": null,
+		"path": "jet8",
+		"slug": "jet8",
+		"title": "JET8"
+	},
+	{
+		"forks": 0,
+		"name": "jet8/reward-contracts",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "jet8/reward-contracts",
+		"ecosystem_slug": "jet8",
+		"parent_slug": null,
+		"path": "jet8",
+		"slug": "jet8",
+		"title": "JET8"
+	},
+	{
+		"forks": 0,
+		"name": "jet8/wallet-contracts",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "jet8/wallet-contracts",
+		"ecosystem_slug": "jet8",
+		"parent_slug": null,
+		"path": "jet8",
+		"slug": "jet8",
+		"title": "JET8"
+	}
+]

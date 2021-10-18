@@ -1,0 +1,50 @@
+[
+	{
+		"forks": 1,
+		"name": "project-daneel/daneel-token-erc20",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "project-daneel/daneel-token-erc20",
+		"ecosystem_slug": "daneel",
+		"parent_slug": null,
+		"path": "daneel",
+		"slug": "daneel",
+		"title": "Daneel"
+	},
+	{
+		"forks": 0,
+		"name": "project-daneel/ethereum-send-erc20-token",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "project-daneel/ethereum-send-erc20-token",
+		"ecosystem_slug": "daneel",
+		"parent_slug": null,
+		"path": "daneel",
+		"slug": "daneel",
+		"title": "Daneel"
+	},
+	{
+		"forks": 0,
+		"name": "project-daneel/ethereum-gnosis-multisig-contract",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "project-daneel/ethereum-gnosis-multisig-contract",
+		"ecosystem_slug": "daneel",
+		"parent_slug": null,
+		"path": "daneel",
+		"slug": "daneel",
+		"title": "Daneel"
+	},
+	{
+		"forks": 1,
+		"name": "project-daneel/roadmap",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "project-daneel/roadmap",
+		"ecosystem_slug": "daneel",
+		"parent_slug": null,
+		"path": "daneel",
+		"slug": "daneel",
+		"title": "Daneel"
+	}
+]

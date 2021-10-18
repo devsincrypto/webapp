@@ -1,8 +1,9 @@
 {
 	"slug": "polymarket",
 	"title": "Polymarket",
+	"parent_slug": "ethereum",
 	"path": "ethereum/polymarket",
-	"repoCount": 7,
-	"userCount": 4,
+	"repoCount": 15,
+	"userCount": 6,
 	"popularity": 41
 }

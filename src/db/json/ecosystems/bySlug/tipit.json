@@ -1,8 +1,9 @@
 {
 	"slug": "tipit",
 	"title": "Tipit",
+	"parent_slug": null,
 	"path": "tipit",
-	"repoCount": 6,
+	"repoCount": 7,
 	"userCount": 3,
 	"popularity": 82
 }

@@ -1,0 +1,50 @@
+[
+	{
+		"forks": 1,
+		"name": "hype-ecosystem/predictions_bot",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "hype-ecosystem/predictions_bot",
+		"ecosystem_slug": "hype-token",
+		"parent_slug": null,
+		"path": "hype-token",
+		"slug": "hype-token",
+		"title": "Hype Token"
+	},
+	{
+		"forks": 1,
+		"name": "hype-ecosystem/atomicswapwallet.io",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "hype-ecosystem/atomicswapwallet.io",
+		"ecosystem_slug": "hype-token",
+		"parent_slug": null,
+		"path": "hype-token",
+		"slug": "hype-token",
+		"title": "Hype Token"
+	},
+	{
+		"forks": 0,
+		"name": "hype-ecosystem/hypetoken",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "hype-ecosystem/hypetoken",
+		"ecosystem_slug": "hype-token",
+		"parent_slug": null,
+		"path": "hype-token",
+		"slug": "hype-token",
+		"title": "Hype Token"
+	},
+	{
+		"forks": 0,
+		"name": "hype-ecosystem/tokens",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "hype-ecosystem/tokens",
+		"ecosystem_slug": "hype-token",
+		"parent_slug": null,
+		"path": "hype-token",
+		"slug": "hype-token",
+		"title": "Hype Token"
+	}
+]

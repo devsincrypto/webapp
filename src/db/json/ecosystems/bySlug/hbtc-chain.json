@@ -1,8 +1,9 @@
 {
 	"slug": "hbtc-chain",
 	"title": "HBTC Chain",
+	"parent_slug": "cosmos",
 	"path": "cosmos/hbtc-chain",
 	"repoCount": 5,
 	"userCount": 2,
-	"popularity": 114
+	"popularity": 140
 }

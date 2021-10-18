@@ -1,0 +1,110 @@
+[
+	{
+		"forks": 14,
+		"name": "stafiprotocol/stafi-node",
+		"stars": 36,
+		"watchers": 0,
+		"repo_name": "stafiprotocol/stafi-node",
+		"ecosystem_slug": "stafi",
+		"parent_slug": "polkadot",
+		"path": "polkadot/stafi",
+		"slug": "stafi",
+		"title": "Stafi"
+	},
+	{
+		"forks": 3,
+		"name": "stafiprotocol/stafi-blockchain",
+		"stars": 9,
+		"watchers": 0,
+		"repo_name": "stafiprotocol/stafi-blockchain",
+		"ecosystem_slug": "stafi",
+		"parent_slug": "polkadot",
+		"path": "polkadot/stafi",
+		"slug": "stafi",
+		"title": "Stafi"
+	},
+	{
+		"forks": 3,
+		"name": "stafiprotocol/stafi-bootstrap",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "stafiprotocol/stafi-bootstrap",
+		"ecosystem_slug": "stafi",
+		"parent_slug": "polkadot",
+		"path": "polkadot/stafi",
+		"slug": "stafi",
+		"title": "Stafi"
+	},
+	{
+		"forks": 2,
+		"name": "stafiprotocol/apps",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "stafiprotocol/apps",
+		"ecosystem_slug": "stafi",
+		"parent_slug": "polkadot",
+		"path": "polkadot/stafi",
+		"slug": "stafi",
+		"title": "Stafi"
+	},
+	{
+		"forks": 2,
+		"name": "stafiprotocol/substrate-api-sidecar",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "stafiprotocol/substrate-api-sidecar",
+		"ecosystem_slug": "stafi",
+		"parent_slug": "polkadot",
+		"path": "polkadot/stafi",
+		"slug": "stafi",
+		"title": "Stafi"
+	},
+	{
+		"forks": 1,
+		"name": "stafiprotocol/go-substrate-rpc-client",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "stafiprotocol/go-substrate-rpc-client",
+		"ecosystem_slug": "stafi",
+		"parent_slug": "polkadot",
+		"path": "polkadot/stafi",
+		"slug": "stafi",
+		"title": "Stafi"
+	},
+	{
+		"forks": 0,
+		"name": "stafiprotocol/eth2-staking",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "stafiprotocol/eth2-staking",
+		"ecosystem_slug": "stafi",
+		"parent_slug": "polkadot",
+		"path": "polkadot/stafi",
+		"slug": "stafi",
+		"title": "Stafi"
+	},
+	{
+		"forks": 0,
+		"name": "stafiprotocol/chainbridge",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "stafiprotocol/chainbridge",
+		"ecosystem_slug": "stafi",
+		"parent_slug": "polkadot",
+		"path": "polkadot/stafi",
+		"slug": "stafi",
+		"title": "Stafi"
+	},
+	{
+		"forks": 0,
+		"name": "stafiprotocol/bridge-solidity",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "stafiprotocol/bridge-solidity",
+		"ecosystem_slug": "stafi",
+		"parent_slug": "polkadot",
+		"path": "polkadot/stafi",
+		"slug": "stafi",
+		"title": "Stafi"
+	}
+]

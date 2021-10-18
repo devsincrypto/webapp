@@ -1,8 +1,9 @@
 {
 	"slug": "dego-finance",
 	"title": "Dego Finance",
+	"parent_slug": "ethereum",
 	"path": "ethereum/dego-finance",
-	"repoCount": 4,
+	"repoCount": 9,
 	"userCount": 1,
-	"popularity": 245
+	"popularity": 372
 }

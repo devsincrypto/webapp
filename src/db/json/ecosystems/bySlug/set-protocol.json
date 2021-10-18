@@ -1,8 +1,9 @@
 {
 	"slug": "set-protocol",
 	"title": "Set Protocol",
+	"parent_slug": "ethereum",
 	"path": "ethereum/set-protocol",
-	"repoCount": 16,
-	"userCount": 10,
-	"popularity": 142602
+	"repoCount": 25,
+	"userCount": 16,
+	"popularity": 193328
 }

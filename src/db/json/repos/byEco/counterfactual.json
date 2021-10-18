@@ -1,0 +1,98 @@
+[
+	{
+		"forks": 42,
+		"name": "counterfactual/monorepo",
+		"stars": 97,
+		"watchers": 0,
+		"repo_name": "counterfactual/monorepo",
+		"ecosystem_slug": "counterfactual",
+		"parent_slug": "ethereum",
+		"path": "ethereum/counterfactual",
+		"slug": "counterfactual",
+		"title": "Counterfactual"
+	},
+	{
+		"forks": 5,
+		"name": "counterfactual/paper",
+		"stars": 47,
+		"watchers": 0,
+		"repo_name": "counterfactual/paper",
+		"ecosystem_slug": "counterfactual",
+		"parent_slug": "ethereum",
+		"path": "ethereum/counterfactual",
+		"slug": "counterfactual",
+		"title": "Counterfactual"
+	},
+	{
+		"forks": 0,
+		"name": "counterfactual/research",
+		"stars": 11,
+		"watchers": 0,
+		"repo_name": "counterfactual/research",
+		"ecosystem_slug": "counterfactual",
+		"parent_slug": "ethereum",
+		"path": "ethereum/counterfactual",
+		"slug": "counterfactual",
+		"title": "Counterfactual"
+	},
+	{
+		"forks": 0,
+		"name": "counterfactual/dapps-bots",
+		"stars": 6,
+		"watchers": 0,
+		"repo_name": "counterfactual/dapps-bots",
+		"ecosystem_slug": "counterfactual",
+		"parent_slug": "ethereum",
+		"path": "ethereum/counterfactual",
+		"slug": "counterfactual",
+		"title": "Counterfactual"
+	},
+	{
+		"forks": 0,
+		"name": "counterfactual/truffle-box",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "counterfactual/truffle-box",
+		"ecosystem_slug": "counterfactual",
+		"parent_slug": "ethereum",
+		"path": "ethereum/counterfactual",
+		"slug": "counterfactual",
+		"title": "Counterfactual"
+	},
+	{
+		"forks": 0,
+		"name": "counterfactual/getting-started",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "counterfactual/getting-started",
+		"ecosystem_slug": "counterfactual",
+		"parent_slug": "ethereum",
+		"path": "ethereum/counterfactual",
+		"slug": "counterfactual",
+		"title": "Counterfactual"
+	},
+	{
+		"forks": 1,
+		"name": "counterfactual/website",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "counterfactual/website",
+		"ecosystem_slug": "counterfactual",
+		"parent_slug": "ethereum",
+		"path": "ethereum/counterfactual",
+		"slug": "counterfactual",
+		"title": "Counterfactual"
+	},
+	{
+		"forks": 0,
+		"name": "counterfactual/Waffle",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "counterfactual/Waffle",
+		"ecosystem_slug": "counterfactual",
+		"parent_slug": "ethereum",
+		"path": "ethereum/counterfactual",
+		"slug": "counterfactual",
+		"title": "Counterfactual"
+	}
+]

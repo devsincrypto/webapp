@@ -1,8 +1,9 @@
 {
 	"slug": "instadapp",
 	"title": "InstaDApp",
+	"parent_slug": "ethereum",
 	"path": "ethereum/instadapp",
-	"repoCount": 23,
-	"userCount": 11,
-	"popularity": 80444
+	"repoCount": 31,
+	"userCount": 13,
+	"popularity": 80659
 }

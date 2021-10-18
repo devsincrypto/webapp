@@ -1,0 +1,86 @@
+[
+	{
+		"forks": 24,
+		"name": "litemint/litemint",
+		"stars": 46,
+		"watchers": 0,
+		"repo_name": "litemint/litemint",
+		"ecosystem_slug": "litemint",
+		"parent_slug": "stellar",
+		"path": "stellar/litemint",
+		"slug": "litemint",
+		"title": "Litemint"
+	},
+	{
+		"forks": 4,
+		"name": "litemint/litemint-api",
+		"stars": 9,
+		"watchers": 0,
+		"repo_name": "litemint/litemint-api",
+		"ecosystem_slug": "litemint",
+		"parent_slug": "stellar",
+		"path": "stellar/litemint",
+		"slug": "litemint",
+		"title": "Litemint"
+	},
+	{
+		"forks": 6,
+		"name": "litemint/litemint-android",
+		"stars": 6,
+		"watchers": 0,
+		"repo_name": "litemint/litemint-android",
+		"ecosystem_slug": "litemint",
+		"parent_slug": "stellar",
+		"path": "stellar/litemint",
+		"slug": "litemint",
+		"title": "Litemint"
+	},
+	{
+		"forks": 9,
+		"name": "litemint/litemint-io-community-resources",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "litemint/litemint-io-community-resources",
+		"ecosystem_slug": "litemint",
+		"parent_slug": "stellar",
+		"path": "stellar/litemint",
+		"slug": "litemint",
+		"title": "Litemint"
+	},
+	{
+		"forks": 4,
+		"name": "litemint/litemint-electron",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "litemint/litemint-electron",
+		"ecosystem_slug": "litemint",
+		"parent_slug": "stellar",
+		"path": "stellar/litemint",
+		"slug": "litemint",
+		"title": "Litemint"
+	},
+	{
+		"forks": 4,
+		"name": "litemint/litemint-ios",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "litemint/litemint-ios",
+		"ecosystem_slug": "litemint",
+		"parent_slug": "stellar",
+		"path": "stellar/litemint",
+		"slug": "litemint",
+		"title": "Litemint"
+	},
+	{
+		"forks": 1,
+		"name": "litemint/litemint-web",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "litemint/litemint-web",
+		"ecosystem_slug": "litemint",
+		"parent_slug": "stellar",
+		"path": "stellar/litemint",
+		"slug": "litemint",
+		"title": "Litemint"
+	}
+]

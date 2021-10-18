@@ -1,0 +1,86 @@
+[
+	{
+		"forks": 2,
+		"name": "proximax-storage-foundry/xpx-java-sdk-cli",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "proximax-storage-foundry/xpx-java-sdk-cli",
+		"ecosystem_slug": "proximax",
+		"parent_slug": null,
+		"path": "proximax",
+		"slug": "proximax",
+		"title": "ProximaX"
+	},
+	{
+		"forks": 0,
+		"name": "proximax-storage-foundry/proximax-simple-upload-site",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "proximax-storage-foundry/proximax-simple-upload-site",
+		"ecosystem_slug": "proximax",
+		"parent_slug": null,
+		"path": "proximax",
+		"slug": "proximax",
+		"title": "ProximaX"
+	},
+	{
+		"forks": 1,
+		"name": "proximax-storage-foundry/facebookbot",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "proximax-storage-foundry/facebookbot",
+		"ecosystem_slug": "proximax",
+		"parent_slug": null,
+		"path": "proximax",
+		"slug": "proximax",
+		"title": "ProximaX"
+	},
+	{
+		"forks": 0,
+		"name": "proximax-storage-foundry/proximax-notaryapp",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "proximax-storage-foundry/proximax-notaryapp",
+		"ecosystem_slug": "proximax",
+		"parent_slug": null,
+		"path": "proximax",
+		"slug": "proximax",
+		"title": "ProximaX"
+	},
+	{
+		"forks": 0,
+		"name": "proximax-storage-foundry/proximax-static-webhost",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "proximax-storage-foundry/proximax-static-webhost",
+		"ecosystem_slug": "proximax",
+		"parent_slug": null,
+		"path": "proximax",
+		"slug": "proximax",
+		"title": "ProximaX"
+	},
+	{
+		"forks": 0,
+		"name": "proximax-storage-foundry/xpx-dirloader",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "proximax-storage-foundry/xpx-dirloader",
+		"ecosystem_slug": "proximax",
+		"parent_slug": null,
+		"path": "proximax",
+		"slug": "proximax",
+		"title": "ProximaX"
+	},
+	{
+		"forks": 0,
+		"name": "proximax-storage-foundry/simple-uploader",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "proximax-storage-foundry/simple-uploader",
+		"ecosystem_slug": "proximax",
+		"parent_slug": null,
+		"path": "proximax",
+		"slug": "proximax",
+		"title": "ProximaX"
+	}
+]

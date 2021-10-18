@@ -1,0 +1,50 @@
+[
+	{
+		"forks": 3,
+		"name": "universe-project/universe",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "universe-project/universe",
+		"ecosystem_slug": "universe",
+		"parent_slug": null,
+		"path": "universe",
+		"slug": "universe",
+		"title": "Universe"
+	},
+	{
+		"forks": 2,
+		"name": "universe-project/crypto-wallet",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "universe-project/crypto-wallet",
+		"ecosystem_slug": "universe",
+		"parent_slug": null,
+		"path": "universe",
+		"slug": "universe",
+		"title": "Universe"
+	},
+	{
+		"forks": 1,
+		"name": "universe-project/uni-api-cpp",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "universe-project/uni-api-cpp",
+		"ecosystem_slug": "universe",
+		"parent_slug": null,
+		"path": "universe",
+		"slug": "universe",
+		"title": "Universe"
+	},
+	{
+		"forks": 0,
+		"name": "universe-project/universe-online-wallet",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "universe-project/universe-online-wallet",
+		"ecosystem_slug": "universe",
+		"parent_slug": null,
+		"path": "universe",
+		"slug": "universe",
+		"title": "Universe"
+	}
+]

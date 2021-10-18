@@ -1,6 +1,7 @@
 {
 	"slug": "arcx",
 	"title": "ARCX",
+	"parent_slug": "ethereum",
 	"path": "ethereum/arcx",
 	"repoCount": 1,
 	"userCount": 1,

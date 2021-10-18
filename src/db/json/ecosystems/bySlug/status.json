@@ -1,8 +1,9 @@
 {
 	"slug": "status",
 	"title": "Status",
+	"parent_slug": "ethereum",
 	"path": "ethereum/status",
-	"repoCount": 392,
-	"userCount": 115,
-	"popularity": 1054230
+	"repoCount": 439,
+	"userCount": 126,
+	"popularity": 1237064
 }

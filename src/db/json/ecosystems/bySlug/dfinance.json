@@ -1,8 +1,9 @@
 {
 	"slug": "dfinance",
 	"title": "Dfinance",
+	"parent_slug": "cosmos",
 	"path": "cosmos/dfinance",
-	"repoCount": 27,
+	"repoCount": 29,
 	"userCount": 13,
-	"popularity": 8648
+	"popularity": 9100
 }

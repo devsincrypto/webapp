@@ -1,8 +1,9 @@
 {
 	"slug": "blockpool",
 	"title": "Blockpool",
+	"parent_slug": null,
 	"path": "blockpool",
-	"repoCount": 16,
+	"repoCount": 17,
 	"userCount": 9,
-	"popularity": 1864
+	"popularity": 1920
 }

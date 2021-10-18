@@ -1,0 +1,86 @@
+[
+	{
+		"forks": 0,
+		"name": "debitum/UltimateICOCalendar",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "debitum/UltimateICOCalendar",
+		"ecosystem_slug": "debitum",
+		"parent_slug": null,
+		"path": "debitum",
+		"slug": "debitum",
+		"title": "Debitum"
+	},
+	{
+		"forks": 2,
+		"name": "debitum/ico-contracts",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "debitum/ico-contracts",
+		"ecosystem_slug": "debitum",
+		"parent_slug": null,
+		"path": "debitum",
+		"slug": "debitum",
+		"title": "Debitum"
+	},
+	{
+		"forks": 0,
+		"name": "debitum/config-server",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "debitum/config-server",
+		"ecosystem_slug": "debitum",
+		"parent_slug": null,
+		"path": "debitum",
+		"slug": "debitum",
+		"title": "Debitum"
+	},
+	{
+		"forks": 1,
+		"name": "debitum/contracts",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "debitum/contracts",
+		"ecosystem_slug": "debitum",
+		"parent_slug": null,
+		"path": "debitum",
+		"slug": "debitum",
+		"title": "Debitum"
+	},
+	{
+		"forks": 0,
+		"name": "debitum/gateway-microservice",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "debitum/gateway-microservice",
+		"ecosystem_slug": "debitum",
+		"parent_slug": null,
+		"path": "debitum",
+		"slug": "debitum",
+		"title": "Debitum"
+	},
+	{
+		"forks": 0,
+		"name": "debitum/assets-microservice",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "debitum/assets-microservice",
+		"ecosystem_slug": "debitum",
+		"parent_slug": null,
+		"path": "debitum",
+		"slug": "debitum",
+		"title": "Debitum"
+	},
+	{
+		"forks": 0,
+		"name": "debitum/discovery",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "debitum/discovery",
+		"ecosystem_slug": "debitum",
+		"parent_slug": null,
+		"path": "debitum",
+		"slug": "debitum",
+		"title": "Debitum"
+	}
+]

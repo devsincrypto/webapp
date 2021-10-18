@@ -1,0 +1,62 @@
+[
+	{
+		"forks": 0,
+		"name": "HadesFinance/frontend-example",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "HadesFinance/frontend-example",
+		"ecosystem_slug": "hades-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/hades-finance",
+		"slug": "hades-finance",
+		"title": "Hades Finance"
+	},
+	{
+		"forks": 0,
+		"name": "HadesFinance/evm-contracts",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "HadesFinance/evm-contracts",
+		"ecosystem_slug": "hades-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/hades-finance",
+		"slug": "hades-finance",
+		"title": "Hades Finance"
+	},
+	{
+		"forks": 0,
+		"name": "HadesFinance/hades-frontend",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "HadesFinance/hades-frontend",
+		"ecosystem_slug": "hades-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/hades-finance",
+		"slug": "hades-finance",
+		"title": "Hades Finance"
+	},
+	{
+		"forks": 0,
+		"name": "HadesFinance/token-profile",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "HadesFinance/token-profile",
+		"ecosystem_slug": "hades-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/hades-finance",
+		"slug": "hades-finance",
+		"title": "Hades Finance"
+	},
+	{
+		"forks": 0,
+		"name": "HadesFinance/hades-subgraph",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "HadesFinance/hades-subgraph",
+		"ecosystem_slug": "hades-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/hades-finance",
+		"slug": "hades-finance",
+		"title": "Hades Finance"
+	}
+]

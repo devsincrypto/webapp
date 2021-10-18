@@ -1,8 +1,9 @@
 {
 	"slug": "kuchain-network",
 	"title": "Kuchain Network",
+	"parent_slug": "cosmos",
 	"path": "cosmos/kuchain-network",
 	"repoCount": 9,
 	"userCount": 9,
-	"popularity": 1508
+	"popularity": 1524
 }

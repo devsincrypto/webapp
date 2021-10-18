@@ -1,8 +1,9 @@
 {
 	"slug": "bittorrent",
 	"title": "BitTorrent",
+	"parent_slug": "tron",
 	"path": "tron/bittorrent",
 	"repoCount": 60,
 	"userCount": 58,
-	"popularity": 163194
+	"popularity": 169498
 }

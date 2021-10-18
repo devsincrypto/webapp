@@ -1,8 +1,9 @@
 {
 	"slug": "skale-network",
 	"title": "Skale Network",
+	"parent_slug": "ethereum",
 	"path": "ethereum/skale-network",
-	"repoCount": 28,
+	"repoCount": 35,
 	"userCount": 18,
-	"popularity": 13324
+	"popularity": 19313
 }

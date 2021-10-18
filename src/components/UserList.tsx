@@ -1,4 +1,11 @@
-import { Avatar, Button, Spacer, Table, Tag, Tooltip } from '@geist-ui/react';
+import {
+	Avatar,
+	Button,
+	Spacer,
+	Table,
+	Tooltip,
+	User as GeistUser,
+} from '@geist-ui/react';
 import { TableColumnRender } from '@geist-ui/react/dist/table/table-types';
 import { ChevronDown, ChevronsDown } from '@geist-ui/react-icons';
 import Link from 'next/link';
@@ -17,25 +24,30 @@ interface Row extends User {
 	scoreStr: string;
 }
 
-const PAGINATION = 10;
+const PAGINATION = 5;
 
 export function UserList({ eco, users }: UserListProps): React.ReactElement {
 	const [limit, setLimit] = useState(PAGINATION);
 
-	const renderUser: TableColumnRender<Row> = (githubLoginMasked) => (
-		<>
-			<Tag type="lite">
-				{githubLoginMasked}
-				{'*'.repeat(8)}
-			</Tag>{' '}
-			<Tooltip
-				placement="right"
-				text="Masked for privacy reasons"
-				type="dark"
-			>
-				🔒
-			</Tooltip>
-		</>
+	const renderUser: TableColumnRender<Row> = (githubLoginMasked, row) => (
+		<GeistUser
+			name={
+				<>
+					{githubLoginMasked}
+					{'*'.repeat(8)}
+					<Tooltip
+						placement="right"
+						text="Masked for privacy reasons"
+						type="dark"
+					>
+						🔒
+					</Tooltip>
+				</>
+			}
+			text={githubLoginMasked as string}
+		>
+			Score: {row.scoreStr}
+		</GeistUser>
 	);
 
 	return (
@@ -57,13 +69,8 @@ export function UserList({ eco, users }: UserListProps): React.ReactElement {
 					.slice(0, limit)}
 			>
 				<Table.Column<Row> prop="rank" label="Rank" />
-				<Table.Column<Row>
-					prop="githubLoginMasked"
-					label="Github Login"
-					render={renderUser}
-				/>
-				<Table.Column<Row> prop="scoreStr">
-					Score
+				<Table.Column<Row> prop="githubLoginMasked" render={renderUser}>
+					Github Login
 					<Tooltip
 						text="How is a user's score calculated?'"
 						type="dark"

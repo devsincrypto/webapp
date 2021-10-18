@@ -1,0 +1,74 @@
+[
+	{
+		"forks": 24,
+		"name": "Fairmint/c-org",
+		"stars": 55,
+		"watchers": 0,
+		"repo_name": "Fairmint/c-org",
+		"ecosystem_slug": "fairmint",
+		"parent_slug": "ethereum",
+		"path": "ethereum/fairmint",
+		"slug": "fairmint",
+		"title": "Fairmint"
+	},
+	{
+		"forks": 4,
+		"name": "Fairmint/c-org-js",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "Fairmint/c-org-js",
+		"ecosystem_slug": "fairmint",
+		"parent_slug": "ethereum",
+		"path": "ethereum/fairmint",
+		"slug": "fairmint",
+		"title": "Fairmint"
+	},
+	{
+		"forks": 2,
+		"name": "Fairmint/legal",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Fairmint/legal",
+		"ecosystem_slug": "fairmint",
+		"parent_slug": "ethereum",
+		"path": "ethereum/fairmint",
+		"slug": "fairmint",
+		"title": "Fairmint"
+	},
+	{
+		"forks": 0,
+		"name": "Fairmint/widget",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Fairmint/widget",
+		"ecosystem_slug": "fairmint",
+		"parent_slug": "ethereum",
+		"path": "ethereum/fairmint",
+		"slug": "fairmint",
+		"title": "Fairmint"
+	},
+	{
+		"forks": 0,
+		"name": "Fairmint/c-org-vyper",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Fairmint/c-org-vyper",
+		"ecosystem_slug": "fairmint",
+		"parent_slug": "ethereum",
+		"path": "ethereum/fairmint",
+		"slug": "fairmint",
+		"title": "Fairmint"
+	},
+	{
+		"forks": 0,
+		"name": "Fairmint/test-permit",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Fairmint/test-permit",
+		"ecosystem_slug": "fairmint",
+		"parent_slug": "ethereum",
+		"path": "ethereum/fairmint",
+		"slug": "fairmint",
+		"title": "Fairmint"
+	}
+]

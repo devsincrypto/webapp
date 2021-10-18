@@ -14,85 +14,111 @@ export interface Ecosystem {
 	title: string;
 	popularity: number;
 	repoCount: number;
-	top_level_eco: string;
 	userCount: number;
 }
 
-const popularityQuery = ({
-	limitClause = '',
-	orderByClause = 'ORDER BY popularity DESC',
-}: {
-	limitClause?: string;
-	orderByClause?: string;
-}) => `
-WITH popularity AS (
+// Query all ecosystems, as well as their children's recursively aggregated
+// score.
+const queryAll = () => `
+WITH eco_data AS
+(${queryEcosystem({ groupByClause: 'GROUP BY e.slug' })}),
+tree AS
+(
 	SELECT
-		COUNT(DISTINCT(r.name)) AS repoCount,
-		COUNT(DISTINCT(c.github_login_encrypted)) AS userCount,
-		SUM(r.forks + r.stars + r.watchers) AS popularity,
-		CASE instr(e.path, '/') WHEN 0 THEN
-			e.path
-		ELSE
-			substr(e.path, 0, instr(e.path, '/'))
-		END AS top_level_eco
-	FROM ecosystems e
-	INNER JOIN ecosystem_repos er ON er.ecosystem_slug = e.slug
-	INNER JOIN repos r ON r.name = er.repo_name
-	INNER JOIN commits c ON c.repo_name = r.name
-	GROUP BY top_level_eco
+		e.slug			AS base_slug,
+		e.slug			AS current_slug,
+		ed.popularity,
+		ed.repoCount,
+		ed.userCount
+	FROM
+		ecosystems e
+	INNER JOIN
+		eco_data ed
+			ON e.slug = ed.slug
+
+	UNION ALL
+
+	SELECT
+		t.base_slug,
+		e.slug,
+		ed.popularity,
+		ed.repoCount,
+		ed.userCount
+	FROM
+		tree t
+	INNER JOIN
+		ecosystems e
+			ON e.parent_slug = t.current_slug
+	INNER JOIN
+		eco_data ed
+			ON e.slug = ed.slug
 )
 SELECT
-	e.slug,
-	e.title,
-	e.path,
-	p.repoCount,
-	p.userCount,
-	p.popularity
-FROM ecosystems e
-INNER JOIN popularity p on p.top_level_eco = e.slug
-${orderByClause}
-${limitClause}
+	t.base_slug			AS slug,
+	ed.path,
+	ed.title,
+	SUM(t.repoCount)	AS repoCount,
+	SUM(t.userCount)	AS userCount,
+	SUM(t.popularity)	AS popularity
+FROM
+	tree t
+INNER JOIN
+	eco_data ed ON t.base_slug = ed.slug
+GROUP BY
+	base_slug
+ORDER BY
+	popularity DESC
 `;
 
 export function all(): Ecosystem[] {
-	return db.prepare(popularityQuery({})).all() as Ecosystem[];
+	return db.prepare(queryAll()).all() as Ecosystem[];
 }
 
-export function top5(): Ecosystem[] {
-	return db
-		.prepare(
-			popularityQuery({
-				limitClause: 'LIMIT 5',
-			})
-		)
-		.all() as Ecosystem[];
-}
+// Query one particular ecosystem and its user count, repo count and
+// popularity.
+const queryEcosystem = ({ whereClause = '', groupByClause = '' } = {}) => `
+SELECT
+	e.slug,
+	e.title,
+	e.parent_slug,
+	e.path,
+	COUNT(DISTINCT(r.name)) 					AS repoCount,
+	COUNT(DISTINCT(c.github_login_encrypted)) 	AS userCount,
+	SUM(r.forks + r.stars + r.watchers) 		AS popularity
+FROM
+	ecosystems e
+INNER JOIN
+	ecosystem_repos er ON er.ecosystem_slug = e.slug
+INNER JOIN
+	repos r ON r.name = er.repo_name
+INNER JOIN
+	commits c ON c.repo_name = r.name
+${whereClause}
+${groupByClause}
+`;
 
-const popularityForSlugQuery = `
+const queryEcosystemBySlug = `
 WITH popularity AS (
-	SELECT
-		COUNT(DISTINCT(r.name)) AS repoCount,
-		COUNT(DISTINCT(c.github_login_encrypted)) AS userCount,
-		SUM(r.forks + r.stars + r.watchers) AS popularity
-	FROM ecosystems e
-	INNER JOIN ecosystem_repos er ON er.ecosystem_slug = e.slug
-	INNER JOIN repos r ON r.name = er.repo_name
-	INNER JOIN commits c ON c.repo_name = r.name
-	WHERE e.slug = ? OR e.path LIKE ? OR e.path LIKE ?
+	${queryEcosystem({
+		whereClause: 'WHERE e.slug = ? OR e.path LIKE ? OR e.path LIKE ?',
+	})}
 )
 SELECT
 	e.slug,
 	e.title,
+	e.parent_slug,
 	e.path,
 	p.repoCount,
 	p.userCount,
 	p.popularity
-FROM ecosystems e, popularity p
-WHERE e.slug = ?
+FROM
+	ecosystems e, popularity p
+WHERE
+	e.slug = ?
 `;
 
 export function get(slug: string): Ecosystem {
 	return db
-		.prepare(popularityForSlugQuery)
+		.prepare(queryEcosystemBySlug)
 		.get(slug, `${slug}/%`, `%/${slug}/%`, slug) as Ecosystem;
 }

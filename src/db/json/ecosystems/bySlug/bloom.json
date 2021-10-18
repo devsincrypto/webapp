@@ -1,8 +1,9 @@
 {
 	"slug": "bloom",
 	"title": "Bloom",
+	"parent_slug": "ethereum",
 	"path": "ethereum/bloom",
-	"repoCount": 32,
+	"repoCount": 38,
 	"userCount": 8,
-	"popularity": 5936
+	"popularity": 6374
 }

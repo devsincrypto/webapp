@@ -1,8 +1,9 @@
 {
 	"slug": "ampleforth",
 	"title": "Ampleforth",
+	"parent_slug": "ethereum",
 	"path": "ethereum/ampleforth",
-	"repoCount": 11,
-	"userCount": 5,
-	"popularity": 18613
+	"repoCount": 16,
+	"userCount": 6,
+	"popularity": 23547
 }

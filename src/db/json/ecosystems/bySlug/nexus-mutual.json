@@ -1,8 +1,9 @@
 {
 	"slug": "nexus-mutual",
 	"title": "Nexus Mutual",
+	"parent_slug": "ethereum",
 	"path": "ethereum/nexus-mutual",
-	"repoCount": 8,
-	"userCount": 5,
-	"popularity": 2613
+	"repoCount": 14,
+	"userCount": 6,
+	"popularity": 5590
 }

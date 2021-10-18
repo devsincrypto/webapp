@@ -1,0 +1,86 @@
+[
+	{
+		"forks": 3,
+		"name": "PopchainOrg/popcore-lib-js",
+		"stars": 11,
+		"watchers": 0,
+		"repo_name": "PopchainOrg/popcore-lib-js",
+		"ecosystem_slug": "popchain",
+		"parent_slug": null,
+		"path": "popchain",
+		"slug": "popchain",
+		"title": "POPCHAIN"
+	},
+	{
+		"forks": 3,
+		"name": "PopchainOrg/Documents",
+		"stars": 6,
+		"watchers": 0,
+		"repo_name": "PopchainOrg/Documents",
+		"ecosystem_slug": "popchain",
+		"parent_slug": null,
+		"path": "popchain",
+		"slug": "popchain",
+		"title": "POPCHAIN"
+	},
+	{
+		"forks": 3,
+		"name": "PopchainOrg/PopChain-gho",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "PopchainOrg/PopChain-gho",
+		"ecosystem_slug": "popchain",
+		"parent_slug": null,
+		"path": "popchain",
+		"slug": "popchain",
+		"title": "POPCHAIN"
+	},
+	{
+		"forks": 2,
+		"name": "PopchainOrg/node-multi-hashing",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "PopchainOrg/node-multi-hashing",
+		"ecosystem_slug": "popchain",
+		"parent_slug": null,
+		"path": "popchain",
+		"slug": "popchain",
+		"title": "POPCHAIN"
+	},
+	{
+		"forks": 2,
+		"name": "PopchainOrg/PopChain-Original",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "PopchainOrg/PopChain-Original",
+		"ecosystem_slug": "popchain",
+		"parent_slug": null,
+		"path": "popchain",
+		"slug": "popchain",
+		"title": "POPCHAIN"
+	},
+	{
+		"forks": 2,
+		"name": "PopchainOrg/poprig",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "PopchainOrg/poprig",
+		"ecosystem_slug": "popchain",
+		"parent_slug": null,
+		"path": "popchain",
+		"slug": "popchain",
+		"title": "POPCHAIN"
+	},
+	{
+		"forks": 2,
+		"name": "PopchainOrg/poprig-deps",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "PopchainOrg/poprig-deps",
+		"ecosystem_slug": "popchain",
+		"parent_slug": null,
+		"path": "popchain",
+		"slug": "popchain",
+		"title": "POPCHAIN"
+	}
+]

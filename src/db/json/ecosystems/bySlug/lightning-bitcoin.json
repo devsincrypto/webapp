@@ -1,8 +1,9 @@
 {
 	"slug": "lightning-bitcoin",
 	"title": "Lightning Bitcoin",
+	"parent_slug": null,
 	"path": "lightning-bitcoin",
-	"repoCount": 9,
+	"repoCount": 11,
 	"userCount": 6,
-	"popularity": 16901
+	"popularity": 20088
 }

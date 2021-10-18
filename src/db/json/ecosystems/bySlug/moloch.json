@@ -1,8 +1,9 @@
 {
 	"slug": "moloch",
 	"title": "Moloch",
+	"parent_slug": "ethereum",
 	"path": "ethereum/moloch",
 	"repoCount": 4,
 	"userCount": 6,
-	"popularity": 55641
+	"popularity": 66554
 }

@@ -1,0 +1,98 @@
+[
+	{
+		"forks": 7,
+		"name": "seer-project/Seer-UI",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "seer-project/Seer-UI",
+		"ecosystem_slug": "seer",
+		"parent_slug": null,
+		"path": "seer",
+		"slug": "seer",
+		"title": "SEER"
+	},
+	{
+		"forks": 0,
+		"name": "seer-project/seer-core-package",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "seer-project/seer-core-package",
+		"ecosystem_slug": "seer",
+		"parent_slug": null,
+		"path": "seer",
+		"slug": "seer",
+		"title": "SEER"
+	},
+	{
+		"forks": 1,
+		"name": "seer-project/faucet",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "seer-project/faucet",
+		"ecosystem_slug": "seer",
+		"parent_slug": null,
+		"path": "seer",
+		"slug": "seer",
+		"title": "SEER"
+	},
+	{
+		"forks": 1,
+		"name": "seer-project/seerjs",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "seer-project/seerjs",
+		"ecosystem_slug": "seer",
+		"parent_slug": null,
+		"path": "seer",
+		"slug": "seer",
+		"title": "SEER"
+	},
+	{
+		"forks": 1,
+		"name": "seer-project/seerjs-ws",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "seer-project/seerjs-ws",
+		"ecosystem_slug": "seer",
+		"parent_slug": null,
+		"path": "seer",
+		"slug": "seer",
+		"title": "SEER"
+	},
+	{
+		"forks": 0,
+		"name": "seer-project/seer-UI-package",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "seer-project/seer-UI-package",
+		"ecosystem_slug": "seer",
+		"parent_slug": null,
+		"path": "seer",
+		"slug": "seer",
+		"title": "SEER"
+	},
+	{
+		"forks": 0,
+		"name": "seer-project/bitshares-fc",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "seer-project/bitshares-fc",
+		"ecosystem_slug": "seer",
+		"parent_slug": null,
+		"path": "seer",
+		"slug": "seer",
+		"title": "SEER"
+	},
+	{
+		"forks": 0,
+		"name": "seer-project/seerToken",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "seer-project/seerToken",
+		"ecosystem_slug": "seer",
+		"parent_slug": null,
+		"path": "seer",
+		"slug": "seer",
+		"title": "SEER"
+	}
+]

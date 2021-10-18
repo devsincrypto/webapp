@@ -1,0 +1,62 @@
+[
+	{
+		"forks": 39,
+		"name": "dime-coin/dimecoin",
+		"stars": 24,
+		"watchers": 0,
+		"repo_name": "dime-coin/dimecoin",
+		"ecosystem_slug": "dimecoin",
+		"parent_slug": null,
+		"path": "dimecoin",
+		"slug": "dimecoin",
+		"title": "Dimecoin"
+	},
+	{
+		"forks": 8,
+		"name": "dime-coin/android-wallet",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "dime-coin/android-wallet",
+		"ecosystem_slug": "dimecoin",
+		"parent_slug": null,
+		"path": "dimecoin",
+		"slug": "dimecoin",
+		"title": "Dimecoin"
+	},
+	{
+		"forks": 7,
+		"name": "dime-coin/dimecoinj",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "dime-coin/dimecoinj",
+		"ecosystem_slug": "dimecoin",
+		"parent_slug": null,
+		"path": "dimecoin",
+		"slug": "dimecoin",
+		"title": "Dimecoin"
+	},
+	{
+		"forks": 1,
+		"name": "dime-coin/dimecoin-seeder",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "dime-coin/dimecoin-seeder",
+		"ecosystem_slug": "dimecoin",
+		"parent_slug": null,
+		"path": "dimecoin",
+		"slug": "dimecoin",
+		"title": "Dimecoin"
+	},
+	{
+		"forks": 0,
+		"name": "dime-coin/builds",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "dime-coin/builds",
+		"ecosystem_slug": "dimecoin",
+		"parent_slug": null,
+		"path": "dimecoin",
+		"slug": "dimecoin",
+		"title": "Dimecoin"
+	}
+]

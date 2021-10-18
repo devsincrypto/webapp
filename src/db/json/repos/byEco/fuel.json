@@ -1,0 +1,122 @@
+[
+	{
+		"forks": 8,
+		"name": "FuelLabs/fuel-core",
+		"stars": 64,
+		"watchers": 0,
+		"repo_name": "FuelLabs/fuel-core",
+		"ecosystem_slug": "fuel",
+		"parent_slug": "ethereum",
+		"path": "ethereum/fuel",
+		"slug": "fuel",
+		"title": "Fuel"
+	},
+	{
+		"forks": 4,
+		"name": "FuelLabs/yulp",
+		"stars": 52,
+		"watchers": 0,
+		"repo_name": "FuelLabs/yulp",
+		"ecosystem_slug": "fuel",
+		"parent_slug": "ethereum",
+		"path": "ethereum/fuel",
+		"slug": "fuel",
+		"title": "Fuel"
+	},
+	{
+		"forks": 4,
+		"name": "FuelLabs/fuel",
+		"stars": 31,
+		"watchers": 0,
+		"repo_name": "FuelLabs/fuel",
+		"ecosystem_slug": "fuel",
+		"parent_slug": "ethereum",
+		"path": "ethereum/fuel",
+		"slug": "fuel",
+		"title": "Fuel"
+	},
+	{
+		"forks": 5,
+		"name": "FuelLabs/fuel-js",
+		"stars": 10,
+		"watchers": 0,
+		"repo_name": "FuelLabs/fuel-js",
+		"ecosystem_slug": "fuel",
+		"parent_slug": "ethereum",
+		"path": "ethereum/fuel",
+		"slug": "fuel",
+		"title": "Fuel"
+	},
+	{
+		"forks": 1,
+		"name": "FuelLabs/fuel-v1-contracts",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "FuelLabs/fuel-v1-contracts",
+		"ecosystem_slug": "fuel",
+		"parent_slug": "ethereum",
+		"path": "ethereum/fuel",
+		"slug": "fuel",
+		"title": "Fuel"
+	},
+	{
+		"forks": 0,
+		"name": "FuelLabs/fuel-burner-plugin",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "FuelLabs/fuel-burner-plugin",
+		"ecosystem_slug": "fuel",
+		"parent_slug": "ethereum",
+		"path": "ethereum/fuel",
+		"slug": "fuel",
+		"title": "Fuel"
+	},
+	{
+		"forks": 0,
+		"name": "FuelLabs/fuel-burner-wallet",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "FuelLabs/fuel-burner-wallet",
+		"ecosystem_slug": "fuel",
+		"parent_slug": "ethereum",
+		"path": "ethereum/fuel",
+		"slug": "fuel",
+		"title": "Fuel"
+	},
+	{
+		"forks": 2,
+		"name": "FuelLabs/docs",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "FuelLabs/docs",
+		"ecosystem_slug": "fuel",
+		"parent_slug": "ethereum",
+		"path": "ethereum/fuel",
+		"slug": "fuel",
+		"title": "Fuel"
+	},
+	{
+		"forks": 0,
+		"name": "FuelLabs/reddit-wallet",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "FuelLabs/reddit-wallet",
+		"ecosystem_slug": "fuel",
+		"parent_slug": "ethereum",
+		"path": "ethereum/fuel",
+		"slug": "fuel",
+		"title": "Fuel"
+	},
+	{
+		"forks": 0,
+		"name": "FuelLabs/reddit-cash",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "FuelLabs/reddit-cash",
+		"ecosystem_slug": "fuel",
+		"parent_slug": "ethereum",
+		"path": "ethereum/fuel",
+		"slug": "fuel",
+		"title": "Fuel"
+	}
+]

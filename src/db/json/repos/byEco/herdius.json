@@ -1,0 +1,62 @@
+[
+	{
+		"forks": 7,
+		"name": "herdius/herdius-core",
+		"stars": 12,
+		"watchers": 0,
+		"repo_name": "herdius/herdius-core",
+		"ecosystem_slug": "herdius",
+		"parent_slug": null,
+		"path": "herdius",
+		"slug": "herdius",
+		"title": "Herdius"
+	},
+	{
+		"forks": 2,
+		"name": "herdius/herdius-node",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "herdius/herdius-node",
+		"ecosystem_slug": "herdius",
+		"parent_slug": null,
+		"path": "herdius",
+		"slug": "herdius",
+		"title": "Herdius"
+	},
+	{
+		"forks": 0,
+		"name": "herdius/herdius-blockchain-api",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "herdius/herdius-blockchain-api",
+		"ecosystem_slug": "herdius",
+		"parent_slug": null,
+		"path": "herdius",
+		"slug": "herdius",
+		"title": "Herdius"
+	},
+	{
+		"forks": 0,
+		"name": "herdius/solo",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "herdius/solo",
+		"ecosystem_slug": "herdius",
+		"parent_slug": null,
+		"path": "herdius",
+		"slug": "herdius",
+		"title": "Herdius"
+	},
+	{
+		"forks": 0,
+		"name": "herdius/walletversion",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "herdius/walletversion",
+		"ecosystem_slug": "herdius",
+		"parent_slug": null,
+		"path": "herdius",
+		"slug": "herdius",
+		"title": "Herdius"
+	}
+]

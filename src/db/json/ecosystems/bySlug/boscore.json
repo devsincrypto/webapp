@@ -1,8 +1,9 @@
 {
 	"slug": "boscore",
 	"title": "BOSCore",
+	"parent_slug": "eos",
 	"path": "eos/boscore",
 	"repoCount": 27,
 	"userCount": 17,
-	"popularity": 18744
+	"popularity": 18840
 }

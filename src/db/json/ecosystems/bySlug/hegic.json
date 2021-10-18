@@ -1,8 +1,9 @@
 {
 	"slug": "hegic",
 	"title": "Hegic",
+	"parent_slug": "ethereum",
 	"path": "ethereum/hegic",
-	"repoCount": 7,
+	"repoCount": 12,
 	"userCount": 1,
-	"popularity": 2321
+	"popularity": 2879
 }

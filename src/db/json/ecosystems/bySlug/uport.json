@@ -1,8 +1,9 @@
 {
 	"slug": "uport",
 	"title": "uPort",
+	"parent_slug": "ethereum",
 	"path": "ethereum/uport",
-	"repoCount": 101,
-	"userCount": 34,
-	"popularity": 87308
+	"repoCount": 103,
+	"userCount": 36,
+	"popularity": 97633
 }

@@ -1,8 +1,9 @@
 {
 	"slug": "compound",
 	"title": "Compound",
+	"parent_slug": "ethereum",
 	"path": "ethereum/compound",
-	"repoCount": 18,
+	"repoCount": 23,
 	"userCount": 13,
-	"popularity": 71888
+	"popularity": 118067
 }

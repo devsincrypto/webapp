@@ -1,0 +1,110 @@
+[
+	{
+		"forks": 14,
+		"name": "Zapper-fi/Docs",
+		"stars": 20,
+		"watchers": 0,
+		"repo_name": "Zapper-fi/Docs",
+		"ecosystem_slug": "zapper-fi",
+		"parent_slug": "ethereum",
+		"path": "ethereum/zapper-fi",
+		"slug": "zapper-fi",
+		"title": "Zapper.fi"
+	},
+	{
+		"forks": 3,
+		"name": "Zapper-fi/Zapper-API-Stack",
+		"stars": 9,
+		"watchers": 0,
+		"repo_name": "Zapper-fi/Zapper-API-Stack",
+		"ecosystem_slug": "zapper-fi",
+		"parent_slug": "ethereum",
+		"path": "ethereum/zapper-fi",
+		"slug": "zapper-fi",
+		"title": "Zapper.fi"
+	},
+	{
+		"forks": 7,
+		"name": "Zapper-fi/token-list",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Zapper-fi/token-list",
+		"ecosystem_slug": "zapper-fi",
+		"parent_slug": "ethereum",
+		"path": "ethereum/zapper-fi",
+		"slug": "zapper-fi",
+		"title": "Zapper.fi"
+	},
+	{
+		"forks": 1,
+		"name": "Zapper-fi/zapper-safe-app",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "Zapper-fi/zapper-safe-app",
+		"ecosystem_slug": "zapper-fi",
+		"parent_slug": "ethereum",
+		"path": "ethereum/zapper-fi",
+		"slug": "zapper-fi",
+		"title": "Zapper.fi"
+	},
+	{
+		"forks": 2,
+		"name": "Zapper-fi/uniswap-v2-subgraph",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "Zapper-fi/uniswap-v2-subgraph",
+		"ecosystem_slug": "zapper-fi",
+		"parent_slug": "ethereum",
+		"path": "ethereum/zapper-fi",
+		"slug": "zapper-fi",
+		"title": "Zapper.fi"
+	},
+	{
+		"forks": 1,
+		"name": "Zapper-fi/uniswap-subgraph",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Zapper-fi/uniswap-subgraph",
+		"ecosystem_slug": "zapper-fi",
+		"parent_slug": "ethereum",
+		"path": "ethereum/zapper-fi",
+		"slug": "zapper-fi",
+		"title": "Zapper.fi"
+	},
+	{
+		"forks": 1,
+		"name": "Zapper-fi/GECO",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Zapper-fi/GECO",
+		"ecosystem_slug": "zapper-fi",
+		"parent_slug": "ethereum",
+		"path": "ethereum/zapper-fi",
+		"slug": "zapper-fi",
+		"title": "Zapper.fi"
+	},
+	{
+		"forks": 0,
+		"name": "Zapper-fi/ethhub",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Zapper-fi/ethhub",
+		"ecosystem_slug": "zapper-fi",
+		"parent_slug": "ethereum",
+		"path": "ethereum/zapper-fi",
+		"slug": "zapper-fi",
+		"title": "Zapper.fi"
+	},
+	{
+		"forks": 0,
+		"name": "Zapper-fi/WalletConnectSwift",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Zapper-fi/WalletConnectSwift",
+		"ecosystem_slug": "zapper-fi",
+		"parent_slug": "ethereum",
+		"path": "ethereum/zapper-fi",
+		"slug": "zapper-fi",
+		"title": "Zapper.fi"
+	}
+]

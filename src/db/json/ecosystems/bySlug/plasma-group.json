@@ -1,8 +1,9 @@
 {
 	"slug": "plasma-group",
 	"title": "Plasma Group",
+	"parent_slug": "plasma",
 	"path": "ethereum/plasma/plasma-group",
 	"repoCount": 8,
 	"userCount": 7,
-	"popularity": 24924
+	"popularity": 25424
 }

@@ -1,8 +1,9 @@
 {
 	"slug": "spankchain",
 	"title": "SpankChain",
+	"parent_slug": "ethereum",
 	"path": "ethereum/spankchain",
 	"repoCount": 12,
-	"userCount": 11,
-	"popularity": 8710
+	"userCount": 12,
+	"popularity": 9138
 }

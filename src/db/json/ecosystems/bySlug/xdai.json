@@ -1,8 +1,9 @@
 {
 	"slug": "xdai",
 	"title": "xDai",
+	"parent_slug": "poa-network",
 	"path": "ethereum/poa-network/xdai",
 	"repoCount": 12,
 	"userCount": 10,
-	"popularity": 247805
+	"popularity": 265875
 }

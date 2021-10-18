@@ -1,0 +1,26 @@
+[
+	{
+		"forks": 21,
+		"name": "APRCoin/zenith-repository",
+		"stars": 10,
+		"watchers": 0,
+		"repo_name": "APRCoin/zenith-repository",
+		"ecosystem_slug": "apr-coin",
+		"parent_slug": null,
+		"path": "apr-coin",
+		"slug": "apr-coin",
+		"title": "APR Coin"
+	},
+	{
+		"forks": 1,
+		"name": "APRCoin/PIVX",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "APRCoin/PIVX",
+		"ecosystem_slug": "apr-coin",
+		"parent_slug": null,
+		"path": "apr-coin",
+		"slug": "apr-coin",
+		"title": "APR Coin"
+	}
+]

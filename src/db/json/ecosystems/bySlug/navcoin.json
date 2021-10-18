@@ -1,8 +1,9 @@
 {
 	"slug": "navcoin",
 	"title": "NavCoin",
+	"parent_slug": null,
 	"path": "navcoin",
-	"repoCount": 12,
+	"repoCount": 14,
 	"userCount": 18,
-	"popularity": 27952
+	"popularity": 31555
 }

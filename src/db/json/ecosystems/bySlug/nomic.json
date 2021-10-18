@@ -1,8 +1,9 @@
 {
 	"slug": "nomic",
 	"title": "Nomic",
+	"parent_slug": "cosmos",
 	"path": "cosmos/nomic",
 	"repoCount": 18,
 	"userCount": 4,
-	"popularity": 6994
+	"popularity": 8539
 }

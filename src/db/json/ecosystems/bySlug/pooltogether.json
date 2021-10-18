@@ -1,8 +1,9 @@
 {
 	"slug": "pooltogether",
 	"title": "PoolTogether",
+	"parent_slug": "ethereum",
 	"path": "ethereum/pooltogether",
-	"repoCount": 56,
-	"userCount": 5,
-	"popularity": 39186
+	"repoCount": 107,
+	"userCount": 7,
+	"popularity": 83246
 }

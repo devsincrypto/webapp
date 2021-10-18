@@ -1,0 +1,110 @@
+[
+	{
+		"forks": 4,
+		"name": "policypalnet/p2p-insurance-bridge",
+		"stars": 11,
+		"watchers": 0,
+		"repo_name": "policypalnet/p2p-insurance-bridge",
+		"ecosystem_slug": "pal-network",
+		"parent_slug": null,
+		"path": "pal-network",
+		"slug": "pal-network",
+		"title": "PAL Network"
+	},
+	{
+		"forks": 2,
+		"name": "policypalnet/ppn-blue-paper",
+		"stars": 10,
+		"watchers": 0,
+		"repo_name": "policypalnet/ppn-blue-paper",
+		"ecosystem_slug": "pal-network",
+		"parent_slug": null,
+		"path": "pal-network",
+		"slug": "pal-network",
+		"title": "PAL Network"
+	},
+	{
+		"forks": 2,
+		"name": "policypalnet/crowdsale-contract",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "policypalnet/crowdsale-contract",
+		"ecosystem_slug": "pal-network",
+		"parent_slug": null,
+		"path": "pal-network",
+		"slug": "pal-network",
+		"title": "PAL Network"
+	},
+	{
+		"forks": 1,
+		"name": "policypalnet/pal-wallet",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "policypalnet/pal-wallet",
+		"ecosystem_slug": "pal-network",
+		"parent_slug": null,
+		"path": "pal-network",
+		"slug": "pal-network",
+		"title": "PAL Network"
+	},
+	{
+		"forks": 1,
+		"name": "policypalnet/go-pal",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "policypalnet/go-pal",
+		"ecosystem_slug": "pal-network",
+		"parent_slug": null,
+		"path": "pal-network",
+		"slug": "pal-network",
+		"title": "PAL Network"
+	},
+	{
+		"forks": 1,
+		"name": "policypalnet/ethereum-lists",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "policypalnet/ethereum-lists",
+		"ecosystem_slug": "pal-network",
+		"parent_slug": null,
+		"path": "pal-network",
+		"slug": "pal-network",
+		"title": "PAL Network"
+	},
+	{
+		"forks": 1,
+		"name": "policypalnet/tokens",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "policypalnet/tokens",
+		"ecosystem_slug": "pal-network",
+		"parent_slug": null,
+		"path": "pal-network",
+		"slug": "pal-network",
+		"title": "PAL Network"
+	},
+	{
+		"forks": 1,
+		"name": "policypalnet/pal-wallet-mainnet",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "policypalnet/pal-wallet-mainnet",
+		"ecosystem_slug": "pal-network",
+		"parent_slug": null,
+		"path": "pal-network",
+		"slug": "pal-network",
+		"title": "PAL Network"
+	},
+	{
+		"forks": 1,
+		"name": "policypalnet/p2pcp-contract",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "policypalnet/p2pcp-contract",
+		"ecosystem_slug": "pal-network",
+		"parent_slug": null,
+		"path": "pal-network",
+		"slug": "pal-network",
+		"title": "PAL Network"
+	}
+]

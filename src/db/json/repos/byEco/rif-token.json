@@ -1,0 +1,50 @@
+[
+	{
+		"forks": 3,
+		"name": "riflabs/RIF-Token",
+		"stars": 11,
+		"watchers": 0,
+		"repo_name": "riflabs/RIF-Token",
+		"ecosystem_slug": "rif-token",
+		"parent_slug": null,
+		"path": "rif-token",
+		"slug": "rif-token",
+		"title": "RIF Token"
+	},
+	{
+		"forks": 4,
+		"name": "riflabs/rif-faucet-client",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "riflabs/rif-faucet-client",
+		"ecosystem_slug": "rif-token",
+		"parent_slug": null,
+		"path": "rif-token",
+		"slug": "rif-token",
+		"title": "RIF Token"
+	},
+	{
+		"forks": 0,
+		"name": "riflabs/tokens",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "riflabs/tokens",
+		"ecosystem_slug": "rif-token",
+		"parent_slug": null,
+		"path": "rif-token",
+		"slug": "rif-token",
+		"title": "RIF Token"
+	},
+	{
+		"forks": 0,
+		"name": "riflabs/rif-faucet",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "riflabs/rif-faucet",
+		"ecosystem_slug": "rif-token",
+		"parent_slug": null,
+		"path": "rif-token",
+		"slug": "rif-token",
+		"title": "RIF Token"
+	}
+]

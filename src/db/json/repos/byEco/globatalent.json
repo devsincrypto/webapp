@@ -1,0 +1,122 @@
+[
+	{
+		"forks": 4,
+		"name": "Globatalent/crowdsale",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "Globatalent/crowdsale",
+		"ecosystem_slug": "globatalent",
+		"parent_slug": null,
+		"path": "globatalent",
+		"slug": "globatalent",
+		"title": "Globatalent"
+	},
+	{
+		"forks": 3,
+		"name": "Globatalent/landing",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Globatalent/landing",
+		"ecosystem_slug": "globatalent",
+		"parent_slug": null,
+		"path": "globatalent",
+		"slug": "globatalent",
+		"title": "Globatalent"
+	},
+	{
+		"forks": 1,
+		"name": "Globatalent/tribeca",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Globatalent/tribeca",
+		"ecosystem_slug": "globatalent",
+		"parent_slug": null,
+		"path": "globatalent",
+		"slug": "globatalent",
+		"title": "Globatalent"
+	},
+	{
+		"forks": 1,
+		"name": "Globatalent/mikroapp",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Globatalent/mikroapp",
+		"ecosystem_slug": "globatalent",
+		"parent_slug": null,
+		"path": "globatalent",
+		"slug": "globatalent",
+		"title": "Globatalent"
+	},
+	{
+		"forks": 1,
+		"name": "Globatalent/hummingbot",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Globatalent/hummingbot",
+		"ecosystem_slug": "globatalent",
+		"parent_slug": null,
+		"path": "globatalent",
+		"slug": "globatalent",
+		"title": "Globatalent"
+	},
+	{
+		"forks": 1,
+		"name": "Globatalent/marketplace",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Globatalent/marketplace",
+		"ecosystem_slug": "globatalent",
+		"parent_slug": null,
+		"path": "globatalent",
+		"slug": "globatalent",
+		"title": "Globatalent"
+	},
+	{
+		"forks": 1,
+		"name": "Globatalent/microsite",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Globatalent/microsite",
+		"ecosystem_slug": "globatalent",
+		"parent_slug": null,
+		"path": "globatalent",
+		"slug": "globatalent",
+		"title": "Globatalent"
+	},
+	{
+		"forks": 0,
+		"name": "Globatalent/frontend",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Globatalent/frontend",
+		"ecosystem_slug": "globatalent",
+		"parent_slug": null,
+		"path": "globatalent",
+		"slug": "globatalent",
+		"title": "Globatalent"
+	},
+	{
+		"forks": 0,
+		"name": "Globatalent/backend",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Globatalent/backend",
+		"ecosystem_slug": "globatalent",
+		"parent_slug": null,
+		"path": "globatalent",
+		"slug": "globatalent",
+		"title": "Globatalent"
+	},
+	{
+		"forks": 0,
+		"name": "Globatalent/exchange",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Globatalent/exchange",
+		"ecosystem_slug": "globatalent",
+		"parent_slug": null,
+		"path": "globatalent",
+		"slug": "globatalent",
+		"title": "Globatalent"
+	}
+]

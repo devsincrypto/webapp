@@ -1,8 +1,9 @@
 {
 	"slug": "defidollar",
 	"title": "DefiDollar",
+	"parent_slug": "ethereum",
 	"path": "ethereum/defidollar",
-	"repoCount": 4,
+	"repoCount": 16,
 	"userCount": 2,
-	"popularity": 2302
+	"popularity": 2889
 }

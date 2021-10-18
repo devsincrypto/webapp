@@ -1,0 +1,62 @@
+[
+	{
+		"forks": 5,
+		"name": "STKtoken/STK-smart-contracts",
+		"stars": 19,
+		"watchers": 0,
+		"repo_name": "STKtoken/STK-smart-contracts",
+		"ecosystem_slug": "stk",
+		"parent_slug": null,
+		"path": "stk",
+		"slug": "stk",
+		"title": "STK"
+	},
+	{
+		"forks": 1,
+		"name": "STKtoken/Multi-Token-smart-contracts",
+		"stars": 10,
+		"watchers": 0,
+		"repo_name": "STKtoken/Multi-Token-smart-contracts",
+		"ecosystem_slug": "stk",
+		"parent_slug": null,
+		"path": "stk",
+		"slug": "stk",
+		"title": "STK"
+	},
+	{
+		"forks": 2,
+		"name": "STKtoken/ETH-smart-contracts",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "STKtoken/ETH-smart-contracts",
+		"ecosystem_slug": "stk",
+		"parent_slug": null,
+		"path": "stk",
+		"slug": "stk",
+		"title": "STK"
+	},
+	{
+		"forks": 0,
+		"name": "STKtoken/smart-contract-tips",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "STKtoken/smart-contract-tips",
+		"ecosystem_slug": "stk",
+		"parent_slug": null,
+		"path": "stk",
+		"slug": "stk",
+		"title": "STK"
+	},
+	{
+		"forks": 0,
+		"name": "STKtoken/Android-Lightning-Tutorial",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "STKtoken/Android-Lightning-Tutorial",
+		"ecosystem_slug": "stk",
+		"parent_slug": null,
+		"path": "stk",
+		"slug": "stk",
+		"title": "STK"
+	}
+]

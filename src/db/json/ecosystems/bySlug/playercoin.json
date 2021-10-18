@@ -1,8 +1,9 @@
 {
 	"slug": "playercoin",
 	"title": "PlayerCoin",
+	"parent_slug": null,
 	"path": "playercoin",
 	"repoCount": 1,
 	"userCount": 1,
-	"popularity": 3
+	"popularity": 4
 }

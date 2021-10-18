@@ -1,8 +1,9 @@
 {
 	"slug": "fabric-fm",
 	"title": "Fabric.fm",
+	"parent_slug": "bitcoin",
 	"path": "bitcoin/fabric-fm",
-	"repoCount": 15,
-	"userCount": 2,
-	"popularity": 704
+	"repoCount": 18,
+	"userCount": 3,
+	"popularity": 877
 }

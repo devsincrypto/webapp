@@ -1,0 +1,26 @@
+[
+	{
+		"forks": 98,
+		"name": "emptysetsquad/dollar",
+		"stars": 116,
+		"watchers": 0,
+		"repo_name": "emptysetsquad/dollar",
+		"ecosystem_slug": "emptyset-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/emptyset-finance",
+		"slug": "emptyset-finance",
+		"title": "EmptySet Finance"
+	},
+	{
+		"forks": 45,
+		"name": "emptysetsquad/dollar-dashboard",
+		"stars": 28,
+		"watchers": 0,
+		"repo_name": "emptysetsquad/dollar-dashboard",
+		"ecosystem_slug": "emptyset-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/emptyset-finance",
+		"slug": "emptyset-finance",
+		"title": "EmptySet Finance"
+	}
+]

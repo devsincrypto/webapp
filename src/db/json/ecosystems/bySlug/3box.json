@@ -1,8 +1,9 @@
 {
 	"slug": "3box",
 	"title": "3Box",
+	"parent_slug": "ipfs",
 	"path": "ipfs/3box",
 	"repoCount": 50,
-	"userCount": 14,
-	"popularity": 48762
+	"userCount": 18,
+	"popularity": 51428
 }

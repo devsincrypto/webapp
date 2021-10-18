@@ -1,8 +1,9 @@
 {
 	"slug": "axie-infinity",
 	"title": "Axie Infinity",
+	"parent_slug": "ethereum",
 	"path": "ethereum/axie-infinity",
-	"repoCount": 13,
+	"repoCount": 14,
 	"userCount": 5,
-	"popularity": 1610
+	"popularity": 2742
 }

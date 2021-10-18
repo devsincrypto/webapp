@@ -1,0 +1,98 @@
+[
+	{
+		"forks": 0,
+		"name": "aleph-zero-foundation/rush",
+		"stars": 12,
+		"watchers": 0,
+		"repo_name": "aleph-zero-foundation/rush",
+		"ecosystem_slug": "aleph-zero",
+		"parent_slug": null,
+		"path": "aleph-zero",
+		"slug": "aleph-zero",
+		"title": "Aleph Zero"
+	},
+	{
+		"forks": 2,
+		"name": "alephzerofoundation/Proof-of-Concept",
+		"stars": 6,
+		"watchers": 0,
+		"repo_name": "alephzerofoundation/Proof-of-Concept",
+		"ecosystem_slug": "aleph-zero",
+		"parent_slug": null,
+		"path": "aleph-zero",
+		"slug": "aleph-zero",
+		"title": "Aleph Zero"
+	},
+	{
+		"forks": 1,
+		"name": "aleph-zero-foundation/Proof-of-Concept",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "aleph-zero-foundation/Proof-of-Concept",
+		"ecosystem_slug": "aleph-zero",
+		"parent_slug": null,
+		"path": "aleph-zero",
+		"slug": "aleph-zero",
+		"title": "Aleph Zero"
+	},
+	{
+		"forks": 1,
+		"name": "aleph-zero-foundation/consensus-go",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "aleph-zero-foundation/consensus-go",
+		"ecosystem_slug": "aleph-zero",
+		"parent_slug": null,
+		"path": "aleph-zero",
+		"slug": "aleph-zero",
+		"title": "Aleph Zero"
+	},
+	{
+		"forks": 1,
+		"name": "aleph-zero-foundation/threshold-ecdsa",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "aleph-zero-foundation/threshold-ecdsa",
+		"ecosystem_slug": "aleph-zero",
+		"parent_slug": null,
+		"path": "aleph-zero",
+		"slug": "aleph-zero",
+		"title": "Aleph Zero"
+	},
+	{
+		"forks": 1,
+		"name": "aleph-zero-foundation/AlephBFT",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "aleph-zero-foundation/AlephBFT",
+		"ecosystem_slug": "aleph-zero",
+		"parent_slug": null,
+		"path": "aleph-zero",
+		"slug": "aleph-zero",
+		"title": "Aleph Zero"
+	},
+	{
+		"forks": 1,
+		"name": "aleph-zero-foundation/core-go",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "aleph-zero-foundation/core-go",
+		"ecosystem_slug": "aleph-zero",
+		"parent_slug": null,
+		"path": "aleph-zero",
+		"slug": "aleph-zero",
+		"title": "Aleph Zero"
+	},
+	{
+		"forks": 0,
+		"name": "alephzerofoundation/crypto",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "alephzerofoundation/crypto",
+		"ecosystem_slug": "aleph-zero",
+		"parent_slug": null,
+		"path": "aleph-zero",
+		"slug": "aleph-zero",
+		"title": "Aleph Zero"
+	}
+]

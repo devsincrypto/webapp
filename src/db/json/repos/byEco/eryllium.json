@@ -1,0 +1,26 @@
+[
+	{
+		"forks": 1,
+		"name": "Eryllium/project",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "Eryllium/project",
+		"ecosystem_slug": "eryllium",
+		"parent_slug": null,
+		"path": "eryllium",
+		"slug": "eryllium",
+		"title": "Eryllium"
+	},
+	{
+		"forks": 0,
+		"name": "Eryllium/wallet",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "Eryllium/wallet",
+		"ecosystem_slug": "eryllium",
+		"parent_slug": null,
+		"path": "eryllium",
+		"slug": "eryllium",
+		"title": "Eryllium"
+	}
+]

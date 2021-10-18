@@ -1,0 +1,74 @@
+[
+	{
+		"forks": 7,
+		"name": "DeFinerOrg/compound-protocol",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "DeFinerOrg/compound-protocol",
+		"ecosystem_slug": "definer",
+		"parent_slug": "ethereum",
+		"path": "ethereum/definer",
+		"slug": "definer",
+		"title": "DeFiner"
+	},
+	{
+		"forks": 3,
+		"name": "DeFinerOrg/Whitepaper",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "DeFinerOrg/Whitepaper",
+		"ecosystem_slug": "definer",
+		"parent_slug": "ethereum",
+		"path": "ethereum/definer",
+		"slug": "definer",
+		"title": "DeFiner"
+	},
+	{
+		"forks": 3,
+		"name": "DeFinerOrg/DefinerApp",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "DeFinerOrg/DefinerApp",
+		"ecosystem_slug": "definer",
+		"parent_slug": "ethereum",
+		"path": "ethereum/definer",
+		"slug": "definer",
+		"title": "DeFiner"
+	},
+	{
+		"forks": 1,
+		"name": "DeFinerOrg/Savings",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "DeFinerOrg/Savings",
+		"ecosystem_slug": "definer",
+		"parent_slug": "ethereum",
+		"path": "ethereum/definer",
+		"slug": "definer",
+		"title": "DeFiner"
+	},
+	{
+		"forks": 1,
+		"name": "DeFinerOrg/liquidator-bot",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "DeFinerOrg/liquidator-bot",
+		"ecosystem_slug": "definer",
+		"parent_slug": "ethereum",
+		"path": "ethereum/definer",
+		"slug": "definer",
+		"title": "DeFiner"
+	},
+	{
+		"forks": 0,
+		"name": "DeFinerOrg/DeFiner-1.0-Whitepaper",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "DeFinerOrg/DeFiner-1.0-Whitepaper",
+		"ecosystem_slug": "definer",
+		"parent_slug": "ethereum",
+		"path": "ethereum/definer",
+		"slug": "definer",
+		"title": "DeFiner"
+	}
+]

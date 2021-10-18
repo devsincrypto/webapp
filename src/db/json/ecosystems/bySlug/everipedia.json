@@ -1,8 +1,9 @@
 {
 	"slug": "everipedia",
 	"title": "Everipedia",
+	"parent_slug": "eos",
 	"path": "eos/everipedia",
-	"repoCount": 21,
-	"userCount": 13,
-	"popularity": 75490
+	"repoCount": 32,
+	"userCount": 16,
+	"popularity": 79300
 }

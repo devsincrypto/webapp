@@ -1,8 +1,9 @@
 {
 	"slug": "fuel",
 	"title": "Fuel",
+	"parent_slug": "ethereum",
 	"path": "ethereum/fuel",
 	"repoCount": 8,
 	"userCount": 4,
-	"popularity": 4695
+	"popularity": 6094
 }

@@ -1,8 +1,9 @@
 {
 	"slug": "1inch",
 	"title": "1inch",
+	"parent_slug": "ethereum",
 	"path": "ethereum/1inch",
-	"repoCount": 6,
-	"userCount": 7,
-	"popularity": 362
+	"repoCount": 15,
+	"userCount": 8,
+	"popularity": 730
 }

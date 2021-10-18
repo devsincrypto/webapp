@@ -1,8 +1,9 @@
 {
 	"slug": "web3-js",
 	"title": "Web3 JS",
-	"path": "ethereum/web3-js",
+	"parent_slug": null,
+	"path": "web3-js",
 	"repoCount": 41,
-	"userCount": 208,
-	"popularity": 42914656
+	"userCount": 227,
+	"popularity": 152121064
 }

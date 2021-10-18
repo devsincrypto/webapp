@@ -1,8 +1,9 @@
 {
 	"slug": "betoken",
 	"title": "Betoken",
+	"parent_slug": "ethereum",
 	"path": "ethereum/betoken",
 	"repoCount": 19,
 	"userCount": 4,
-	"popularity": 16021
+	"popularity": 17141
 }

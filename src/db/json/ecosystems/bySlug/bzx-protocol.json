@@ -1,8 +1,9 @@
 {
 	"slug": "bzx-protocol",
 	"title": "bZx Protocol",
+	"parent_slug": "ethereum",
 	"path": "ethereum/bzx-protocol",
-	"repoCount": 18,
-	"userCount": 8,
-	"popularity": 15415
+	"repoCount": 20,
+	"userCount": 10,
+	"popularity": 15884
 }

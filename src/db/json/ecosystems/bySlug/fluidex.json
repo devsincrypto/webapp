@@ -1,8 +1,9 @@
 {
 	"slug": "fluidex",
 	"title": "FluiDex",
+	"parent_slug": "ethereum",
 	"path": "ethereum/fluidex",
-	"repoCount": 8,
-	"userCount": 4,
-	"popularity": 6758
+	"repoCount": 37,
+	"userCount": 6,
+	"popularity": 26540
 }

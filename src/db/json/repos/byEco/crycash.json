@@ -1,0 +1,26 @@
+[
+	{
+		"forks": 11,
+		"name": "CRYCASH/crycash-smartcontract",
+		"stars": 11,
+		"watchers": 0,
+		"repo_name": "CRYCASH/crycash-smartcontract",
+		"ecosystem_slug": "crycash",
+		"parent_slug": null,
+		"path": "crycash",
+		"slug": "crycash",
+		"title": "CryCash"
+	},
+	{
+		"forks": 1,
+		"name": "CRYCASH/react-static",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "CRYCASH/react-static",
+		"ecosystem_slug": "crycash",
+		"parent_slug": null,
+		"path": "crycash",
+		"slug": "crycash",
+		"title": "CryCash"
+	}
+]

@@ -1,6 +1,7 @@
 {
 	"slug": "player-one",
 	"title": "Player One",
+	"parent_slug": null,
 	"path": "player-one",
 	"repoCount": 2,
 	"userCount": 1,

@@ -1,37 +1,37 @@
 [
 	{
-		"id": 63109,
-		"githubLoginMasked": "an",
-		"githubLoginEncrypted": "OGS1YXDPgK2YZ4usUUTZDS0gf533qggc0xxh0vBMQ6dddimzlqjV",
-		"githubLoginHashed": "72556cf2195290fbe6e44a13aa426554ed1e59292e6d198bd4c9e2f40c964f4d",
-		"score": 2644
-	},
-	{
-		"id": 222402,
+		"id": 183480,
 		"githubLoginMasked": "si",
-		"githubLoginEncrypted": "SRYN9x5ms16wNibxNgtg3//gJEIuT3fLcv+Ara1EIRLjRIdcgKMg1uo=",
-		"githubLoginHashed": "37e6c7d89d084e7182138e700e24093afa9924c6d6b382f8893e347fc557ea6d",
-		"score": 2625
+		"githubLoginEncrypted": "DixhotgzRSjwjyl5nsNhLJaMK77tBPrRB1bI8+Y=",
+		"githubLoginHashed": "DixhotgzRSjwjyl5nsNhLJaMK77tBPrRB1bI8+Y=",
+		"score": 2811
 	},
 	{
-		"id": 40579,
+		"id": 183491,
+		"githubLoginMasked": "an",
+		"githubLoginEncrypted": "HCt8pMIqWibinzhpYILOwIoV8a0mo/WfU0pr",
+		"githubLoginHashed": "HCt8pMIqWibinzhpYILOwIoV8a0mo/WfU0pr",
+		"score": 2651
+	},
+	{
+		"id": 345355,
 		"githubLoginMasked": "bx",
-		"githubLoginEncrypted": "fLuySo9EJsrpeKGe0GbABUvaJCAolEmc2+emaU4hDDvG",
-		"githubLoginHashed": "84d050be4601db1913ef242a77646c820b76efb30ed5b758c94e13dcfc9fd4ab",
-		"score": 942
+		"githubLoginEncrypted": "Hz16sdXWhNE7LULO+boD+LTxqWRG",
+		"githubLoginHashed": "Hz16sdXWhNE7LULO+boD+LTxqWRG",
+		"score": 1071
 	},
 	{
-		"id": 280605,
+		"id": 781476,
 		"githubLoginMasked": "av",
-		"githubLoginEncrypted": "zYSmRhF3CWTVyLZgf8x2JqPTmj/w5HyPnYMu0ZZf4XKtaMtQ",
-		"githubLoginHashed": "32166e1dd78f3715c5793819585c5ba6dd811134a7595e9ea5d04326cbe663fe",
-		"score": 152
+		"githubLoginEncrypted": "HDNmpMI6Vid+s8+i/rB0DkBiMuLT1bBF",
+		"githubLoginHashed": "HDNmpMI6Vid+s8+i/rB0DkBiMuLT1bBF",
+		"score": 171
 	},
 	{
-		"id": 587555,
+		"id": 183488,
 		"githubLoginMasked": "ra",
-		"githubLoginEncrypted": "4iX4v+jE5YJH5CaNcUB8mzAZHr/5npDkvnizXQLvafwD8A==",
-		"githubLoginHashed": "852c90a1841554e3e225bab9356e195bbcbd3617fceceb2164d23d34a7f6ba53",
+		"githubLoginEncrypted": "DyRl6NE30ozVpqxHEdP4QzQ0bFxN5g==",
+		"githubLoginHashed": "DyRl6NE30ozVpqxHEdP4QzQ0bFxN5g==",
 		"score": 0
 	}
 ]

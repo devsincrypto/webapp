@@ -1,0 +1,38 @@
+[
+	{
+		"forks": 4,
+		"name": "BitCoen/BitCoenWallet",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "BitCoen/BitCoenWallet",
+		"ecosystem_slug": "bitcoen",
+		"parent_slug": null,
+		"path": "bitcoen",
+		"slug": "bitcoen",
+		"title": "BitCoen"
+	},
+	{
+		"forks": 0,
+		"name": "BitCoen/BlockExplorer",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "BitCoen/BlockExplorer",
+		"ecosystem_slug": "bitcoen",
+		"parent_slug": null,
+		"path": "bitcoen",
+		"slug": "bitcoen",
+		"title": "BitCoen"
+	},
+	{
+		"forks": 0,
+		"name": "BitCoen/Trc20",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "BitCoen/Trc20",
+		"ecosystem_slug": "bitcoen",
+		"parent_slug": null,
+		"path": "bitcoen",
+		"slug": "bitcoen",
+		"title": "BitCoen"
+	}
+]

@@ -1,8 +1,9 @@
 {
 	"slug": "mainframe",
 	"title": "Mainframe",
+	"parent_slug": "ethereum",
 	"path": "ethereum/mainframe",
-	"repoCount": 40,
+	"repoCount": 42,
 	"userCount": 17,
-	"popularity": 18989
+	"popularity": 19047
 }

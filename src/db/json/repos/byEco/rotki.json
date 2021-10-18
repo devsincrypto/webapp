@@ -1,0 +1,98 @@
+[
+	{
+		"forks": 199,
+		"name": "rotki/rotki",
+		"stars": 1071,
+		"watchers": 0,
+		"repo_name": "rotki/rotki",
+		"ecosystem_slug": "rotki",
+		"parent_slug": null,
+		"path": "rotki",
+		"slug": "rotki",
+		"title": "Rotki"
+	},
+	{
+		"forks": 6,
+		"name": "rotki/assets",
+		"stars": 6,
+		"watchers": 0,
+		"repo_name": "rotki/assets",
+		"ecosystem_slug": "rotki",
+		"parent_slug": null,
+		"path": "rotki",
+		"slug": "rotki",
+		"title": "Rotki"
+	},
+	{
+		"forks": 2,
+		"name": "rotki/rotkicom.github.io",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "rotki/rotkicom.github.io",
+		"ecosystem_slug": "rotki",
+		"parent_slug": null,
+		"path": "rotki",
+		"slug": "rotki",
+		"title": "Rotki"
+	},
+	{
+		"forks": 1,
+		"name": "rotki/sphinxcontrib-httpexample",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "rotki/sphinxcontrib-httpexample",
+		"ecosystem_slug": "rotki",
+		"parent_slug": null,
+		"path": "rotki",
+		"slug": "rotki",
+		"title": "Rotki"
+	},
+	{
+		"forks": 0,
+		"name": "rotki/zerorpc-node-rotkehlchen",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "rotki/zerorpc-node-rotkehlchen",
+		"ecosystem_slug": "rotki",
+		"parent_slug": null,
+		"path": "rotki",
+		"slug": "rotki",
+		"title": "Rotki"
+	},
+	{
+		"forks": 0,
+		"name": "rotki/dbscript",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "rotki/dbscript",
+		"ecosystem_slug": "rotki",
+		"parent_slug": null,
+		"path": "rotki",
+		"slug": "rotki",
+		"title": "Rotki"
+	},
+	{
+		"forks": 0,
+		"name": "rotki/github-release-stats",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "rotki/github-release-stats",
+		"ecosystem_slug": "rotki",
+		"parent_slug": null,
+		"path": "rotki",
+		"slug": "rotki",
+		"title": "Rotki"
+	},
+	{
+		"forks": 0,
+		"name": "rotki/releases",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "rotki/releases",
+		"ecosystem_slug": "rotki",
+		"parent_slug": null,
+		"path": "rotki",
+		"slug": "rotki",
+		"title": "Rotki"
+	}
+]

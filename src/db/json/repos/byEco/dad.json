@@ -1,0 +1,98 @@
+[
+	{
+		"forks": 6,
+		"name": "DAD-Chain/dad-go",
+		"stars": 28,
+		"watchers": 0,
+		"repo_name": "DAD-Chain/dad-go",
+		"ecosystem_slug": "dad",
+		"parent_slug": null,
+		"path": "dad",
+		"slug": "dad",
+		"title": "DAD"
+	},
+	{
+		"forks": 8,
+		"name": "DAD-Chain/DSP",
+		"stars": 16,
+		"watchers": 0,
+		"repo_name": "DAD-Chain/DSP",
+		"ecosystem_slug": "dad",
+		"parent_slug": null,
+		"path": "dad",
+		"slug": "dad",
+		"title": "DAD"
+	},
+	{
+		"forks": 0,
+		"name": "DAD-Chain/dad-explorer-backend",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "DAD-Chain/dad-explorer-backend",
+		"ecosystem_slug": "dad",
+		"parent_slug": null,
+		"path": "dad",
+		"slug": "dad",
+		"title": "DAD"
+	},
+	{
+		"forks": 1,
+		"name": "DAD-Chain/dad-wallet",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "DAD-Chain/dad-wallet",
+		"ecosystem_slug": "dad",
+		"parent_slug": null,
+		"path": "dad",
+		"slug": "dad",
+		"title": "DAD"
+	},
+	{
+		"forks": 0,
+		"name": "DAD-Chain/dad-ts-sdk",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "DAD-Chain/dad-ts-sdk",
+		"ecosystem_slug": "dad",
+		"parent_slug": null,
+		"path": "dad",
+		"slug": "dad",
+		"title": "DAD"
+	},
+	{
+		"forks": 0,
+		"name": "DAD-Chain/SSP",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "DAD-Chain/SSP",
+		"ecosystem_slug": "dad",
+		"parent_slug": null,
+		"path": "dad",
+		"slug": "dad",
+		"title": "DAD"
+	},
+	{
+		"forks": 0,
+		"name": "DAD-Chain/dad-explorer-front",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "DAD-Chain/dad-explorer-front",
+		"ecosystem_slug": "dad",
+		"parent_slug": null,
+		"path": "dad",
+		"slug": "dad",
+		"title": "DAD"
+	},
+	{
+		"forks": 0,
+		"name": "DAD-Chain/dad-dapi",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "DAD-Chain/dad-dapi",
+		"ecosystem_slug": "dad",
+		"parent_slug": null,
+		"path": "dad",
+		"slug": "dad",
+		"title": "DAD"
+	}
+]

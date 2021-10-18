@@ -1,6 +1,7 @@
 {
 	"slug": "universe",
 	"title": "Universe",
+	"parent_slug": null,
 	"path": "universe",
 	"repoCount": 3,
 	"userCount": 5,

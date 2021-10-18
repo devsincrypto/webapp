@@ -1,8 +1,9 @@
 {
 	"slug": "kira",
 	"title": "Kira",
+	"parent_slug": "cosmos",
 	"path": "cosmos/kira",
-	"repoCount": 17,
-	"userCount": 8,
-	"popularity": 3753
+	"repoCount": 21,
+	"userCount": 9,
+	"popularity": 6353
 }

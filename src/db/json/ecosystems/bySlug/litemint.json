@@ -1,8 +1,9 @@
 {
 	"slug": "litemint",
 	"title": "Litemint",
+	"parent_slug": "stellar",
 	"path": "stellar/litemint",
 	"repoCount": 6,
 	"userCount": 2,
-	"popularity": 9159
+	"popularity": 11125
 }

@@ -1,0 +1,62 @@
+[
+	{
+		"forks": 25,
+		"name": "saddle-finance/saddle-contract",
+		"stars": 58,
+		"watchers": 0,
+		"repo_name": "saddle-finance/saddle-contract",
+		"ecosystem_slug": "saddle",
+		"parent_slug": null,
+		"path": "saddle",
+		"slug": "saddle",
+		"title": "Saddle"
+	},
+	{
+		"forks": 16,
+		"name": "saddle-finance/saddle-frontend",
+		"stars": 20,
+		"watchers": 0,
+		"repo_name": "saddle-finance/saddle-frontend",
+		"ecosystem_slug": "saddle",
+		"parent_slug": null,
+		"path": "saddle",
+		"slug": "saddle",
+		"title": "Saddle"
+	},
+	{
+		"forks": 3,
+		"name": "saddle-finance/saddle-docs",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "saddle-finance/saddle-docs",
+		"ecosystem_slug": "saddle",
+		"parent_slug": null,
+		"path": "saddle",
+		"slug": "saddle",
+		"title": "Saddle"
+	},
+	{
+		"forks": 0,
+		"name": "saddle-finance/saddle-audits",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "saddle-finance/saddle-audits",
+		"ecosystem_slug": "saddle",
+		"parent_slug": null,
+		"path": "saddle",
+		"slug": "saddle",
+		"title": "Saddle"
+	},
+	{
+		"forks": 0,
+		"name": "saddle-finance/saddle-allowlist-addresses",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "saddle-finance/saddle-allowlist-addresses",
+		"ecosystem_slug": "saddle",
+		"parent_slug": null,
+		"path": "saddle",
+		"slug": "saddle",
+		"title": "Saddle"
+	}
+]

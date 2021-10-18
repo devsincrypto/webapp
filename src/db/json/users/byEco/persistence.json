@@ -1,30 +1,44 @@
 [
 	{
-		"id": 6401,
+		"id": 181128,
 		"githubLoginMasked": "de",
-		"githubLoginEncrypted": "nQSRB0uXj2ik061i7jL69PUPQU1wcFevAPF4R7xG7b8N0yV9GKGn",
-		"githubLoginHashed": "9d058d7b93093dabdb3dbe0f18af0baaffc985ad776d70b26aff1402828f8ec9",
-		"score": 6267
+		"githubLoginEncrypted": "GSBqtdEtRCHxgi7ngI63W+cRDQ06kl/rx8pJ",
+		"githubLoginHashed": "GSBqtdEtRCHxgi7ngI63W+cRDQ06kl/rx8pJ",
+		"score": 20360
 	},
 	{
-		"id": 19027,
+		"id": 181157,
 		"githubLoginMasked": "pu",
-		"githubLoginEncrypted": "RhHRXnSFjgsyfXONa+UYUYU0islIKCy3VTk3/i085IVnmB20X3w=",
-		"githubLoginHashed": "aa2246d611d3d832f838edf88f21f16b254aed244da4745fa512d0be81106f85",
-		"score": 3008
+		"githubLoginEncrypted": "DTBhoNU3BXm1z1zCnXVt7lHXEV5h3ZPVhb8=",
+		"githubLoginHashed": "DTBhoNU3BXm1z1zCnXVt7lHXEV5h3ZPVhb8=",
+		"score": 3771
 	},
 	{
-		"id": 33374,
+		"id": 181142,
 		"githubLoginMasked": "pe",
-		"githubLoginEncrypted": "I18b94Ni/FYPCklS4IPhbfJfcEHZue1m1D6zsLdnLyrdZta1lpA8CwKUniE=",
-		"githubLoginHashed": "6695807a7f13fea76ccaadf19927bfb2567828b21b81e7c4af8e4b9d22fa3e4c",
-		"score": 725
+		"githubLoginEncrypted": "DSB9ttkwQyzqlTlLkrVd9OQv/VglVNly+Rh90smLPhw=",
+		"githubLoginHashed": "DSB9ttkwQyzqlTlLkrVd9OQv/VglVNly+Rh90smLPhw=",
+		"score": 1183
 	},
 	{
-		"id": 65296,
+		"id": 181126,
 		"githubLoginMasked": "av",
-		"githubLoginEncrypted": "HCuSgWI3lhIMI3RIxdhvRhotM+ACggM+No/tWIJ8lIr3qWc=",
-		"githubLoginHashed": "7adb3326525fe1e310e22203d9dfdd8f6b489701089bf2ada30677908ef0b978",
-		"score": 297
+		"githubLoginEncrypted": "HDNkt4BzBMM4Aiq358hmxqlpPTF4gQs=",
+		"githubLoginHashed": "HDNkt4BzBMM4Aiq358hmxqlpPTF4gQs=",
+		"score": 403
+	},
+	{
+		"id": 829823,
+		"githubLoginMasked": "bl",
+		"githubLoginEncrypted": "HyluptszVifwnjl4x+AMq692XLX7YmoEiFxAQJ8ZrAI=",
+		"githubLoginHashed": "HyluptszVifwnjl4x+AMq692XLX7YmoEiFxAQJ8ZrAI=",
+		"score": 0
+	},
+	{
+		"id": 829812,
+		"githubLoginMasked": "ko",
+		"githubLoginEncrypted": "Fipip98wQnCM4MtGZQmZRSQWT7nI/w==",
+		"githubLoginHashed": "Fipip98wQnCM4MtGZQmZRSQWT7nI/w==",
+		"score": 0
 	}
 ]

@@ -1,8 +1,9 @@
 {
 	"slug": "sentinel",
 	"title": "Sentinel",
+	"parent_slug": "cosmos",
 	"path": "cosmos/sentinel",
-	"repoCount": 10,
-	"userCount": 11,
-	"popularity": 103312
+	"repoCount": 14,
+	"userCount": 12,
+	"popularity": 123710
 }

@@ -1,8 +1,9 @@
 {
 	"slug": "project-serum",
 	"title": "Project Serum",
+	"parent_slug": "solana",
 	"path": "solana/project-serum",
-	"repoCount": 14,
+	"repoCount": 25,
 	"userCount": 12,
-	"popularity": 139586
+	"popularity": 923915
 }

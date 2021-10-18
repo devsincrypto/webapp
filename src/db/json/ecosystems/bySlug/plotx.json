@@ -1,8 +1,9 @@
 {
 	"slug": "plotx",
 	"title": "PlotX",
+	"parent_slug": "ethereum",
 	"path": "ethereum/plotx",
 	"repoCount": 1,
 	"userCount": 3,
-	"popularity": 325
+	"popularity": 351
 }

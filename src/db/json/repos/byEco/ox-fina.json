@@ -1,0 +1,38 @@
+[
+	{
+		"forks": 2,
+		"name": "oxfina/OX-Fina",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "oxfina/OX-Fina",
+		"ecosystem_slug": "ox-fina",
+		"parent_slug": null,
+		"path": "ox-fina",
+		"slug": "ox-fina",
+		"title": "OX Fina"
+	},
+	{
+		"forks": 1,
+		"name": "oxfina/OX-Whitepaper",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "oxfina/OX-Whitepaper",
+		"ecosystem_slug": "ox-fina",
+		"parent_slug": null,
+		"path": "ox-fina",
+		"slug": "ox-fina",
+		"title": "OX Fina"
+	},
+	{
+		"forks": 0,
+		"name": "oxfina/Token",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "oxfina/Token",
+		"ecosystem_slug": "ox-fina",
+		"parent_slug": null,
+		"path": "ox-fina",
+		"slug": "ox-fina",
+		"title": "OX Fina"
+	}
+]

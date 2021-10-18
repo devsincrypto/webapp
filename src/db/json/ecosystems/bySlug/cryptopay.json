@@ -1,8 +1,9 @@
 {
 	"slug": "cryptopay",
 	"title": "CryptoPay",
+	"parent_slug": null,
 	"path": "cryptopay",
-	"repoCount": 15,
+	"repoCount": 16,
 	"userCount": 14,
 	"popularity": 1192
 }

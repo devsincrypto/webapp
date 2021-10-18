@@ -1,8 +1,9 @@
 {
 	"slug": "creaton",
 	"title": "Creaton",
+	"parent_slug": "ethereum",
 	"path": "ethereum/creaton",
-	"repoCount": 2,
+	"repoCount": 5,
 	"userCount": 2,
 	"popularity": 0
 }

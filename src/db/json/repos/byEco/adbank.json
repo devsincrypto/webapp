@@ -1,0 +1,74 @@
+[
+	{
+		"forks": 2,
+		"name": "AdBank/blade-extension",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "AdBank/blade-extension",
+		"ecosystem_slug": "adbank",
+		"parent_slug": null,
+		"path": "adbank",
+		"slug": "adbank",
+		"title": "adbank"
+	},
+	{
+		"forks": 1,
+		"name": "AdBank/adbank-token-management-system",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "AdBank/adbank-token-management-system",
+		"ecosystem_slug": "adbank",
+		"parent_slug": null,
+		"path": "adbank",
+		"slug": "adbank",
+		"title": "adbank"
+	},
+	{
+		"forks": 1,
+		"name": "AdBank/adbank-alpha-preview",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "AdBank/adbank-alpha-preview",
+		"ecosystem_slug": "adbank",
+		"parent_slug": null,
+		"path": "adbank",
+		"slug": "adbank",
+		"title": "adbank"
+	},
+	{
+		"forks": 1,
+		"name": "AdBank/Blade-Blocker",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "AdBank/Blade-Blocker",
+		"ecosystem_slug": "adbank",
+		"parent_slug": null,
+		"path": "adbank",
+		"slug": "adbank",
+		"title": "adbank"
+	},
+	{
+		"forks": 0,
+		"name": "AdBank/adbank-ads",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "AdBank/adbank-ads",
+		"ecosystem_slug": "adbank",
+		"parent_slug": null,
+		"path": "adbank",
+		"slug": "adbank",
+		"title": "adbank"
+	},
+	{
+		"forks": 0,
+		"name": "AdBank/UX",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "AdBank/UX",
+		"ecosystem_slug": "adbank",
+		"parent_slug": null,
+		"path": "adbank",
+		"slug": "adbank",
+		"title": "adbank"
+	}
+]

@@ -1,6 +1,7 @@
 {
 	"slug": "stronghold",
 	"title": "Stronghold",
+	"parent_slug": "stellar",
 	"path": "stellar/stronghold",
 	"repoCount": 4,
 	"userCount": 2,

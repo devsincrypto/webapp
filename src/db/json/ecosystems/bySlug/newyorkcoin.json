@@ -1,8 +1,9 @@
 {
 	"slug": "newyorkcoin",
 	"title": "NewYorkCoin",
+	"parent_slug": null,
 	"path": "newyorkcoin",
-	"repoCount": 14,
+	"repoCount": 15,
 	"userCount": 6,
 	"popularity": 3402
 }

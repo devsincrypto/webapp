@@ -1,0 +1,26 @@
+[
+	{
+		"forks": 5,
+		"name": "bitcoiinBT2/bitcoiin-wallet",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "bitcoiinBT2/bitcoiin-wallet",
+		"ecosystem_slug": "bitcoiin",
+		"parent_slug": null,
+		"path": "bitcoiin",
+		"slug": "bitcoiin",
+		"title": "Bitcoiin"
+	},
+	{
+		"forks": 3,
+		"name": "bitcoiinBT2/go-bitcoiin",
+		"stars": 6,
+		"watchers": 0,
+		"repo_name": "bitcoiinBT2/go-bitcoiin",
+		"ecosystem_slug": "bitcoiin",
+		"parent_slug": null,
+		"path": "bitcoiin",
+		"slug": "bitcoiin",
+		"title": "Bitcoiin"
+	}
+]

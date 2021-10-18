@@ -1,6 +1,7 @@
 {
 	"slug": "verify",
 	"title": "Verify",
+	"parent_slug": null,
 	"path": "verify",
 	"repoCount": 9,
 	"userCount": 7,

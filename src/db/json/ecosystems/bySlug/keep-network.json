@@ -1,8 +1,9 @@
 {
 	"slug": "keep-network",
-	"title": "Keep network",
+	"title": "Keep Network",
+	"parent_slug": "ethereum",
 	"path": "ethereum/keep-network",
-	"repoCount": 40,
-	"userCount": 28,
-	"popularity": 159986
+	"repoCount": 60,
+	"userCount": 29,
+	"popularity": 206369
 }

@@ -1,8 +1,9 @@
 {
 	"slug": "pickle-finance",
 	"title": "Pickle Finance",
+	"parent_slug": "ethereum",
 	"path": "ethereum/pickle-finance",
-	"repoCount": 10,
-	"userCount": 8,
-	"popularity": 20426
+	"repoCount": 12,
+	"userCount": 11,
+	"popularity": 68161
 }

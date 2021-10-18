@@ -1,8 +1,9 @@
 {
 	"slug": "iryo-network",
 	"title": "Iryo Network",
+	"parent_slug": "eos",
 	"path": "eos/iryo-network",
-	"repoCount": 16,
+	"repoCount": 18,
 	"userCount": 11,
-	"popularity": 1766
+	"popularity": 1769
 }

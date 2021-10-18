@@ -1,0 +1,26 @@
+[
+	{
+		"forks": 5,
+		"name": "DEXEOS/dexeos-api-public",
+		"stars": 6,
+		"watchers": 0,
+		"repo_name": "DEXEOS/dexeos-api-public",
+		"ecosystem_slug": "dexeos",
+		"parent_slug": null,
+		"path": "dexeos",
+		"slug": "dexeos",
+		"title": "DEXEOS"
+	},
+	{
+		"forks": 4,
+		"name": "DEXEOS/dexeos-embed-trade",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "DEXEOS/dexeos-embed-trade",
+		"ecosystem_slug": "dexeos",
+		"parent_slug": null,
+		"path": "dexeos",
+		"slug": "dexeos",
+		"title": "DEXEOS"
+	}
+]

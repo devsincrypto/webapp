@@ -1,0 +1,26 @@
+[
+	{
+		"forks": 1,
+		"name": "fuzex/slack-invite-automation",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "fuzex/slack-invite-automation",
+		"ecosystem_slug": "fuzex",
+		"parent_slug": null,
+		"path": "fuzex",
+		"slug": "fuzex",
+		"title": "FuzeX"
+	},
+	{
+		"forks": 0,
+		"name": "fuzex/smart-contracts",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "fuzex/smart-contracts",
+		"ecosystem_slug": "fuzex",
+		"parent_slug": null,
+		"path": "fuzex",
+		"slug": "fuzex",
+		"title": "FuzeX"
+	}
+]

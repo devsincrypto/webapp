@@ -1,8 +1,9 @@
 {
 	"slug": "interchain",
 	"title": "Interchain",
+	"parent_slug": "cosmos",
 	"path": "cosmos/interchain",
-	"repoCount": 9,
-	"userCount": 15,
-	"popularity": 8031
+	"repoCount": 11,
+	"userCount": 18,
+	"popularity": 8766
 }

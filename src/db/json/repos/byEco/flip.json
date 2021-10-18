@@ -1,0 +1,50 @@
+[
+	{
+		"forks": 17,
+		"name": "gameflip/gfapi",
+		"stars": 16,
+		"watchers": 0,
+		"repo_name": "gameflip/gfapi",
+		"ecosystem_slug": "flip",
+		"parent_slug": null,
+		"path": "flip",
+		"slug": "flip",
+		"title": "FLIP"
+	},
+	{
+		"forks": 12,
+		"name": "gameflip/tokensale",
+		"stars": 20,
+		"watchers": 0,
+		"repo_name": "gameflip/tokensale",
+		"ecosystem_slug": "flip",
+		"parent_slug": null,
+		"path": "flip",
+		"slug": "flip",
+		"title": "FLIP"
+	},
+	{
+		"forks": 0,
+		"name": "gameflip/node-rest-client",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "gameflip/node-rest-client",
+		"ecosystem_slug": "flip",
+		"parent_slug": null,
+		"path": "flip",
+		"slug": "flip",
+		"title": "FLIP"
+	},
+	{
+		"forks": 0,
+		"name": "gameflip/node-rest-client-promise",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "gameflip/node-rest-client-promise",
+		"ecosystem_slug": "flip",
+		"parent_slug": null,
+		"path": "flip",
+		"slug": "flip",
+		"title": "FLIP"
+	}
+]

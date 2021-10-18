@@ -1,8 +1,9 @@
 {
 	"slug": "steemhunt",
 	"title": "Steemhunt",
+	"parent_slug": "steem",
 	"path": "steem/steemhunt",
-	"repoCount": 26,
+	"repoCount": 30,
 	"userCount": 8,
-	"popularity": 67284
+	"popularity": 68864
 }

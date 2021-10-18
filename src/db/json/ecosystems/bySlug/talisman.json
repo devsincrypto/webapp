@@ -1,6 +1,7 @@
 {
 	"slug": "talisman",
 	"title": "Talisman",
+	"parent_slug": "polkadot",
 	"path": "polkadot/talisman",
 	"repoCount": 0,
 	"userCount": 0,

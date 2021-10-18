@@ -1,0 +1,74 @@
+[
+	{
+		"forks": 1,
+		"name": "EOSNOVA/Auth-SDK-ANDROID",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "EOSNOVA/Auth-SDK-ANDROID",
+		"ecosystem_slug": "nova-wallet",
+		"parent_slug": null,
+		"path": "nova-wallet",
+		"slug": "nova-wallet",
+		"title": "Nova Wallet"
+	},
+	{
+		"forks": 0,
+		"name": "EOSNOVA/Auth-SDK-iOS",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "EOSNOVA/Auth-SDK-iOS",
+		"ecosystem_slug": "nova-wallet",
+		"parent_slug": null,
+		"path": "nova-wallet",
+		"slug": "nova-wallet",
+		"title": "Nova Wallet"
+	},
+	{
+		"forks": 0,
+		"name": "EOSNOVA/scatter-js",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "EOSNOVA/scatter-js",
+		"ecosystem_slug": "nova-wallet",
+		"parent_slug": null,
+		"path": "nova-wallet",
+		"slug": "nova-wallet",
+		"title": "Nova Wallet"
+	},
+	{
+		"forks": 0,
+		"name": "EOSNOVA/SimpleWallet",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "EOSNOVA/SimpleWallet",
+		"ecosystem_slug": "nova-wallet",
+		"parent_slug": null,
+		"path": "nova-wallet",
+		"slug": "nova-wallet",
+		"title": "Nova Wallet"
+	},
+	{
+		"forks": 0,
+		"name": "EOSNOVA/NOVA-Wallet",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "EOSNOVA/NOVA-Wallet",
+		"ecosystem_slug": "nova-wallet",
+		"parent_slug": null,
+		"path": "nova-wallet",
+		"slug": "nova-wallet",
+		"title": "Nova Wallet"
+	},
+	{
+		"forks": 0,
+		"name": "EOSNOVA/LOGO",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "EOSNOVA/LOGO",
+		"ecosystem_slug": "nova-wallet",
+		"parent_slug": null,
+		"path": "nova-wallet",
+		"slug": "nova-wallet",
+		"title": "Nova Wallet"
+	}
+]

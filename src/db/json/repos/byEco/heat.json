@@ -1,0 +1,110 @@
+[
+	{
+		"forks": 16,
+		"name": "Heat-Ledger-Ltd/heat-ui",
+		"stars": 18,
+		"watchers": 0,
+		"repo_name": "Heat-Ledger-Ltd/heat-ui",
+		"ecosystem_slug": "heat",
+		"parent_slug": null,
+		"path": "heat",
+		"slug": "heat",
+		"title": "HEAT"
+	},
+	{
+		"forks": 2,
+		"name": "Heat-Ledger-Ltd/heatledger",
+		"stars": 13,
+		"watchers": 0,
+		"repo_name": "Heat-Ledger-Ltd/heatledger",
+		"ecosystem_slug": "heat",
+		"parent_slug": null,
+		"path": "heat",
+		"slug": "heat",
+		"title": "HEAT"
+	},
+	{
+		"forks": 2,
+		"name": "Heat-Ledger-Ltd/heatwallet",
+		"stars": 10,
+		"watchers": 0,
+		"repo_name": "Heat-Ledger-Ltd/heatwallet",
+		"ecosystem_slug": "heat",
+		"parent_slug": null,
+		"path": "heat",
+		"slug": "heat",
+		"title": "HEAT"
+	},
+	{
+		"forks": 2,
+		"name": "Heat-Ledger-Ltd/heat-sdk",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "Heat-Ledger-Ltd/heat-sdk",
+		"ecosystem_slug": "heat",
+		"parent_slug": null,
+		"path": "heat",
+		"slug": "heat",
+		"title": "HEAT"
+	},
+	{
+		"forks": 1,
+		"name": "Heat-Ledger-Ltd/heat-embed",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "Heat-Ledger-Ltd/heat-embed",
+		"ecosystem_slug": "heat",
+		"parent_slug": null,
+		"path": "heat",
+		"slug": "heat",
+		"title": "HEAT"
+	},
+	{
+		"forks": 3,
+		"name": "Heat-Ledger-Ltd/heat-libs",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Heat-Ledger-Ltd/heat-libs",
+		"ecosystem_slug": "heat",
+		"parent_slug": null,
+		"path": "heat",
+		"slug": "heat",
+		"title": "HEAT"
+	},
+	{
+		"forks": 0,
+		"name": "Heat-Ledger-Ltd/heat-microservice",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "Heat-Ledger-Ltd/heat-microservice",
+		"ecosystem_slug": "heat",
+		"parent_slug": null,
+		"path": "heat",
+		"slug": "heat",
+		"title": "HEAT"
+	},
+	{
+		"forks": 1,
+		"name": "Heat-Ledger-Ltd/heat-paperwallet",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Heat-Ledger-Ltd/heat-paperwallet",
+		"ecosystem_slug": "heat",
+		"parent_slug": null,
+		"path": "heat",
+		"slug": "heat",
+		"title": "HEAT"
+	},
+	{
+		"forks": 0,
+		"name": "Heat-Ledger-Ltd/heat-modules",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Heat-Ledger-Ltd/heat-modules",
+		"ecosystem_slug": "heat",
+		"parent_slug": null,
+		"path": "heat",
+		"slug": "heat",
+		"title": "HEAT"
+	}
+]

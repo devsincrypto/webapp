@@ -1,0 +1,50 @@
+[
+	{
+		"forks": 0,
+		"name": "digipulseio/fiat-contract",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "digipulseio/fiat-contract",
+		"ecosystem_slug": "digipulse",
+		"parent_slug": null,
+		"path": "digipulse",
+		"slug": "digipulse",
+		"title": "DigiPulse"
+	},
+	{
+		"forks": 0,
+		"name": "digipulseio/ui",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "digipulseio/ui",
+		"ecosystem_slug": "digipulse",
+		"parent_slug": null,
+		"path": "digipulse",
+		"slug": "digipulse",
+		"title": "DigiPulse"
+	},
+	{
+		"forks": 0,
+		"name": "digipulseio/dgpt-token-sale",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "digipulseio/dgpt-token-sale",
+		"ecosystem_slug": "digipulse",
+		"parent_slug": null,
+		"path": "digipulse",
+		"slug": "digipulse",
+		"title": "DigiPulse"
+	},
+	{
+		"forks": 0,
+		"name": "digipulseio/locking-contract",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "digipulseio/locking-contract",
+		"ecosystem_slug": "digipulse",
+		"parent_slug": null,
+		"path": "digipulse",
+		"slug": "digipulse",
+		"title": "DigiPulse"
+	}
+]

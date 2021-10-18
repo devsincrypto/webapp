@@ -1,8 +1,9 @@
 {
 	"slug": "futureswap",
 	"title": "Futureswap",
+	"parent_slug": "ethereum",
 	"path": "ethereum/futureswap",
 	"repoCount": 6,
 	"userCount": 3,
-	"popularity": 690
+	"popularity": 732
 }

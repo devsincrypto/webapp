@@ -1,0 +1,86 @@
+[
+	{
+		"forks": 14,
+		"name": "OpenTradingNetworkFoundation/otn-token",
+		"stars": 33,
+		"watchers": 0,
+		"repo_name": "OpenTradingNetworkFoundation/otn-token",
+		"ecosystem_slug": "open-trading-network",
+		"parent_slug": null,
+		"path": "open-trading-network",
+		"slug": "open-trading-network",
+		"title": "Open Trading Network"
+	},
+	{
+		"forks": 5,
+		"name": "OpenTradingNetworkFoundation/otn-node",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "OpenTradingNetworkFoundation/otn-node",
+		"ecosystem_slug": "open-trading-network",
+		"parent_slug": null,
+		"path": "open-trading-network",
+		"slug": "open-trading-network",
+		"title": "Open Trading Network"
+	},
+	{
+		"forks": 6,
+		"name": "OpenTradingNetworkFoundation/wallet-ui",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "OpenTradingNetworkFoundation/wallet-ui",
+		"ecosystem_slug": "open-trading-network",
+		"parent_slug": null,
+		"path": "open-trading-network",
+		"slug": "open-trading-network",
+		"title": "Open Trading Network"
+	},
+	{
+		"forks": 4,
+		"name": "OpenTradingNetworkFoundation/otn-go",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "OpenTradingNetworkFoundation/otn-go",
+		"ecosystem_slug": "open-trading-network",
+		"parent_slug": null,
+		"path": "open-trading-network",
+		"slug": "open-trading-network",
+		"title": "Open Trading Network"
+	},
+	{
+		"forks": 4,
+		"name": "OpenTradingNetworkFoundation/market-maker",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "OpenTradingNetworkFoundation/market-maker",
+		"ecosystem_slug": "open-trading-network",
+		"parent_slug": null,
+		"path": "open-trading-network",
+		"slug": "open-trading-network",
+		"title": "Open Trading Network"
+	},
+	{
+		"forks": 4,
+		"name": "OpenTradingNetworkFoundation/faucet",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "OpenTradingNetworkFoundation/faucet",
+		"ecosystem_slug": "open-trading-network",
+		"parent_slug": null,
+		"path": "open-trading-network",
+		"slug": "open-trading-network",
+		"title": "Open Trading Network"
+	},
+	{
+		"forks": 4,
+		"name": "OpenTradingNetworkFoundation/price-reporter",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "OpenTradingNetworkFoundation/price-reporter",
+		"ecosystem_slug": "open-trading-network",
+		"parent_slug": null,
+		"path": "open-trading-network",
+		"slug": "open-trading-network",
+		"title": "Open Trading Network"
+	}
+]

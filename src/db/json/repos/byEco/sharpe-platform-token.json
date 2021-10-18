@@ -1,0 +1,86 @@
+[
+	{
+		"forks": 3,
+		"name": "sharpe-capital/sharpe-token",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "sharpe-capital/sharpe-token",
+		"ecosystem_slug": "sharpe-platform-token",
+		"parent_slug": null,
+		"path": "sharpe-platform-token",
+		"slug": "sharpe-platform-token",
+		"title": "Sharpe Platform Token"
+	},
+	{
+		"forks": 0,
+		"name": "sharpe-capital/contracts-core",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "sharpe-capital/contracts-core",
+		"ecosystem_slug": "sharpe-platform-token",
+		"parent_slug": null,
+		"path": "sharpe-platform-token",
+		"slug": "sharpe-platform-token",
+		"title": "Sharpe Platform Token"
+	},
+	{
+		"forks": 1,
+		"name": "sharpe-capital/sqs",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "sharpe-capital/sqs",
+		"ecosystem_slug": "sharpe-platform-token",
+		"parent_slug": null,
+		"path": "sharpe-platform-token",
+		"slug": "sharpe-platform-token",
+		"title": "Sharpe Platform Token"
+	},
+	{
+		"forks": 0,
+		"name": "sharpe-capital/trade-ledger-node-sdk",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "sharpe-capital/trade-ledger-node-sdk",
+		"ecosystem_slug": "sharpe-platform-token",
+		"parent_slug": null,
+		"path": "sharpe-platform-token",
+		"slug": "sharpe-platform-token",
+		"title": "Sharpe Platform Token"
+	},
+	{
+		"forks": 1,
+		"name": "sharpe-capital/XChange",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "sharpe-capital/XChange",
+		"ecosystem_slug": "sharpe-platform-token",
+		"parent_slug": null,
+		"path": "sharpe-platform-token",
+		"slug": "sharpe-platform-token",
+		"title": "Sharpe Platform Token"
+	},
+	{
+		"forks": 0,
+		"name": "sharpe-capital/xchange-stream",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "sharpe-capital/xchange-stream",
+		"ecosystem_slug": "sharpe-platform-token",
+		"parent_slug": null,
+		"path": "sharpe-platform-token",
+		"slug": "sharpe-platform-token",
+		"title": "Sharpe Platform Token"
+	},
+	{
+		"forks": 0,
+		"name": "sharpe-capital/react-native-snap-carousel",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "sharpe-capital/react-native-snap-carousel",
+		"ecosystem_slug": "sharpe-platform-token",
+		"parent_slug": null,
+		"path": "sharpe-platform-token",
+		"slug": "sharpe-platform-token",
+		"title": "Sharpe Platform Token"
+	}
+]

@@ -1,8 +1,9 @@
 {
 	"slug": "e-money",
 	"title": "E-Money",
+	"parent_slug": "cosmos",
 	"path": "cosmos/e-money",
-	"repoCount": 11,
-	"userCount": 3,
-	"popularity": 11846
+	"repoCount": 16,
+	"userCount": 4,
+	"popularity": 13105
 }

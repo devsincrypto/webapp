@@ -1,0 +1,50 @@
+[
+	{
+		"forks": 2811,
+		"name": "HelloZeroNet/ZeroNet",
+		"stars": 19393,
+		"watchers": 0,
+		"repo_name": "HelloZeroNet/ZeroNet",
+		"ecosystem_slug": "zeronet",
+		"parent_slug": "bitcoin",
+		"path": "bitcoin/zeronet",
+		"slug": "zeronet",
+		"title": "ZeroNet"
+	},
+	{
+		"forks": 135,
+		"name": "HelloZeroNet/Documentation",
+		"stars": 70,
+		"watchers": 0,
+		"repo_name": "HelloZeroNet/Documentation",
+		"ecosystem_slug": "zeronet",
+		"parent_slug": "bitcoin",
+		"path": "bitcoin/zeronet",
+		"slug": "zeronet",
+		"title": "ZeroNet"
+	},
+	{
+		"forks": 75,
+		"name": "HelloZeroNet/ZeroMail",
+		"stars": 98,
+		"watchers": 0,
+		"repo_name": "HelloZeroNet/ZeroMail",
+		"ecosystem_slug": "zeronet",
+		"parent_slug": "bitcoin",
+		"path": "bitcoin/zeronet",
+		"slug": "zeronet",
+		"title": "ZeroNet"
+	},
+	{
+		"forks": 103,
+		"name": "HelloZeroNet/ZeroHello",
+		"stars": 62,
+		"watchers": 0,
+		"repo_name": "HelloZeroNet/ZeroHello",
+		"ecosystem_slug": "zeronet",
+		"parent_slug": "bitcoin",
+		"path": "bitcoin/zeronet",
+		"slug": "zeronet",
+		"title": "ZeroNet"
+	}
+]

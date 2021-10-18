@@ -1,8 +1,9 @@
 {
 	"slug": "narwhalswap",
 	"title": "Narwhalswap",
-	"path": "cosmos/binance-coin/narwhalswap",
-	"repoCount": 4,
-	"userCount": 2,
-	"popularity": 156
+	"parent_slug": "binance-coin",
+	"path": "binance-coin/narwhalswap",
+	"repoCount": 7,
+	"userCount": 3,
+	"popularity": 306
 }

@@ -1,8 +1,9 @@
 {
 	"slug": "thorchain",
 	"title": "THORChain",
+	"parent_slug": "cosmos",
 	"path": "cosmos/thorchain",
-	"repoCount": 39,
-	"userCount": 21,
-	"popularity": 59825
+	"repoCount": 43,
+	"userCount": 22,
+	"popularity": 115038
 }

@@ -1,0 +1,74 @@
+[
+	{
+		"forks": 182,
+		"name": "MolochVentures/moloch",
+		"stars": 461,
+		"watchers": 0,
+		"repo_name": "MolochVentures/moloch",
+		"ecosystem_slug": "moloch",
+		"parent_slug": "ethereum",
+		"path": "ethereum/moloch",
+		"slug": "moloch",
+		"title": "Moloch"
+	},
+	{
+		"forks": 31,
+		"name": "MolochVentures/moloch-monorepo",
+		"stars": 31,
+		"watchers": 0,
+		"repo_name": "MolochVentures/moloch-monorepo",
+		"ecosystem_slug": "moloch",
+		"parent_slug": "ethereum",
+		"path": "ethereum/moloch",
+		"slug": "moloch",
+		"title": "Moloch"
+	},
+	{
+		"forks": 2,
+		"name": "MolochVentures/Whitepaper",
+		"stars": 41,
+		"watchers": 0,
+		"repo_name": "MolochVentures/Whitepaper",
+		"ecosystem_slug": "moloch",
+		"parent_slug": "ethereum",
+		"path": "ethereum/moloch",
+		"slug": "moloch",
+		"title": "Moloch"
+	},
+	{
+		"forks": 5,
+		"name": "MolochVentures/LearnChannels",
+		"stars": 26,
+		"watchers": 0,
+		"repo_name": "MolochVentures/LearnChannels",
+		"ecosystem_slug": "moloch",
+		"parent_slug": "ethereum",
+		"path": "ethereum/moloch",
+		"slug": "moloch",
+		"title": "Moloch"
+	},
+	{
+		"forks": 6,
+		"name": "MolochVentures/moloch-frontend",
+		"stars": 9,
+		"watchers": 0,
+		"repo_name": "MolochVentures/moloch-frontend",
+		"ecosystem_slug": "moloch",
+		"parent_slug": "ethereum",
+		"path": "ethereum/moloch",
+		"slug": "moloch",
+		"title": "Moloch"
+	},
+	{
+		"forks": 0,
+		"name": "MolochVentures/moloch-backend",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "MolochVentures/moloch-backend",
+		"ecosystem_slug": "moloch",
+		"parent_slug": "ethereum",
+		"path": "ethereum/moloch",
+		"slug": "moloch",
+		"title": "Moloch"
+	}
+]

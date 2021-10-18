@@ -1,6 +1,7 @@
 {
 	"slug": "omni-project",
 	"title": "Omni Project",
+	"parent_slug": "holo",
 	"path": "holo/omni-project",
 	"repoCount": 1,
 	"userCount": 2,

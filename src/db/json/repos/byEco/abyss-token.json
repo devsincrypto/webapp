@@ -1,0 +1,50 @@
+[
+	{
+		"forks": 42,
+		"name": "theabyssportal/DAICO-Smart-Contract",
+		"stars": 94,
+		"watchers": 0,
+		"repo_name": "theabyssportal/DAICO-Smart-Contract",
+		"ecosystem_slug": "abyss-token",
+		"parent_slug": null,
+		"path": "abyss-token",
+		"slug": "abyss-token",
+		"title": "Abyss Token"
+	},
+	{
+		"forks": 1,
+		"name": "theabyssportal/Old-Smart-Contract",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "theabyssportal/Old-Smart-Contract",
+		"ecosystem_slug": "abyss-token",
+		"parent_slug": null,
+		"path": "abyss-token",
+		"slug": "abyss-token",
+		"title": "Abyss Token"
+	},
+	{
+		"forks": 0,
+		"name": "theabyssportal/TheAbyssNativeSdk",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "theabyssportal/TheAbyssNativeSdk",
+		"ecosystem_slug": "abyss-token",
+		"parent_slug": null,
+		"path": "abyss-token",
+		"slug": "abyss-token",
+		"title": "Abyss Token"
+	},
+	{
+		"forks": 0,
+		"name": "theabyssportal/TheAbyssUnity3d",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "theabyssportal/TheAbyssUnity3d",
+		"ecosystem_slug": "abyss-token",
+		"parent_slug": null,
+		"path": "abyss-token",
+		"slug": "abyss-token",
+		"title": "Abyss Token"
+	}
+]

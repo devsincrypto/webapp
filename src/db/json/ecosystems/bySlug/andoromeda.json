@@ -1,8 +1,9 @@
 {
 	"slug": "andoromeda",
 	"title": "Andoromeda",
+	"parent_slug": "eos",
 	"path": "eos/andoromeda",
 	"repoCount": 40,
 	"userCount": 27,
-	"popularity": 20574
+	"popularity": 20652
 }

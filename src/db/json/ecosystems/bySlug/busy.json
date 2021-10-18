@@ -1,8 +1,9 @@
 {
 	"slug": "busy",
 	"title": "Busy",
+	"parent_slug": "steem",
 	"path": "steem/busy",
 	"repoCount": 10,
 	"userCount": 9,
-	"popularity": 284435
+	"popularity": 289973
 }

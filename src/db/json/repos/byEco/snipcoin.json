@@ -1,0 +1,98 @@
+[
+	{
+		"forks": 10,
+		"name": "SnipToday/SnipCoin",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "SnipToday/SnipCoin",
+		"ecosystem_slug": "snipcoin",
+		"parent_slug": null,
+		"path": "snipcoin",
+		"slug": "snipcoin",
+		"title": "SnipCoin"
+	},
+	{
+		"forks": 1,
+		"name": "SnipToday/FrontEnd",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "SnipToday/FrontEnd",
+		"ecosystem_slug": "snipcoin",
+		"parent_slug": null,
+		"path": "snipcoin",
+		"slug": "snipcoin",
+		"title": "SnipCoin"
+	},
+	{
+		"forks": 0,
+		"name": "SnipToday/fcm-django",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "SnipToday/fcm-django",
+		"ecosystem_slug": "snipcoin",
+		"parent_slug": null,
+		"path": "snipcoin",
+		"slug": "snipcoin",
+		"title": "SnipCoin"
+	},
+	{
+		"forks": 0,
+		"name": "SnipToday/telegram-moderator",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "SnipToday/telegram-moderator",
+		"ecosystem_slug": "snipcoin",
+		"parent_slug": null,
+		"path": "snipcoin",
+		"slug": "snipcoin",
+		"title": "SnipCoin"
+	},
+	{
+		"forks": 0,
+		"name": "SnipToday/Docker-RemoteSyslog2",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "SnipToday/Docker-RemoteSyslog2",
+		"ecosystem_slug": "snipcoin",
+		"parent_slug": null,
+		"path": "snipcoin",
+		"slug": "snipcoin",
+		"title": "SnipCoin"
+	},
+	{
+		"forks": 0,
+		"name": "SnipToday/ContractCommandSigner",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "SnipToday/ContractCommandSigner",
+		"ecosystem_slug": "snipcoin",
+		"parent_slug": null,
+		"path": "snipcoin",
+		"slug": "snipcoin",
+		"title": "SnipCoin"
+	},
+	{
+		"forks": 0,
+		"name": "SnipToday/dlmonitor",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "SnipToday/dlmonitor",
+		"ecosystem_slug": "snipcoin",
+		"parent_slug": null,
+		"path": "snipcoin",
+		"slug": "snipcoin",
+		"title": "SnipCoin"
+	},
+	{
+		"forks": 0,
+		"name": "SnipToday/sharelock_utils",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "SnipToday/sharelock_utils",
+		"ecosystem_slug": "snipcoin",
+		"parent_slug": null,
+		"path": "snipcoin",
+		"slug": "snipcoin",
+		"title": "SnipCoin"
+	}
+]

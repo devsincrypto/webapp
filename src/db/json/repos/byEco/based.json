@@ -1,0 +1,38 @@
+[
+	{
+		"forks": 21,
+		"name": "cryptoghoulz/based-contracts",
+		"stars": 36,
+		"watchers": 0,
+		"repo_name": "cryptoghoulz/based-contracts",
+		"ecosystem_slug": "based",
+		"parent_slug": null,
+		"path": "based",
+		"slug": "based",
+		"title": "Based"
+	},
+	{
+		"forks": 6,
+		"name": "cryptoghoulz/rovers",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "cryptoghoulz/rovers",
+		"ecosystem_slug": "based",
+		"parent_slug": null,
+		"path": "based",
+		"slug": "based",
+		"title": "Based"
+	},
+	{
+		"forks": 0,
+		"name": "cryptoghoulz/snapshot",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "cryptoghoulz/snapshot",
+		"ecosystem_slug": "based",
+		"parent_slug": null,
+		"path": "based",
+		"slug": "based",
+		"title": "Based"
+	}
+]
