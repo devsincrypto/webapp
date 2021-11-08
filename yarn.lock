@@ -378,20 +378,20 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
-"@papercups-io/browser@0.0.3-beta.7":
-  version "0.0.3-beta.7"
-  resolved "https://registry.yarnpkg.com/@papercups-io/browser/-/browser-0.0.3-beta.7.tgz#62bde6dd129ec27d6b71f11e2ec7f0443ae89e7e"
-  integrity sha512-IHrE/f2nEvum+EZuDXBTNH1FW25ru8uqCskks4h6UUCxnraBCDj4vEnGD40nkdPUvlQt8k5gVDXe6gd+LfZAlA==
+"@papercups-io/browser@0.0.4-beta.0":
+  version "0.0.4-beta.0"
+  resolved "https://registry.yarnpkg.com/@papercups-io/browser/-/browser-0.0.4-beta.0.tgz#422233971b6ba5bc5aef00bad4cdc255accb3ecf"
+  integrity sha512-gKRIpYfJtAZY85JaHurilVFujP3M05CQ3WLcdrWCxluY+U2QhUVcXjs6c0oZfRfRl0bOZM4T4mBzsjWbfLLp9w==
   dependencies:
     axios "^0.21.1"
     phoenix "^1.5.9"
 
-"@papercups-io/chat-widget@^1.3.0":
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/@papercups-io/chat-widget/-/chat-widget-1.3.0.tgz#6a2201502931d445a27b8d408e5c3587afab6bf9"
-  integrity sha512-UsBejS6EEmKirK7U0bH0F3AsYrejW0FHQQAdKE3bnpSPj5vvRSyurWd/ukg3UBsYuUhtCPcq1I6euBpLZL3y8A==
+"@papercups-io/chat-widget@^1.3.1":
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/@papercups-io/chat-widget/-/chat-widget-1.3.1.tgz#dc93daf4ff9ea3ab483c657532b773ed30f53d15"
+  integrity sha512-60XsNWzfz7m2H3+u35WPyUwfWx3iwX6s9N9baZ6qZUyUSlsMxQ2DhgePGSMP2SGRHxeyKZ4HtKsUWM2msYKwdA==
   dependencies:
-    "@papercups-io/browser" "0.0.3-beta.7"
+    "@papercups-io/browser" "0.0.4-beta.0"
     framer-motion "^2.0.1"
     query-string "^6.13.1"
     theme-ui "^0.3.1"
