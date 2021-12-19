@@ -13,18 +13,6 @@
 	},
 	{
 		"forks": 1,
-		"name": "ProteaNetwork/Protea-MVD",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "ProteaNetwork/Protea-MVD",
-		"ecosystem_slug": "protea",
-		"parent_slug": null,
-		"path": "protea",
-		"slug": "protea",
-		"title": "Protea"
-	},
-	{
-		"forks": 1,
 		"name": "ProteaNetwork/blockparty",
 		"stars": 1,
 		"watchers": 0,
@@ -41,6 +29,18 @@
 		"stars": 2,
 		"watchers": 0,
 		"repo_name": "ProteaNetwork/protea-gather",
+		"ecosystem_slug": "protea",
+		"parent_slug": null,
+		"path": "protea",
+		"slug": "protea",
+		"title": "Protea"
+	},
+	{
+		"forks": 1,
+		"name": "ProteaNetwork/Protea-MVD",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "ProteaNetwork/Protea-MVD",
 		"ecosystem_slug": "protea",
 		"parent_slug": null,
 		"path": "protea",

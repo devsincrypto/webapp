@@ -36,7 +36,7 @@
 		"title": "xToken"
 	},
 	{
-		"forks": 2,
+		"forks": 3,
 		"name": "xtokenmarket/xaave",
 		"stars": 4,
 		"watchers": 0,
@@ -60,11 +60,11 @@
 		"title": "xToken"
 	},
 	{
-		"forks": 0,
-		"name": "xtokenmarket/xu3lp",
-		"stars": 3,
+		"forks": 1,
+		"name": "xtokenmarket/xinch",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "xtokenmarket/xu3lp",
+		"repo_name": "xtokenmarket/xinch",
 		"ecosystem_slug": "xtoken",
 		"parent_slug": "ethereum",
 		"path": "ethereum/xtoken",
@@ -72,11 +72,11 @@
 		"title": "xToken"
 	},
 	{
-		"forks": 1,
-		"name": "xtokenmarket/xinch",
-		"stars": 2,
+		"forks": 0,
+		"name": "xtokenmarket/xu3lp",
+		"stars": 3,
 		"watchers": 0,
-		"repo_name": "xtokenmarket/xinch",
+		"repo_name": "xtokenmarket/xu3lp",
 		"ecosystem_slug": "xtoken",
 		"parent_slug": "ethereum",
 		"path": "ethereum/xtoken",
@@ -121,18 +121,6 @@
 	},
 	{
 		"forks": 0,
-		"name": "xtokenmarket/DeFi-Pulse-Adapters",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "xtokenmarket/DeFi-Pulse-Adapters",
-		"ecosystem_slug": "xtoken",
-		"parent_slug": "ethereum",
-		"path": "ethereum/xtoken",
-		"slug": "xtoken",
-		"title": "xToken"
-	},
-	{
-		"forks": 0,
 		"name": "xtokenmarket/DefiLlama-Adapters",
 		"stars": 0,
 		"watchers": 0,
@@ -149,6 +137,18 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "xtokenmarket/abis",
+		"ecosystem_slug": "xtoken",
+		"parent_slug": "ethereum",
+		"path": "ethereum/xtoken",
+		"slug": "xtoken",
+		"title": "xToken"
+	},
+	{
+		"forks": 0,
+		"name": "xtokenmarket/DeFi-Pulse-Adapters",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "xtokenmarket/DeFi-Pulse-Adapters",
 		"ecosystem_slug": "xtoken",
 		"parent_slug": "ethereum",
 		"path": "ethereum/xtoken",

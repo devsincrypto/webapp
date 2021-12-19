@@ -1,6 +1,6 @@
 [
 	{
-		"forks": 8,
+		"forks": 9,
 		"name": "boxproject/voucher",
 		"stars": 37,
 		"watchers": 0,
@@ -24,11 +24,11 @@
 		"title": "BOX Token"
 	},
 	{
-		"forks": 10,
-		"name": "boxproject/boxwallet",
-		"stars": 17,
+		"forks": 5,
+		"name": "boxproject/agent",
+		"stars": 22,
 		"watchers": 0,
-		"repo_name": "boxproject/boxwallet",
+		"repo_name": "boxproject/agent",
 		"ecosystem_slug": "box-token",
 		"parent_slug": null,
 		"path": "box-token",
@@ -36,11 +36,11 @@
 		"title": "BOX Token"
 	},
 	{
-		"forks": 5,
-		"name": "boxproject/agent",
-		"stars": 22,
+		"forks": 10,
+		"name": "boxproject/boxwallet",
+		"stars": 17,
 		"watchers": 0,
-		"repo_name": "boxproject/agent",
+		"repo_name": "boxproject/boxwallet",
 		"ecosystem_slug": "box-token",
 		"parent_slug": null,
 		"path": "box-token",
@@ -120,18 +120,6 @@
 		"title": "BOX Token"
 	},
 	{
-		"forks": 1,
-		"name": "boxproject/deploy-doc",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "boxproject/deploy-doc",
-		"ecosystem_slug": "box-token",
-		"parent_slug": null,
-		"path": "box-token",
-		"slug": "box-token",
-		"title": "BOX Token"
-	},
-	{
 		"forks": 2,
 		"name": "boxproject/boxguard",
 		"stars": 1,
@@ -144,11 +132,11 @@
 		"title": "BOX Token"
 	},
 	{
-		"forks": 0,
-		"name": "boxproject/privatesale",
-		"stars": 1,
+		"forks": 1,
+		"name": "boxproject/deploy-doc",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "boxproject/privatesale",
+		"repo_name": "boxproject/deploy-doc",
 		"ecosystem_slug": "box-token",
 		"parent_slug": null,
 		"path": "box-token",
@@ -169,10 +157,22 @@
 	},
 	{
 		"forks": 0,
-		"name": "boxproject/token-profile",
+		"name": "boxproject/privatesale",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "boxproject/privatesale",
+		"ecosystem_slug": "box-token",
+		"parent_slug": null,
+		"path": "box-token",
+		"slug": "box-token",
+		"title": "BOX Token"
+	},
+	{
+		"forks": 0,
+		"name": "boxproject/eth-contract-metadata",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "boxproject/token-profile",
+		"repo_name": "boxproject/eth-contract-metadata",
 		"ecosystem_slug": "box-token",
 		"parent_slug": null,
 		"path": "box-token",
@@ -193,10 +193,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "boxproject/eth-contract-metadata",
+		"name": "boxproject/token-profile",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "boxproject/eth-contract-metadata",
+		"repo_name": "boxproject/token-profile",
 		"ecosystem_slug": "box-token",
 		"parent_slug": null,
 		"path": "box-token",

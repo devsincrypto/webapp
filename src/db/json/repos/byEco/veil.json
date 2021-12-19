@@ -12,11 +12,11 @@
 		"title": "Veil"
 	},
 	{
-		"forks": 9,
-		"name": "veilco/veil-market-creation",
-		"stars": 23,
+		"forks": 16,
+		"name": "veilco/veil-contracts",
+		"stars": 17,
 		"watchers": 0,
-		"repo_name": "veilco/veil-market-creation",
+		"repo_name": "veilco/veil-contracts",
 		"ecosystem_slug": "veil",
 		"parent_slug": "augur",
 		"path": "ethereum/augur/veil",
@@ -24,11 +24,11 @@
 		"title": "Veil"
 	},
 	{
-		"forks": 15,
-		"name": "veilco/veil-contracts",
-		"stars": 17,
+		"forks": 9,
+		"name": "veilco/veil-market-creation",
+		"stars": 23,
 		"watchers": 0,
-		"repo_name": "veilco/veil-contracts",
+		"repo_name": "veilco/veil-market-creation",
 		"ecosystem_slug": "veil",
 		"parent_slug": "augur",
 		"path": "ethereum/augur/veil",

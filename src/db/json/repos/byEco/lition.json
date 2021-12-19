@@ -2,7 +2,7 @@
 	{
 		"forks": 15,
 		"name": "lition-blockchain/energy-use-case-trading-client",
-		"stars": 16,
+		"stars": 17,
 		"watchers": 0,
 		"repo_name": "lition-blockchain/energy-use-case-trading-client",
 		"ecosystem_slug": "lition",
@@ -12,9 +12,9 @@
 		"title": "Lition"
 	},
 	{
-		"forks": 6,
+		"forks": 7,
 		"name": "lition-blockchain/energy-use-case-contracts",
-		"stars": 19,
+		"stars": 20,
 		"watchers": 0,
 		"repo_name": "lition-blockchain/energy-use-case-contracts",
 		"ecosystem_slug": "lition",
@@ -36,11 +36,11 @@
 		"title": "Lition"
 	},
 	{
-		"forks": 3,
-		"name": "lition-blockchain/syndicate-loan-use-case",
+		"forks": 6,
+		"name": "lition-blockchain/uniswap-frontend",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "lition-blockchain/syndicate-loan-use-case",
+		"repo_name": "lition-blockchain/uniswap-frontend",
 		"ecosystem_slug": "lition",
 		"parent_slug": null,
 		"path": "lition",
@@ -49,10 +49,10 @@
 	},
 	{
 		"forks": 3,
-		"name": "lition-blockchain/uniswap-frontend",
+		"name": "lition-blockchain/syndicate-loan-use-case",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "lition-blockchain/uniswap-frontend",
+		"repo_name": "lition-blockchain/syndicate-loan-use-case",
 		"ecosystem_slug": "lition",
 		"parent_slug": null,
 		"path": "lition",

@@ -12,9 +12,9 @@
 		"title": "Hegic"
 	},
 	{
-		"forks": 25,
+		"forks": 26,
 		"name": "hegic/contracts-v1",
-		"stars": 41,
+		"stars": 44,
 		"watchers": 0,
 		"repo_name": "hegic/contracts-v1",
 		"ecosystem_slug": "hegic",
@@ -36,7 +36,7 @@
 		"title": "Hegic"
 	},
 	{
-		"forks": 16,
+		"forks": 17,
 		"name": "hegic/contracts",
 		"stars": 24,
 		"watchers": 0,
@@ -48,9 +48,9 @@
 		"title": "Hegic"
 	},
 	{
-		"forks": 2,
+		"forks": 3,
 		"name": "hegic/cryptoanonsense",
-		"stars": 26,
+		"stars": 31,
 		"watchers": 0,
 		"repo_name": "hegic/cryptoanonsense",
 		"ecosystem_slug": "hegic",
@@ -60,11 +60,23 @@
 		"title": "Hegic"
 	},
 	{
-		"forks": 9,
+		"forks": 10,
 		"name": "hegic/initial-bonding-curve-offering",
 		"stars": 14,
 		"watchers": 0,
 		"repo_name": "hegic/initial-bonding-curve-offering",
+		"ecosystem_slug": "hegic",
+		"parent_slug": "ethereum",
+		"path": "ethereum/hegic",
+		"slug": "hegic",
+		"title": "Hegic"
+	},
+	{
+		"forks": 6,
+		"name": "hegic/frontend-v1.1",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "hegic/frontend-v1.1",
 		"ecosystem_slug": "hegic",
 		"parent_slug": "ethereum",
 		"path": "ethereum/hegic",
@@ -77,18 +89,6 @@
 		"stars": 4,
 		"watchers": 0,
 		"repo_name": "hegic/GradualTokenSwap",
-		"ecosystem_slug": "hegic",
-		"parent_slug": "ethereum",
-		"path": "ethereum/hegic",
-		"slug": "hegic",
-		"title": "Hegic"
-	},
-	{
-		"forks": 5,
-		"name": "hegic/frontend-v1.1",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "hegic/frontend-v1.1",
 		"ecosystem_slug": "hegic",
 		"parent_slug": "ethereum",
 		"path": "ethereum/hegic",
@@ -145,18 +145,6 @@
 	},
 	{
 		"forks": 0,
-		"name": "hegic/DeFi-Pulse-Adapters",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "hegic/DeFi-Pulse-Adapters",
-		"ecosystem_slug": "hegic",
-		"parent_slug": "ethereum",
-		"path": "ethereum/hegic",
-		"slug": "hegic",
-		"title": "Hegic"
-	},
-	{
-		"forks": 0,
 		"name": "hegic/old-dao-contributions",
 		"stars": 0,
 		"watchers": 0,
@@ -173,6 +161,18 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "hegic/whiteheart-front",
+		"ecosystem_slug": "hegic",
+		"parent_slug": "ethereum",
+		"path": "ethereum/hegic",
+		"slug": "hegic",
+		"title": "Hegic"
+	},
+	{
+		"forks": 0,
+		"name": "hegic/DeFi-Pulse-Adapters",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "hegic/DeFi-Pulse-Adapters",
 		"ecosystem_slug": "hegic",
 		"parent_slug": "ethereum",
 		"path": "ethereum/hegic",

@@ -36,11 +36,11 @@
 		"title": "XMax"
 	},
 	{
-		"forks": 3,
-		"name": "XMaxPlatform/xmaxjs-ecc-lib",
-		"stars": 4,
+		"forks": 2,
+		"name": "XMaxPlatform/xmax-studio-js",
+		"stars": 5,
 		"watchers": 0,
-		"repo_name": "XMaxPlatform/xmaxjs-ecc-lib",
+		"repo_name": "XMaxPlatform/xmax-studio-js",
 		"ecosystem_slug": "xmax",
 		"parent_slug": null,
 		"path": "xmax",
@@ -48,11 +48,11 @@
 		"title": "XMax"
 	},
 	{
-		"forks": 2,
-		"name": "XMaxPlatform/xmax-studio-js",
-		"stars": 5,
+		"forks": 3,
+		"name": "XMaxPlatform/xmaxjs-ecc-lib",
+		"stars": 4,
 		"watchers": 0,
-		"repo_name": "XMaxPlatform/xmax-studio-js",
+		"repo_name": "XMaxPlatform/xmaxjs-ecc-lib",
 		"ecosystem_slug": "xmax",
 		"parent_slug": null,
 		"path": "xmax",

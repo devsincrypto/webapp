@@ -24,18 +24,6 @@
 		"title": "InterValue"
 	},
 	{
-		"forks": 0,
-		"name": "intervalue/intervalue-lightnodecore-2.0-testnet",
-		"stars": 7,
-		"watchers": 0,
-		"repo_name": "intervalue/intervalue-lightnodecore-2.0-testnet",
-		"ecosystem_slug": "intervalue",
-		"parent_slug": null,
-		"path": "intervalue",
-		"slug": "intervalue",
-		"title": "InterValue"
-	},
-	{
 		"forks": 1,
 		"name": "intervalue/intervalue-lightnode-3.0-testnet",
 		"stars": 6,
@@ -48,11 +36,23 @@
 		"title": "InterValue"
 	},
 	{
-		"forks": 2,
-		"name": "intervalue/inWallet",
+		"forks": 0,
+		"name": "intervalue/intervalue-lightnodecore-2.0-testnet",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "intervalue/intervalue-lightnodecore-2.0-testnet",
+		"ecosystem_slug": "intervalue",
+		"parent_slug": null,
+		"path": "intervalue",
+		"slug": "intervalue",
+		"title": "InterValue"
+	},
+	{
+		"forks": 3,
+		"name": "intervalue/inWalletcore",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "intervalue/inWallet",
+		"repo_name": "intervalue/inWalletcore",
 		"ecosystem_slug": "intervalue",
 		"parent_slug": null,
 		"path": "intervalue",
@@ -72,11 +72,11 @@
 		"title": "InterValue"
 	},
 	{
-		"forks": 3,
-		"name": "intervalue/inWalletcore",
-		"stars": 0,
+		"forks": 2,
+		"name": "intervalue/inWallet",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "intervalue/inWalletcore",
+		"repo_name": "intervalue/inWallet",
 		"ecosystem_slug": "intervalue",
 		"parent_slug": null,
 		"path": "intervalue",

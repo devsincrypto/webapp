@@ -12,7 +12,7 @@
 		"title": "IoT Chain"
 	},
 	{
-		"forks": 7,
+		"forks": 8,
 		"name": "IoTChainCode/tokenAirdrop",
 		"stars": 16,
 		"watchers": 0,
@@ -37,18 +37,6 @@
 	},
 	{
 		"forks": 0,
-		"name": "IoTChainCode/hardware_project",
-		"stars": 3,
-		"watchers": 0,
-		"repo_name": "IoTChainCode/hardware_project",
-		"ecosystem_slug": "iot-chain",
-		"parent_slug": null,
-		"path": "iot-chain",
-		"slug": "iot-chain",
-		"title": "IoT Chain"
-	},
-	{
-		"forks": 0,
 		"name": "IoTChainCode/iotchain_client",
 		"stars": 3,
 		"watchers": 0,
@@ -61,10 +49,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "IoTChainCode/Documents",
-		"stars": 2,
+		"name": "IoTChainCode/hardware_project",
+		"stars": 3,
 		"watchers": 0,
-		"repo_name": "IoTChainCode/Documents",
+		"repo_name": "IoTChainCode/hardware_project",
 		"ecosystem_slug": "iot-chain",
 		"parent_slug": null,
 		"path": "iot-chain",
@@ -77,6 +65,18 @@
 		"stars": 1,
 		"watchers": 0,
 		"repo_name": "IoTChainCode/hardware_exploration",
+		"ecosystem_slug": "iot-chain",
+		"parent_slug": null,
+		"path": "iot-chain",
+		"slug": "iot-chain",
+		"title": "IoT Chain"
+	},
+	{
+		"forks": 0,
+		"name": "IoTChainCode/Documents",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "IoTChainCode/Documents",
 		"ecosystem_slug": "iot-chain",
 		"parent_slug": null,
 		"path": "iot-chain",
@@ -109,6 +109,18 @@
 	},
 	{
 		"forks": 0,
+		"name": "IoTChainCode/taskServer",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "IoTChainCode/taskServer",
+		"ecosystem_slug": "iot-chain",
+		"parent_slug": null,
+		"path": "iot-chain",
+		"slug": "iot-chain",
+		"title": "IoT Chain"
+	},
+	{
+		"forks": 0,
 		"name": "IoTChainCode/bountyWebsite",
 		"stars": 0,
 		"watchers": 0,
@@ -125,18 +137,6 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "IoTChainCode/taskClient",
-		"ecosystem_slug": "iot-chain",
-		"parent_slug": null,
-		"path": "iot-chain",
-		"slug": "iot-chain",
-		"title": "IoT Chain"
-	},
-	{
-		"forks": 0,
-		"name": "IoTChainCode/taskServer",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "IoTChainCode/taskServer",
 		"ecosystem_slug": "iot-chain",
 		"parent_slug": null,
 		"path": "iot-chain",

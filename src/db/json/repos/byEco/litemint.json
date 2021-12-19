@@ -1,10 +1,22 @@
 [
 	{
-		"forks": 24,
+		"forks": 27,
 		"name": "litemint/litemint",
-		"stars": 46,
+		"stars": 48,
 		"watchers": 0,
 		"repo_name": "litemint/litemint",
+		"ecosystem_slug": "litemint",
+		"parent_slug": "stellar",
+		"path": "stellar/litemint",
+		"slug": "litemint",
+		"title": "Litemint"
+	},
+	{
+		"forks": 10,
+		"name": "litemint/litemint-io-community-resources",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "litemint/litemint-io-community-resources",
 		"ecosystem_slug": "litemint",
 		"parent_slug": "stellar",
 		"path": "stellar/litemint",
@@ -29,18 +41,6 @@
 		"stars": 6,
 		"watchers": 0,
 		"repo_name": "litemint/litemint-android",
-		"ecosystem_slug": "litemint",
-		"parent_slug": "stellar",
-		"path": "stellar/litemint",
-		"slug": "litemint",
-		"title": "Litemint"
-	},
-	{
-		"forks": 9,
-		"name": "litemint/litemint-io-community-resources",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "litemint/litemint-io-community-resources",
 		"ecosystem_slug": "litemint",
 		"parent_slug": "stellar",
 		"path": "stellar/litemint",

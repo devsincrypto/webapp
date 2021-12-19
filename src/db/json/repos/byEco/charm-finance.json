@@ -13,6 +13,18 @@
 	},
 	{
 		"forks": 0,
+		"name": "charm-finance/bug-bounty",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "charm-finance/bug-bounty",
+		"ecosystem_slug": "charm-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/charm-finance",
+		"slug": "charm-finance",
+		"title": "Charm Finance"
+	},
+	{
+		"forks": 0,
 		"name": "Charm-Finance/charm-research",
 		"stars": 0,
 		"watchers": 0,
@@ -29,18 +41,6 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "Charm-Finance/charm-misc",
-		"ecosystem_slug": "charm-finance",
-		"parent_slug": "ethereum",
-		"path": "ethereum/charm-finance",
-		"slug": "charm-finance",
-		"title": "Charm Finance"
-	},
-	{
-		"forks": 0,
-		"name": "charm-finance/bug-bounty",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "charm-finance/bug-bounty",
 		"ecosystem_slug": "charm-finance",
 		"parent_slug": "ethereum",
 		"path": "ethereum/charm-finance",

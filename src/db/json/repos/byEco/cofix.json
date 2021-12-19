@@ -2,7 +2,7 @@
 	{
 		"forks": 17,
 		"name": "Computable-Finance/CoFiX",
-		"stars": 46,
+		"stars": 47,
 		"watchers": 0,
 		"repo_name": "Computable-Finance/CoFiX",
 		"ecosystem_slug": "cofix",
@@ -14,7 +14,7 @@
 	{
 		"forks": 9,
 		"name": "Computable-Finance/Doc",
-		"stars": 7,
+		"stars": 8,
 		"watchers": 0,
 		"repo_name": "Computable-Finance/Doc",
 		"ecosystem_slug": "cofix",
@@ -108,11 +108,11 @@
 		"title": "CoFix"
 	},
 	{
-		"forks": 0,
-		"name": "Computable-Finance/CoFiX-Announcement",
-		"stars": 1,
+		"forks": 1,
+		"name": "Computable-Finance/NEST-oracle-V3-web",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "Computable-Finance/CoFiX-Announcement",
+		"repo_name": "Computable-Finance/NEST-oracle-V3-web",
 		"ecosystem_slug": "cofix",
 		"parent_slug": "ethereum",
 		"path": "ethereum/cofix",
@@ -120,11 +120,11 @@
 		"title": "CoFix"
 	},
 	{
-		"forks": 1,
-		"name": "Computable-Finance/NEST-oracle-V3-web",
-		"stars": 0,
+		"forks": 0,
+		"name": "Computable-Finance/CoFiX-Announcement",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "Computable-Finance/NEST-oracle-V3-web",
+		"repo_name": "Computable-Finance/CoFiX-Announcement",
 		"ecosystem_slug": "cofix",
 		"parent_slug": "ethereum",
 		"path": "ethereum/cofix",

@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 38,
+		"forks": 43,
 		"name": "paraswap/paraswap-sdk",
-		"stars": 109,
+		"stars": 129,
 		"watchers": 0,
 		"repo_name": "paraswap/paraswap-sdk",
 		"ecosystem_slug": "paraswap",
@@ -12,9 +12,9 @@
 		"title": "Paraswap"
 	},
 	{
-		"forks": 20,
+		"forks": 33,
 		"name": "paraswap/CrossChainArbitrageBot",
-		"stars": 33,
+		"stars": 49,
 		"watchers": 0,
 		"repo_name": "paraswap/CrossChainArbitrageBot",
 		"ecosystem_slug": "paraswap",
@@ -26,7 +26,7 @@
 	{
 		"forks": 9,
 		"name": "paraswap/demo-dapp",
-		"stars": 15,
+		"stars": 16,
 		"watchers": 0,
 		"repo_name": "paraswap/demo-dapp",
 		"ecosystem_slug": "paraswap",
@@ -36,9 +36,9 @@
 		"title": "Paraswap"
 	},
 	{
-		"forks": 5,
+		"forks": 6,
 		"name": "paraswap/paraswap-bot",
-		"stars": 13,
+		"stars": 17,
 		"watchers": 0,
 		"repo_name": "paraswap/paraswap-bot",
 		"ecosystem_slug": "paraswap",
@@ -50,7 +50,7 @@
 	{
 		"forks": 9,
 		"name": "paraswap/paraswap-widget",
-		"stars": 5,
+		"stars": 6,
 		"watchers": 0,
 		"repo_name": "paraswap/paraswap-widget",
 		"ecosystem_slug": "paraswap",
@@ -60,9 +60,9 @@
 		"title": "Paraswap"
 	},
 	{
-		"forks": 2,
+		"forks": 3,
 		"name": "paraswap/paraswap-subgraph",
-		"stars": 5,
+		"stars": 6,
 		"watchers": 0,
 		"repo_name": "paraswap/paraswap-subgraph",
 		"ecosystem_slug": "paraswap",
@@ -77,18 +77,6 @@
 		"stars": 3,
 		"watchers": 0,
 		"repo_name": "paraswap/wallet-connect-relay-heroku",
-		"ecosystem_slug": "paraswap",
-		"parent_slug": "ethereum",
-		"path": "ethereum/paraswap",
-		"slug": "paraswap",
-		"title": "Paraswap"
-	},
-	{
-		"forks": 1,
-		"name": "paraswap/parity-load-balancer-health-checker",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "paraswap/parity-load-balancer-health-checker",
 		"ecosystem_slug": "paraswap",
 		"parent_slug": "ethereum",
 		"path": "ethereum/paraswap",
@@ -113,6 +101,18 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "paraswap/l2s-handbook",
+		"ecosystem_slug": "paraswap",
+		"parent_slug": "ethereum",
+		"path": "ethereum/paraswap",
+		"slug": "paraswap",
+		"title": "Paraswap"
+	},
+	{
+		"forks": 1,
+		"name": "paraswap/parity-load-balancer-health-checker",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "paraswap/parity-load-balancer-health-checker",
 		"ecosystem_slug": "paraswap",
 		"parent_slug": "ethereum",
 		"path": "ethereum/paraswap",

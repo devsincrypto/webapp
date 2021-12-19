@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 200,
+		"forks": 206,
 		"name": "Zokrates/ZoKrates",
-		"stars": 711,
+		"stars": 749,
 		"watchers": 0,
 		"repo_name": "Zokrates/ZoKrates",
 		"ecosystem_slug": "zokrates",
@@ -14,7 +14,7 @@
 	{
 		"forks": 12,
 		"name": "Zokrates/pycrypto",
-		"stars": 25,
+		"stars": 26,
 		"watchers": 0,
 		"repo_name": "Zokrates/pycrypto",
 		"ecosystem_slug": "zokrates",
@@ -37,6 +37,18 @@
 	},
 	{
 		"forks": 2,
+		"name": "Zokrates/libsnark",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Zokrates/libsnark",
+		"ecosystem_slug": "zokrates",
+		"parent_slug": "ethereum",
+		"path": "ethereum/zokrates",
+		"slug": "zokrates",
+		"title": "ZoKrates"
+	},
+	{
+		"forks": 2,
 		"name": "Zokrates/zokrates.github.io",
 		"stars": 1,
 		"watchers": 0,
@@ -48,11 +60,11 @@
 		"title": "ZoKrates"
 	},
 	{
-		"forks": 2,
-		"name": "Zokrates/libsnark",
+		"forks": 0,
+		"name": "Zokrates/zokrates-remix-plugin",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "Zokrates/libsnark",
+		"repo_name": "Zokrates/zokrates-remix-plugin",
 		"ecosystem_slug": "zokrates",
 		"parent_slug": "ethereum",
 		"path": "ethereum/zokrates",
@@ -89,18 +101,6 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "Zokrates/cross-circle",
-		"ecosystem_slug": "zokrates",
-		"parent_slug": "ethereum",
-		"path": "ethereum/zokrates",
-		"slug": "zokrates",
-		"title": "ZoKrates"
-	},
-	{
-		"forks": 0,
-		"name": "Zokrates/zokrates-remix-plugin",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "Zokrates/zokrates-remix-plugin",
 		"ecosystem_slug": "zokrates",
 		"parent_slug": "ethereum",
 		"path": "ethereum/zokrates",

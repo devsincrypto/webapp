@@ -24,7 +24,7 @@
 		"title": "Float Protocol"
 	},
 	{
-		"forks": 2,
+		"forks": 3,
 		"name": "FloatProtocol/float-bot-template",
 		"stars": 6,
 		"watchers": 0,
@@ -60,6 +60,18 @@
 		"title": "Float Protocol"
 	},
 	{
+		"forks": 2,
+		"name": "FloatProtocol/crypto-discord-bots",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "FloatProtocol/crypto-discord-bots",
+		"ecosystem_slug": "float-protocol",
+		"parent_slug": null,
+		"path": "float-protocol",
+		"slug": "float-protocol",
+		"title": "Float Protocol"
+	},
+	{
 		"forks": 1,
 		"name": "FloatProtocol/snapshot-spaces",
 		"stars": 1,
@@ -72,23 +84,11 @@
 		"title": "Float Protocol"
 	},
 	{
-		"forks": 1,
-		"name": "FloatProtocol/crypto-discord-bots",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "FloatProtocol/crypto-discord-bots",
-		"ecosystem_slug": "float-protocol",
-		"parent_slug": null,
-		"path": "float-protocol",
-		"slug": "float-protocol",
-		"title": "Float Protocol"
-	},
-	{
 		"forks": 0,
-		"name": "FloatProtocol/assets",
+		"name": "FloatProtocol/snapshot.js",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "FloatProtocol/assets",
+		"repo_name": "FloatProtocol/snapshot.js",
 		"ecosystem_slug": "float-protocol",
 		"parent_slug": null,
 		"path": "float-protocol",
@@ -109,10 +109,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "FloatProtocol/snapshot.js",
+		"name": "FloatProtocol/assets",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "FloatProtocol/snapshot.js",
+		"repo_name": "FloatProtocol/assets",
 		"ecosystem_slug": "float-protocol",
 		"parent_slug": null,
 		"path": "float-protocol",

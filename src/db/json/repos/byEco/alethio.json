@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 86,
+		"forks": 90,
 		"name": "Alethio/ethereum-lite-explorer",
-		"stars": 147,
+		"stars": 156,
 		"watchers": 0,
 		"repo_name": "Alethio/ethereum-lite-explorer",
 		"ecosystem_slug": "alethio",
@@ -26,7 +26,7 @@
 	{
 		"forks": 20,
 		"name": "Alethio/ethstats-network-dashboard",
-		"stars": 41,
+		"stars": 44,
 		"watchers": 0,
 		"repo_name": "Alethio/ethstats-network-dashboard",
 		"ecosystem_slug": "alethio",
@@ -50,7 +50,7 @@
 	{
 		"forks": 17,
 		"name": "Alethio/eth2stats-client",
-		"stars": 30,
+		"stars": 32,
 		"watchers": 0,
 		"repo_name": "Alethio/eth2stats-client",
 		"ecosystem_slug": "alethio",
@@ -96,7 +96,7 @@
 		"title": "Alethio"
 	},
 	{
-		"forks": 9,
+		"forks": 11,
 		"name": "Alethio/web3-multicall-go",
 		"stars": 9,
 		"watchers": 0,
@@ -132,7 +132,7 @@
 		"title": "Alethio"
 	},
 	{
-		"forks": 2,
+		"forks": 3,
 		"name": "Alethio/ui",
 		"stars": 4,
 		"watchers": 0,
@@ -156,11 +156,11 @@
 		"title": "Alethio"
 	},
 	{
-		"forks": 2,
-		"name": "Alethio/explorer-plugin-3box",
-		"stars": 2,
+		"forks": 3,
+		"name": "Alethio/explorer-plugin-eth-ibft2",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "Alethio/explorer-plugin-3box",
+		"repo_name": "Alethio/explorer-plugin-eth-ibft2",
 		"ecosystem_slug": "alethio",
 		"parent_slug": "ethereum",
 		"path": "ethereum/alethio",
@@ -168,11 +168,11 @@
 		"title": "Alethio"
 	},
 	{
-		"forks": 3,
-		"name": "Alethio/explorer-plugin-eth-ibft2",
-		"stars": 1,
+		"forks": 2,
+		"name": "Alethio/explorer-plugin-3box",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "Alethio/explorer-plugin-eth-ibft2",
+		"repo_name": "Alethio/explorer-plugin-3box",
 		"ecosystem_slug": "alethio",
 		"parent_slug": "ethereum",
 		"path": "ethereum/alethio",
@@ -229,6 +229,18 @@
 	},
 	{
 		"forks": 0,
+		"name": "Alethio/web3-balance-go",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Alethio/web3-balance-go",
+		"ecosystem_slug": "alethio",
+		"parent_slug": "ethereum",
+		"path": "ethereum/alethio",
+		"slug": "alethio",
+		"title": "Alethio"
+	},
+	{
+		"forks": 0,
 		"name": "Alethio/explorer-plugin-opensea",
 		"stars": 1,
 		"watchers": 0,
@@ -253,10 +265,22 @@
 	},
 	{
 		"forks": 0,
-		"name": "Alethio/web3-balance-go",
-		"stars": 1,
+		"name": "Alethio/static-assets",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "Alethio/web3-balance-go",
+		"repo_name": "Alethio/static-assets",
+		"ecosystem_slug": "alethio",
+		"parent_slug": "ethereum",
+		"path": "ethereum/alethio",
+		"slug": "alethio",
+		"title": "Alethio"
+	},
+	{
+		"forks": 0,
+		"name": "Alethio/explorer-plugin-mythx",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Alethio/explorer-plugin-mythx",
 		"ecosystem_slug": "alethio",
 		"parent_slug": "ethereum",
 		"path": "ethereum/alethio",
@@ -289,46 +313,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "Alethio/static-assets",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "Alethio/static-assets",
-		"ecosystem_slug": "alethio",
-		"parent_slug": "ethereum",
-		"path": "ethereum/alethio",
-		"slug": "alethio",
-		"title": "Alethio"
-	},
-	{
-		"forks": 0,
-		"name": "Alethio/cms-plugin-api",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "Alethio/cms-plugin-api",
-		"ecosystem_slug": "alethio",
-		"parent_slug": "ethereum",
-		"path": "ethereum/alethio",
-		"slug": "alethio",
-		"title": "Alethio"
-	},
-	{
-		"forks": 0,
 		"name": "Alethio/testnet",
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "Alethio/testnet",
-		"ecosystem_slug": "alethio",
-		"parent_slug": "ethereum",
-		"path": "ethereum/alethio",
-		"slug": "alethio",
-		"title": "Alethio"
-	},
-	{
-		"forks": 0,
-		"name": "Alethio/ReDoc",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "Alethio/ReDoc",
 		"ecosystem_slug": "alethio",
 		"parent_slug": "ethereum",
 		"path": "ethereum/alethio",
@@ -349,10 +337,22 @@
 	},
 	{
 		"forks": 0,
-		"name": "Alethio/explorer-plugin-mythx",
+		"name": "Alethio/cms-plugin-api",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "Alethio/explorer-plugin-mythx",
+		"repo_name": "Alethio/cms-plugin-api",
+		"ecosystem_slug": "alethio",
+		"parent_slug": "ethereum",
+		"path": "ethereum/alethio",
+		"slug": "alethio",
+		"title": "Alethio"
+	},
+	{
+		"forks": 0,
+		"name": "Alethio/ReDoc",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Alethio/ReDoc",
 		"ecosystem_slug": "alethio",
 		"parent_slug": "ethereum",
 		"path": "ethereum/alethio",

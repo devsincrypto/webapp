@@ -1,0 +1,20 @@
+on:
+    push:
+        paths:
+            - 'devsincrypto.sqlite.tar.gz'
+
+jobs:
+    # Run `yarn generate-json` each time the devsincrypto.sqlite.tar.gz changes
+    generate-json:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - run: yarn install
+            - run: tar -xzvf devsincrypto.sqlite.tar.gz
+            - run: yarn generate-json
+            - name: Push commit with changes
+              run: |
+                  git config --global user.name 'devsincrypto_bot'
+                  git config --global user.email 'amaury@devsincrypto.com'
+                  git commit -am "chore: Regenerate JSON"
+                  git push

@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 222,
+		"forks": 386,
 		"name": "project-serum/anchor",
-		"stars": 647,
+		"stars": 1186,
 		"watchers": 0,
 		"repo_name": "project-serum/anchor",
 		"ecosystem_slug": "project-serum",
@@ -12,9 +12,9 @@
 		"title": "Project Serum"
 	},
 	{
-		"forks": 227,
+		"forks": 278,
 		"name": "project-serum/spl-token-wallet",
-		"stars": 520,
+		"stars": 665,
 		"watchers": 0,
 		"repo_name": "project-serum/spl-token-wallet",
 		"ecosystem_slug": "project-serum",
@@ -24,9 +24,9 @@
 		"title": "Project Serum"
 	},
 	{
-		"forks": 334,
+		"forks": 426,
 		"name": "project-serum/serum-dex-ui",
-		"stars": 243,
+		"stars": 289,
 		"watchers": 0,
 		"repo_name": "project-serum/serum-dex-ui",
 		"ecosystem_slug": "project-serum",
@@ -36,9 +36,9 @@
 		"title": "Project Serum"
 	},
 	{
-		"forks": 122,
+		"forks": 167,
 		"name": "project-serum/serum-dex",
-		"stars": 319,
+		"stars": 396,
 		"watchers": 0,
 		"repo_name": "project-serum/serum-dex",
 		"ecosystem_slug": "project-serum",
@@ -48,21 +48,9 @@
 		"title": "Project Serum"
 	},
 	{
-		"forks": 178,
-		"name": "project-serum/oyster-swap",
-		"stars": 96,
-		"watchers": 0,
-		"repo_name": "project-serum/oyster-swap",
-		"ecosystem_slug": "project-serum",
-		"parent_slug": "solana",
-		"path": "solana/project-serum",
-		"slug": "project-serum",
-		"title": "Project Serum"
-	},
-	{
-		"forks": 131,
+		"forks": 158,
 		"name": "project-serum/serum-ts",
-		"stars": 131,
+		"stars": 171,
 		"watchers": 0,
 		"repo_name": "project-serum/serum-ts",
 		"ecosystem_slug": "project-serum",
@@ -72,9 +60,21 @@
 		"title": "Project Serum"
 	},
 	{
-		"forks": 38,
+		"forks": 198,
+		"name": "project-serum/oyster-swap",
+		"stars": 102,
+		"watchers": 0,
+		"repo_name": "project-serum/oyster-swap",
+		"ecosystem_slug": "project-serum",
+		"parent_slug": "solana",
+		"path": "solana/project-serum",
+		"slug": "project-serum",
+		"title": "Project Serum"
+	},
+	{
+		"forks": 42,
 		"name": "project-serum/awesome-serum",
-		"stars": 174,
+		"stars": 209,
 		"watchers": 0,
 		"repo_name": "project-serum/awesome-serum",
 		"ecosystem_slug": "project-serum",
@@ -84,9 +84,9 @@
 		"title": "Project Serum"
 	},
 	{
-		"forks": 67,
+		"forks": 76,
 		"name": "project-serum/sol-wallet-adapter",
-		"stars": 125,
+		"stars": 150,
 		"watchers": 0,
 		"repo_name": "project-serum/sol-wallet-adapter",
 		"ecosystem_slug": "project-serum",
@@ -96,21 +96,9 @@
 		"title": "Project Serum"
 	},
 	{
-		"forks": 23,
-		"name": "project-serum/serum-js",
-		"stars": 72,
-		"watchers": 0,
-		"repo_name": "project-serum/serum-js",
-		"ecosystem_slug": "project-serum",
-		"parent_slug": "solana",
-		"path": "solana/project-serum",
-		"slug": "project-serum",
-		"title": "Project Serum"
-	},
-	{
-		"forks": 48,
+		"forks": 80,
 		"name": "project-serum/swap-ui",
-		"stars": 45,
+		"stars": 64,
 		"watchers": 0,
 		"repo_name": "project-serum/swap-ui",
 		"ecosystem_slug": "project-serum",
@@ -120,9 +108,45 @@
 		"title": "Project Serum"
 	},
 	{
-		"forks": 18,
+		"forks": 30,
+		"name": "project-serum/serum-js",
+		"stars": 80,
+		"watchers": 0,
+		"repo_name": "project-serum/serum-js",
+		"ecosystem_slug": "project-serum",
+		"parent_slug": "solana",
+		"path": "solana/project-serum",
+		"slug": "project-serum",
+		"title": "Project Serum"
+	},
+	{
+		"forks": 41,
+		"name": "project-serum/multisig",
+		"stars": 61,
+		"watchers": 0,
+		"repo_name": "project-serum/multisig",
+		"ecosystem_slug": "project-serum",
+		"parent_slug": "solana",
+		"path": "solana/project-serum",
+		"slug": "project-serum",
+		"title": "Project Serum"
+	},
+	{
+		"forks": 34,
+		"name": "project-serum/swap",
+		"stars": 41,
+		"watchers": 0,
+		"repo_name": "project-serum/swap",
+		"ecosystem_slug": "project-serum",
+		"parent_slug": "solana",
+		"path": "solana/project-serum",
+		"slug": "project-serum",
+		"title": "Project Serum"
+	},
+	{
+		"forks": 21,
 		"name": "project-serum/validators",
-		"stars": 42,
+		"stars": 46,
 		"watchers": 0,
 		"repo_name": "project-serum/validators",
 		"ecosystem_slug": "project-serum",
@@ -144,23 +168,11 @@
 		"title": "Project Serum"
 	},
 	{
-		"forks": 18,
-		"name": "project-serum/multisig",
-		"stars": 31,
+		"forks": 22,
+		"name": "project-serum/stake",
+		"stars": 18,
 		"watchers": 0,
-		"repo_name": "project-serum/multisig",
-		"ecosystem_slug": "project-serum",
-		"parent_slug": "solana",
-		"path": "solana/project-serum",
-		"slug": "project-serum",
-		"title": "Project Serum"
-	},
-	{
-		"forks": 18,
-		"name": "project-serum/swap",
-		"stars": 26,
-		"watchers": 0,
-		"repo_name": "project-serum/swap",
+		"repo_name": "project-serum/stake",
 		"ecosystem_slug": "project-serum",
 		"parent_slug": "solana",
 		"path": "solana/project-serum",
@@ -180,6 +192,30 @@
 		"title": "Project Serum"
 	},
 	{
+		"forks": 8,
+		"name": "project-serum/serum-rest-server",
+		"stars": 22,
+		"watchers": 0,
+		"repo_name": "project-serum/serum-rest-server",
+		"ecosystem_slug": "project-serum",
+		"parent_slug": "solana",
+		"path": "solana/project-serum",
+		"slug": "project-serum",
+		"title": "Project Serum"
+	},
+	{
+		"forks": 19,
+		"name": "project-serum/stake-ui",
+		"stars": 11,
+		"watchers": 0,
+		"repo_name": "project-serum/stake-ui",
+		"ecosystem_slug": "project-serum",
+		"parent_slug": "solana",
+		"path": "solana/project-serum",
+		"slug": "project-serum",
+		"title": "Project Serum"
+	},
+	{
 		"forks": 1,
 		"name": "project-serum/borsh",
 		"stars": 23,
@@ -192,11 +228,11 @@
 		"title": "Project Serum"
 	},
 	{
-		"forks": 11,
-		"name": "project-serum/stake",
-		"stars": 11,
+		"forks": 19,
+		"name": "project-serum/multisig-ui",
+		"stars": 4,
 		"watchers": 0,
-		"repo_name": "project-serum/stake",
+		"repo_name": "project-serum/multisig-ui",
 		"ecosystem_slug": "project-serum",
 		"parent_slug": "solana",
 		"path": "solana/project-serum",
@@ -205,32 +241,8 @@
 	},
 	{
 		"forks": 6,
-		"name": "project-serum/serum-rest-server",
-		"stars": 16,
-		"watchers": 0,
-		"repo_name": "project-serum/serum-rest-server",
-		"ecosystem_slug": "project-serum",
-		"parent_slug": "solana",
-		"path": "solana/project-serum",
-		"slug": "project-serum",
-		"title": "Project Serum"
-	},
-	{
-		"forks": 10,
-		"name": "project-serum/stake-ui",
-		"stars": 5,
-		"watchers": 0,
-		"repo_name": "project-serum/stake-ui",
-		"ecosystem_slug": "project-serum",
-		"parent_slug": "solana",
-		"path": "solana/project-serum",
-		"slug": "project-serum",
-		"title": "Project Serum"
-	},
-	{
-		"forks": 4,
 		"name": "project-serum/permissioned-markets-quickstart",
-		"stars": 6,
+		"stars": 12,
 		"watchers": 0,
 		"repo_name": "project-serum/permissioned-markets-quickstart",
 		"ecosystem_slug": "project-serum",
@@ -240,9 +252,9 @@
 		"title": "Project Serum"
 	},
 	{
-		"forks": 7,
+		"forks": 13,
 		"name": "project-serum/stake-ui-v2",
-		"stars": 2,
+		"stars": 5,
 		"watchers": 0,
 		"repo_name": "project-serum/stake-ui-v2",
 		"ecosystem_slug": "project-serum",
@@ -252,11 +264,11 @@
 		"title": "Project Serum"
 	},
 	{
-		"forks": 6,
-		"name": "project-serum/multisig-ui",
-		"stars": 2,
+		"forks": 7,
+		"name": "project-serum/stake-v2",
+		"stars": 9,
 		"watchers": 0,
-		"repo_name": "project-serum/multisig-ui",
+		"repo_name": "project-serum/stake-v2",
 		"ecosystem_slug": "project-serum",
 		"parent_slug": "solana",
 		"path": "solana/project-serum",
@@ -276,21 +288,9 @@
 		"title": "Project Serum"
 	},
 	{
-		"forks": 4,
-		"name": "project-serum/stake-v2",
-		"stars": 3,
-		"watchers": 0,
-		"repo_name": "project-serum/stake-v2",
-		"ecosystem_slug": "project-serum",
-		"parent_slug": "solana",
-		"path": "solana/project-serum",
-		"slug": "project-serum",
-		"title": "Project Serum"
-	},
-	{
 		"forks": 0,
 		"name": "project-serum/messaging-backbone-v1",
-		"stars": 6,
+		"stars": 7,
 		"watchers": 0,
 		"repo_name": "project-serum/messaging-backbone-v1",
 		"ecosystem_slug": "project-serum",
@@ -349,10 +349,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "project-serum/swap-ts",
+		"name": "project-serum/stake-ui-deprecated",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "project-serum/swap-ts",
+		"repo_name": "project-serum/stake-ui-deprecated",
 		"ecosystem_slug": "project-serum",
 		"parent_slug": "solana",
 		"path": "solana/project-serum",
@@ -361,10 +361,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "project-serum/stake-ui-deprecated",
+		"name": "project-serum/swap-ts",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "project-serum/stake-ui-deprecated",
+		"repo_name": "project-serum/swap-ts",
 		"ecosystem_slug": "project-serum",
 		"parent_slug": "solana",
 		"path": "solana/project-serum",

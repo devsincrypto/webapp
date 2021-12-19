@@ -1,10 +1,10 @@
 [
 	{
-		"forks": 6,
-		"name": "getdock/plasma-cash-contracts",
-		"stars": 31,
+		"forks": 13,
+		"name": "getdock/tokensale",
+		"stars": 27,
 		"watchers": 0,
-		"repo_name": "getdock/plasma-cash-contracts",
+		"repo_name": "getdock/tokensale",
 		"ecosystem_slug": "dock",
 		"parent_slug": null,
 		"path": "dock",
@@ -12,11 +12,11 @@
 		"title": "Dock"
 	},
 	{
-		"forks": 12,
-		"name": "getdock/tokensale",
-		"stars": 24,
+		"forks": 6,
+		"name": "getdock/plasma-cash-contracts",
+		"stars": 31,
 		"watchers": 0,
-		"repo_name": "getdock/tokensale",
+		"repo_name": "getdock/plasma-cash-contracts",
 		"ecosystem_slug": "dock",
 		"parent_slug": null,
 		"path": "dock",
@@ -96,6 +96,18 @@
 		"title": "Dock"
 	},
 	{
+		"forks": 0,
+		"name": "getdock/website",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "getdock/website",
+		"ecosystem_slug": "dock",
+		"parent_slug": null,
+		"path": "dock",
+		"slug": "dock",
+		"title": "Dock"
+	},
+	{
 		"forks": 1,
 		"name": "getdock/gatsby",
 		"stars": 1,
@@ -109,10 +121,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "getdock/website",
-		"stars": 2,
+		"name": "getdock/schemas",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "getdock/website",
+		"repo_name": "getdock/schemas",
 		"ecosystem_slug": "dock",
 		"parent_slug": null,
 		"path": "dock",
@@ -125,18 +137,6 @@
 		"stars": 1,
 		"watchers": 0,
 		"repo_name": "getdock/distribution",
-		"ecosystem_slug": "dock",
-		"parent_slug": null,
-		"path": "dock",
-		"slug": "dock",
-		"title": "Dock"
-	},
-	{
-		"forks": 0,
-		"name": "getdock/schemas",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "getdock/schemas",
 		"ecosystem_slug": "dock",
 		"parent_slug": null,
 		"path": "dock",

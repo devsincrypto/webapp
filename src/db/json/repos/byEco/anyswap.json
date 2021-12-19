@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 38,
+		"forks": 52,
 		"name": "anyswap/CrossChain-Bridge",
-		"stars": 79,
+		"stars": 106,
 		"watchers": 0,
 		"repo_name": "anyswap/CrossChain-Bridge",
 		"ecosystem_slug": "anyswap",
@@ -12,9 +12,9 @@
 		"title": "Anyswap"
 	},
 	{
-		"forks": 34,
+		"forks": 50,
 		"name": "anyswap/anyswap-frontend",
-		"stars": 43,
+		"stars": 44,
 		"watchers": 0,
 		"repo_name": "anyswap/anyswap-frontend",
 		"ecosystem_slug": "anyswap",
@@ -24,9 +24,9 @@
 		"title": "Anyswap"
 	},
 	{
-		"forks": 10,
+		"forks": 16,
 		"name": "anyswap/Anyswap-Audit",
-		"stars": 17,
+		"stars": 26,
 		"watchers": 0,
 		"repo_name": "anyswap/Anyswap-Audit",
 		"ecosystem_slug": "anyswap",
@@ -36,9 +36,21 @@
 		"title": "Anyswap"
 	},
 	{
-		"forks": 9,
-		"name": "anyswap/Anyswap-MPCNode",
+		"forks": 15,
+		"name": "anyswap/CrossChain-Router",
 		"stars": 13,
+		"watchers": 0,
+		"repo_name": "anyswap/CrossChain-Router",
+		"ecosystem_slug": "anyswap",
+		"parent_slug": null,
+		"path": "anyswap",
+		"slug": "anyswap",
+		"title": "Anyswap"
+	},
+	{
+		"forks": 13,
+		"name": "anyswap/Anyswap-MPCNode",
+		"stars": 14,
 		"watchers": 0,
 		"repo_name": "anyswap/Anyswap-MPCNode",
 		"ecosystem_slug": "anyswap",
@@ -48,7 +60,7 @@
 		"title": "Anyswap"
 	},
 	{
-		"forks": 14,
+		"forks": 16,
 		"name": "anyswap/anyswap-token",
 		"stars": 7,
 		"watchers": 0,
@@ -60,19 +72,7 @@
 		"title": "Anyswap"
 	},
 	{
-		"forks": 9,
-		"name": "anyswap/CrossChain-Router",
-		"stars": 9,
-		"watchers": 0,
-		"repo_name": "anyswap/CrossChain-Router",
-		"ecosystem_slug": "anyswap",
-		"parent_slug": null,
-		"path": "anyswap",
-		"slug": "anyswap",
-		"title": "Anyswap"
-	},
-	{
-		"forks": 10,
+		"forks": 11,
 		"name": "anyswap/anyswap-exchange",
 		"stars": 7,
 		"watchers": 0,
@@ -84,7 +84,7 @@
 		"title": "Anyswap"
 	},
 	{
-		"forks": 8,
+		"forks": 9,
 		"name": "anyswap/ANYToken-distribution",
 		"stars": 8,
 		"watchers": 0,
@@ -96,9 +96,21 @@
 		"title": "Anyswap"
 	},
 	{
-		"forks": 8,
+		"forks": 12,
+		"name": "anyswap/mBTC",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "anyswap/mBTC",
+		"ecosystem_slug": "anyswap",
+		"parent_slug": null,
+		"path": "anyswap",
+		"slug": "anyswap",
+		"title": "Anyswap"
+	},
+	{
+		"forks": 9,
 		"name": "anyswap/ANYToken-stake",
-		"stars": 6,
+		"stars": 7,
 		"watchers": 0,
 		"repo_name": "anyswap/ANYToken-stake",
 		"ecosystem_slug": "anyswap",
@@ -108,11 +120,11 @@
 		"title": "Anyswap"
 	},
 	{
-		"forks": 9,
-		"name": "anyswap/mBTC",
-		"stars": 4,
+		"forks": 7,
+		"name": "anyswap/Brand-assets",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "anyswap/mBTC",
+		"repo_name": "anyswap/Brand-assets",
 		"ecosystem_slug": "anyswap",
 		"parent_slug": null,
 		"path": "anyswap",
@@ -133,10 +145,58 @@
 	},
 	{
 		"forks": 5,
-		"name": "anyswap/Brand-assets",
+		"name": "anyswap/anyswap-v1-core",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "anyswap/anyswap-v1-core",
+		"ecosystem_slug": "anyswap",
+		"parent_slug": null,
+		"path": "anyswap",
+		"slug": "anyswap",
+		"title": "Anyswap"
+	},
+	{
+		"forks": 5,
+		"name": "anyswap/Anyswap-FAQ",
 		"stars": 2,
 		"watchers": 0,
-		"repo_name": "anyswap/Brand-assets",
+		"repo_name": "anyswap/Anyswap-FAQ",
+		"ecosystem_slug": "anyswap",
+		"parent_slug": null,
+		"path": "anyswap",
+		"slug": "anyswap",
+		"title": "Anyswap"
+	},
+	{
+		"forks": 7,
+		"name": "anyswap/anyswap-interface",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "anyswap/anyswap-interface",
+		"ecosystem_slug": "anyswap",
+		"parent_slug": null,
+		"path": "anyswap",
+		"slug": "anyswap",
+		"title": "Anyswap"
+	},
+	{
+		"forks": 3,
+		"name": "anyswap/CYCToken",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "anyswap/CYCToken",
+		"ecosystem_slug": "anyswap",
+		"parent_slug": null,
+		"path": "anyswap",
+		"slug": "anyswap",
+		"title": "Anyswap"
+	},
+	{
+		"forks": 2,
+		"name": "anyswap/anyswap-api",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "anyswap/anyswap-api",
 		"ecosystem_slug": "anyswap",
 		"parent_slug": null,
 		"path": "anyswap",
@@ -156,11 +216,11 @@
 		"title": "Anyswap"
 	},
 	{
-		"forks": 5,
-		"name": "anyswap/anyswap-interface",
-		"stars": 0,
+		"forks": 4,
+		"name": "anyswap/ANYToken-locked",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "anyswap/anyswap-interface",
+		"repo_name": "anyswap/ANYToken-locked",
 		"ecosystem_slug": "anyswap",
 		"parent_slug": null,
 		"path": "anyswap",
@@ -168,11 +228,11 @@
 		"title": "Anyswap"
 	},
 	{
-		"forks": 4,
-		"name": "anyswap/ANYToken-locked",
+		"forks": 3,
+		"name": "anyswap/multicall.js",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "anyswap/ANYToken-locked",
+		"repo_name": "anyswap/multicall.js",
 		"ecosystem_slug": "anyswap",
 		"parent_slug": null,
 		"path": "anyswap",
@@ -193,42 +253,6 @@
 	},
 	{
 		"forks": 3,
-		"name": "anyswap/multicall.js",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "anyswap/multicall.js",
-		"ecosystem_slug": "anyswap",
-		"parent_slug": null,
-		"path": "anyswap",
-		"slug": "anyswap",
-		"title": "Anyswap"
-	},
-	{
-		"forks": 3,
-		"name": "anyswap/Anyswap-FAQ",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "anyswap/Anyswap-FAQ",
-		"ecosystem_slug": "anyswap",
-		"parent_slug": null,
-		"path": "anyswap",
-		"slug": "anyswap",
-		"title": "Anyswap"
-	},
-	{
-		"forks": 2,
-		"name": "anyswap/anyswap-api",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "anyswap/anyswap-api",
-		"ecosystem_slug": "anyswap",
-		"parent_slug": null,
-		"path": "anyswap",
-		"slug": "anyswap",
-		"title": "Anyswap"
-	},
-	{
-		"forks": 3,
 		"name": "anyswap/eth-phishing-detect",
 		"stars": 1,
 		"watchers": 0,
@@ -241,46 +265,10 @@
 	},
 	{
 		"forks": 2,
-		"name": "anyswap/CYCToken",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "anyswap/CYCToken",
-		"ecosystem_slug": "anyswap",
-		"parent_slug": null,
-		"path": "anyswap",
-		"slug": "anyswap",
-		"title": "Anyswap"
-	},
-	{
-		"forks": 2,
-		"name": "anyswap/anyswap-v1-core",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "anyswap/anyswap-v1-core",
-		"ecosystem_slug": "anyswap",
-		"parent_slug": null,
-		"path": "anyswap",
-		"slug": "anyswap",
-		"title": "Anyswap"
-	},
-	{
-		"forks": 1,
 		"name": "anyswap/chaindata",
-		"stars": 0,
+		"stars": 1,
 		"watchers": 0,
 		"repo_name": "anyswap/chaindata",
-		"ecosystem_slug": "anyswap",
-		"parent_slug": null,
-		"path": "anyswap",
-		"slug": "anyswap",
-		"title": "Anyswap"
-	},
-	{
-		"forks": 1,
-		"name": "anyswap/FoodToken",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "anyswap/FoodToken",
 		"ecosystem_slug": "anyswap",
 		"parent_slug": null,
 		"path": "anyswap",
@@ -293,6 +281,18 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "anyswap/anyswap-docs",
+		"ecosystem_slug": "anyswap",
+		"parent_slug": null,
+		"path": "anyswap",
+		"slug": "anyswap",
+		"title": "Anyswap"
+	},
+	{
+		"forks": 1,
+		"name": "anyswap/FoodToken",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "anyswap/FoodToken",
 		"ecosystem_slug": "anyswap",
 		"parent_slug": null,
 		"path": "anyswap",

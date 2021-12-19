@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 14,
+		"forks": 15,
 		"name": "stafiprotocol/stafi-node",
-		"stars": 36,
+		"stars": 45,
 		"watchers": 0,
 		"repo_name": "stafiprotocol/stafi-node",
 		"ecosystem_slug": "stafi",
@@ -73,6 +73,18 @@
 	},
 	{
 		"forks": 0,
+		"name": "stafiprotocol/bridge-solidity",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "stafiprotocol/bridge-solidity",
+		"ecosystem_slug": "stafi",
+		"parent_slug": "polkadot",
+		"path": "polkadot/stafi",
+		"slug": "stafi",
+		"title": "Stafi"
+	},
+	{
+		"forks": 0,
 		"name": "stafiprotocol/eth2-staking",
 		"stars": 0,
 		"watchers": 0,
@@ -89,18 +101,6 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "stafiprotocol/chainbridge",
-		"ecosystem_slug": "stafi",
-		"parent_slug": "polkadot",
-		"path": "polkadot/stafi",
-		"slug": "stafi",
-		"title": "Stafi"
-	},
-	{
-		"forks": 0,
-		"name": "stafiprotocol/bridge-solidity",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "stafiprotocol/bridge-solidity",
 		"ecosystem_slug": "stafi",
 		"parent_slug": "polkadot",
 		"path": "polkadot/stafi",

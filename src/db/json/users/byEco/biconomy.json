@@ -1,37 +1,44 @@
 [
 	{
-		"id": 473822,
+		"id": 694832,
 		"githubLoginMasked": "to",
-		"githubLoginEncrypted": "CSpipMIwVirsnzI4xO8FNBQnXBpCVenR3UPmZw8emQ==",
-		"githubLoginHashed": "CSpipMIwVirsnzI4xO8FNBQnXBpCVenR3UPmZw8emQ==",
-		"score": 10026
+		"githubLoginEncrypted": "AD0pwk6CkUb4Q3l5BXeFD7kEjE1PChpC3CzsCZPKCQ==",
+		"githubLoginHashed": "AD0pwk6CkUb4Q3l5BXeFD7kEjE1PChpC3CzsCZPKCQ==",
+		"score": 11533
 	},
 	{
-		"id": 473808,
+		"id": 699118,
 		"githubLoginMasked": "di",
-		"githubLoginEncrypted": "GSx5vNENAHp6cuqpVnS3o28R+786M+sm",
-		"githubLoginHashed": "GSx5vNENAHp6cuqpVnS3o28R+786M+sm",
-		"score": 863
+		"githubLoginEncrypted": "EDsy2l2/xxacJceHZwcLgUuB3Al6WqNu",
+		"githubLoginHashed": "EDsy2l2/xxacJceHZwcLgUuB3Al6WqNu",
+		"score": 996
 	},
 	{
-		"id": 1174642,
-		"githubLoginMasked": "ta",
-		"githubLoginEncrypted": "CSR9sN5yA36xew29TgLkbADT5rRTUGCZ5g==",
-		"githubLoginHashed": "CSR9sN5yA36xew29TgLkbADT5rRTUGCZ5g==",
-		"score": 72
-	},
-	{
-		"id": 1751386,
+		"id": 1014660,
 		"githubLoginMasked": "li",
-		"githubLoginEncrypted": "ESx5rN4kRSbnnWtbRLdA/XkinXD3AhH2rP/J",
-		"githubLoginHashed": "ESx5rN4kRSbnnWtbRLdA/XkinXD3AhH2rP/J",
+		"githubLoginEncrypted": "GDsyylKWgkrzQWUiRCXHA5caQekATMTvgGm+7lhoMw==",
+		"githubLoginHashed": "GDsyylKWgkrzQWUiRCXHA5caQekATMTvgGm+7lhoMw==",
+		"score": 85
+	},
+	{
+		"id": 1020153,
+		"githubLoginMasked": "ta",
+		"githubLoginEncrypted": "ADM21lLAxBKlW1eJjGiKYiUKOuyAe4Ipyg==",
+		"githubLoginHashed": "ADM21lLAxBKlW1eJjGiKYiUKOuyAe4Ipyg==",
+		"score": 85
+	},
+	{
+		"id": 34657,
+		"githubLoginMasked": "li",
+		"githubLoginEncrypted": "GDsyylKWgkrzQSCd77QIHn15g7cycP7q7YDT",
+		"githubLoginHashed": "GDsyylKWgkrzQSCd77QIHn15g7cycP7q7YDT",
 		"score": 15
 	},
 	{
-		"id": 168935,
+		"id": 1834827,
 		"githubLoginMasked": "re",
-		"githubLoginEncrypted": "DyBuqdsqWSjqkjPjbObXgj0185vCV+O93Dm3",
-		"githubLoginHashed": "DyBuqdsqWSjqkjPjbObXgj0185vCV+O93Dm3",
+		"githubLoginEncrypted": "Bjclz1eYnkT+Tnglx+WfYTlu7VwHJQyhnUat",
+		"githubLoginHashed": "Bjclz1eYnkT+Tnglx+WfYTlu7VwHJQyhnUat",
 		"score": 0
 	}
 ]

@@ -1,6 +1,6 @@
 [
 	{
-		"forks": 6,
+		"forks": 7,
 		"name": "AuctusProject/aco",
 		"stars": 21,
 		"watchers": 0,
@@ -36,11 +36,11 @@
 		"title": "Auctus"
 	},
 	{
-		"forks": 4,
-		"name": "AuctusProject/Site",
-		"stars": 5,
+		"forks": 2,
+		"name": "AuctusProject/Alpha",
+		"stars": 7,
 		"watchers": 0,
-		"repo_name": "AuctusProject/Site",
+		"repo_name": "AuctusProject/Alpha",
 		"ecosystem_slug": "auctus",
 		"parent_slug": null,
 		"path": "auctus",
@@ -48,11 +48,11 @@
 		"title": "Auctus"
 	},
 	{
-		"forks": 2,
-		"name": "AuctusProject/Alpha",
-		"stars": 7,
+		"forks": 4,
+		"name": "AuctusProject/Site",
+		"stars": 5,
 		"watchers": 0,
-		"repo_name": "AuctusProject/Alpha",
+		"repo_name": "AuctusProject/Site",
 		"ecosystem_slug": "auctus",
 		"parent_slug": null,
 		"path": "auctus",
@@ -108,18 +108,6 @@
 		"title": "Auctus"
 	},
 	{
-		"forks": 1,
-		"name": "AuctusProject/Android-Mobile",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "AuctusProject/Android-Mobile",
-		"ecosystem_slug": "auctus",
-		"parent_slug": null,
-		"path": "auctus",
-		"slug": "auctus",
-		"title": "Auctus"
-	},
-	{
 		"forks": 0,
 		"name": "AuctusProject/AIP",
 		"stars": 1,
@@ -144,11 +132,11 @@
 		"title": "Auctus"
 	},
 	{
-		"forks": 0,
-		"name": "AuctusProject/aco-subgraph",
+		"forks": 1,
+		"name": "AuctusProject/Android-Mobile",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "AuctusProject/aco-subgraph",
+		"repo_name": "AuctusProject/Android-Mobile",
 		"ecosystem_slug": "auctus",
 		"parent_slug": null,
 		"path": "auctus",
@@ -161,6 +149,18 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "AuctusProject/DeFi-Pulse-Adapters",
+		"ecosystem_slug": "auctus",
+		"parent_slug": null,
+		"path": "auctus",
+		"slug": "auctus",
+		"title": "Auctus"
+	},
+	{
+		"forks": 0,
+		"name": "AuctusProject/aco-subgraph",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "AuctusProject/aco-subgraph",
 		"ecosystem_slug": "auctus",
 		"parent_slug": null,
 		"path": "auctus",

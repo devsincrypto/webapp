@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 136,
+		"forks": 147,
 		"name": "enjin/erc-1155",
-		"stars": 275,
+		"stars": 305,
 		"watchers": 0,
 		"repo_name": "enjin/erc-1155",
 		"ecosystem_slug": "enjin-coin",
@@ -12,9 +12,9 @@
 		"title": "Enjin Coin"
 	},
 	{
-		"forks": 24,
+		"forks": 26,
 		"name": "enjin/contracts",
-		"stars": 77,
+		"stars": 83,
 		"watchers": 0,
 		"repo_name": "enjin/contracts",
 		"ecosystem_slug": "enjin-coin",
@@ -24,9 +24,9 @@
 		"title": "Enjin Coin"
 	},
 	{
-		"forks": 13,
+		"forks": 20,
 		"name": "enjin/enjincraft",
-		"stars": 35,
+		"stars": 42,
 		"watchers": 0,
 		"repo_name": "enjin/enjincraft",
 		"ecosystem_slug": "enjin-coin",
@@ -36,9 +36,9 @@
 		"title": "Enjin Coin"
 	},
 	{
-		"forks": 10,
+		"forks": 12,
 		"name": "enjin/enjin-godot-sdk",
-		"stars": 25,
+		"stars": 34,
 		"watchers": 0,
 		"repo_name": "enjin/enjin-godot-sdk",
 		"ecosystem_slug": "enjin-coin",
@@ -48,9 +48,9 @@
 		"title": "Enjin Coin"
 	},
 	{
-		"forks": 17,
+		"forks": 23,
 		"name": "enjin/enjin-java-sdk",
-		"stars": 15,
+		"stars": 19,
 		"watchers": 0,
 		"repo_name": "enjin/enjin-java-sdk",
 		"ecosystem_slug": "enjin-coin",
@@ -72,7 +72,7 @@
 		"title": "Enjin Coin"
 	},
 	{
-		"forks": 15,
+		"forks": 17,
 		"name": "enjin/Enjin-Minecraft-Plugin",
 		"stars": 9,
 		"watchers": 0,
@@ -96,6 +96,18 @@
 		"title": "Enjin Coin"
 	},
 	{
+		"forks": 2,
+		"name": "enjin/Enjin-SDK-GraphQL-Templates",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "enjin/Enjin-SDK-GraphQL-Templates",
+		"ecosystem_slug": "enjin-coin",
+		"parent_slug": "ethereum",
+		"path": "ethereum/enjin-coin",
+		"slug": "enjin-coin",
+		"title": "Enjin Coin"
+	},
+	{
 		"forks": 4,
 		"name": "enjin/Enjin-Coin-Documentation",
 		"stars": 3,
@@ -108,11 +120,23 @@
 		"title": "Enjin Coin"
 	},
 	{
-		"forks": 0,
-		"name": "enjin/Enjin-SDK-GraphQL-Templates",
-		"stars": 7,
+		"forks": 4,
+		"name": "enjin/labs",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "enjin/Enjin-SDK-GraphQL-Templates",
+		"repo_name": "enjin/labs",
+		"ecosystem_slug": "enjin-coin",
+		"parent_slug": "ethereum",
+		"path": "ethereum/enjin-coin",
+		"slug": "enjin-coin",
+		"title": "Enjin Coin"
+	},
+	{
+		"forks": 0,
+		"name": "enjin/Enjin-Java-Commons",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "enjin/Enjin-Java-Commons",
 		"ecosystem_slug": "enjin-coin",
 		"parent_slug": "ethereum",
 		"path": "ethereum/enjin-coin",
@@ -133,32 +157,8 @@
 	},
 	{
 		"forks": 0,
-		"name": "enjin/Enjin-Java-Commons",
-		"stars": 4,
-		"watchers": 0,
-		"repo_name": "enjin/Enjin-Java-Commons",
-		"ecosystem_slug": "enjin-coin",
-		"parent_slug": "ethereum",
-		"path": "ethereum/enjin-coin",
-		"slug": "enjin-coin",
-		"title": "Enjin Coin"
-	},
-	{
-		"forks": 3,
-		"name": "enjin/labs",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "enjin/labs",
-		"ecosystem_slug": "enjin-coin",
-		"parent_slug": "ethereum",
-		"path": "ethereum/enjin-coin",
-		"slug": "enjin-coin",
-		"title": "Enjin Coin"
-	},
-	{
-		"forks": 0,
 		"name": "enjin/polkadot-ethereum",
-		"stars": 1,
+		"stars": 2,
 		"watchers": 0,
 		"repo_name": "enjin/polkadot-ethereum",
 		"ecosystem_slug": "enjin-coin",

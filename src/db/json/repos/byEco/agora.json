@@ -36,11 +36,11 @@
 		"title": "Agora"
 	},
 	{
-		"forks": 0,
-		"name": "AgoraBlockchain/kyber",
-		"stars": 1,
+		"forks": 1,
+		"name": "AgoraBlockchain/chvote-protocol-poc",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "AgoraBlockchain/kyber",
+		"repo_name": "AgoraBlockchain/chvote-protocol-poc",
 		"ecosystem_slug": "agora",
 		"parent_slug": null,
 		"path": "agora",
@@ -48,11 +48,11 @@
 		"title": "Agora"
 	},
 	{
-		"forks": 1,
-		"name": "AgoraBlockchain/chvote-protocol-poc",
-		"stars": 0,
+		"forks": 0,
+		"name": "AgoraBlockchain/kyber",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "AgoraBlockchain/chvote-protocol-poc",
+		"repo_name": "AgoraBlockchain/kyber",
 		"ecosystem_slug": "agora",
 		"parent_slug": null,
 		"path": "agora",

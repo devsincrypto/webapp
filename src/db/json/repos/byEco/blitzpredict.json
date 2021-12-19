@@ -37,6 +37,18 @@
 	},
 	{
 		"forks": 1,
+		"name": "blitzpredict/multisig-test",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "blitzpredict/multisig-test",
+		"ecosystem_slug": "blitzpredict",
+		"parent_slug": null,
+		"path": "blitzpredict",
+		"slug": "blitzpredict",
+		"title": "BlitzPredict"
+	},
+	{
+		"forks": 1,
 		"name": "blitzpredict/eth-contract-metadata",
 		"stars": 0,
 		"watchers": 0,
@@ -48,11 +60,11 @@
 		"title": "BlitzPredict"
 	},
 	{
-		"forks": 1,
-		"name": "blitzpredict/multisig-test",
+		"forks": 0,
+		"name": "blitzpredict/HoshoCon",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "blitzpredict/multisig-test",
+		"repo_name": "blitzpredict/HoshoCon",
 		"ecosystem_slug": "blitzpredict",
 		"parent_slug": null,
 		"path": "blitzpredict",
@@ -77,18 +89,6 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "blitzpredict/alchemy-sandbox",
-		"ecosystem_slug": "blitzpredict",
-		"parent_slug": null,
-		"path": "blitzpredict",
-		"slug": "blitzpredict",
-		"title": "BlitzPredict"
-	},
-	{
-		"forks": 0,
-		"name": "blitzpredict/HoshoCon",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "blitzpredict/HoshoCon",
 		"ecosystem_slug": "blitzpredict",
 		"parent_slug": null,
 		"path": "blitzpredict",

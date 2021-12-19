@@ -1,12 +1,16 @@
 import React from 'react';
 
+import lastUpdated from '../db/json/lastUpdated.json';
+
 export function Footer(): React.ReactElement {
+	const date = new Date(lastUpdated);
 	return (
 		<footer className="text-center">
-			<p>© Devs in Crypto 2021</p>
+			<p>© Devs in Crypto 2021.</p>
 
 			<p>
-				Made by a crypto dev based in Paris 🇫🇷.
+				Made by a crypto dev based in Paris 🇫🇷. Last update:{' '}
+				{date.toISOString().split('T')[0]}.
 				<br />
 				<a href="mailto:amaury@devsincrypto.com">Support Email</a>
 				{' - '}

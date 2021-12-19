@@ -2,7 +2,7 @@
 	{
 		"forks": 32,
 		"name": "MARKETProtocol/MARKETProtocol",
-		"stars": 73,
+		"stars": 75,
 		"watchers": 0,
 		"repo_name": "MARKETProtocol/MARKETProtocol",
 		"ecosystem_slug": "market-protocol",
@@ -84,6 +84,18 @@
 		"title": "Market Protocol"
 	},
 	{
+		"forks": 0,
+		"name": "MARKETProtocol/mpx-api-client",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "MARKETProtocol/mpx-api-client",
+		"ecosystem_slug": "market-protocol",
+		"parent_slug": "ethereum",
+		"path": "ethereum/market-protocol",
+		"slug": "market-protocol",
+		"title": "Market Protocol"
+	},
+	{
 		"forks": 1,
 		"name": "MARKETProtocol/0x-mesh-provider",
 		"stars": 0,
@@ -97,10 +109,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "MARKETProtocol/mpx-api-client",
-		"stars": 1,
+		"name": "MARKETProtocol/market-js",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "MARKETProtocol/mpx-api-client",
+		"repo_name": "MARKETProtocol/market-js",
 		"ecosystem_slug": "market-protocol",
 		"parent_slug": "ethereum",
 		"path": "ethereum/market-protocol",
@@ -137,18 +149,6 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "MARKETProtocol/solidity-coverage-bug",
-		"ecosystem_slug": "market-protocol",
-		"parent_slug": "ethereum",
-		"path": "ethereum/market-protocol",
-		"slug": "market-protocol",
-		"title": "Market Protocol"
-	},
-	{
-		"forks": 0,
-		"name": "MARKETProtocol/market-js",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "MARKETProtocol/market-js",
 		"ecosystem_slug": "market-protocol",
 		"parent_slug": "ethereum",
 		"path": "ethereum/market-protocol",

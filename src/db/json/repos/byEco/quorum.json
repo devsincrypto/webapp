@@ -60,11 +60,11 @@
 		"title": "Quorum"
 	},
 	{
-		"forks": 21,
-		"name": "jpmorganchase/quorum-cloud",
-		"stars": 33,
+		"forks": 20,
+		"name": "jpmorganchase/qubernetes",
+		"stars": 34,
 		"watchers": 0,
-		"repo_name": "jpmorganchase/quorum-cloud",
+		"repo_name": "jpmorganchase/qubernetes",
 		"ecosystem_slug": "quorum",
 		"parent_slug": null,
 		"path": "quorum",
@@ -72,11 +72,11 @@
 		"title": "Quorum"
 	},
 	{
-		"forks": 20,
-		"name": "jpmorganchase/qubernetes",
-		"stars": 34,
+		"forks": 21,
+		"name": "jpmorganchase/quorum-cloud",
+		"stars": 33,
 		"watchers": 0,
-		"repo_name": "jpmorganchase/qubernetes",
+		"repo_name": "jpmorganchase/quorum-cloud",
 		"ecosystem_slug": "quorum",
 		"parent_slug": null,
 		"path": "quorum",

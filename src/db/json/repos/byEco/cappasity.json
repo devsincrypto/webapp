@@ -38,7 +38,7 @@
 	{
 		"forks": 3,
 		"name": "CappasityTech/API",
-		"stars": 10,
+		"stars": 11,
 		"watchers": 0,
 		"repo_name": "CappasityTech/API",
 		"ecosystem_slug": "cappasity",
@@ -60,11 +60,11 @@
 		"title": "Cappasity"
 	},
 	{
-		"forks": 0,
-		"name": "CappasityTech/AndroidFramework",
-		"stars": 3,
+		"forks": 1,
+		"name": "CappasityTech/CappasityiOS",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "CappasityTech/AndroidFramework",
+		"repo_name": "CappasityTech/CappasityiOS",
 		"ecosystem_slug": "cappasity",
 		"parent_slug": null,
 		"path": "cappasity",
@@ -72,11 +72,11 @@
 		"title": "Cappasity"
 	},
 	{
-		"forks": 2,
-		"name": "CappasityTech/CAPPToken",
-		"stars": 0,
+		"forks": 0,
+		"name": "CappasityTech/AndroidFramework",
+		"stars": 3,
 		"watchers": 0,
-		"repo_name": "CappasityTech/CAPPToken",
+		"repo_name": "CappasityTech/AndroidFramework",
 		"ecosystem_slug": "cappasity",
 		"parent_slug": null,
 		"path": "cappasity",
@@ -96,11 +96,11 @@
 		"title": "Cappasity"
 	},
 	{
-		"forks": 0,
-		"name": "CappasityTech/CappasityiOS",
-		"stars": 1,
+		"forks": 2,
+		"name": "CappasityTech/CAPPToken",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "CappasityTech/CappasityiOS",
+		"repo_name": "CappasityTech/CAPPToken",
 		"ecosystem_slug": "cappasity",
 		"parent_slug": null,
 		"path": "cappasity",

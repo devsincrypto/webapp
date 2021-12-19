@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 64,
+		"forks": 67,
 		"name": "mstable/mStable-contracts",
-		"stars": 184,
+		"stars": 234,
 		"watchers": 0,
 		"repo_name": "mstable/mStable-contracts",
 		"ecosystem_slug": "mstable",
@@ -12,9 +12,9 @@
 		"title": "mstable"
 	},
 	{
-		"forks": 33,
+		"forks": 35,
 		"name": "mstable/mStable-app",
-		"stars": 55,
+		"stars": 56,
 		"watchers": 0,
 		"repo_name": "mstable/mStable-app",
 		"ecosystem_slug": "mstable",
@@ -24,9 +24,9 @@
 		"title": "mstable"
 	},
 	{
-		"forks": 10,
+		"forks": 12,
 		"name": "mstable/mStable-governance-app",
-		"stars": 13,
+		"stars": 14,
 		"watchers": 0,
 		"repo_name": "mstable/mStable-governance-app",
 		"ecosystem_slug": "mstable",
@@ -36,9 +36,21 @@
 		"title": "mstable"
 	},
 	{
+		"forks": 15,
+		"name": "mstable/MIPs",
+		"stars": 9,
+		"watchers": 0,
+		"repo_name": "mstable/MIPs",
+		"ecosystem_slug": "mstable",
+		"parent_slug": "ethereum",
+		"path": "ethereum/mstable",
+		"slug": "mstable",
+		"title": "mstable"
+	},
+	{
 		"forks": 10,
 		"name": "mstable/mStable-landing",
-		"stars": 11,
+		"stars": 12,
 		"watchers": 0,
 		"repo_name": "mstable/mStable-landing",
 		"ecosystem_slug": "mstable",
@@ -48,11 +60,35 @@
 		"title": "mstable"
 	},
 	{
-		"forks": 8,
-		"name": "mstable/MIPs",
+		"forks": 4,
+		"name": "mstable/mStable-subgraphs-monorepo",
+		"stars": 15,
+		"watchers": 0,
+		"repo_name": "mstable/mStable-subgraphs-monorepo",
+		"ecosystem_slug": "mstable",
+		"parent_slug": "ethereum",
+		"path": "ethereum/mstable",
+		"slug": "mstable",
+		"title": "mstable"
+	},
+	{
+		"forks": 5,
+		"name": "mstable/merkle-drop",
+		"stars": 11,
+		"watchers": 0,
+		"repo_name": "mstable/merkle-drop",
+		"ecosystem_slug": "mstable",
+		"parent_slug": "ethereum",
+		"path": "ethereum/mstable",
+		"slug": "mstable",
+		"title": "mstable"
+	},
+	{
+		"forks": 9,
+		"name": "mstable/mStable-apps",
 		"stars": 7,
 		"watchers": 0,
-		"repo_name": "mstable/MIPs",
+		"repo_name": "mstable/mStable-apps",
 		"ecosystem_slug": "mstable",
 		"parent_slug": "ethereum",
 		"path": "ethereum/mstable",
@@ -65,30 +101,6 @@
 		"stars": 5,
 		"watchers": 0,
 		"repo_name": "mstable/mStable-docs",
-		"ecosystem_slug": "mstable",
-		"parent_slug": "ethereum",
-		"path": "ethereum/mstable",
-		"slug": "mstable",
-		"title": "mstable"
-	},
-	{
-		"forks": 3,
-		"name": "mstable/mStable-subgraphs-monorepo",
-		"stars": 11,
-		"watchers": 0,
-		"repo_name": "mstable/mStable-subgraphs-monorepo",
-		"ecosystem_slug": "mstable",
-		"parent_slug": "ethereum",
-		"path": "ethereum/mstable",
-		"slug": "mstable",
-		"title": "mstable"
-	},
-	{
-		"forks": 5,
-		"name": "mstable/merkle-drop",
-		"stars": 8,
-		"watchers": 0,
-		"repo_name": "mstable/merkle-drop",
 		"ecosystem_slug": "mstable",
 		"parent_slug": "ethereum",
 		"path": "ethereum/mstable",
@@ -120,21 +132,9 @@
 		"title": "mstable"
 	},
 	{
-		"forks": 5,
-		"name": "mstable/mStable-apps",
-		"stars": 4,
-		"watchers": 0,
-		"repo_name": "mstable/mStable-apps",
-		"ecosystem_slug": "mstable",
-		"parent_slug": "ethereum",
-		"path": "ethereum/mstable",
-		"slug": "mstable",
-		"title": "mstable"
-	},
-	{
 		"forks": 1,
 		"name": "mstable/pooltogether-mstable",
-		"stars": 4,
+		"stars": 5,
 		"watchers": 0,
 		"repo_name": "mstable/pooltogether-mstable",
 		"ecosystem_slug": "mstable",
@@ -158,7 +158,7 @@
 	{
 		"forks": 2,
 		"name": "mstable/mStable-example",
-		"stars": 1,
+		"stars": 2,
 		"watchers": 0,
 		"repo_name": "mstable/mStable-example",
 		"ecosystem_slug": "mstable",
@@ -181,6 +181,18 @@
 	},
 	{
 		"forks": 1,
+		"name": "mstable/earn-app",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "mstable/earn-app",
+		"ecosystem_slug": "mstable",
+		"parent_slug": "ethereum",
+		"path": "ethereum/mstable",
+		"slug": "mstable",
+		"title": "mstable"
+	},
+	{
+		"forks": 1,
 		"name": "mstable/mStable-components",
 		"stars": 1,
 		"watchers": 0,
@@ -193,10 +205,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "mstable/earn-app",
+		"name": "mstable/aave-stake-v2",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "mstable/earn-app",
+		"repo_name": "mstable/aave-stake-v2",
 		"ecosystem_slug": "mstable",
 		"parent_slug": "ethereum",
 		"path": "ethereum/mstable",
@@ -217,18 +229,6 @@
 	},
 	{
 		"forks": 0,
-		"name": "mstable/aave-stake-v2",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "mstable/aave-stake-v2",
-		"ecosystem_slug": "mstable",
-		"parent_slug": "ethereum",
-		"path": "ethereum/mstable",
-		"slug": "mstable",
-		"title": "mstable"
-	},
-	{
-		"forks": 0,
 		"name": "mstable/DefiLlama-Adapters",
 		"stars": 0,
 		"watchers": 0,
@@ -241,10 +241,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "mstable/ethereum-lists",
+		"name": "mstable/snapshot-spaces",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "mstable/ethereum-lists",
+		"repo_name": "mstable/snapshot-spaces",
 		"ecosystem_slug": "mstable",
 		"parent_slug": "ethereum",
 		"path": "ethereum/mstable",
@@ -265,10 +265,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "mstable/snapshot-spaces",
+		"name": "mstable/ethereum-lists",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "mstable/snapshot-spaces",
+		"repo_name": "mstable/ethereum-lists",
 		"ecosystem_slug": "mstable",
 		"parent_slug": "ethereum",
 		"path": "ethereum/mstable",

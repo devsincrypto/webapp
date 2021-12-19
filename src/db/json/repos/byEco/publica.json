@@ -24,6 +24,18 @@
 		"title": "Publica"
 	},
 	{
+		"forks": 0,
+		"name": "PublicaIO/rights-token",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "PublicaIO/rights-token",
+		"ecosystem_slug": "publica",
+		"parent_slug": null,
+		"path": "publica",
+		"slug": "publica",
+		"title": "Publica"
+	},
+	{
 		"forks": 1,
 		"name": "PublicaIO/publica-contracts",
 		"stars": 1,
@@ -41,18 +53,6 @@
 		"stars": 2,
 		"watchers": 0,
 		"repo_name": "PublicaIO/poc",
-		"ecosystem_slug": "publica",
-		"parent_slug": null,
-		"path": "publica",
-		"slug": "publica",
-		"title": "Publica"
-	},
-	{
-		"forks": 0,
-		"name": "PublicaIO/rights-token",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "PublicaIO/rights-token",
 		"ecosystem_slug": "publica",
 		"parent_slug": null,
 		"path": "publica",

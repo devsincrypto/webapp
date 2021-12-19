@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 30,
+		"forks": 43,
 		"name": "starkware-libs/cairo-lang",
-		"stars": 198,
+		"stars": 330,
 		"watchers": 0,
 		"repo_name": "starkware-libs/cairo-lang",
 		"ecosystem_slug": "starkware",
@@ -12,9 +12,9 @@
 		"title": "StarkWare"
 	},
 	{
-		"forks": 18,
+		"forks": 19,
 		"name": "starkware-libs/ethSTARK",
-		"stars": 83,
+		"stars": 97,
 		"watchers": 0,
 		"repo_name": "starkware-libs/ethSTARK",
 		"ecosystem_slug": "starkware",
@@ -24,9 +24,9 @@
 		"title": "StarkWare"
 	},
 	{
-		"forks": 13,
+		"forks": 20,
 		"name": "starkware-libs/starkex-contracts",
-		"stars": 54,
+		"stars": 87,
 		"watchers": 0,
 		"repo_name": "starkware-libs/starkex-contracts",
 		"ecosystem_slug": "starkware",
@@ -38,7 +38,7 @@
 	{
 		"forks": 8,
 		"name": "starkware-libs/veedo",
-		"stars": 38,
+		"stars": 41,
 		"watchers": 0,
 		"repo_name": "starkware-libs/veedo",
 		"ecosystem_slug": "starkware",
@@ -48,9 +48,9 @@
 		"title": "StarkWare"
 	},
 	{
-		"forks": 10,
+		"forks": 11,
 		"name": "starkware-libs/starkex-resources",
-		"stars": 19,
+		"stars": 30,
 		"watchers": 0,
 		"repo_name": "starkware-libs/starkex-resources",
 		"ecosystem_slug": "starkware",
@@ -60,9 +60,9 @@
 		"title": "StarkWare"
 	},
 	{
-		"forks": 6,
+		"forks": 7,
 		"name": "starkware-libs/crypto-cpp",
-		"stars": 7,
+		"stars": 9,
 		"watchers": 0,
 		"repo_name": "starkware-libs/crypto-cpp",
 		"ecosystem_slug": "starkware",
@@ -72,11 +72,11 @@
 		"title": "StarkWare"
 	},
 	{
-		"forks": 1,
-		"name": "starkware-libs/starkex-resources-wip",
-		"stars": 2,
+		"forks": 3,
+		"name": "starkware-libs/stark-perpetual",
+		"stars": 4,
 		"watchers": 0,
-		"repo_name": "starkware-libs/starkex-resources-wip",
+		"repo_name": "starkware-libs/stark-perpetual",
 		"ecosystem_slug": "starkware",
 		"parent_slug": null,
 		"path": "starkware",
@@ -85,10 +85,10 @@
 	},
 	{
 		"forks": 2,
-		"name": "starkware-libs/stark-perpetual",
-		"stars": 1,
+		"name": "starkware-libs/starkex-resources-wip",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "starkware-libs/stark-perpetual",
+		"repo_name": "starkware-libs/starkex-resources-wip",
 		"ecosystem_slug": "starkware",
 		"parent_slug": null,
 		"path": "starkware",

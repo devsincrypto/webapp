@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 829,
+		"forks": 859,
 		"name": "bisq-network/bisq",
-		"stars": 1542,
+		"stars": 1644,
 		"watchers": 0,
 		"repo_name": "bisq-network/bisq",
 		"ecosystem_slug": "bisq",
@@ -26,7 +26,7 @@
 	{
 		"forks": 64,
 		"name": "bisq-network/bisq-docs",
-		"stars": 40,
+		"stars": 41,
 		"watchers": 0,
 		"repo_name": "bisq-network/bisq-docs",
 		"ecosystem_slug": "bisq",
@@ -36,7 +36,7 @@
 		"title": "Bisq"
 	},
 	{
-		"forks": 59,
+		"forks": 60,
 		"name": "bisq-network/bisq-website",
 		"stars": 23,
 		"watchers": 0,
@@ -72,7 +72,7 @@
 		"title": "Bisq"
 	},
 	{
-		"forks": 19,
+		"forks": 20,
 		"name": "bisq-network/compensation",
 		"stars": 20,
 		"watchers": 0,
@@ -86,7 +86,7 @@
 	{
 		"forks": 10,
 		"name": "bisq-network/growth",
-		"stars": 24,
+		"stars": 25,
 		"watchers": 0,
 		"repo_name": "bisq-network/growth",
 		"ecosystem_slug": "bisq",
@@ -168,11 +168,11 @@
 		"title": "Bisq"
 	},
 	{
-		"forks": 15,
-		"name": "bisq-network/bisq-common",
-		"stars": 2,
+		"forks": 12,
+		"name": "bisq-network/bisq-p2p",
+		"stars": 5,
 		"watchers": 0,
-		"repo_name": "bisq-network/bisq-common",
+		"repo_name": "bisq-network/bisq-p2p",
 		"ecosystem_slug": "bisq",
 		"parent_slug": "general",
 		"path": "general/bisq",
@@ -180,11 +180,11 @@
 		"title": "Bisq"
 	},
 	{
-		"forks": 12,
-		"name": "bisq-network/bisq-p2p",
-		"stars": 5,
+		"forks": 15,
+		"name": "bisq-network/bisq-common",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "bisq-network/bisq-p2p",
+		"repo_name": "bisq-network/bisq-common",
 		"ecosystem_slug": "bisq",
 		"parent_slug": "general",
 		"path": "general/bisq",
@@ -206,7 +206,7 @@
 	{
 		"forks": 4,
 		"name": "bisq-network/bisq-android",
-		"stars": 8,
+		"stars": 9,
 		"watchers": 0,
 		"repo_name": "bisq-network/bisq-android",
 		"ecosystem_slug": "bisq",
@@ -228,11 +228,11 @@
 		"title": "Bisq"
 	},
 	{
-		"forks": 7,
-		"name": "bisq-network/dao",
-		"stars": 4,
+		"forks": 8,
+		"name": "bisq-network/incubator-bisq-xmr-integration",
+		"stars": 3,
 		"watchers": 0,
-		"repo_name": "bisq-network/dao",
+		"repo_name": "bisq-network/incubator-bisq-xmr-integration",
 		"ecosystem_slug": "bisq",
 		"parent_slug": "general",
 		"path": "general/bisq",
@@ -240,11 +240,11 @@
 		"title": "Bisq"
 	},
 	{
-		"forks": 8,
-		"name": "bisq-network/incubator-bisq-xmr-integration",
-		"stars": 3,
+		"forks": 7,
+		"name": "bisq-network/dao",
+		"stars": 4,
 		"watchers": 0,
-		"repo_name": "bisq-network/incubator-bisq-xmr-integration",
+		"repo_name": "bisq-network/dao",
 		"ecosystem_slug": "bisq",
 		"parent_slug": "general",
 		"path": "general/bisq",
@@ -288,18 +288,6 @@
 		"title": "Bisq"
 	},
 	{
-		"forks": 6,
-		"name": "bisq-network/incubator-bisq-api",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "bisq-network/incubator-bisq-api",
-		"ecosystem_slug": "bisq",
-		"parent_slug": "general",
-		"path": "general/bisq",
-		"slug": "bisq",
-		"title": "Bisq"
-	},
-	{
 		"forks": 7,
 		"name": "bisq-network/libdohj",
 		"stars": 1,
@@ -312,11 +300,11 @@
 		"title": "Bisq"
 	},
 	{
-		"forks": 5,
-		"name": "bisq-network/bisq-btcnode",
+		"forks": 6,
+		"name": "bisq-network/incubator-bisq-api",
 		"stars": 2,
 		"watchers": 0,
-		"repo_name": "bisq-network/bisq-btcnode",
+		"repo_name": "bisq-network/incubator-bisq-api",
 		"ecosystem_slug": "bisq",
 		"parent_slug": "general",
 		"path": "general/bisq",
@@ -337,6 +325,18 @@
 	},
 	{
 		"forks": 5,
+		"name": "bisq-network/bisq-btcnode",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "bisq-network/bisq-btcnode",
+		"ecosystem_slug": "bisq",
+		"parent_slug": "general",
+		"path": "general/bisq",
+		"slug": "bisq",
+		"title": "Bisq"
+	},
+	{
+		"forks": 5,
 		"name": "bisq-network/bisq-statsnode",
 		"stars": 1,
 		"watchers": 0,
@@ -348,35 +348,11 @@
 		"title": "Bisq"
 	},
 	{
-		"forks": 4,
+		"forks": 5,
 		"name": "bisq-network/docker",
 		"stars": 1,
 		"watchers": 0,
 		"repo_name": "bisq-network/docker",
-		"ecosystem_slug": "bisq",
-		"parent_slug": "general",
-		"path": "general/bisq",
-		"slug": "bisq",
-		"title": "Bisq"
-	},
-	{
-		"forks": 5,
-		"name": "bisq-network/gradle-witness",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "bisq-network/gradle-witness",
-		"ecosystem_slug": "bisq",
-		"parent_slug": "general",
-		"path": "general/bisq",
-		"slug": "bisq",
-		"title": "Bisq"
-	},
-	{
-		"forks": 5,
-		"name": "bisq-network/bisq-monitor",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "bisq-network/bisq-monitor",
 		"ecosystem_slug": "bisq",
 		"parent_slug": "general",
 		"path": "general/bisq",
@@ -408,6 +384,42 @@
 		"title": "Bisq"
 	},
 	{
+		"forks": 3,
+		"name": "bisq-network/mempool",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "bisq-network/mempool",
+		"ecosystem_slug": "bisq",
+		"parent_slug": "general",
+		"path": "general/bisq",
+		"slug": "bisq",
+		"title": "Bisq"
+	},
+	{
+		"forks": 5,
+		"name": "bisq-network/bisq-monitor",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "bisq-network/bisq-monitor",
+		"ecosystem_slug": "bisq",
+		"parent_slug": "general",
+		"path": "general/bisq",
+		"slug": "bisq",
+		"title": "Bisq"
+	},
+	{
+		"forks": 5,
+		"name": "bisq-network/gradle-witness",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "bisq-network/gradle-witness",
+		"ecosystem_slug": "bisq",
+		"parent_slug": "general",
+		"path": "general/bisq",
+		"slug": "bisq",
+		"title": "Bisq"
+	},
+	{
 		"forks": 1,
 		"name": "bisq-network/ops",
 		"stars": 3,
@@ -420,35 +432,11 @@
 		"title": "Bisq"
 	},
 	{
-		"forks": 1,
-		"name": "bisq-network/forum",
-		"stars": 2,
+		"forks": 4,
+		"name": "bisq-network/netlayer",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "bisq-network/forum",
-		"ecosystem_slug": "bisq",
-		"parent_slug": "general",
-		"path": "general/bisq",
-		"slug": "bisq",
-		"title": "Bisq"
-	},
-	{
-		"forks": 1,
-		"name": "bisq-network/mempool",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "bisq-network/mempool",
-		"ecosystem_slug": "bisq",
-		"parent_slug": "general",
-		"path": "general/bisq",
-		"slug": "bisq",
-		"title": "Bisq"
-	},
-	{
-		"forks": 2,
-		"name": "bisq-network/bisqremote_iOS",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "bisq-network/bisqremote_iOS",
+		"repo_name": "bisq-network/netlayer",
 		"ecosystem_slug": "bisq",
 		"parent_slug": "general",
 		"path": "general/bisq",
@@ -480,11 +468,11 @@
 		"title": "Bisq"
 	},
 	{
-		"forks": 3,
-		"name": "bisq-network/netlayer",
-		"stars": 0,
+		"forks": 2,
+		"name": "bisq-network/bisqremote_iOS",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "bisq-network/netlayer",
+		"repo_name": "bisq-network/bisqremote_iOS",
 		"ecosystem_slug": "bisq",
 		"parent_slug": "general",
 		"path": "general/bisq",
@@ -492,23 +480,11 @@
 		"title": "Bisq"
 	},
 	{
-		"forks": 0,
-		"name": "bisq-network/github",
+		"forks": 1,
+		"name": "bisq-network/forum",
 		"stars": 2,
 		"watchers": 0,
-		"repo_name": "bisq-network/github",
-		"ecosystem_slug": "bisq",
-		"parent_slug": "general",
-		"path": "general/bisq",
-		"slug": "bisq",
-		"title": "Bisq"
-	},
-	{
-		"forks": 0,
-		"name": "bisq-network/analytics",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "bisq-network/analytics",
+		"repo_name": "bisq-network/forum",
 		"ecosystem_slug": "bisq",
 		"parent_slug": "general",
 		"path": "general/bisq",
@@ -528,11 +504,23 @@
 		"title": "Bisq"
 	},
 	{
+		"forks": 0,
+		"name": "bisq-network/github",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "bisq-network/github",
+		"ecosystem_slug": "bisq",
+		"parent_slug": "general",
+		"path": "general/bisq",
+		"slug": "bisq",
+		"title": "Bisq"
+	},
+	{
 		"forks": 2,
-		"name": "bisq-network/tor-binary",
+		"name": "bisq-network/bisqremote_Android",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "bisq-network/tor-binary",
+		"repo_name": "bisq-network/bisqremote_Android",
 		"ecosystem_slug": "bisq",
 		"parent_slug": "general",
 		"path": "general/bisq",
@@ -553,10 +541,22 @@
 	},
 	{
 		"forks": 2,
-		"name": "bisq-network/bisqremote_Android",
+		"name": "bisq-network/tor-binary",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "bisq-network/bisqremote_Android",
+		"repo_name": "bisq-network/tor-binary",
+		"ecosystem_slug": "bisq",
+		"parent_slug": "general",
+		"path": "general/bisq",
+		"slug": "bisq",
+		"title": "Bisq"
+	},
+	{
+		"forks": 0,
+		"name": "bisq-network/analytics",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "bisq-network/analytics",
 		"ecosystem_slug": "bisq",
 		"parent_slug": "general",
 		"path": "general/bisq",
@@ -569,30 +569,6 @@
 		"stars": 1,
 		"watchers": 0,
 		"repo_name": "bisq-network/bisq-multirepo",
-		"ecosystem_slug": "bisq",
-		"parent_slug": "general",
-		"path": "general/bisq",
-		"slug": "bisq",
-		"title": "Bisq"
-	},
-	{
-		"forks": 1,
-		"name": "bisq-network/jsonrpc4j",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "bisq-network/jsonrpc4j",
-		"ecosystem_slug": "bisq",
-		"parent_slug": "general",
-		"path": "general/bisq",
-		"slug": "bisq",
-		"title": "Bisq"
-	},
-	{
-		"forks": 0,
-		"name": "bisq-network/lists",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "bisq-network/lists",
 		"ecosystem_slug": "bisq",
 		"parent_slug": "general",
 		"path": "general/bisq",
@@ -617,6 +593,30 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "bisq-network/monitoring",
+		"ecosystem_slug": "bisq",
+		"parent_slug": "general",
+		"path": "general/bisq",
+		"slug": "bisq",
+		"title": "Bisq"
+	},
+	{
+		"forks": 0,
+		"name": "bisq-network/lists",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "bisq-network/lists",
+		"ecosystem_slug": "bisq",
+		"parent_slug": "general",
+		"path": "general/bisq",
+		"slug": "bisq",
+		"title": "Bisq"
+	},
+	{
+		"forks": 1,
+		"name": "bisq-network/jsonrpc4j",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "bisq-network/jsonrpc4j",
 		"ecosystem_slug": "bisq",
 		"parent_slug": "general",
 		"path": "general/bisq",

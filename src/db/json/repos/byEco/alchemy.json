@@ -1,20 +1,8 @@
 [
 	{
-		"forks": 14,
-		"name": "alchemyplatform/alchemy-web3",
-		"stars": 75,
-		"watchers": 0,
-		"repo_name": "alchemyplatform/alchemy-web3",
-		"ecosystem_slug": "alchemy",
-		"parent_slug": null,
-		"path": "alchemy",
-		"slug": "alchemy",
-		"title": "Alchemy"
-	},
-	{
-		"forks": 46,
+		"forks": 83,
 		"name": "alchemyplatform/nft-minter-tutorial",
-		"stars": 33,
+		"stars": 62,
 		"watchers": 0,
 		"repo_name": "alchemyplatform/nft-minter-tutorial",
 		"ecosystem_slug": "alchemy",
@@ -24,9 +12,21 @@
 		"title": "Alchemy"
 	},
 	{
-		"forks": 26,
+		"forks": 16,
+		"name": "alchemyplatform/alchemy-web3",
+		"stars": 99,
+		"watchers": 0,
+		"repo_name": "alchemyplatform/alchemy-web3",
+		"ecosystem_slug": "alchemy",
+		"parent_slug": null,
+		"path": "alchemy",
+		"slug": "alchemy",
+		"title": "Alchemy"
+	},
+	{
+		"forks": 35,
 		"name": "alchemyplatform/alchemy-docs",
-		"stars": 7,
+		"stars": 15,
 		"watchers": 0,
 		"repo_name": "alchemyplatform/alchemy-docs",
 		"ecosystem_slug": "alchemy",
@@ -38,7 +38,7 @@
 	{
 		"forks": 1,
 		"name": "alchemyplatform/eth-provider-benchmark",
-		"stars": 13,
+		"stars": 14,
 		"watchers": 0,
 		"repo_name": "alchemyplatform/eth-provider-benchmark",
 		"ecosystem_slug": "alchemy",
@@ -50,7 +50,7 @@
 	{
 		"forks": 8,
 		"name": "alchemyplatform/hello-world-part-four-tutorial",
-		"stars": 3,
+		"stars": 4,
 		"watchers": 0,
 		"repo_name": "alchemyplatform/hello-world-part-four-tutorial",
 		"ecosystem_slug": "alchemy",
@@ -62,7 +62,7 @@
 	{
 		"forks": 3,
 		"name": "alchemyplatform/uniswap-trading-example",
-		"stars": 7,
+		"stars": 8,
 		"watchers": 0,
 		"repo_name": "alchemyplatform/uniswap-trading-example",
 		"ecosystem_slug": "alchemy",

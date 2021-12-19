@@ -2,7 +2,7 @@
 	{
 		"forks": 3,
 		"name": "dragonereum/dragonereum-contracts",
-		"stars": 22,
+		"stars": 23,
 		"watchers": 0,
 		"repo_name": "dragonereum/dragonereum-contracts",
 		"ecosystem_slug": "dragonereum",
@@ -48,11 +48,23 @@
 		"title": "Dragonereum"
 	},
 	{
+		"forks": 1,
+		"name": "dragonereum/foundation",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "dragonereum/foundation",
+		"ecosystem_slug": "dragonereum",
+		"parent_slug": null,
+		"path": "dragonereum",
+		"slug": "dragonereum",
+		"title": "Dragonereum"
+	},
+	{
 		"forks": 0,
-		"name": "dragonereum/token-profile",
+		"name": "dragonereum/tokens",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "dragonereum/token-profile",
+		"repo_name": "dragonereum/tokens",
 		"ecosystem_slug": "dragonereum",
 		"parent_slug": null,
 		"path": "dragonereum",
@@ -72,23 +84,11 @@
 		"title": "Dragonereum"
 	},
 	{
-		"forks": 1,
-		"name": "dragonereum/foundation",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "dragonereum/foundation",
-		"ecosystem_slug": "dragonereum",
-		"parent_slug": null,
-		"path": "dragonereum",
-		"slug": "dragonereum",
-		"title": "Dragonereum"
-	},
-	{
 		"forks": 0,
-		"name": "dragonereum/tokens",
+		"name": "dragonereum/token-profile",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "dragonereum/tokens",
+		"repo_name": "dragonereum/token-profile",
 		"ecosystem_slug": "dragonereum",
 		"parent_slug": null,
 		"path": "dragonereum",

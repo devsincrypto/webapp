@@ -49,18 +49,6 @@
 	},
 	{
 		"forks": 0,
-		"name": "cnntoken/CoinMoon",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "cnntoken/CoinMoon",
-		"ecosystem_slug": "content-neutrality-network",
-		"parent_slug": null,
-		"path": "content-neutrality-network",
-		"slug": "content-neutrality-network",
-		"title": "Content Neutrality Network"
-	},
-	{
-		"forks": 0,
 		"name": "cnntoken/bragi4wemedia",
 		"stars": 0,
 		"watchers": 0,
@@ -77,6 +65,18 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "cnntoken/Token",
+		"ecosystem_slug": "content-neutrality-network",
+		"parent_slug": null,
+		"path": "content-neutrality-network",
+		"slug": "content-neutrality-network",
+		"title": "Content Neutrality Network"
+	},
+	{
+		"forks": 0,
+		"name": "cnntoken/CoinMoon",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "cnntoken/CoinMoon",
 		"ecosystem_slug": "content-neutrality-network",
 		"parent_slug": null,
 		"path": "content-neutrality-network",

@@ -2,7 +2,7 @@
 	{
 		"forks": 25,
 		"name": "goldcoin/goldcoin",
-		"stars": 15,
+		"stars": 16,
 		"watchers": 0,
 		"repo_name": "goldcoin/goldcoin",
 		"ecosystem_slug": "goldcoin",
@@ -85,6 +85,18 @@
 	},
 	{
 		"forks": 2,
+		"name": "goldcoin/goldcoinj-rbh",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "goldcoin/goldcoinj-rbh",
+		"ecosystem_slug": "goldcoin",
+		"parent_slug": null,
+		"path": "goldcoin",
+		"slug": "goldcoin",
+		"title": "GoldCoin"
+	},
+	{
+		"forks": 2,
 		"name": "goldcoin/java-experiment",
 		"stars": 1,
 		"watchers": 0,
@@ -101,18 +113,6 @@
 		"stars": 1,
 		"watchers": 0,
 		"repo_name": "goldcoin/gitian.sigs.GLC",
-		"ecosystem_slug": "goldcoin",
-		"parent_slug": null,
-		"path": "goldcoin",
-		"slug": "goldcoin",
-		"title": "GoldCoin"
-	},
-	{
-		"forks": 2,
-		"name": "goldcoin/goldcoinj-rbh",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "goldcoin/goldcoinj-rbh",
 		"ecosystem_slug": "goldcoin",
 		"parent_slug": null,
 		"path": "goldcoin",

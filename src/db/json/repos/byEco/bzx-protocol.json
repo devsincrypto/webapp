@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 32,
+		"forks": 35,
 		"name": "bZxNetwork/contractsV2",
-		"stars": 134,
+		"stars": 143,
 		"watchers": 0,
 		"repo_name": "bZxNetwork/contractsV2",
 		"ecosystem_slug": "bzx-protocol",
@@ -120,11 +120,11 @@
 		"title": "bZx Protocol"
 	},
 	{
-		"forks": 2,
-		"name": "bZxNetwork/alchemy-web3",
-		"stars": 1,
+		"forks": 3,
+		"name": "bZxNetwork/bZxMEW",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "bZxNetwork/alchemy-web3",
+		"repo_name": "bZxNetwork/bZxMEW",
 		"ecosystem_slug": "bzx-protocol",
 		"parent_slug": "ethereum",
 		"path": "ethereum/bzx-protocol",
@@ -132,11 +132,11 @@
 		"title": "bZx Protocol"
 	},
 	{
-		"forks": 3,
-		"name": "bZxNetwork/bZxMEW",
-		"stars": 0,
+		"forks": 2,
+		"name": "bZxNetwork/alchemy-web3",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "bZxNetwork/bZxMEW",
+		"repo_name": "bZxNetwork/alchemy-web3",
 		"ecosystem_slug": "bzx-protocol",
 		"parent_slug": "ethereum",
 		"path": "ethereum/bzx-protocol",

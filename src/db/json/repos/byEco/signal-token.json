@@ -2,7 +2,7 @@
 	{
 		"forks": 69,
 		"name": "SpectivOfficial/live-tour-lab",
-		"stars": 322,
+		"stars": 324,
 		"watchers": 0,
 		"repo_name": "SpectivOfficial/live-tour-lab",
 		"ecosystem_slug": "signal-token",
@@ -61,18 +61,6 @@
 	},
 	{
 		"forks": 0,
-		"name": "SpectivOfficial/eos-smart-contract-info",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "SpectivOfficial/eos-smart-contract-info",
-		"ecosystem_slug": "signal-token",
-		"parent_slug": null,
-		"path": "signal-token",
-		"slug": "signal-token",
-		"title": "Signal Token"
-	},
-	{
-		"forks": 0,
 		"name": "SpectivOfficial/wallet",
 		"stars": 0,
 		"watchers": 0,
@@ -89,6 +77,18 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "SpectivOfficial/eth-contract-metadata",
+		"ecosystem_slug": "signal-token",
+		"parent_slug": null,
+		"path": "signal-token",
+		"slug": "signal-token",
+		"title": "Signal Token"
+	},
+	{
+		"forks": 0,
+		"name": "SpectivOfficial/eos-smart-contract-info",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "SpectivOfficial/eos-smart-contract-info",
 		"ecosystem_slug": "signal-token",
 		"parent_slug": null,
 		"path": "signal-token",

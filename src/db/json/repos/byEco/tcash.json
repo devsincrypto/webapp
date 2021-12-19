@@ -12,6 +12,18 @@
 		"title": "TCASH"
 	},
 	{
+		"forks": 3,
+		"name": "EtherFlyer/etherflyer_exchange",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "EtherFlyer/etherflyer_exchange",
+		"ecosystem_slug": "tcash",
+		"parent_slug": null,
+		"path": "tcash",
+		"slug": "tcash",
+		"title": "TCASH"
+	},
+	{
 		"forks": 5,
 		"name": "EtherFlyer/etherflyer_api_test",
 		"stars": 1,
@@ -37,6 +49,18 @@
 	},
 	{
 		"forks": 4,
+		"name": "EtherFlyer/test_api_etherflyer_com",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "EtherFlyer/test_api_etherflyer_com",
+		"ecosystem_slug": "tcash",
+		"parent_slug": null,
+		"path": "tcash",
+		"slug": "tcash",
+		"title": "TCASH"
+	},
+	{
+		"forks": 4,
 		"name": "EtherFlyer/asnw",
 		"stars": 0,
 		"watchers": 0,
@@ -53,30 +77,6 @@
 		"stars": 1,
 		"watchers": 0,
 		"repo_name": "EtherFlyer/token-profile",
-		"ecosystem_slug": "tcash",
-		"parent_slug": null,
-		"path": "tcash",
-		"slug": "tcash",
-		"title": "TCASH"
-	},
-	{
-		"forks": 4,
-		"name": "EtherFlyer/test_api_etherflyer_com",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "EtherFlyer/test_api_etherflyer_com",
-		"ecosystem_slug": "tcash",
-		"parent_slug": null,
-		"path": "tcash",
-		"slug": "tcash",
-		"title": "TCASH"
-	},
-	{
-		"forks": 2,
-		"name": "EtherFlyer/etherflyer_exchange",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "EtherFlyer/etherflyer_exchange",
 		"ecosystem_slug": "tcash",
 		"parent_slug": null,
 		"path": "tcash",

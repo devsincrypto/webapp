@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 25,
+		"forks": 36,
 		"name": "saddle-finance/saddle-contract",
-		"stars": 58,
+		"stars": 70,
 		"watchers": 0,
 		"repo_name": "saddle-finance/saddle-contract",
 		"ecosystem_slug": "saddle",
@@ -12,9 +12,9 @@
 		"title": "Saddle"
 	},
 	{
-		"forks": 16,
+		"forks": 18,
 		"name": "saddle-finance/saddle-frontend",
-		"stars": 20,
+		"stars": 27,
 		"watchers": 0,
 		"repo_name": "saddle-finance/saddle-frontend",
 		"ecosystem_slug": "saddle",
@@ -36,7 +36,7 @@
 		"title": "Saddle"
 	},
 	{
-		"forks": 0,
+		"forks": 1,
 		"name": "saddle-finance/saddle-audits",
 		"stars": 1,
 		"watchers": 0,

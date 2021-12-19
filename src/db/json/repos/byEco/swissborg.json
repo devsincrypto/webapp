@@ -72,7 +72,7 @@
 		"title": "SwissBorg"
 	},
 	{
-		"forks": 8,
+		"forks": 9,
 		"name": "SwissBorg/akka-persistence-postgres",
 		"stars": 49,
 		"watchers": 0,
@@ -84,7 +84,7 @@
 		"title": "SwissBorg"
 	},
 	{
-		"forks": 3,
+		"forks": 4,
 		"name": "SwissBorg/voting-token",
 		"stars": 8,
 		"watchers": 0,
@@ -96,7 +96,7 @@
 		"title": "SwissBorg"
 	},
 	{
-		"forks": 1,
+		"forks": 2,
 		"name": "SwissBorg/akka-inspection",
 		"stars": 0,
 		"watchers": 0,
@@ -121,18 +121,6 @@
 	},
 	{
 		"forks": 0,
-		"name": "SwissBorg/tapir",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "SwissBorg/tapir",
-		"ecosystem_slug": "swissborg",
-		"parent_slug": null,
-		"path": "swissborg",
-		"slug": "swissborg",
-		"title": "SwissBorg"
-	},
-	{
-		"forks": 0,
 		"name": "SwissBorg/lazysodium-java",
 		"stars": 0,
 		"watchers": 0,
@@ -145,10 +133,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "SwissBorg/contract-metadata",
+		"name": "SwissBorg/alpakka-kafka",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "SwissBorg/contract-metadata",
+		"repo_name": "SwissBorg/alpakka-kafka",
 		"ecosystem_slug": "swissborg",
 		"parent_slug": null,
 		"path": "swissborg",
@@ -157,10 +145,22 @@
 	},
 	{
 		"forks": 0,
-		"name": "SwissBorg/alpakka-kafka",
+		"name": "SwissBorg/tapir",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "SwissBorg/alpakka-kafka",
+		"repo_name": "SwissBorg/tapir",
+		"ecosystem_slug": "swissborg",
+		"parent_slug": null,
+		"path": "swissborg",
+		"slug": "swissborg",
+		"title": "SwissBorg"
+	},
+	{
+		"forks": 0,
+		"name": "SwissBorg/contract-metadata",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "SwissBorg/contract-metadata",
 		"ecosystem_slug": "swissborg",
 		"parent_slug": null,
 		"path": "swissborg",

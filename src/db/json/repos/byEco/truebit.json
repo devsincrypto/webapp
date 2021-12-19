@@ -2,7 +2,7 @@
 	{
 		"forks": 25,
 		"name": "TrueBitFoundation/truebit-os",
-		"stars": 86,
+		"stars": 89,
 		"watchers": 0,
 		"repo_name": "TrueBitFoundation/truebit-os",
 		"ecosystem_slug": "truebit",
@@ -26,7 +26,7 @@
 	{
 		"forks": 18,
 		"name": "TrueBitFoundation/webasm-solidity",
-		"stars": 70,
+		"stars": 71,
 		"watchers": 0,
 		"repo_name": "TrueBitFoundation/webasm-solidity",
 		"ecosystem_slug": "truebit",
@@ -48,9 +48,9 @@
 		"title": "TrueBit"
 	},
 	{
-		"forks": 13,
+		"forks": 14,
 		"name": "TrueBitFoundation/ocaml-offchain",
-		"stars": 45,
+		"stars": 46,
 		"watchers": 0,
 		"repo_name": "TrueBitFoundation/ocaml-offchain",
 		"ecosystem_slug": "truebit",
@@ -74,7 +74,7 @@
 	{
 		"forks": 7,
 		"name": "TrueBitFoundation/wasm-ports",
-		"stars": 25,
+		"stars": 26,
 		"watchers": 0,
 		"repo_name": "TrueBitFoundation/wasm-ports",
 		"ecosystem_slug": "truebit",
@@ -181,18 +181,6 @@
 	},
 	{
 		"forks": 1,
-		"name": "TrueBitFoundation/eth-patricia",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "TrueBitFoundation/eth-patricia",
-		"ecosystem_slug": "truebit",
-		"parent_slug": null,
-		"path": "truebit",
-		"slug": "truebit",
-		"title": "TrueBit"
-	},
-	{
-		"forks": 1,
 		"name": "TrueBitFoundation/python-offchain",
 		"stars": 2,
 		"watchers": 0,
@@ -209,6 +197,18 @@
 		"stars": 2,
 		"watchers": 0,
 		"repo_name": "TrueBitFoundation/wasm-computation-layer",
+		"ecosystem_slug": "truebit",
+		"parent_slug": null,
+		"path": "truebit",
+		"slug": "truebit",
+		"title": "TrueBit"
+	},
+	{
+		"forks": 1,
+		"name": "TrueBitFoundation/eth-patricia",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "TrueBitFoundation/eth-patricia",
 		"ecosystem_slug": "truebit",
 		"parent_slug": null,
 		"path": "truebit",
@@ -241,10 +241,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "TrueBitFoundation/devops",
+		"name": "TrueBitFoundation/test",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "TrueBitFoundation/devops",
+		"repo_name": "TrueBitFoundation/test",
 		"ecosystem_slug": "truebit",
 		"parent_slug": null,
 		"path": "truebit",
@@ -253,10 +253,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "TrueBitFoundation/test",
+		"name": "TrueBitFoundation/devops",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "TrueBitFoundation/test",
+		"repo_name": "TrueBitFoundation/devops",
 		"ecosystem_slug": "truebit",
 		"parent_slug": null,
 		"path": "truebit",

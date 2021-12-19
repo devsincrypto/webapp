@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 44,
+		"forks": 45,
 		"name": "ETHLend/Documentation",
-		"stars": 114,
+		"stars": 117,
 		"watchers": 0,
 		"repo_name": "ETHLend/Documentation",
 		"ecosystem_slug": "ethlend",
@@ -38,21 +38,9 @@
 	{
 		"forks": 2,
 		"name": "ETHLend/ethereum-bridge",
-		"stars": 3,
+		"stars": 4,
 		"watchers": 0,
 		"repo_name": "ETHLend/ethereum-bridge",
-		"ecosystem_slug": "ethlend",
-		"parent_slug": null,
-		"path": "ethlend",
-		"slug": "ethlend",
-		"title": "ETHLend"
-	},
-	{
-		"forks": 1,
-		"name": "ETHLend/statistics",
-		"stars": 3,
-		"watchers": 0,
-		"repo_name": "ETHLend/statistics",
 		"ecosystem_slug": "ethlend",
 		"parent_slug": null,
 		"path": "ethlend",
@@ -73,6 +61,18 @@
 	},
 	{
 		"forks": 1,
+		"name": "ETHLend/statistics",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "ETHLend/statistics",
+		"ecosystem_slug": "ethlend",
+		"parent_slug": null,
+		"path": "ethlend",
+		"slug": "ethlend",
+		"title": "ETHLend"
+	},
+	{
+		"forks": 1,
 		"name": "ETHLend/baiji-smart-contracts",
 		"stars": 0,
 		"watchers": 0,
@@ -85,10 +85,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "ETHLend/logos",
+		"name": "ETHLend/Baiji-public",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "ETHLend/logos",
+		"repo_name": "ETHLend/Baiji-public",
 		"ecosystem_slug": "ethlend",
 		"parent_slug": null,
 		"path": "ethlend",
@@ -97,10 +97,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "ETHLend/Baiji-public",
+		"name": "ETHLend/logos",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "ETHLend/Baiji-public",
+		"repo_name": "ETHLend/logos",
 		"ecosystem_slug": "ethlend",
 		"parent_slug": null,
 		"path": "ethlend",

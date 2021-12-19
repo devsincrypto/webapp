@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 273,
+		"forks": 281,
 		"name": "bitcoin-sv/bitcoin-sv",
-		"stars": 562,
+		"stars": 585,
 		"watchers": 0,
 		"repo_name": "bitcoin-sv/bitcoin-sv",
 		"ecosystem_slug": "bitcoin-sv",
@@ -14,7 +14,7 @@
 	{
 		"forks": 121,
 		"name": "moneybutton/bsv",
-		"stars": 180,
+		"stars": 184,
 		"watchers": 0,
 		"repo_name": "moneybutton/bsv",
 		"ecosystem_slug": "bitcoin-sv",
@@ -24,9 +24,9 @@
 		"title": "Bitcoin SV"
 	},
 	{
-		"forks": 64,
+		"forks": 65,
 		"name": "electrumsv/electrumsv",
-		"stars": 129,
+		"stars": 131,
 		"watchers": 0,
 		"repo_name": "electrumsv/electrumsv",
 		"ecosystem_slug": "bitcoin-sv",
@@ -38,7 +38,7 @@
 	{
 		"forks": 52,
 		"name": "unwriter/datapay",
-		"stars": 117,
+		"stars": 118,
 		"watchers": 0,
 		"repo_name": "unwriter/datapay",
 		"ecosystem_slug": "bitcoin-sv",
@@ -48,9 +48,9 @@
 		"title": "Bitcoin SV"
 	},
 	{
-		"forks": 29,
+		"forks": 30,
 		"name": "AustEcon/bitsv",
-		"stars": 102,
+		"stars": 103,
 		"watchers": 0,
 		"repo_name": "AustEcon/bitsv",
 		"ecosystem_slug": "bitcoin-sv",
@@ -60,9 +60,9 @@
 		"title": "Bitcoin SV"
 	},
 	{
-		"forks": 22,
+		"forks": 23,
 		"name": "monkeylord/awesome-bitcoin-sv",
-		"stars": 81,
+		"stars": 85,
 		"watchers": 0,
 		"repo_name": "monkeylord/awesome-bitcoin-sv",
 		"ecosystem_slug": "bitcoin-sv",
@@ -74,7 +74,7 @@
 	{
 		"forks": 41,
 		"name": "you21979/node-electrum-client",
-		"stars": 28,
+		"stars": 29,
 		"watchers": 0,
 		"repo_name": "you21979/node-electrum-client",
 		"ecosystem_slug": "bitcoin-sv",
@@ -86,7 +86,7 @@
 	{
 		"forks": 3,
 		"name": "unwriter/B",
-		"stars": 55,
+		"stars": 58,
 		"watchers": 0,
 		"repo_name": "unwriter/B",
 		"ecosystem_slug": "bitcoin-sv",
@@ -96,9 +96,9 @@
 		"title": "Bitcoin SV"
 	},
 	{
-		"forks": 12,
+		"forks": 13,
 		"name": "brentongunning/rust-sv",
-		"stars": 39,
+		"stars": 42,
 		"watchers": 0,
 		"repo_name": "brentongunning/rust-sv",
 		"ecosystem_slug": "bitcoin-sv",
@@ -108,9 +108,9 @@
 		"title": "Bitcoin SV"
 	},
 	{
-		"forks": 15,
+		"forks": 16,
 		"name": "bitcoin-sv/merchantapi-reference",
-		"stars": 15,
+		"stars": 16,
 		"watchers": 0,
 		"repo_name": "bitcoin-sv/merchantapi-reference",
 		"ecosystem_slug": "bitcoin-sv",
@@ -120,7 +120,7 @@
 		"title": "Bitcoin SV"
 	},
 	{
-		"forks": 13,
+		"forks": 14,
 		"name": "bitcoin-sv/minerid-reference",
 		"stars": 11,
 		"watchers": 0,
@@ -134,9 +134,21 @@
 	{
 		"forks": 8,
 		"name": "bitcoin-sv/docker-sv",
-		"stars": 15,
+		"stars": 16,
 		"watchers": 0,
 		"repo_name": "bitcoin-sv/docker-sv",
+		"ecosystem_slug": "bitcoin-sv",
+		"parent_slug": null,
+		"path": "bitcoin-sv",
+		"slug": "bitcoin-sv",
+		"title": "Bitcoin SV"
+	},
+	{
+		"forks": 8,
+		"name": "bitcoin-sv/spvchannels-reference",
+		"stars": 14,
+		"watchers": 0,
+		"repo_name": "bitcoin-sv/spvchannels-reference",
 		"ecosystem_slug": "bitcoin-sv",
 		"parent_slug": null,
 		"path": "bitcoin-sv",
@@ -156,18 +168,6 @@
 		"title": "Bitcoin SV"
 	},
 	{
-		"forks": 7,
-		"name": "bitcoin-sv/spvchannels-reference",
-		"stars": 12,
-		"watchers": 0,
-		"repo_name": "bitcoin-sv/spvchannels-reference",
-		"ecosystem_slug": "bitcoin-sv",
-		"parent_slug": null,
-		"path": "bitcoin-sv",
-		"slug": "bitcoin-sv",
-		"title": "Bitcoin SV"
-	},
-	{
 		"forks": 0,
 		"name": "gitzhou/bsv-tx-gun",
 		"stars": 18,
@@ -180,11 +180,11 @@
 		"title": "Bitcoin SV"
 	},
 	{
-		"forks": 2,
-		"name": "flufy3d/MetaID",
-		"stars": 11,
+		"forks": 1,
+		"name": "gitzhou/bitcoin-ecies",
+		"stars": 12,
 		"watchers": 0,
-		"repo_name": "flufy3d/MetaID",
+		"repo_name": "gitzhou/bitcoin-ecies",
 		"ecosystem_slug": "bitcoin-sv",
 		"parent_slug": null,
 		"path": "bitcoin-sv",
@@ -204,11 +204,11 @@
 		"title": "Bitcoin SV"
 	},
 	{
-		"forks": 1,
-		"name": "gitzhou/bitcoin-ecies",
+		"forks": 2,
+		"name": "flufy3d/MetaID",
 		"stars": 11,
 		"watchers": 0,
-		"repo_name": "gitzhou/bitcoin-ecies",
+		"repo_name": "flufy3d/MetaID",
 		"ecosystem_slug": "bitcoin-sv",
 		"parent_slug": null,
 		"path": "bitcoin-sv",
@@ -264,18 +264,6 @@
 		"title": "Bitcoin SV"
 	},
 	{
-		"forks": 3,
-		"name": "monkeylord/BAD",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "monkeylord/BAD",
-		"ecosystem_slug": "bitcoin-sv",
-		"parent_slug": null,
-		"path": "bitcoin-sv",
-		"slug": "bitcoin-sv",
-		"title": "Bitcoin SV"
-	},
-	{
 		"forks": 1,
 		"name": "qshuai/hardfork",
 		"stars": 4,
@@ -289,10 +277,10 @@
 	},
 	{
 		"forks": 3,
-		"name": "Zwilla/BitcoinSV_protect",
-		"stars": 1,
+		"name": "monkeylord/BAD",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "Zwilla/BitcoinSV_protect",
+		"repo_name": "monkeylord/BAD",
 		"ecosystem_slug": "bitcoin-sv",
 		"parent_slug": null,
 		"path": "bitcoin-sv",
@@ -300,11 +288,11 @@
 		"title": "Bitcoin SV"
 	},
 	{
-		"forks": 1,
-		"name": "bitcoin-sv/spvchannels-android-reference",
-		"stars": 2,
+		"forks": 3,
+		"name": "Zwilla/BitcoinSV_protect",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "bitcoin-sv/spvchannels-android-reference",
+		"repo_name": "Zwilla/BitcoinSV_protect",
 		"ecosystem_slug": "bitcoin-sv",
 		"parent_slug": null,
 		"path": "bitcoin-sv",
@@ -336,35 +324,23 @@
 		"title": "Bitcoin SV"
 	},
 	{
+		"forks": 1,
+		"name": "bitcoin-sv/spvchannels-android-reference",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "bitcoin-sv/spvchannels-android-reference",
+		"ecosystem_slug": "bitcoin-sv",
+		"parent_slug": null,
+		"path": "bitcoin-sv",
+		"slug": "bitcoin-sv",
+		"title": "Bitcoin SV"
+	},
+	{
 		"forks": 0,
 		"name": "bitproton/coldwallet",
 		"stars": 2,
 		"watchers": 0,
 		"repo_name": "bitproton/coldwallet",
-		"ecosystem_slug": "bitcoin-sv",
-		"parent_slug": null,
-		"path": "bitcoin-sv",
-		"slug": "bitcoin-sv",
-		"title": "Bitcoin SV"
-	},
-	{
-		"forks": 0,
-		"name": "bitcoineler/BN",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "bitcoineler/BN",
-		"ecosystem_slug": "bitcoin-sv",
-		"parent_slug": null,
-		"path": "bitcoin-sv",
-		"slug": "bitcoin-sv",
-		"title": "Bitcoin SV"
-	},
-	{
-		"forks": 0,
-		"name": "roppa/docker-bitcoinsv",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "roppa/docker-bitcoinsv",
 		"ecosystem_slug": "bitcoin-sv",
 		"parent_slug": null,
 		"path": "bitcoin-sv",
@@ -397,6 +373,30 @@
 	},
 	{
 		"forks": 0,
+		"name": "roppa/docker-bitcoinsv",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "roppa/docker-bitcoinsv",
+		"ecosystem_slug": "bitcoin-sv",
+		"parent_slug": null,
+		"path": "bitcoin-sv",
+		"slug": "bitcoin-sv",
+		"title": "Bitcoin SV"
+	},
+	{
+		"forks": 0,
+		"name": "bitcoineler/BN",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "bitcoineler/BN",
+		"ecosystem_slug": "bitcoin-sv",
+		"parent_slug": null,
+		"path": "bitcoin-sv",
+		"slug": "bitcoin-sv",
+		"title": "Bitcoin SV"
+	},
+	{
+		"forks": 0,
 		"name": "blockrange/bitcoin-SV",
 		"stars": 0,
 		"watchers": 0,
@@ -409,58 +409,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "deggenschwiler/bitcoinSV",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "deggenschwiler/bitcoinSV",
-		"ecosystem_slug": "bitcoin-sv",
-		"parent_slug": null,
-		"path": "bitcoin-sv",
-		"slug": "bitcoin-sv",
-		"title": "Bitcoin SV"
-	},
-	{
-		"forks": 0,
-		"name": "rosettacash/node",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "rosettacash/node",
-		"ecosystem_slug": "bitcoin-sv",
-		"parent_slug": null,
-		"path": "bitcoin-sv",
-		"slug": "bitcoin-sv",
-		"title": "Bitcoin SV"
-	},
-	{
-		"forks": 0,
-		"name": "gbtn/bitcoin-sv-gbtn",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "gbtn/bitcoin-sv-gbtn",
-		"ecosystem_slug": "bitcoin-sv",
-		"parent_slug": null,
-		"path": "bitcoin-sv",
-		"slug": "bitcoin-sv",
-		"title": "Bitcoin SV"
-	},
-	{
-		"forks": 0,
 		"name": "bitcoin-sv/spvchannels-ios-reference",
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "bitcoin-sv/spvchannels-ios-reference",
-		"ecosystem_slug": "bitcoin-sv",
-		"parent_slug": null,
-		"path": "bitcoin-sv",
-		"slug": "bitcoin-sv",
-		"title": "Bitcoin SV"
-	},
-	{
-		"forks": 0,
-		"name": "marcoadamo/bitcoin-sv-depends",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "marcoadamo/bitcoin-sv-depends",
 		"ecosystem_slug": "bitcoin-sv",
 		"parent_slug": null,
 		"path": "bitcoin-sv",
@@ -485,6 +437,54 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "bitcoin-sv/gitian.sigs",
+		"ecosystem_slug": "bitcoin-sv",
+		"parent_slug": null,
+		"path": "bitcoin-sv",
+		"slug": "bitcoin-sv",
+		"title": "Bitcoin SV"
+	},
+	{
+		"forks": 0,
+		"name": "gbtn/bitcoin-sv-gbtn",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "gbtn/bitcoin-sv-gbtn",
+		"ecosystem_slug": "bitcoin-sv",
+		"parent_slug": null,
+		"path": "bitcoin-sv",
+		"slug": "bitcoin-sv",
+		"title": "Bitcoin SV"
+	},
+	{
+		"forks": 0,
+		"name": "marcoadamo/bitcoin-sv-depends",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "marcoadamo/bitcoin-sv-depends",
+		"ecosystem_slug": "bitcoin-sv",
+		"parent_slug": null,
+		"path": "bitcoin-sv",
+		"slug": "bitcoin-sv",
+		"title": "Bitcoin SV"
+	},
+	{
+		"forks": 0,
+		"name": "rosettacash/node",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "rosettacash/node",
+		"ecosystem_slug": "bitcoin-sv",
+		"parent_slug": null,
+		"path": "bitcoin-sv",
+		"slug": "bitcoin-sv",
+		"title": "Bitcoin SV"
+	},
+	{
+		"forks": 0,
+		"name": "deggenschwiler/bitcoinSV",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "deggenschwiler/bitcoinSV",
 		"ecosystem_slug": "bitcoin-sv",
 		"parent_slug": null,
 		"path": "bitcoin-sv",

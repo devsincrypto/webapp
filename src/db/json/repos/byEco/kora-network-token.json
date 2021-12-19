@@ -12,11 +12,11 @@
 		"title": "Kora Network Token"
 	},
 	{
-		"forks": 1,
-		"name": "KoraNetwork/kora_backend",
-		"stars": 0,
+		"forks": 0,
+		"name": "KoraNetwork/kora_android",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "KoraNetwork/kora_backend",
+		"repo_name": "KoraNetwork/kora_android",
 		"ecosystem_slug": "kora-network-token",
 		"parent_slug": null,
 		"path": "kora-network-token",
@@ -24,11 +24,11 @@
 		"title": "Kora Network Token"
 	},
 	{
-		"forks": 0,
-		"name": "KoraNetwork/kora_android",
-		"stars": 1,
+		"forks": 1,
+		"name": "KoraNetwork/kora_backend",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "KoraNetwork/kora_android",
+		"repo_name": "KoraNetwork/kora_backend",
 		"ecosystem_slug": "kora-network-token",
 		"parent_slug": null,
 		"path": "kora-network-token",

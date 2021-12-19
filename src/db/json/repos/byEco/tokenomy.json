@@ -1,6 +1,18 @@
 [
 	{
 		"forks": 2,
+		"name": "tokenomy/tokenomy-go",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "tokenomy/tokenomy-go",
+		"ecosystem_slug": "tokenomy",
+		"parent_slug": null,
+		"path": "tokenomy",
+		"slug": "tokenomy",
+		"title": "Tokenomy"
+	},
+	{
+		"forks": 2,
 		"name": "tokenomy/Tokenomy-Exchange-API-Documentation",
 		"stars": 0,
 		"watchers": 0,
@@ -17,18 +29,6 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "tokenomy/tokenomy-assets",
-		"ecosystem_slug": "tokenomy",
-		"parent_slug": null,
-		"path": "tokenomy",
-		"slug": "tokenomy",
-		"title": "Tokenomy"
-	},
-	{
-		"forks": 1,
-		"name": "tokenomy/tokenomy-go",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "tokenomy/tokenomy-go",
 		"ecosystem_slug": "tokenomy",
 		"parent_slug": null,
 		"path": "tokenomy",

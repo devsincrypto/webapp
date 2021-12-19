@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 154,
+		"forks": 155,
 		"name": "PolymathNetwork/polymath-core",
-		"stars": 377,
+		"stars": 378,
 		"watchers": 0,
 		"repo_name": "PolymathNetwork/polymath-core",
 		"ecosystem_slug": "polymath",
@@ -12,9 +12,9 @@
 		"title": "Polymath"
 	},
 	{
-		"forks": 40,
+		"forks": 41,
 		"name": "PolymathNetwork/polymath-token",
-		"stars": 74,
+		"stars": 75,
 		"watchers": 0,
 		"repo_name": "PolymathNetwork/polymath-token",
 		"ecosystem_slug": "polymath",
@@ -121,18 +121,6 @@
 	},
 	{
 		"forks": 3,
-		"name": "PolymathNetwork/polymath-reserve",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "PolymathNetwork/polymath-reserve",
-		"ecosystem_slug": "polymath",
-		"parent_slug": null,
-		"path": "polymath",
-		"slug": "polymath",
-		"title": "Polymath"
-	},
-	{
-		"forks": 3,
 		"name": "PolymathNetwork/polymath-investorportal",
 		"stars": 1,
 		"watchers": 0,
@@ -145,6 +133,18 @@
 	},
 	{
 		"forks": 3,
+		"name": "PolymathNetwork/polymath-reserve",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "PolymathNetwork/polymath-reserve",
+		"ecosystem_slug": "polymath",
+		"parent_slug": null,
+		"path": "polymath",
+		"slug": "polymath",
+		"title": "Polymath"
+	},
+	{
+		"forks": 4,
 		"name": "PolymathNetwork/poly-circulating",
 		"stars": 0,
 		"watchers": 0,

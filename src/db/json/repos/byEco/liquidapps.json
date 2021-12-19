@@ -2,7 +2,7 @@
 	{
 		"forks": 31,
 		"name": "liquidapps-io/zeus-sdk",
-		"stars": 46,
+		"stars": 47,
 		"watchers": 0,
 		"repo_name": "liquidapps-io/zeus-sdk",
 		"ecosystem_slug": "liquidapps",
@@ -12,9 +12,9 @@
 		"title": "LiquidApps"
 	},
 	{
-		"forks": 34,
+		"forks": 37,
 		"name": "liquidapps-io/zeus-ide",
-		"stars": 8,
+		"stars": 9,
 		"watchers": 0,
 		"repo_name": "liquidapps-io/zeus-ide",
 		"ecosystem_slug": "liquidapps",
@@ -26,9 +26,21 @@
 	{
 		"forks": 5,
 		"name": "liquidapps-io/eos-contracts-best-practices",
-		"stars": 19,
+		"stars": 20,
 		"watchers": 0,
 		"repo_name": "liquidapps-io/eos-contracts-best-practices",
+		"ecosystem_slug": "liquidapps",
+		"parent_slug": null,
+		"path": "liquidapps",
+		"slug": "liquidapps",
+		"title": "LiquidApps"
+	},
+	{
+		"forks": 1,
+		"name": "liquidapps-io/awesome-eosio-plugins",
+		"stars": 20,
+		"watchers": 0,
+		"repo_name": "liquidapps-io/awesome-eosio-plugins",
 		"ecosystem_slug": "liquidapps",
 		"parent_slug": null,
 		"path": "liquidapps",
@@ -48,21 +60,9 @@
 		"title": "LiquidApps"
 	},
 	{
-		"forks": 1,
-		"name": "liquidapps-io/awesome-eosio-plugins",
-		"stars": 17,
-		"watchers": 0,
-		"repo_name": "liquidapps-io/awesome-eosio-plugins",
-		"ecosystem_slug": "liquidapps",
-		"parent_slug": null,
-		"path": "liquidapps",
-		"slug": "liquidapps",
-		"title": "LiquidApps"
-	},
-	{
 		"forks": 11,
 		"name": "liquidapps-io/docs",
-		"stars": 5,
+		"stars": 6,
 		"watchers": 0,
 		"repo_name": "liquidapps-io/docs",
 		"ecosystem_slug": "liquidapps",
@@ -109,6 +109,18 @@
 	},
 	{
 		"forks": 0,
+		"name": "liquidapps-io/dist",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "liquidapps-io/dist",
+		"ecosystem_slug": "liquidapps",
+		"parent_slug": null,
+		"path": "liquidapps",
+		"slug": "liquidapps",
+		"title": "LiquidApps"
+	},
+	{
+		"forks": 0,
 		"name": "liquidapps-io/eosio-push-guarantee",
 		"stars": 3,
 		"watchers": 0,
@@ -125,18 +137,6 @@
 		"stars": 1,
 		"watchers": 0,
 		"repo_name": "liquidapps-io/docker-eosio-mainnet-loader",
-		"ecosystem_slug": "liquidapps",
-		"parent_slug": null,
-		"path": "liquidapps",
-		"slug": "liquidapps",
-		"title": "LiquidApps"
-	},
-	{
-		"forks": 0,
-		"name": "liquidapps-io/dist",
-		"stars": 3,
-		"watchers": 0,
-		"repo_name": "liquidapps-io/dist",
 		"ecosystem_slug": "liquidapps",
 		"parent_slug": null,
 		"path": "liquidapps",

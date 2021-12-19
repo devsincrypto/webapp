@@ -1,10 +1,10 @@
 [
 	{
 		"forks": 0,
-		"name": "SoarEarth/skymap-token",
+		"name": "SoarEarth/wallet-frozen",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "SoarEarth/skymap-token",
+		"repo_name": "SoarEarth/wallet-frozen",
 		"ecosystem_slug": "soar",
 		"parent_slug": null,
 		"path": "soar",
@@ -13,10 +13,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "SoarEarth/wallet-frozen",
+		"name": "SoarEarth/skymap-token",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "SoarEarth/wallet-frozen",
+		"repo_name": "SoarEarth/skymap-token",
 		"ecosystem_slug": "soar",
 		"parent_slug": null,
 		"path": "soar",

@@ -1,10 +1,10 @@
 [
 	{
 		"forks": 0,
-		"name": "arpachain/ARPAToken",
+		"name": "arpachain/tokens-info",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "arpachain/ARPAToken",
+		"repo_name": "arpachain/tokens-info",
 		"ecosystem_slug": "arpa",
 		"parent_slug": null,
 		"path": "arpa",
@@ -61,10 +61,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "arpachain/tokens-info",
+		"name": "arpachain/ARPAToken",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "arpachain/tokens-info",
+		"repo_name": "arpachain/ARPAToken",
 		"ecosystem_slug": "arpa",
 		"parent_slug": null,
 		"path": "arpa",

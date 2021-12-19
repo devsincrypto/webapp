@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 733,
+		"forks": 757,
 		"name": "RavenProject/Ravencoin",
-		"stars": 1019,
+		"stars": 1053,
 		"watchers": 0,
 		"repo_name": "RavenProject/Ravencoin",
 		"ecosystem_slug": "ravencoin",
@@ -12,9 +12,9 @@
 		"title": "Ravencoin"
 	},
 	{
-		"forks": 107,
+		"forks": 113,
 		"name": "RavenProject/ravenproject.github.io",
-		"stars": 32,
+		"stars": 35,
 		"watchers": 0,
 		"repo_name": "RavenProject/ravenproject.github.io",
 		"ecosystem_slug": "ravencoin",
@@ -26,7 +26,7 @@
 	{
 		"forks": 25,
 		"name": "RavenProject/ravenwallet-ios",
-		"stars": 20,
+		"stars": 21,
 		"watchers": 0,
 		"repo_name": "RavenProject/ravenwallet-ios",
 		"ecosystem_slug": "ravencoin",
@@ -36,7 +36,7 @@
 		"title": "Ravencoin"
 	},
 	{
-		"forks": 22,
+		"forks": 23,
 		"name": "RavenProject/ravenwallet-android",
 		"stars": 14,
 		"watchers": 0,
@@ -96,11 +96,11 @@
 		"title": "Ravencoin"
 	},
 	{
-		"forks": 3,
-		"name": "RavenProject/Ravencoin-critical-fix",
-		"stars": 1,
+		"forks": 4,
+		"name": "RavenProject/core-mobile-assets",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "RavenProject/Ravencoin-critical-fix",
+		"repo_name": "RavenProject/core-mobile-assets",
 		"ecosystem_slug": "ravencoin",
 		"parent_slug": null,
 		"path": "ravencoin",
@@ -108,11 +108,11 @@
 		"title": "Ravencoin"
 	},
 	{
-		"forks": 4,
-		"name": "RavenProject/core-mobile-assets",
-		"stars": 0,
+		"forks": 3,
+		"name": "RavenProject/Ravencoin-critical-fix",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "RavenProject/core-mobile-assets",
+		"repo_name": "RavenProject/Ravencoin-critical-fix",
 		"ecosystem_slug": "ravencoin",
 		"parent_slug": null,
 		"path": "ravencoin",

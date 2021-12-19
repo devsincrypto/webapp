@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 21,
+		"forks": 23,
 		"name": "vesperfi/vesper-pools",
-		"stars": 27,
+		"stars": 29,
 		"watchers": 0,
 		"repo_name": "vesperfi/vesper-pools",
 		"ecosystem_slug": "vesper-finance",
@@ -12,9 +12,9 @@
 		"title": "Vesper Finance"
 	},
 	{
-		"forks": 14,
+		"forks": 15,
 		"name": "vesperfi/doc",
-		"stars": 6,
+		"stars": 7,
 		"watchers": 0,
 		"repo_name": "vesperfi/doc",
 		"ecosystem_slug": "vesper-finance",
@@ -26,7 +26,7 @@
 	{
 		"forks": 0,
 		"name": "vesperfi/metadata",
-		"stars": 4,
+		"stars": 5,
 		"watchers": 0,
 		"repo_name": "vesperfi/metadata",
 		"ecosystem_slug": "vesper-finance",
@@ -60,11 +60,11 @@
 		"title": "Vesper Finance"
 	},
 	{
-		"forks": 1,
-		"name": "vesperfi/lib-js",
-		"stars": 1,
+		"forks": 2,
+		"name": "vesperfi/onsen-rewards-snapshot",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "vesperfi/lib-js",
+		"repo_name": "vesperfi/onsen-rewards-snapshot",
 		"ecosystem_slug": "vesper-finance",
 		"parent_slug": null,
 		"path": "vesper-finance",
@@ -72,11 +72,11 @@
 		"title": "Vesper Finance"
 	},
 	{
-		"forks": 2,
-		"name": "vesperfi/onsen-rewards-snapshot",
-		"stars": 0,
+		"forks": 1,
+		"name": "vesperfi/lib-js",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "vesperfi/onsen-rewards-snapshot",
+		"repo_name": "vesperfi/lib-js",
 		"ecosystem_slug": "vesper-finance",
 		"parent_slug": null,
 		"path": "vesper-finance",

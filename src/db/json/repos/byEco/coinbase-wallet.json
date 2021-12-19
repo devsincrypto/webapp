@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 24,
+		"forks": 29,
 		"name": "CoinbaseWallet/CBDatabase",
-		"stars": 73,
+		"stars": 84,
 		"watchers": 0,
 		"repo_name": "CoinbaseWallet/CBDatabase",
 		"ecosystem_slug": "coinbase-wallet",
@@ -12,21 +12,9 @@
 		"title": "Coinbase Wallet"
 	},
 	{
-		"forks": 18,
-		"name": "CoinbaseWallet/coinselect",
-		"stars": 54,
-		"watchers": 0,
-		"repo_name": "CoinbaseWallet/coinselect",
-		"ecosystem_slug": "coinbase-wallet",
-		"parent_slug": null,
-		"path": "coinbase-wallet",
-		"slug": "coinbase-wallet",
-		"title": "Coinbase Wallet"
-	},
-	{
-		"forks": 21,
+		"forks": 25,
 		"name": "CoinbaseWallet/CBCrypto",
-		"stars": 43,
+		"stars": 60,
 		"watchers": 0,
 		"repo_name": "CoinbaseWallet/CBCrypto",
 		"ecosystem_slug": "coinbase-wallet",
@@ -36,9 +24,21 @@
 		"title": "Coinbase Wallet"
 	},
 	{
-		"forks": 23,
+		"forks": 19,
+		"name": "CoinbaseWallet/coinselect",
+		"stars": 61,
+		"watchers": 0,
+		"repo_name": "CoinbaseWallet/coinselect",
+		"ecosystem_slug": "coinbase-wallet",
+		"parent_slug": null,
+		"path": "coinbase-wallet",
+		"slug": "coinbase-wallet",
+		"title": "Coinbase Wallet"
+	},
+	{
+		"forks": 24,
 		"name": "CoinbaseWallet/CBHTTP",
-		"stars": 33,
+		"stars": 37,
 		"watchers": 0,
 		"repo_name": "CoinbaseWallet/CBHTTP",
 		"ecosystem_slug": "coinbase-wallet",
@@ -48,9 +48,9 @@
 		"title": "Coinbase Wallet"
 	},
 	{
-		"forks": 20,
+		"forks": 21,
 		"name": "CoinbaseWallet/CBCore",
-		"stars": 28,
+		"stars": 32,
 		"watchers": 0,
 		"repo_name": "CoinbaseWallet/CBCore",
 		"ecosystem_slug": "coinbase-wallet",
@@ -60,9 +60,9 @@
 		"title": "Coinbase Wallet"
 	},
 	{
-		"forks": 8,
+		"forks": 9,
 		"name": "CoinbaseWallet/CBStore",
-		"stars": 21,
+		"stars": 24,
 		"watchers": 0,
 		"repo_name": "CoinbaseWallet/CBStore",
 		"ecosystem_slug": "coinbase-wallet",
@@ -74,7 +74,7 @@
 	{
 		"forks": 7,
 		"name": "CoinbaseWallet/CBInjection",
-		"stars": 16,
+		"stars": 17,
 		"watchers": 0,
 		"repo_name": "CoinbaseWallet/CBInjection",
 		"ecosystem_slug": "coinbase-wallet",
@@ -86,7 +86,7 @@
 	{
 		"forks": 4,
 		"name": "CoinbaseWallet/signupeoseos",
-		"stars": 16,
+		"stars": 18,
 		"watchers": 0,
 		"repo_name": "CoinbaseWallet/signupeoseos",
 		"ecosystem_slug": "coinbase-wallet",
@@ -98,7 +98,7 @@
 	{
 		"forks": 1,
 		"name": "CoinbaseWallet/parity-proxy",
-		"stars": 13,
+		"stars": 14,
 		"watchers": 0,
 		"repo_name": "CoinbaseWallet/parity-proxy",
 		"ecosystem_slug": "coinbase-wallet",
@@ -108,21 +108,9 @@
 		"title": "Coinbase Wallet"
 	},
 	{
-		"forks": 4,
-		"name": "CoinbaseWallet/AwesomeCache",
-		"stars": 9,
-		"watchers": 0,
-		"repo_name": "CoinbaseWallet/AwesomeCache",
-		"ecosystem_slug": "coinbase-wallet",
-		"parent_slug": null,
-		"path": "coinbase-wallet",
-		"slug": "coinbase-wallet",
-		"title": "Coinbase Wallet"
-	},
-	{
-		"forks": 4,
+		"forks": 5,
 		"name": "CoinbaseWallet/bcash-docker",
-		"stars": 8,
+		"stars": 10,
 		"watchers": 0,
 		"repo_name": "CoinbaseWallet/bcash-docker",
 		"ecosystem_slug": "coinbase-wallet",
@@ -132,11 +120,35 @@
 		"title": "Coinbase Wallet"
 	},
 	{
+		"forks": 4,
+		"name": "CoinbaseWallet/AwesomeCache",
+		"stars": 10,
+		"watchers": 0,
+		"repo_name": "CoinbaseWallet/AwesomeCache",
+		"ecosystem_slug": "coinbase-wallet",
+		"parent_slug": null,
+		"path": "coinbase-wallet",
+		"slug": "coinbase-wallet",
+		"title": "Coinbase Wallet"
+	},
+	{
 		"forks": 2,
 		"name": "CoinbaseWallet/lcoin-docker",
-		"stars": 9,
+		"stars": 10,
 		"watchers": 0,
 		"repo_name": "CoinbaseWallet/lcoin-docker",
+		"ecosystem_slug": "coinbase-wallet",
+		"parent_slug": null,
+		"path": "coinbase-wallet",
+		"slug": "coinbase-wallet",
+		"title": "Coinbase Wallet"
+	},
+	{
+		"forks": 3,
+		"name": "CoinbaseWallet/AnyCodable",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "CoinbaseWallet/AnyCodable",
 		"ecosystem_slug": "coinbase-wallet",
 		"parent_slug": null,
 		"path": "coinbase-wallet",
@@ -157,20 +169,8 @@
 	},
 	{
 		"forks": 2,
-		"name": "CoinbaseWallet/AnyCodable",
-		"stars": 7,
-		"watchers": 0,
-		"repo_name": "CoinbaseWallet/AnyCodable",
-		"ecosystem_slug": "coinbase-wallet",
-		"parent_slug": null,
-		"path": "coinbase-wallet",
-		"slug": "coinbase-wallet",
-		"title": "Coinbase Wallet"
-	},
-	{
-		"forks": 2,
 		"name": "CoinbaseWallet/cropiwa",
-		"stars": 7,
+		"stars": 8,
 		"watchers": 0,
 		"repo_name": "CoinbaseWallet/cropiwa",
 		"ecosystem_slug": "coinbase-wallet",
@@ -180,21 +180,9 @@
 		"title": "Coinbase Wallet"
 	},
 	{
-		"forks": 2,
-		"name": "CoinbaseWallet/ahbottomnavigation",
-		"stars": 6,
-		"watchers": 0,
-		"repo_name": "CoinbaseWallet/ahbottomnavigation",
-		"ecosystem_slug": "coinbase-wallet",
-		"parent_slug": null,
-		"path": "coinbase-wallet",
-		"slug": "coinbase-wallet",
-		"title": "Coinbase Wallet"
-	},
-	{
 		"forks": 1,
 		"name": "CoinbaseWallet/GrowingTextView",
-		"stars": 7,
+		"stars": 8,
 		"watchers": 0,
 		"repo_name": "CoinbaseWallet/GrowingTextView",
 		"ecosystem_slug": "coinbase-wallet",
@@ -204,9 +192,21 @@
 		"title": "Coinbase Wallet"
 	},
 	{
+		"forks": 2,
+		"name": "CoinbaseWallet/ahbottomnavigation",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "CoinbaseWallet/ahbottomnavigation",
+		"ecosystem_slug": "coinbase-wallet",
+		"parent_slug": null,
+		"path": "coinbase-wallet",
+		"slug": "coinbase-wallet",
+		"title": "Coinbase Wallet"
+	},
+	{
 		"forks": 0,
 		"name": "CoinbaseWallet/BigRational",
-		"stars": 7,
+		"stars": 8,
 		"watchers": 0,
 		"repo_name": "CoinbaseWallet/BigRational",
 		"ecosystem_slug": "coinbase-wallet",

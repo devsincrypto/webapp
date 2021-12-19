@@ -14,7 +14,7 @@
 	{
 		"forks": 2,
 		"name": "paytomat/wallet-connect-android",
-		"stars": 5,
+		"stars": 6,
 		"watchers": 0,
 		"repo_name": "paytomat/wallet-connect-android",
 		"ecosystem_slug": "paytomat",
@@ -38,7 +38,7 @@
 	{
 		"forks": 2,
 		"name": "paytomat/paytomat-api",
-		"stars": 4,
+		"stars": 5,
 		"watchers": 0,
 		"repo_name": "paytomat/paytomat-api",
 		"ecosystem_slug": "paytomat",
@@ -73,10 +73,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "paytomat/UpdateInstallerAndroid",
+		"name": "paytomat/Update-Installer-Android",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "paytomat/UpdateInstallerAndroid",
+		"repo_name": "paytomat/Update-Installer-Android",
 		"ecosystem_slug": "paytomat",
 		"parent_slug": null,
 		"path": "paytomat",
@@ -85,10 +85,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "paytomat/Update-Installer-Android",
+		"name": "paytomat/UpdateInstallerAndroid",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "paytomat/Update-Installer-Android",
+		"repo_name": "paytomat/UpdateInstallerAndroid",
 		"ecosystem_slug": "paytomat",
 		"parent_slug": null,
 		"path": "paytomat",

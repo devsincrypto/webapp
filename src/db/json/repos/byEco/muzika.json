@@ -2,7 +2,7 @@
 	{
 		"forks": 5,
 		"name": "MuzikaFoundation/muzika-platform",
-		"stars": 10,
+		"stars": 11,
 		"watchers": 0,
 		"repo_name": "MuzikaFoundation/muzika-platform",
 		"ecosystem_slug": "muzika",
@@ -48,11 +48,11 @@
 		"title": "Muzika"
 	},
 	{
-		"forks": 1,
-		"name": "MuzikaFoundation/js-ipfs",
-		"stars": 1,
+		"forks": 0,
+		"name": "MuzikaFoundation/TypeTology",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "MuzikaFoundation/js-ipfs",
+		"repo_name": "MuzikaFoundation/TypeTology",
 		"ecosystem_slug": "muzika",
 		"parent_slug": null,
 		"path": "muzika",
@@ -72,11 +72,11 @@
 		"title": "Muzika"
 	},
 	{
-		"forks": 0,
-		"name": "MuzikaFoundation/TypeTology",
-		"stars": 2,
+		"forks": 1,
+		"name": "MuzikaFoundation/js-ipfs",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "MuzikaFoundation/TypeTology",
+		"repo_name": "MuzikaFoundation/js-ipfs",
 		"ecosystem_slug": "muzika",
 		"parent_slug": null,
 		"path": "muzika",

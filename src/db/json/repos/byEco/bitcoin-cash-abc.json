@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 698,
+		"forks": 709,
 		"name": "Bitcoin-ABC/bitcoin-abc",
-		"stars": 1212,
+		"stars": 1247,
 		"watchers": 0,
 		"repo_name": "Bitcoin-ABC/bitcoin-abc",
 		"ecosystem_slug": "bitcoin-cash-abc",
@@ -12,9 +12,9 @@
 		"title": "Bitcoin Cash ABC"
 	},
 	{
-		"forks": 23,
+		"forks": 24,
 		"name": "Bitcoin-ABC/bitcoinabc.org",
-		"stars": 14,
+		"stars": 16,
 		"watchers": 0,
 		"repo_name": "Bitcoin-ABC/bitcoinabc.org",
 		"ecosystem_slug": "bitcoin-cash-abc",
@@ -24,9 +24,9 @@
 		"title": "Bitcoin Cash ABC"
 	},
 	{
-		"forks": 4,
+		"forks": 5,
 		"name": "Bitcoin-ABC/ElectrumABC",
-		"stars": 19,
+		"stars": 22,
 		"watchers": 0,
 		"repo_name": "Bitcoin-ABC/ElectrumABC",
 		"ecosystem_slug": "bitcoin-cash-abc",
@@ -36,9 +36,9 @@
 		"title": "Bitcoin Cash ABC"
 	},
 	{
-		"forks": 9,
+		"forks": 10,
 		"name": "Bitcoin-ABC/secp256k1",
-		"stars": 9,
+		"stars": 13,
 		"watchers": 0,
 		"repo_name": "Bitcoin-ABC/secp256k1",
 		"ecosystem_slug": "bitcoin-cash-abc",
@@ -48,9 +48,9 @@
 		"title": "Bitcoin Cash ABC"
 	},
 	{
-		"forks": 5,
+		"forks": 6,
 		"name": "Bitcoin-ABC/qa-assets",
-		"stars": 1,
+		"stars": 2,
 		"watchers": 0,
 		"repo_name": "Bitcoin-ABC/qa-assets",
 		"ecosystem_slug": "bitcoin-cash-abc",

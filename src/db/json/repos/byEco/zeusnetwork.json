@@ -12,11 +12,11 @@
 		"title": "ZeusNetwork"
 	},
 	{
-		"forks": 0,
-		"name": "ZEUS-coin/wallet",
-		"stars": 1,
+		"forks": 1,
+		"name": "ZEUS-coin/ethereum-lists",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "ZEUS-coin/wallet",
+		"repo_name": "ZEUS-coin/ethereum-lists",
 		"ecosystem_slug": "zeusnetwork",
 		"parent_slug": null,
 		"path": "zeusnetwork",
@@ -24,11 +24,11 @@
 		"title": "ZeusNetwork"
 	},
 	{
-		"forks": 1,
-		"name": "ZEUS-coin/ethereum-lists",
-		"stars": 0,
+		"forks": 0,
+		"name": "ZEUS-coin/wallet",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "ZEUS-coin/ethereum-lists",
+		"repo_name": "ZEUS-coin/wallet",
 		"ecosystem_slug": "zeusnetwork",
 		"parent_slug": null,
 		"path": "zeusnetwork",

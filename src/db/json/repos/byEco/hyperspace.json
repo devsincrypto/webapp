@@ -72,11 +72,11 @@
 		"title": "HyperSpace"
 	},
 	{
-		"forks": 1,
-		"name": "synereo/assets",
-		"stars": 2,
+		"forks": 2,
+		"name": "synereo/crowdsale-lite",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "synereo/assets",
+		"repo_name": "synereo/crowdsale-lite",
 		"ecosystem_slug": "hyperspace",
 		"parent_slug": null,
 		"path": "hyperspace",
@@ -96,11 +96,11 @@
 		"title": "HyperSpace"
 	},
 	{
-		"forks": 2,
-		"name": "synereo/crowdsale-lite",
-		"stars": 1,
+		"forks": 1,
+		"name": "synereo/assets",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "synereo/crowdsale-lite",
+		"repo_name": "synereo/assets",
 		"ecosystem_slug": "hyperspace",
 		"parent_slug": null,
 		"path": "hyperspace",

@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 40,
+		"forks": 42,
 		"name": "pickle-finance/contracts",
-		"stars": 127,
+		"stars": 140,
 		"watchers": 0,
 		"repo_name": "pickle-finance/contracts",
 		"ecosystem_slug": "pickle-finance",
@@ -12,9 +12,9 @@
 		"title": "Pickle Finance"
 	},
 	{
-		"forks": 50,
+		"forks": 52,
 		"name": "pickle-finance/protocol",
-		"stars": 78,
+		"stars": 92,
 		"watchers": 0,
 		"repo_name": "pickle-finance/protocol",
 		"ecosystem_slug": "pickle-finance",
@@ -24,9 +24,9 @@
 		"title": "Pickle Finance"
 	},
 	{
-		"forks": 38,
+		"forks": 42,
 		"name": "pickle-finance/pickle-ui",
-		"stars": 37,
+		"stars": 39,
 		"watchers": 0,
 		"repo_name": "pickle-finance/pickle-ui",
 		"ecosystem_slug": "pickle-finance",
@@ -36,9 +36,9 @@
 		"title": "Pickle Finance"
 	},
 	{
-		"forks": 7,
+		"forks": 8,
 		"name": "pickle-finance/timelock-viewer",
-		"stars": 3,
+		"stars": 4,
 		"watchers": 0,
 		"repo_name": "pickle-finance/timelock-viewer",
 		"ecosystem_slug": "pickle-finance",
@@ -85,6 +85,18 @@
 	},
 	{
 		"forks": 2,
+		"name": "pickle-finance/landing-page",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "pickle-finance/landing-page",
+		"ecosystem_slug": "pickle-finance",
+		"parent_slug": "ethereum",
+		"path": "ethereum/pickle-finance",
+		"slug": "pickle-finance",
+		"title": "Pickle Finance"
+	},
+	{
+		"forks": 2,
 		"name": "pickle-finance/snapshot-spaces",
 		"stars": 1,
 		"watchers": 0,
@@ -101,18 +113,6 @@
 		"stars": 1,
 		"watchers": 0,
 		"repo_name": "pickle-finance/gov-tools",
-		"ecosystem_slug": "pickle-finance",
-		"parent_slug": "ethereum",
-		"path": "ethereum/pickle-finance",
-		"slug": "pickle-finance",
-		"title": "Pickle Finance"
-	},
-	{
-		"forks": 2,
-		"name": "pickle-finance/landing-page",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "pickle-finance/landing-page",
 		"ecosystem_slug": "pickle-finance",
 		"parent_slug": "ethereum",
 		"path": "ethereum/pickle-finance",

@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 285,
+		"forks": 327,
 		"name": "WalletConnect/walletconnect-monorepo",
-		"stars": 449,
+		"stars": 552,
 		"watchers": 0,
 		"repo_name": "WalletConnect/walletconnect-monorepo",
 		"ecosystem_slug": "walletconnect",
@@ -12,9 +12,9 @@
 		"title": "WalletConnect"
 	},
 	{
-		"forks": 116,
+		"forks": 140,
 		"name": "WalletConnect/walletconnect-example-dapp",
-		"stars": 137,
+		"stars": 165,
 		"watchers": 0,
 		"repo_name": "WalletConnect/walletconnect-example-dapp",
 		"ecosystem_slug": "walletconnect",
@@ -24,21 +24,9 @@
 		"title": "WalletConnect"
 	},
 	{
-		"forks": 125,
-		"name": "WalletConnect/walletconnect-website",
-		"stars": 69,
-		"watchers": 0,
-		"repo_name": "WalletConnect/walletconnect-website",
-		"ecosystem_slug": "walletconnect",
-		"parent_slug": null,
-		"path": "walletconnect",
-		"slug": "walletconnect",
-		"title": "WalletConnect"
-	},
-	{
-		"forks": 78,
+		"forks": 113,
 		"name": "WalletConnect/walletconnect-docs",
-		"stars": 114,
+		"stars": 141,
 		"watchers": 0,
 		"repo_name": "WalletConnect/walletconnect-docs",
 		"ecosystem_slug": "walletconnect",
@@ -48,9 +36,21 @@
 		"title": "WalletConnect"
 	},
 	{
-		"forks": 54,
+		"forks": 135,
+		"name": "WalletConnect/walletconnect-website",
+		"stars": 81,
+		"watchers": 0,
+		"repo_name": "WalletConnect/walletconnect-website",
+		"ecosystem_slug": "walletconnect",
+		"parent_slug": null,
+		"path": "walletconnect",
+		"slug": "walletconnect",
+		"title": "WalletConnect"
+	},
+	{
+		"forks": 67,
 		"name": "WalletConnect/WalletConnectSwift",
-		"stars": 72,
+		"stars": 111,
 		"watchers": 0,
 		"repo_name": "WalletConnect/WalletConnectSwift",
 		"ecosystem_slug": "walletconnect",
@@ -60,21 +60,9 @@
 		"title": "WalletConnect"
 	},
 	{
-		"forks": 57,
-		"name": "WalletConnect/walletconnect-test-wallet",
-		"stars": 68,
-		"watchers": 0,
-		"repo_name": "WalletConnect/walletconnect-test-wallet",
-		"ecosystem_slug": "walletconnect",
-		"parent_slug": null,
-		"path": "walletconnect",
-		"slug": "walletconnect",
-		"title": "WalletConnect"
-	},
-	{
-		"forks": 50,
+		"forks": 72,
 		"name": "WalletConnect/walletconnect-registry",
-		"stars": 68,
+		"stars": 100,
 		"watchers": 0,
 		"repo_name": "WalletConnect/walletconnect-registry",
 		"ecosystem_slug": "walletconnect",
@@ -84,11 +72,11 @@
 		"title": "WalletConnect"
 	},
 	{
-		"forks": 51,
-		"name": "WalletConnect/node-walletconnect-bridge",
-		"stars": 49,
+		"forks": 64,
+		"name": "WalletConnect/walletconnect-test-wallet",
+		"stars": 80,
 		"watchers": 0,
-		"repo_name": "WalletConnect/node-walletconnect-bridge",
+		"repo_name": "WalletConnect/walletconnect-test-wallet",
 		"ecosystem_slug": "walletconnect",
 		"parent_slug": null,
 		"path": "walletconnect",
@@ -96,9 +84,9 @@
 		"title": "WalletConnect"
 	},
 	{
-		"forks": 46,
+		"forks": 53,
 		"name": "WalletConnect/kotlin-walletconnect-lib",
-		"stars": 52,
+		"stars": 60,
 		"watchers": 0,
 		"repo_name": "WalletConnect/kotlin-walletconnect-lib",
 		"ecosystem_slug": "walletconnect",
@@ -108,9 +96,21 @@
 		"title": "WalletConnect"
 	},
 	{
-		"forks": 24,
+		"forks": 56,
+		"name": "WalletConnect/node-walletconnect-bridge",
+		"stars": 52,
+		"watchers": 0,
+		"repo_name": "WalletConnect/node-walletconnect-bridge",
+		"ecosystem_slug": "walletconnect",
+		"parent_slug": null,
+		"path": "walletconnect",
+		"slug": "walletconnect",
+		"title": "WalletConnect"
+	},
+	{
+		"forks": 27,
 		"name": "WalletConnect/wallet-connect-swift",
-		"stars": 23,
+		"stars": 33,
 		"watchers": 0,
 		"repo_name": "WalletConnect/wallet-connect-swift",
 		"ecosystem_slug": "walletconnect",
@@ -120,9 +120,9 @@
 		"title": "WalletConnect"
 	},
 	{
-		"forks": 29,
+		"forks": 39,
 		"name": "WalletConnect/walletconnect-assets",
-		"stars": 8,
+		"stars": 19,
 		"watchers": 0,
 		"repo_name": "WalletConnect/walletconnect-assets",
 		"ecosystem_slug": "walletconnect",
@@ -132,9 +132,9 @@
 		"title": "WalletConnect"
 	},
 	{
-		"forks": 11,
+		"forks": 13,
 		"name": "WalletConnect/WalletConnectSharp",
-		"stars": 25,
+		"stars": 32,
 		"watchers": 0,
 		"repo_name": "WalletConnect/WalletConnectSharp",
 		"ecosystem_slug": "walletconnect",
@@ -144,9 +144,9 @@
 		"title": "WalletConnect"
 	},
 	{
-		"forks": 18,
+		"forks": 19,
 		"name": "WalletConnect/py-walletconnect-bridge",
-		"stars": 14,
+		"stars": 18,
 		"watchers": 0,
 		"repo_name": "WalletConnect/py-walletconnect-bridge",
 		"ecosystem_slug": "walletconnect",
@@ -156,9 +156,9 @@
 		"title": "WalletConnect"
 	},
 	{
-		"forks": 13,
+		"forks": 15,
 		"name": "WalletConnect/firebase-walletconnect-push",
-		"stars": 11,
+		"stars": 14,
 		"watchers": 0,
 		"repo_name": "WalletConnect/firebase-walletconnect-push",
 		"ecosystem_slug": "walletconnect",
@@ -168,9 +168,9 @@
 		"title": "WalletConnect"
 	},
 	{
-		"forks": 8,
+		"forks": 9,
 		"name": "WalletConnect/walletconnect-demo-app",
-		"stars": 15,
+		"stars": 19,
 		"watchers": 0,
 		"repo_name": "WalletConnect/walletconnect-demo-app",
 		"ecosystem_slug": "walletconnect",
@@ -180,21 +180,9 @@
 		"title": "WalletConnect"
 	},
 	{
-		"forks": 12,
-		"name": "WalletConnect/wallet-connect-kotlin",
-		"stars": 8,
-		"watchers": 0,
-		"repo_name": "WalletConnect/wallet-connect-kotlin",
-		"ecosystem_slug": "walletconnect",
-		"parent_slug": null,
-		"path": "walletconnect",
-		"slug": "walletconnect",
-		"title": "WalletConnect"
-	},
-	{
-		"forks": 12,
+		"forks": 13,
 		"name": "WalletConnect/node-walletconnect-push",
-		"stars": 7,
+		"stars": 12,
 		"watchers": 0,
 		"repo_name": "WalletConnect/node-walletconnect-push",
 		"ecosystem_slug": "walletconnect",
@@ -204,9 +192,21 @@
 		"title": "WalletConnect"
 	},
 	{
-		"forks": 7,
+		"forks": 13,
+		"name": "WalletConnect/wallet-connect-kotlin",
+		"stars": 10,
+		"watchers": 0,
+		"repo_name": "WalletConnect/wallet-connect-kotlin",
+		"ecosystem_slug": "walletconnect",
+		"parent_slug": null,
+		"path": "walletconnect",
+		"slug": "walletconnect",
+		"title": "WalletConnect"
+	},
+	{
+		"forks": 8,
 		"name": "WalletConnect/swift-walletconnect-lib",
-		"stars": 11,
+		"stars": 13,
 		"watchers": 0,
 		"repo_name": "WalletConnect/swift-walletconnect-lib",
 		"ecosystem_slug": "walletconnect",
@@ -216,9 +216,9 @@
 		"title": "WalletConnect"
 	},
 	{
-		"forks": 2,
+		"forks": 3,
 		"name": "WalletConnect/WCIPs",
-		"stars": 5,
+		"stars": 8,
 		"watchers": 0,
 		"repo_name": "WalletConnect/WCIPs",
 		"ecosystem_slug": "walletconnect",
@@ -228,9 +228,9 @@
 		"title": "WalletConnect"
 	},
 	{
-		"forks": 0,
+		"forks": 1,
 		"name": "WalletConnect/association",
-		"stars": 5,
+		"stars": 7,
 		"watchers": 0,
 		"repo_name": "WalletConnect/association",
 		"ecosystem_slug": "walletconnect",
@@ -240,11 +240,23 @@
 		"title": "WalletConnect"
 	},
 	{
-		"forks": 2,
+		"forks": 3,
 		"name": "WalletConnect/py-walletconnect-push",
-		"stars": 2,
+		"stars": 4,
 		"watchers": 0,
 		"repo_name": "WalletConnect/py-walletconnect-push",
+		"ecosystem_slug": "walletconnect",
+		"parent_slug": null,
+		"path": "walletconnect",
+		"slug": "walletconnect",
+		"title": "WalletConnect"
+	},
+	{
+		"forks": 1,
+		"name": "WalletConnect/lib-ledger-core",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "WalletConnect/lib-ledger-core",
 		"ecosystem_slug": "walletconnect",
 		"parent_slug": null,
 		"path": "walletconnect",
@@ -293,18 +305,6 @@
 		"stars": 1,
 		"watchers": 0,
 		"repo_name": "WalletConnect/purser",
-		"ecosystem_slug": "walletconnect",
-		"parent_slug": null,
-		"path": "walletconnect",
-		"slug": "walletconnect",
-		"title": "WalletConnect"
-	},
-	{
-		"forks": 0,
-		"name": "WalletConnect/lib-ledger-core",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "WalletConnect/lib-ledger-core",
 		"ecosystem_slug": "walletconnect",
 		"parent_slug": null,
 		"path": "walletconnect",

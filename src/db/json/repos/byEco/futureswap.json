@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 5,
+		"forks": 7,
 		"name": "futureswap/liquidation_bot",
-		"stars": 16,
+		"stars": 17,
 		"watchers": 0,
 		"repo_name": "futureswap/liquidation_bot",
 		"ecosystem_slug": "futureswap",
@@ -12,7 +12,7 @@
 		"title": "Futureswap"
 	},
 	{
-		"forks": 1,
+		"forks": 2,
 		"name": "futureswap/internal_exchange_bot",
 		"stars": 7,
 		"watchers": 0,
@@ -48,7 +48,7 @@
 		"title": "Futureswap"
 	},
 	{
-		"forks": 0,
+		"forks": 1,
 		"name": "futureswap/trade-cli",
 		"stars": 1,
 		"watchers": 0,
@@ -60,11 +60,11 @@
 		"title": "Futureswap"
 	},
 	{
-		"forks": 0,
-		"name": "futureswap/fs-graph-v2",
+		"forks": 1,
+		"name": "futureswap/fs-graph-v2-beta",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "futureswap/fs-graph-v2",
+		"repo_name": "futureswap/fs-graph-v2-beta",
 		"ecosystem_slug": "futureswap",
 		"parent_slug": "ethereum",
 		"path": "ethereum/futureswap",
@@ -73,10 +73,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "futureswap/fs-graph-v2-beta",
+		"name": "futureswap/DeFi-Pulse-Adapters",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "futureswap/fs-graph-v2-beta",
+		"repo_name": "futureswap/DeFi-Pulse-Adapters",
 		"ecosystem_slug": "futureswap",
 		"parent_slug": "ethereum",
 		"path": "ethereum/futureswap",
@@ -97,10 +97,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "futureswap/signing-lib",
+		"name": "futureswap/fs-graph-v2",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "futureswap/signing-lib",
+		"repo_name": "futureswap/fs-graph-v2",
 		"ecosystem_slug": "futureswap",
 		"parent_slug": "ethereum",
 		"path": "ethereum/futureswap",
@@ -109,10 +109,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "futureswap/DeFi-Pulse-Adapters",
+		"name": "futureswap/signing-lib",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "futureswap/DeFi-Pulse-Adapters",
+		"repo_name": "futureswap/signing-lib",
 		"ecosystem_slug": "futureswap",
 		"parent_slug": "ethereum",
 		"path": "ethereum/futureswap",
