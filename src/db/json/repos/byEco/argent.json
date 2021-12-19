@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 97,
+		"forks": 105,
 		"name": "argentlabs/argent-contracts",
-		"stars": 265,
+		"stars": 295,
 		"watchers": 0,
 		"repo_name": "argentlabs/argent-contracts",
 		"ecosystem_slug": "argent",
@@ -12,9 +12,9 @@
 		"title": "Argent"
 	},
 	{
-		"forks": 52,
+		"forks": 58,
 		"name": "argentlabs/web3.swift",
-		"stars": 231,
+		"stars": 267,
 		"watchers": 0,
 		"repo_name": "argentlabs/web3.swift",
 		"ecosystem_slug": "argent",
@@ -26,7 +26,7 @@
 	{
 		"forks": 21,
 		"name": "argentlabs/hopper",
-		"stars": 115,
+		"stars": 117,
 		"watchers": 0,
 		"repo_name": "argentlabs/hopper",
 		"ecosystem_slug": "argent",
@@ -36,7 +36,7 @@
 		"title": "Argent"
 	},
 	{
-		"forks": 14,
+		"forks": 17,
 		"name": "argentlabs/application",
 		"stars": 15,
 		"watchers": 0,
@@ -50,7 +50,7 @@
 	{
 		"forks": 6,
 		"name": "argentlabs/argent-js",
-		"stars": 19,
+		"stars": 20,
 		"watchers": 0,
 		"repo_name": "argentlabs/argent-js",
 		"ecosystem_slug": "argent",
@@ -62,7 +62,7 @@
 	{
 		"forks": 2,
 		"name": "argentlabs/emojihash",
-		"stars": 20,
+		"stars": 21,
 		"watchers": 0,
 		"repo_name": "argentlabs/emojihash",
 		"ecosystem_slug": "argent",
@@ -96,19 +96,7 @@
 		"title": "Argent"
 	},
 	{
-		"forks": 4,
-		"name": "argentlabs/WalletConnectSwift",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "argentlabs/WalletConnectSwift",
-		"ecosystem_slug": "argent",
-		"parent_slug": "ethereum",
-		"path": "ethereum/argent",
-		"slug": "argent",
-		"title": "Argent"
-	},
-	{
-		"forks": 4,
+		"forks": 5,
 		"name": "argentlabs/argent-trustlists",
 		"stars": 2,
 		"watchers": 0,
@@ -122,9 +110,21 @@
 	{
 		"forks": 2,
 		"name": "argentlabs/use-dai",
-		"stars": 4,
+		"stars": 5,
 		"watchers": 0,
 		"repo_name": "argentlabs/use-dai",
+		"ecosystem_slug": "argent",
+		"parent_slug": "ethereum",
+		"path": "ethereum/argent",
+		"slug": "argent",
+		"title": "Argent"
+	},
+	{
+		"forks": 4,
+		"name": "argentlabs/WalletConnectSwift",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "argentlabs/WalletConnectSwift",
 		"ecosystem_slug": "argent",
 		"parent_slug": "ethereum",
 		"path": "ethereum/argent",
@@ -144,11 +144,11 @@
 		"title": "Argent"
 	},
 	{
-		"forks": 0,
-		"name": "argentlabs/Harbour-MVP",
-		"stars": 3,
+		"forks": 3,
+		"name": "argentlabs/pooltogether-contracts",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "argentlabs/Harbour-MVP",
+		"repo_name": "argentlabs/pooltogether-contracts",
 		"ecosystem_slug": "argent",
 		"parent_slug": "ethereum",
 		"path": "ethereum/argent",
@@ -180,11 +180,11 @@
 		"title": "Argent"
 	},
 	{
-		"forks": 3,
-		"name": "argentlabs/pooltogether-contracts",
-		"stars": 0,
+		"forks": 0,
+		"name": "argentlabs/Harbour-MVP",
+		"stars": 3,
 		"watchers": 0,
-		"repo_name": "argentlabs/pooltogether-contracts",
+		"repo_name": "argentlabs/Harbour-MVP",
 		"ecosystem_slug": "argent",
 		"parent_slug": "ethereum",
 		"path": "ethereum/argent",
@@ -252,6 +252,18 @@
 		"title": "Argent"
 	},
 	{
+		"forks": 0,
+		"name": "argentlabs/hunt",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "argentlabs/hunt",
+		"ecosystem_slug": "argent",
+		"parent_slug": "ethereum",
+		"path": "ethereum/argent",
+		"slug": "argent",
+		"title": "Argent"
+	},
+	{
 		"forks": 1,
 		"name": "argentlabs/excluded-uni-airdrop-users",
 		"stars": 0,
@@ -277,58 +289,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "argentlabs/hunt",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "argentlabs/hunt",
-		"ecosystem_slug": "argent",
-		"parent_slug": "ethereum",
-		"path": "ethereum/argent",
-		"slug": "argent",
-		"title": "Argent"
-	},
-	{
-		"forks": 0,
 		"name": "argentlabs/try-ethereum",
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "argentlabs/try-ethereum",
-		"ecosystem_slug": "argent",
-		"parent_slug": "ethereum",
-		"path": "ethereum/argent",
-		"slug": "argent",
-		"title": "Argent"
-	},
-	{
-		"forks": 0,
-		"name": "argentlabs/cryptocurrency-icons-old",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "argentlabs/cryptocurrency-icons-old",
-		"ecosystem_slug": "argent",
-		"parent_slug": "ethereum",
-		"path": "ethereum/argent",
-		"slug": "argent",
-		"title": "Argent"
-	},
-	{
-		"forks": 0,
-		"name": "argentlabs/mips",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "argentlabs/mips",
-		"ecosystem_slug": "argent",
-		"parent_slug": "ethereum",
-		"path": "ethereum/argent",
-		"slug": "argent",
-		"title": "Argent"
-	},
-	{
-		"forks": 0,
-		"name": "argentlabs/CompEarlyUserAnalysis",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "argentlabs/CompEarlyUserAnalysis",
 		"ecosystem_slug": "argent",
 		"parent_slug": "ethereum",
 		"path": "ethereum/argent",
@@ -349,10 +313,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "argentlabs/coinify-payment-page-theme-editor",
+		"name": "argentlabs/CompEarlyUserAnalysis",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "argentlabs/coinify-payment-page-theme-editor",
+		"repo_name": "argentlabs/CompEarlyUserAnalysis",
 		"ecosystem_slug": "argent",
 		"parent_slug": "ethereum",
 		"path": "ethereum/argent",
@@ -365,6 +329,42 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "argentlabs/pooltogether-contracts-mock",
+		"ecosystem_slug": "argent",
+		"parent_slug": "ethereum",
+		"path": "ethereum/argent",
+		"slug": "argent",
+		"title": "Argent"
+	},
+	{
+		"forks": 0,
+		"name": "argentlabs/mips",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "argentlabs/mips",
+		"ecosystem_slug": "argent",
+		"parent_slug": "ethereum",
+		"path": "ethereum/argent",
+		"slug": "argent",
+		"title": "Argent"
+	},
+	{
+		"forks": 0,
+		"name": "argentlabs/coinify-payment-page-theme-editor",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "argentlabs/coinify-payment-page-theme-editor",
+		"ecosystem_slug": "argent",
+		"parent_slug": "ethereum",
+		"path": "ethereum/argent",
+		"slug": "argent",
+		"title": "Argent"
+	},
+	{
+		"forks": 0,
+		"name": "argentlabs/cryptocurrency-icons-old",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "argentlabs/cryptocurrency-icons-old",
 		"ecosystem_slug": "argent",
 		"parent_slug": "ethereum",
 		"path": "ethereum/argent",

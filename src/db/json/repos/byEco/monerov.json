@@ -48,11 +48,11 @@
 		"title": "MoneroV "
 	},
 	{
-		"forks": 4,
-		"name": "monerov/monerovwp",
-		"stars": 1,
+		"forks": 3,
+		"name": "monerov/unbound",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "monerov/monerovwp",
+		"repo_name": "monerov/unbound",
 		"ecosystem_slug": "monerov",
 		"parent_slug": null,
 		"path": "monerov",
@@ -60,11 +60,11 @@
 		"title": "MoneroV "
 	},
 	{
-		"forks": 3,
-		"name": "monerov/unbound",
-		"stars": 2,
+		"forks": 4,
+		"name": "monerov/monerovwp",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "monerov/unbound",
+		"repo_name": "monerov/monerovwp",
 		"ecosystem_slug": "monerov",
 		"parent_slug": null,
 		"path": "monerov",
@@ -84,7 +84,7 @@
 		"title": "MoneroV "
 	},
 	{
-		"forks": 2,
+		"forks": 3,
 		"name": "monerov/monerov-blockchain-explorer",
 		"stars": 0,
 		"watchers": 0,

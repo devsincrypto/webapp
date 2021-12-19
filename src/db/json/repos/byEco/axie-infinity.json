@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 54,
+		"forks": 65,
 		"name": "axieinfinity/public-smart-contracts",
-		"stars": 99,
+		"stars": 143,
 		"watchers": 0,
 		"repo_name": "axieinfinity/public-smart-contracts",
 		"ecosystem_slug": "axie-infinity",
@@ -12,9 +12,9 @@
 		"title": "Axie Infinity"
 	},
 	{
-		"forks": 22,
+		"forks": 38,
 		"name": "axieinfinity/ronin-smart-contracts",
-		"stars": 70,
+		"stars": 99,
 		"watchers": 0,
 		"repo_name": "axieinfinity/ronin-smart-contracts",
 		"ecosystem_slug": "axie-infinity",
@@ -24,9 +24,9 @@
 		"title": "Axie Infinity"
 	},
 	{
-		"forks": 3,
+		"forks": 8,
 		"name": "axieinfinity/festival",
-		"stars": 46,
+		"stars": 50,
 		"watchers": 0,
 		"repo_name": "axieinfinity/festival",
 		"ecosystem_slug": "axie-infinity",
@@ -36,9 +36,9 @@
 		"title": "Axie Infinity"
 	},
 	{
-		"forks": 12,
+		"forks": 14,
 		"name": "axieinfinity/spine-rs",
-		"stars": 16,
+		"stars": 17,
 		"watchers": 0,
 		"repo_name": "axieinfinity/spine-rs",
 		"ecosystem_slug": "axie-infinity",
@@ -60,9 +60,9 @@
 		"title": "Axie Infinity"
 	},
 	{
-		"forks": 3,
+		"forks": 6,
 		"name": "axieinfinity/w3b",
-		"stars": 6,
+		"stars": 10,
 		"watchers": 0,
 		"repo_name": "axieinfinity/w3b",
 		"ecosystem_slug": "axie-infinity",
@@ -72,9 +72,9 @@
 		"title": "Axie Infinity"
 	},
 	{
-		"forks": 7,
+		"forks": 10,
 		"name": "axieinfinity/jenkins-library",
-		"stars": 2,
+		"stars": 3,
 		"watchers": 0,
 		"repo_name": "axieinfinity/jenkins-library",
 		"ecosystem_slug": "axie-infinity",
@@ -84,11 +84,23 @@
 		"title": "Axie Infinity"
 	},
 	{
-		"forks": 4,
+		"forks": 6,
 		"name": "axieinfinity/clap-nested",
 		"stars": 5,
 		"watchers": 0,
 		"repo_name": "axieinfinity/clap-nested",
+		"ecosystem_slug": "axie-infinity",
+		"parent_slug": "ethereum",
+		"path": "ethereum/axie-infinity",
+		"slug": "axie-infinity",
+		"title": "Axie Infinity"
+	},
+	{
+		"forks": 5,
+		"name": "axieinfinity/puff-discord-bot",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "axieinfinity/puff-discord-bot",
 		"ecosystem_slug": "axie-infinity",
 		"parent_slug": "ethereum",
 		"path": "ethereum/axie-infinity",
@@ -108,11 +120,11 @@
 		"title": "Axie Infinity"
 	},
 	{
-		"forks": 5,
-		"name": "axieinfinity/puff-discord-bot",
-		"stars": 2,
+		"forks": 4,
+		"name": "axieinfinity/public-scripts",
+		"stars": 3,
 		"watchers": 0,
-		"repo_name": "axieinfinity/puff-discord-bot",
+		"repo_name": "axieinfinity/public-scripts",
 		"ecosystem_slug": "axie-infinity",
 		"parent_slug": "ethereum",
 		"path": "ethereum/axie-infinity",
@@ -133,20 +145,8 @@
 	},
 	{
 		"forks": 3,
-		"name": "axieinfinity/public-scripts",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "axieinfinity/public-scripts",
-		"ecosystem_slug": "axie-infinity",
-		"parent_slug": "ethereum",
-		"path": "ethereum/axie-infinity",
-		"slug": "axie-infinity",
-		"title": "Axie Infinity"
-	},
-	{
-		"forks": 3,
 		"name": "axieinfinity/truffle-deploy",
-		"stars": 1,
+		"stars": 2,
 		"watchers": 0,
 		"repo_name": "axieinfinity/truffle-deploy",
 		"ecosystem_slug": "axie-infinity",
@@ -169,10 +169,10 @@
 	},
 	{
 		"forks": 2,
-		"name": "axieinfinity/dockerfiles",
+		"name": "axieinfinity/infura-exporter",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "axieinfinity/dockerfiles",
+		"repo_name": "axieinfinity/infura-exporter",
 		"ecosystem_slug": "axie-infinity",
 		"parent_slug": "ethereum",
 		"path": "ethereum/axie-infinity",
@@ -180,11 +180,11 @@
 		"title": "Axie Infinity"
 	},
 	{
-		"forks": 1,
-		"name": "axieinfinity/infura-exporter",
+		"forks": 2,
+		"name": "axieinfinity/dockerfiles",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "axieinfinity/infura-exporter",
+		"repo_name": "axieinfinity/dockerfiles",
 		"ecosystem_slug": "axie-infinity",
 		"parent_slug": "ethereum",
 		"path": "ethereum/axie-infinity",

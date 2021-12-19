@@ -1,10 +1,10 @@
 [
 	{
-		"forks": 0,
-		"name": "WemarkSource/whitepaper",
+		"forks": 2,
+		"name": "WemarkSource/smart-contracts",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "WemarkSource/whitepaper",
+		"repo_name": "WemarkSource/smart-contracts",
 		"ecosystem_slug": "wemark",
 		"parent_slug": null,
 		"path": "wemark",
@@ -12,7 +12,7 @@
 		"title": "Wemark"
 	},
 	{
-		"forks": 0,
+		"forks": 2,
 		"name": "WemarkSource/tokens",
 		"stars": 0,
 		"watchers": 0,
@@ -24,11 +24,11 @@
 		"title": "Wemark"
 	},
 	{
-		"forks": 0,
-		"name": "WemarkSource/smart-contracts",
+		"forks": 1,
+		"name": "WemarkSource/whitepaper",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "WemarkSource/smart-contracts",
+		"repo_name": "WemarkSource/whitepaper",
 		"ecosystem_slug": "wemark",
 		"parent_slug": null,
 		"path": "wemark",

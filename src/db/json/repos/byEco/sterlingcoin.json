@@ -1,17 +1,5 @@
 [
 	{
-		"forks": 3,
-		"name": "Sterlingcoin/Sterlingcoin-1.7-WIP",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "Sterlingcoin/Sterlingcoin-1.7-WIP",
-		"ecosystem_slug": "sterlingcoin",
-		"parent_slug": null,
-		"path": "sterlingcoin",
-		"slug": "sterlingcoin",
-		"title": "Sterlingcoin"
-	},
-	{
 		"forks": 2,
 		"name": "Sterlingcoin/Sterlingcoin-1.5.1.1-Lite-Edition-Linux-Source",
 		"stars": 2,
@@ -24,11 +12,35 @@
 		"title": "Sterlingcoin"
 	},
 	{
+		"forks": 3,
+		"name": "Sterlingcoin/Sterlingcoin-1.7-WIP",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Sterlingcoin/Sterlingcoin-1.7-WIP",
+		"ecosystem_slug": "sterlingcoin",
+		"parent_slug": null,
+		"path": "sterlingcoin",
+		"slug": "sterlingcoin",
+		"title": "Sterlingcoin"
+	},
+	{
 		"forks": 4,
 		"name": "Sterlingcoin/Sterlingcoin-1.7-Release",
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "Sterlingcoin/Sterlingcoin-1.7-Release",
+		"ecosystem_slug": "sterlingcoin",
+		"parent_slug": null,
+		"path": "sterlingcoin",
+		"slug": "sterlingcoin",
+		"title": "Sterlingcoin"
+	},
+	{
+		"forks": 1,
+		"name": "Sterlingcoin/Sterlingcoin-1.6.2.0-Release",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Sterlingcoin/Sterlingcoin-1.6.2.0-Release",
 		"ecosystem_slug": "sterlingcoin",
 		"parent_slug": null,
 		"path": "sterlingcoin",
@@ -60,11 +72,11 @@
 		"title": "Sterlingcoin"
 	},
 	{
-		"forks": 1,
-		"name": "Sterlingcoin/Sterlingcoin-1.6.2.0-Release",
+		"forks": 0,
+		"name": "Sterlingcoin/Sterlingcoin-Core-WIP",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "Sterlingcoin/Sterlingcoin-1.6.2.0-Release",
+		"repo_name": "Sterlingcoin/Sterlingcoin-Core-WIP",
 		"ecosystem_slug": "sterlingcoin",
 		"parent_slug": null,
 		"path": "sterlingcoin",
@@ -77,18 +89,6 @@
 		"stars": 1,
 		"watchers": 0,
 		"repo_name": "Sterlingcoin/Sterlingcoin-Seeder-WIP",
-		"ecosystem_slug": "sterlingcoin",
-		"parent_slug": null,
-		"path": "sterlingcoin",
-		"slug": "sterlingcoin",
-		"title": "Sterlingcoin"
-	},
-	{
-		"forks": 0,
-		"name": "Sterlingcoin/Sterlingcoin-Core-WIP",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "Sterlingcoin/Sterlingcoin-Core-WIP",
 		"ecosystem_slug": "sterlingcoin",
 		"parent_slug": null,
 		"path": "sterlingcoin",

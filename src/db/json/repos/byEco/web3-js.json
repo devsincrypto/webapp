@@ -1,5 +1,17 @@
 [
 	{
+		"forks": 12624,
+		"name": "trustwallet/assets",
+		"stars": 1973,
+		"watchers": 0,
+		"repo_name": "trustwallet/assets",
+		"ecosystem_slug": "web3-js",
+		"parent_slug": null,
+		"path": "web3-js",
+		"slug": "web3-js",
+		"title": "Web3 JS"
+	},
+	{
 		"forks": 3545,
 		"name": "ethereum/web3.js",
 		"stars": 10099,
@@ -12,21 +24,9 @@
 		"title": "Web3 JS"
 	},
 	{
-		"forks": 11227,
-		"name": "trustwallet/assets",
-		"stars": 1725,
-		"watchers": 0,
-		"repo_name": "trustwallet/assets",
-		"ecosystem_slug": "web3-js",
-		"parent_slug": null,
-		"path": "web3-js",
-		"slug": "web3-js",
-		"title": "Web3 JS"
-	},
-	{
-		"forks": 782,
+		"forks": 806,
 		"name": "MyEtherWallet/MyEtherWallet",
-		"stars": 1370,
+		"stars": 1431,
 		"watchers": 0,
 		"repo_name": "MyEtherWallet/MyEtherWallet",
 		"ecosystem_slug": "web3-js",
@@ -36,9 +36,9 @@
 		"title": "Web3 JS"
 	},
 	{
-		"forks": 1437,
+		"forks": 1457,
 		"name": "MyEtherWallet/ethereum-lists",
-		"stars": 410,
+		"stars": 437,
 		"watchers": 0,
 		"repo_name": "MyEtherWallet/ethereum-lists",
 		"ecosystem_slug": "web3-js",
@@ -48,9 +48,9 @@
 		"title": "Web3 JS"
 	},
 	{
-		"forks": 124,
+		"forks": 137,
 		"name": "EthWorks/Waffle",
-		"stars": 575,
+		"stars": 653,
 		"watchers": 0,
 		"repo_name": "EthWorks/Waffle",
 		"ecosystem_slug": "web3-js",
@@ -60,9 +60,9 @@
 		"title": "Web3 JS"
 	},
 	{
-		"forks": 83,
+		"forks": 90,
 		"name": "embarklabs/embark",
-		"stars": 516,
+		"stars": 594,
 		"watchers": 0,
 		"repo_name": "embarklabs/embark",
 		"ecosystem_slug": "web3-js",
@@ -72,9 +72,9 @@
 		"title": "Web3 JS"
 	},
 	{
-		"forks": 156,
+		"forks": 175,
 		"name": "tornadocash/tornado-core",
-		"stars": 390,
+		"stars": 464,
 		"watchers": 0,
 		"repo_name": "tornadocash/tornado-core",
 		"ecosystem_slug": "web3-js",
@@ -84,9 +84,9 @@
 		"title": "Web3 JS"
 	},
 	{
-		"forks": 96,
+		"forks": 106,
 		"name": "SmartContractSecurity/SWC-registry",
-		"stars": 269,
+		"stars": 325,
 		"watchers": 0,
 		"repo_name": "SmartContractSecurity/SWC-registry",
 		"ecosystem_slug": "web3-js",
@@ -98,7 +98,7 @@
 	{
 		"forks": 53,
 		"name": "bandprotocol/bandchain",
-		"stars": 235,
+		"stars": 241,
 		"watchers": 0,
 		"repo_name": "bandprotocol/bandchain",
 		"ecosystem_slug": "web3-js",
@@ -122,7 +122,7 @@
 	{
 		"forks": 68,
 		"name": "3box/3box-js",
-		"stars": 173,
+		"stars": 174,
 		"watchers": 0,
 		"repo_name": "3box/3box-js",
 		"ecosystem_slug": "web3-js",
@@ -134,7 +134,7 @@
 	{
 		"forks": 29,
 		"name": "protofire/eth-cli",
-		"stars": 144,
+		"stars": 154,
 		"watchers": 0,
 		"repo_name": "protofire/eth-cli",
 		"ecosystem_slug": "web3-js",
@@ -156,21 +156,9 @@
 		"title": "Web3 JS"
 	},
 	{
-		"forks": 72,
-		"name": "hyperledger/besu-docs",
-		"stars": 25,
-		"watchers": 0,
-		"repo_name": "hyperledger/besu-docs",
-		"ecosystem_slug": "web3-js",
-		"parent_slug": null,
-		"path": "web3-js",
-		"slug": "web3-js",
-		"title": "Web3 JS"
-	},
-	{
-		"forks": 40,
+		"forks": 43,
 		"name": "decentralized-identity/ethr-did-resolver",
-		"stars": 56,
+		"stars": 66,
 		"watchers": 0,
 		"repo_name": "decentralized-identity/ethr-did-resolver",
 		"ecosystem_slug": "web3-js",
@@ -180,9 +168,21 @@
 		"title": "Web3 JS"
 	},
 	{
+		"forks": 78,
+		"name": "hyperledger/besu-docs",
+		"stars": 28,
+		"watchers": 0,
+		"repo_name": "hyperledger/besu-docs",
+		"ecosystem_slug": "web3-js",
+		"parent_slug": null,
+		"path": "web3-js",
+		"slug": "web3-js",
+		"title": "Web3 JS"
+	},
+	{
 		"forks": 33,
 		"name": "torusresearch/torus-website",
-		"stars": 52,
+		"stars": 55,
 		"watchers": 0,
 		"repo_name": "torusresearch/torus-website",
 		"ecosystem_slug": "web3-js",
@@ -192,21 +192,9 @@
 		"title": "Web3 JS"
 	},
 	{
-		"forks": 41,
-		"name": "daostack/subgraph",
-		"stars": 39,
-		"watchers": 0,
-		"repo_name": "daostack/subgraph",
-		"ecosystem_slug": "web3-js",
-		"parent_slug": null,
-		"path": "web3-js",
-		"slug": "web3-js",
-		"title": "Web3 JS"
-	},
-	{
-		"forks": 28,
+		"forks": 30,
 		"name": "GoodDollar/GoodDAPP",
-		"stars": 49,
+		"stars": 53,
 		"watchers": 0,
 		"repo_name": "GoodDollar/GoodDAPP",
 		"ecosystem_slug": "web3-js",
@@ -216,7 +204,19 @@
 		"title": "Web3 JS"
 	},
 	{
-		"forks": 47,
+		"forks": 41,
+		"name": "daostack/subgraph",
+		"stars": 40,
+		"watchers": 0,
+		"repo_name": "daostack/subgraph",
+		"ecosystem_slug": "web3-js",
+		"parent_slug": null,
+		"path": "web3-js",
+		"slug": "web3-js",
+		"title": "Web3 JS"
+	},
+	{
+		"forks": 48,
 		"name": "Bounties-Network/Explorer",
 		"stars": 24,
 		"watchers": 0,
@@ -264,9 +264,9 @@
 		"title": "Web3 JS"
 	},
 	{
-		"forks": 20,
+		"forks": 21,
 		"name": "mikedeshazer/OrFeed",
-		"stars": 22,
+		"stars": 24,
 		"watchers": 0,
 		"repo_name": "mikedeshazer/OrFeed",
 		"ecosystem_slug": "web3-js",
@@ -278,9 +278,21 @@
 	{
 		"forks": 12,
 		"name": "dOrgTech/DAOcreator",
-		"stars": 26,
+		"stars": 27,
 		"watchers": 0,
 		"repo_name": "dOrgTech/DAOcreator",
+		"ecosystem_slug": "web3-js",
+		"parent_slug": null,
+		"path": "web3-js",
+		"slug": "web3-js",
+		"title": "Web3 JS"
+	},
+	{
+		"forks": 4,
+		"name": "kusamanetwork/KSM-dapp",
+		"stars": 17,
+		"watchers": 0,
+		"repo_name": "kusamanetwork/KSM-dapp",
 		"ecosystem_slug": "web3-js",
 		"parent_slug": null,
 		"path": "web3-js",
@@ -293,30 +305,6 @@
 		"stars": 11,
 		"watchers": 0,
 		"repo_name": "GoodDollar/GoodServer",
-		"ecosystem_slug": "web3-js",
-		"parent_slug": null,
-		"path": "web3-js",
-		"slug": "web3-js",
-		"title": "Web3 JS"
-	},
-	{
-		"forks": 2,
-		"name": "truffle-box/nightfall-box",
-		"stars": 14,
-		"watchers": 0,
-		"repo_name": "truffle-box/nightfall-box",
-		"ecosystem_slug": "web3-js",
-		"parent_slug": null,
-		"path": "web3-js",
-		"slug": "web3-js",
-		"title": "Web3 JS"
-	},
-	{
-		"forks": 2,
-		"name": "kusamanetwork/KSM-dapp",
-		"stars": 14,
-		"watchers": 0,
-		"repo_name": "kusamanetwork/KSM-dapp",
 		"ecosystem_slug": "web3-js",
 		"parent_slug": null,
 		"path": "web3-js",
@@ -348,9 +336,21 @@
 		"title": "Web3 JS"
 	},
 	{
+		"forks": 2,
+		"name": "truffle-box/nightfall-box",
+		"stars": 14,
+		"watchers": 0,
+		"repo_name": "truffle-box/nightfall-box",
+		"ecosystem_slug": "web3-js",
+		"parent_slug": null,
+		"path": "web3-js",
+		"slug": "web3-js",
+		"title": "Web3 JS"
+	},
+	{
 		"forks": 5,
 		"name": "Augmint/augmint-web",
-		"stars": 7,
+		"stars": 8,
 		"watchers": 0,
 		"repo_name": "Augmint/augmint-web",
 		"ecosystem_slug": "web3-js",
@@ -386,7 +386,7 @@
 	{
 		"forks": 5,
 		"name": "JacobEberhardt/decentralized-energy-trading",
-		"stars": 3,
+		"stars": 4,
 		"watchers": 0,
 		"repo_name": "JacobEberhardt/decentralized-energy-trading",
 		"ecosystem_slug": "web3-js",
@@ -481,18 +481,6 @@
 	},
 	{
 		"forks": 0,
-		"name": "chrfreitas/bethereum",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "chrfreitas/bethereum",
-		"ecosystem_slug": "web3-js",
-		"parent_slug": null,
-		"path": "web3-js",
-		"slug": "web3-js",
-		"title": "Web3 JS"
-	},
-	{
-		"forks": 0,
 		"name": "KhaledElAbrahim/solidity_lottery_node",
 		"stars": 0,
 		"watchers": 0,
@@ -505,10 +493,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "Sriharish/campaign-dapp",
+		"name": "chrfreitas/bethereum",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "Sriharish/campaign-dapp",
+		"repo_name": "chrfreitas/bethereum",
 		"ecosystem_slug": "web3-js",
 		"parent_slug": null,
 		"path": "web3-js",
@@ -521,6 +509,18 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "schaxz/ethdex-exchange",
+		"ecosystem_slug": "web3-js",
+		"parent_slug": null,
+		"path": "web3-js",
+		"slug": "web3-js",
+		"title": "Web3 JS"
+	},
+	{
+		"forks": 0,
+		"name": "Sriharish/campaign-dapp",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Sriharish/campaign-dapp",
 		"ecosystem_slug": "web3-js",
 		"parent_slug": null,
 		"path": "web3-js",

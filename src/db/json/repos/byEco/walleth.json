@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 173,
+		"forks": 180,
 		"name": "walleth/walleth",
-		"stars": 514,
+		"stars": 542,
 		"watchers": 0,
 		"repo_name": "walleth/walleth",
 		"ecosystem_slug": "walleth",
@@ -14,7 +14,7 @@
 	{
 		"forks": 7,
 		"name": "walleth/KHardWareWallet",
-		"stars": 11,
+		"stars": 12,
 		"watchers": 0,
 		"repo_name": "walleth/KHardWareWallet",
 		"ecosystem_slug": "walleth",
@@ -24,9 +24,9 @@
 		"title": "WallETH"
 	},
 	{
-		"forks": 6,
+		"forks": 9,
 		"name": "walleth/walleth.github.com",
-		"stars": 9,
+		"stars": 10,
 		"watchers": 0,
 		"repo_name": "walleth/walleth.github.com",
 		"ecosystem_slug": "walleth",
@@ -36,9 +36,9 @@
 		"title": "WallETH"
 	},
 	{
-		"forks": 4,
+		"forks": 5,
 		"name": "walleth/walleth-push",
-		"stars": 11,
+		"stars": 12,
 		"watchers": 0,
 		"repo_name": "walleth/walleth-push",
 		"ecosystem_slug": "walleth",
@@ -96,11 +96,35 @@
 		"title": "WallETH"
 	},
 	{
+		"forks": 3,
+		"name": "walleth/firebase-walletconnect-push",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "walleth/firebase-walletconnect-push",
+		"ecosystem_slug": "walleth",
+		"parent_slug": null,
+		"path": "walleth",
+		"slug": "walleth",
+		"title": "WallETH"
+	},
+	{
 		"forks": 0,
 		"name": "walleth/KWRC20",
 		"stars": 4,
 		"watchers": 0,
 		"repo_name": "walleth/KWRC20",
+		"ecosystem_slug": "walleth",
+		"parent_slug": null,
+		"path": "walleth",
+		"slug": "walleth",
+		"title": "WallETH"
+	},
+	{
+		"forks": 3,
+		"name": "walleth/ethpos",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "walleth/ethpos",
 		"ecosystem_slug": "walleth",
 		"parent_slug": null,
 		"path": "walleth",
@@ -120,31 +144,7 @@
 		"title": "WallETH"
 	},
 	{
-		"forks": 3,
-		"name": "walleth/firebase-walletconnect-push",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "walleth/firebase-walletconnect-push",
-		"ecosystem_slug": "walleth",
-		"parent_slug": null,
-		"path": "walleth",
-		"slug": "walleth",
-		"title": "WallETH"
-	},
-	{
 		"forks": 2,
-		"name": "walleth/ethpos",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "walleth/ethpos",
-		"ecosystem_slug": "walleth",
-		"parent_slug": null,
-		"path": "walleth",
-		"slug": "walleth",
-		"title": "WallETH"
-	},
-	{
-		"forks": 1,
 		"name": "walleth/geth_mvn_repository",
 		"stars": 0,
 		"watchers": 0,
@@ -156,7 +156,7 @@
 		"title": "WallETH"
 	},
 	{
-		"forks": 0,
+		"forks": 1,
 		"name": "walleth/status-keycard-java",
 		"stars": 0,
 		"watchers": 0,

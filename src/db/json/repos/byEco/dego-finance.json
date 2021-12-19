@@ -2,7 +2,7 @@
 	{
 		"forks": 19,
 		"name": "dego-labs/dego-core",
-		"stars": 19,
+		"stars": 20,
 		"watchers": 0,
 		"repo_name": "dego-labs/dego-core",
 		"ecosystem_slug": "dego-finance",
@@ -24,9 +24,9 @@
 		"title": "Dego Finance"
 	},
 	{
-		"forks": 8,
+		"forks": 10,
 		"name": "dego-labs/dego-nft",
-		"stars": 11,
+		"stars": 13,
 		"watchers": 0,
 		"repo_name": "dego-labs/dego-nft",
 		"ecosystem_slug": "dego-finance",
@@ -38,7 +38,7 @@
 	{
 		"forks": 7,
 		"name": "dego-labs/dego-system",
-		"stars": 5,
+		"stars": 6,
 		"watchers": 0,
 		"repo_name": "dego-labs/dego-system",
 		"ecosystem_slug": "dego-finance",
@@ -50,7 +50,7 @@
 	{
 		"forks": 2,
 		"name": "dego-labs/treasureland-backend",
-		"stars": 7,
+		"stars": 9,
 		"watchers": 0,
 		"repo_name": "dego-labs/treasureland-backend",
 		"ecosystem_slug": "dego-finance",
@@ -60,11 +60,11 @@
 		"title": "Dego Finance"
 	},
 	{
-		"forks": 2,
-		"name": "dego-labs/dego-nft-v2",
+		"forks": 3,
+		"name": "dego-labs/snapshot-spaces",
 		"stars": 5,
 		"watchers": 0,
-		"repo_name": "dego-labs/dego-nft-v2",
+		"repo_name": "dego-labs/snapshot-spaces",
 		"ecosystem_slug": "dego-finance",
 		"parent_slug": "ethereum",
 		"path": "ethereum/dego-finance",
@@ -73,10 +73,10 @@
 	},
 	{
 		"forks": 3,
-		"name": "dego-labs/snapshot-spaces",
-		"stars": 4,
+		"name": "dego-labs/dego-nft-v2",
+		"stars": 5,
 		"watchers": 0,
-		"repo_name": "dego-labs/snapshot-spaces",
+		"repo_name": "dego-labs/dego-nft-v2",
 		"ecosystem_slug": "dego-finance",
 		"parent_slug": "ethereum",
 		"path": "ethereum/dego-finance",
@@ -108,7 +108,7 @@
 		"title": "Dego Finance"
 	},
 	{
-		"forks": 0,
+		"forks": 1,
 		"name": "dego-labs/erc908",
 		"stars": 0,
 		"watchers": 0,

@@ -26,7 +26,7 @@
 	{
 		"forks": 10,
 		"name": "AdChain/AdChainRegistry",
-		"stars": 29,
+		"stars": 30,
 		"watchers": 0,
 		"repo_name": "AdChain/AdChainRegistry",
 		"ecosystem_slug": "adchain",
@@ -108,18 +108,6 @@
 		"title": "adChain"
 	},
 	{
-		"forks": 1,
-		"name": "AdChain/adChainVerifiedChromeExtenstion",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "AdChain/adChainVerifiedChromeExtenstion",
-		"ecosystem_slug": "adchain",
-		"parent_slug": null,
-		"path": "adchain",
-		"slug": "adchain",
-		"title": "adChain"
-	},
-	{
 		"forks": 2,
 		"name": "AdChain/metamask-extension",
 		"stars": 1,
@@ -133,10 +121,10 @@
 	},
 	{
 		"forks": 1,
-		"name": "AdChain/off-chain-game",
-		"stars": 0,
+		"name": "AdChain/adChainVerifiedChromeExtenstion",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "AdChain/off-chain-game",
+		"repo_name": "AdChain/adChainVerifiedChromeExtenstion",
 		"ecosystem_slug": "adchain",
 		"parent_slug": null,
 		"path": "adchain",
@@ -149,6 +137,18 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "AdChain/hackathon",
+		"ecosystem_slug": "adchain",
+		"parent_slug": null,
+		"path": "adchain",
+		"slug": "adchain",
+		"title": "adChain"
+	},
+	{
+		"forks": 1,
+		"name": "AdChain/off-chain-game",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "AdChain/off-chain-game",
 		"ecosystem_slug": "adchain",
 		"parent_slug": null,
 		"path": "adchain",

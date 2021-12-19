@@ -2,7 +2,7 @@
 	{
 		"forks": 31,
 		"name": "SpankChain/general-state-channels",
-		"stars": 165,
+		"stars": 166,
 		"watchers": 0,
 		"repo_name": "SpankChain/general-state-channels",
 		"ecosystem_slug": "spankchain",
@@ -50,7 +50,7 @@
 	{
 		"forks": 6,
 		"name": "SpankChain/uniprice",
-		"stars": 16,
+		"stars": 17,
 		"watchers": 0,
 		"repo_name": "SpankChain/uniprice",
 		"ecosystem_slug": "spankchain",
@@ -108,6 +108,18 @@
 		"title": "SpankChain"
 	},
 	{
+		"forks": 2,
+		"name": "SpankChain/eth-berlin",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "SpankChain/eth-berlin",
+		"ecosystem_slug": "spankchain",
+		"parent_slug": "ethereum",
+		"path": "ethereum/spankchain",
+		"slug": "spankchain",
+		"title": "SpankChain"
+	},
+	{
 		"forks": 0,
 		"name": "SpankChain/BAB_audit",
 		"stars": 4,
@@ -120,11 +132,11 @@
 		"title": "SpankChain"
 	},
 	{
-		"forks": 2,
-		"name": "SpankChain/eth-berlin",
+		"forks": 1,
+		"name": "SpankChain/virtual-channels",
 		"stars": 2,
 		"watchers": 0,
-		"repo_name": "SpankChain/eth-berlin",
+		"repo_name": "SpankChain/virtual-channels",
 		"ecosystem_slug": "spankchain",
 		"parent_slug": "ethereum",
 		"path": "ethereum/spankchain",
@@ -145,18 +157,6 @@
 	},
 	{
 		"forks": 1,
-		"name": "SpankChain/virtual-channels",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "SpankChain/virtual-channels",
-		"ecosystem_slug": "spankchain",
-		"parent_slug": "ethereum",
-		"path": "ethereum/spankchain",
-		"slug": "spankchain",
-		"title": "SpankChain"
-	},
-	{
-		"forks": 1,
 		"name": "SpankChain/community-hub",
 		"stars": 0,
 		"watchers": 0,
@@ -169,10 +169,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "SpankChain/community",
+		"name": "SpankChain/indra",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "SpankChain/community",
+		"repo_name": "SpankChain/indra",
 		"ecosystem_slug": "spankchain",
 		"parent_slug": "ethereum",
 		"path": "ethereum/spankchain",
@@ -193,10 +193,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "SpankChain/spankpay-sfcc-cartridge",
+		"name": "SpankChain/community",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "SpankChain/spankpay-sfcc-cartridge",
+		"repo_name": "SpankChain/community",
 		"ecosystem_slug": "spankchain",
 		"parent_slug": "ethereum",
 		"path": "ethereum/spankchain",
@@ -205,10 +205,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "SpankChain/indra",
+		"name": "SpankChain/spankpay-sfcc-cartridge",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "SpankChain/indra",
+		"repo_name": "SpankChain/spankpay-sfcc-cartridge",
 		"ecosystem_slug": "spankchain",
 		"parent_slug": "ethereum",
 		"path": "ethereum/spankchain",

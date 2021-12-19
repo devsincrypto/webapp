@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 9114,
+		"forks": 9360,
 		"name": "openssl/openssl",
-		"stars": 18426,
+		"stars": 18932,
 		"watchers": 0,
 		"repo_name": "openssl/openssl",
 		"ecosystem_slug": "open-source-cryptography",
@@ -12,9 +12,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 2843,
+		"forks": 2875,
 		"name": "xtaci/kcptun",
-		"stars": 13993,
+		"stars": 14122,
 		"watchers": 0,
 		"repo_name": "xtaci/kcptun",
 		"ecosystem_slug": "open-source-cryptography",
@@ -24,9 +24,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 1099,
+		"forks": 1122,
 		"name": "google/tink",
-		"stars": 11742,
+		"stars": 11933,
 		"watchers": 0,
 		"repo_name": "google/tink",
 		"ecosystem_slug": "open-source-cryptography",
@@ -36,9 +36,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 1887,
+		"forks": 1911,
 		"name": "jedisct1/libsodium",
-		"stars": 10406,
+		"stars": 10592,
 		"watchers": 0,
 		"repo_name": "jedisct1/libsodium",
 		"ecosystem_slug": "open-source-cryptography",
@@ -48,9 +48,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 1352,
+		"forks": 1367,
 		"name": "krzyzanowskim/CryptoSwift",
-		"stars": 9313,
+		"stars": 9425,
 		"watchers": 0,
 		"repo_name": "krzyzanowskim/CryptoSwift",
 		"ecosystem_slug": "open-source-cryptography",
@@ -60,9 +60,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 1229,
+		"forks": 1238,
 		"name": "bitwiseshiftleft/sjcl",
-		"stars": 7185,
+		"stars": 7249,
 		"watchers": 0,
 		"repo_name": "bitwiseshiftleft/sjcl",
 		"ecosystem_slug": "open-source-cryptography",
@@ -72,9 +72,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 692,
+		"forks": 728,
 		"name": "cryptomator/cryptomator",
-		"stars": 6537,
+		"stars": 6943,
 		"watchers": 0,
 		"repo_name": "cryptomator/cryptomator",
 		"ecosystem_slug": "open-source-cryptography",
@@ -84,9 +84,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 1185,
+		"forks": 1214,
 		"name": "pyca/cryptography",
-		"stars": 4682,
+		"stars": 4814,
 		"watchers": 0,
 		"repo_name": "pyca/cryptography",
 		"ecosystem_slug": "open-source-cryptography",
@@ -96,11 +96,23 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 818,
+		"forks": 833,
 		"name": "digitalbazaar/forge",
-		"stars": 4341,
+		"stars": 4419,
 		"watchers": 0,
 		"repo_name": "digitalbazaar/forge",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 463,
+		"name": "google/end-to-end",
+		"stars": 4492,
+		"watchers": 0,
+		"repo_name": "google/end-to-end",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",
@@ -120,21 +132,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 459,
-		"name": "google/end-to-end",
-		"stars": 4470,
-		"watchers": 0,
-		"repo_name": "google/end-to-end",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 1127,
+		"forks": 1152,
 		"name": "weidai11/cryptopp",
-		"stars": 3280,
+		"stars": 3388,
 		"watchers": 0,
 		"repo_name": "weidai11/cryptopp",
 		"ecosystem_slug": "open-source-cryptography",
@@ -144,9 +144,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 550,
+		"forks": 563,
 		"name": "sobolevn/awesome-cryptography",
-		"stars": 3591,
+		"stars": 3722,
 		"watchers": 0,
 		"repo_name": "sobolevn/awesome-cryptography",
 		"ecosystem_slug": "open-source-cryptography",
@@ -156,9 +156,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 674,
+		"forks": 691,
 		"name": "xtaci/kcp-go",
-		"stars": 3240,
+		"stars": 3306,
 		"watchers": 0,
 		"repo_name": "xtaci/kcp-go",
 		"ecosystem_slug": "open-source-cryptography",
@@ -168,9 +168,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 669,
+		"forks": 670,
 		"name": "cryptocat/cryptocat",
-		"stars": 3120,
+		"stars": 3130,
 		"watchers": 0,
 		"repo_name": "cryptocat/cryptocat",
 		"ecosystem_slug": "open-source-cryptography",
@@ -192,9 +192,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 484,
+		"forks": 503,
 		"name": "briansmith/ring",
-		"stars": 2678,
+		"stars": 2737,
 		"watchers": 0,
 		"repo_name": "briansmith/ring",
 		"ecosystem_slug": "open-source-cryptography",
@@ -204,9 +204,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 1083,
+		"forks": 1118,
 		"name": "openssh/openssh-portable",
-		"stars": 1771,
+		"stars": 1857,
 		"watchers": 0,
 		"repo_name": "openssh/openssh-portable",
 		"ecosystem_slug": "open-source-cryptography",
@@ -216,9 +216,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 197,
+		"forks": 203,
 		"name": "pstadler/keybase-gpg-github",
-		"stars": 2641,
+		"stars": 2667,
 		"watchers": 0,
 		"repo_name": "pstadler/keybase-gpg-github",
 		"ecosystem_slug": "open-source-cryptography",
@@ -228,9 +228,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 535,
+		"forks": 545,
 		"name": "Caligatio/jsSHA",
-		"stars": 2260,
+		"stars": 2277,
 		"watchers": 0,
 		"repo_name": "Caligatio/jsSHA",
 		"ecosystem_slug": "open-source-cryptography",
@@ -240,9 +240,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 299,
+		"forks": 307,
 		"name": "google/wycheproof",
-		"stars": 2486,
+		"stars": 2496,
 		"watchers": 0,
 		"repo_name": "google/wycheproof",
 		"ecosystem_slug": "open-source-cryptography",
@@ -252,9 +252,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 172,
+		"forks": 173,
 		"name": "github/SoftU2F",
-		"stars": 2406,
+		"stars": 2411,
 		"watchers": 0,
 		"repo_name": "github/SoftU2F",
 		"ecosystem_slug": "open-source-cryptography",
@@ -264,9 +264,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 571,
+		"forks": 577,
 		"name": "randombit/botan",
-		"stars": 1907,
+		"stars": 1957,
 		"watchers": 0,
 		"repo_name": "randombit/botan",
 		"ecosystem_slug": "open-source-cryptography",
@@ -276,9 +276,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 161,
+		"forks": 171,
 		"name": "smallstep/cli",
-		"stars": 2054,
+		"stars": 2153,
 		"watchers": 0,
 		"repo_name": "smallstep/cli",
 		"ecosystem_slug": "open-source-cryptography",
@@ -288,9 +288,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 415,
+		"forks": 427,
 		"name": "PurpleI2P/i2pd",
-		"stars": 1796,
+		"stars": 1861,
 		"watchers": 0,
 		"repo_name": "PurpleI2P/i2pd",
 		"ecosystem_slug": "open-source-cryptography",
@@ -300,9 +300,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 615,
+		"forks": 636,
 		"name": "wolfSSL/wolfssl",
-		"stars": 1411,
+		"stars": 1488,
 		"watchers": 0,
 		"repo_name": "wolfSSL/wolfssl",
 		"ecosystem_slug": "open-source-cryptography",
@@ -312,9 +312,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 388,
+		"forks": 417,
 		"name": "microsoft/SEAL",
-		"stars": 1409,
+		"stars": 1477,
 		"watchers": 0,
 		"repo_name": "microsoft/SEAL",
 		"ecosystem_slug": "open-source-cryptography",
@@ -324,9 +324,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 443,
+		"forks": 449,
 		"name": "libtom/libtomcrypt",
-		"stars": 1311,
+		"stars": 1335,
 		"watchers": 0,
 		"repo_name": "libtom/libtomcrypt",
 		"ecosystem_slug": "open-source-cryptography",
@@ -336,21 +336,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 82,
-		"name": "awnumar/memguard",
-		"stars": 1636,
-		"watchers": 0,
-		"repo_name": "awnumar/memguard",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 197,
+		"forks": 210,
 		"name": "nakov/Practical-Cryptography-for-Developers-Book",
-		"stars": 1513,
+		"stars": 1571,
 		"watchers": 0,
 		"repo_name": "nakov/Practical-Cryptography-for-Developers-Book",
 		"ecosystem_slug": "open-source-cryptography",
@@ -360,9 +348,21 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 130,
+		"forks": 88,
+		"name": "awnumar/memguard",
+		"stars": 1678,
+		"watchers": 0,
+		"repo_name": "awnumar/memguard",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 137,
 		"name": "cossacklabs/themis",
-		"stars": 1436,
+		"stars": 1469,
 		"watchers": 0,
 		"repo_name": "cossacklabs/themis",
 		"ecosystem_slug": "open-source-cryptography",
@@ -372,9 +372,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 228,
+		"forks": 230,
 		"name": "TryCatchHCF/Cloakify",
-		"stars": 1275,
+		"stars": 1301,
 		"watchers": 0,
 		"repo_name": "TryCatchHCF/Cloakify",
 		"ecosystem_slug": "open-source-cryptography",
@@ -384,21 +384,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 131,
-		"name": "project-everest/hacl-star",
-		"stars": 1295,
-		"watchers": 0,
-		"repo_name": "project-everest/hacl-star",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 98,
+		"forks": 104,
 		"name": "jedisct1/minisign",
-		"stars": 1316,
+		"stars": 1383,
 		"watchers": 0,
 		"repo_name": "jedisct1/minisign",
 		"ecosystem_slug": "open-source-cryptography",
@@ -408,9 +396,21 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 192,
+		"forks": 137,
+		"name": "project-everest/hacl-star",
+		"stars": 1314,
+		"watchers": 0,
+		"repo_name": "project-everest/hacl-star",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 199,
 		"name": "ashutosh1206/Crypton",
-		"stars": 1105,
+		"stars": 1135,
 		"watchers": 0,
 		"repo_name": "ashutosh1206/Crypton",
 		"ecosystem_slug": "open-source-cryptography",
@@ -420,21 +420,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 467,
-		"name": "pyca/pyopenssl",
-		"stars": 811,
-		"watchers": 0,
-		"repo_name": "pyca/pyopenssl",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 100,
+		"forks": 104,
 		"name": "pFarb/awesome-crypto-papers",
-		"stars": 1139,
+		"stars": 1191,
 		"watchers": 0,
 		"repo_name": "pFarb/awesome-crypto-papers",
 		"ecosystem_slug": "open-source-cryptography",
@@ -444,11 +432,11 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 123,
-		"name": "paragonie/halite",
-		"stars": 1089,
+		"forks": 473,
+		"name": "pyca/pyopenssl",
+		"stars": 818,
 		"watchers": 0,
-		"repo_name": "paragonie/halite",
+		"repo_name": "pyca/pyopenssl",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",
@@ -456,9 +444,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 268,
+		"forks": 280,
 		"name": "open-quantum-safe/liboqs",
-		"stars": 905,
+		"stars": 943,
 		"watchers": 0,
 		"repo_name": "open-quantum-safe/liboqs",
 		"ecosystem_slug": "open-source-cryptography",
@@ -468,9 +456,21 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 160,
+		"forks": 123,
+		"name": "paragonie/halite",
+		"stars": 1098,
+		"watchers": 0,
+		"repo_name": "paragonie/halite",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 161,
 		"name": "nccgroup/featherduster",
-		"stars": 985,
+		"stars": 997,
 		"watchers": 0,
 		"repo_name": "nccgroup/featherduster",
 		"ecosystem_slug": "open-source-cryptography",
@@ -480,21 +480,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 44,
-		"name": "google/mundane",
-		"stars": 1062,
-		"watchers": 0,
-		"repo_name": "google/mundane",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 396,
+		"forks": 404,
 		"name": "ryancdotorg/brainflayer",
-		"stars": 699,
+		"stars": 727,
 		"watchers": 0,
 		"repo_name": "ryancdotorg/brainflayer",
 		"ecosystem_slug": "open-source-cryptography",
@@ -504,11 +492,11 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 91,
-		"name": "vuvuzela/vuvuzela",
-		"stars": 920,
+		"forks": 46,
+		"name": "google/mundane",
+		"stars": 1067,
 		"watchers": 0,
-		"repo_name": "vuvuzela/vuvuzela",
+		"repo_name": "google/mundane",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",
@@ -516,9 +504,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 232,
+		"forks": 239,
 		"name": "pyca/pynacl",
-		"stars": 773,
+		"stars": 798,
 		"watchers": 0,
 		"repo_name": "pyca/pynacl",
 		"ecosystem_slug": "open-source-cryptography",
@@ -528,11 +516,11 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 109,
-		"name": "jedisct1/libhydrogen",
-		"stars": 877,
+		"forks": 91,
+		"name": "vuvuzela/vuvuzela",
+		"stars": 933,
 		"watchers": 0,
-		"repo_name": "jedisct1/libhydrogen",
+		"repo_name": "vuvuzela/vuvuzela",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",
@@ -540,9 +528,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 141,
+		"forks": 150,
 		"name": "RustCrypto/hashes",
-		"stars": 819,
+		"stars": 872,
 		"watchers": 0,
 		"repo_name": "RustCrypto/hashes",
 		"ecosystem_slug": "open-source-cryptography",
@@ -552,9 +540,21 @@
 		"title": "Open Source Cryptography"
 	},
 	{
+		"forks": 109,
+		"name": "jedisct1/libhydrogen",
+		"stars": 898,
+		"watchers": 0,
+		"repo_name": "jedisct1/libhydrogen",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
 		"forks": 170,
 		"name": "BetterCrypto/Applied-Crypto-Hardening",
-		"stars": 780,
+		"stars": 784,
 		"watchers": 0,
 		"repo_name": "BetterCrypto/Applied-Crypto-Hardening",
 		"ecosystem_slug": "open-source-cryptography",
@@ -564,9 +564,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 149,
+		"forks": 153,
 		"name": "tf-encrypted/tf-encrypted",
-		"stars": 767,
+		"stars": 791,
 		"watchers": 0,
 		"repo_name": "tf-encrypted/tf-encrypted",
 		"ecosystem_slug": "open-source-cryptography",
@@ -576,9 +576,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 142,
+		"forks": 148,
 		"name": "jedisct1/libsodium.js",
-		"stars": 760,
+		"stars": 784,
 		"watchers": 0,
 		"repo_name": "jedisct1/libsodium.js",
 		"ecosystem_slug": "open-source-cryptography",
@@ -588,9 +588,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 72,
+		"forks": 73,
 		"name": "paragonie/sodium_compat",
-		"stars": 785,
+		"stars": 798,
 		"watchers": 0,
 		"repo_name": "paragonie/sodium_compat",
 		"ecosystem_slug": "open-source-cryptography",
@@ -600,9 +600,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 163,
+		"forks": 164,
 		"name": "h2non/jshashes",
-		"stars": 685,
+		"stars": 697,
 		"watchers": 0,
 		"repo_name": "h2non/jshashes",
 		"ecosystem_slug": "open-source-cryptography",
@@ -612,21 +612,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 21,
-		"name": "TankerHQ/sdk-js",
-		"stars": 818,
-		"watchers": 0,
-		"repo_name": "TankerHQ/sdk-js",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
 		"forks": 24,
 		"name": "keys-pub/keys",
-		"stars": 800,
+		"stars": 833,
 		"watchers": 0,
 		"repo_name": "keys-pub/keys",
 		"ecosystem_slug": "open-source-cryptography",
@@ -636,9 +624,21 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 267,
+		"forks": 22,
+		"name": "TankerHQ/sdk-js",
+		"stars": 822,
+		"watchers": 0,
+		"repo_name": "TankerHQ/sdk-js",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 275,
 		"name": "opendnssec/SoftHSMv2",
-		"stars": 458,
+		"stars": 474,
 		"watchers": 0,
 		"repo_name": "opendnssec/SoftHSMv2",
 		"ecosystem_slug": "open-source-cryptography",
@@ -648,33 +648,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 83,
-		"name": "mimoo/Diffie-Hellman_Backdoor",
-		"stars": 628,
-		"watchers": 0,
-		"repo_name": "mimoo/Diffie-Hellman_Backdoor",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 86,
-		"name": "google/fscrypt",
-		"stars": 623,
-		"watchers": 0,
-		"repo_name": "google/fscrypt",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 144,
+		"forks": 151,
 		"name": "mimoo/RSA-and-LLL-attacks",
-		"stars": 564,
+		"stars": 586,
 		"watchers": 0,
 		"repo_name": "mimoo/RSA-and-LLL-attacks",
 		"ecosystem_slug": "open-source-cryptography",
@@ -684,9 +660,33 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 125,
+		"forks": 93,
+		"name": "google/fscrypt",
+		"stars": 641,
+		"watchers": 0,
+		"repo_name": "google/fscrypt",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 84,
+		"name": "mimoo/Diffie-Hellman_Backdoor",
+		"stars": 632,
+		"watchers": 0,
+		"repo_name": "mimoo/Diffie-Hellman_Backdoor",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 131,
 		"name": "dalek-cryptography/bulletproofs",
-		"stars": 556,
+		"stars": 571,
 		"watchers": 0,
 		"repo_name": "dalek-cryptography/bulletproofs",
 		"ecosystem_slug": "open-source-cryptography",
@@ -696,45 +696,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 98,
-		"name": "jedisct1/libsodium-php",
-		"stars": 581,
-		"watchers": 0,
-		"repo_name": "jedisct1/libsodium-php",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 207,
-		"name": "jedisct1/swift-sodium",
-		"stars": 455,
-		"watchers": 0,
-		"repo_name": "jedisct1/swift-sodium",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 62,
-		"name": "netheril96/securefs",
-		"stars": 589,
-		"watchers": 0,
-		"repo_name": "netheril96/securefs",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 59,
+		"forks": 61,
 		"name": "strongbox-password-safe/Strongbox",
-		"stars": 590,
+		"stars": 630,
 		"watchers": 0,
 		"repo_name": "strongbox-password-safe/Strongbox",
 		"ecosystem_slug": "open-source-cryptography",
@@ -744,9 +708,33 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 135,
+		"forks": 98,
+		"name": "jedisct1/libsodium-php",
+		"stars": 585,
+		"watchers": 0,
+		"repo_name": "jedisct1/libsodium-php",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 211,
+		"name": "jedisct1/swift-sodium",
+		"stars": 465,
+		"watchers": 0,
+		"repo_name": "jedisct1/swift-sodium",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 138,
 		"name": "e-ago/bitcracker",
-		"stars": 513,
+		"stars": 528,
 		"watchers": 0,
 		"repo_name": "e-ago/bitcracker",
 		"ecosystem_slug": "open-source-cryptography",
@@ -756,11 +744,11 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 139,
-		"name": "gpg/gnupg",
-		"stars": 477,
+		"forks": 63,
+		"name": "netheril96/securefs",
+		"stars": 598,
 		"watchers": 0,
-		"repo_name": "gpg/gnupg",
+		"repo_name": "netheril96/securefs",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",
@@ -768,57 +756,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 92,
-		"name": "darkwire/darkwire.io",
-		"stars": 520,
-		"watchers": 0,
-		"repo_name": "darkwire/darkwire.io",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 58,
-		"name": "sdrapkin/SecurityDriven.Inferno",
-		"stars": 554,
-		"watchers": 0,
-		"repo_name": "sdrapkin/SecurityDriven.Inferno",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 62,
-		"name": "cloudflare/circl",
-		"stars": 548,
-		"watchers": 0,
-		"repo_name": "cloudflare/circl",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 110,
-		"name": "TryCatchHCF/PacketWhisper",
-		"stars": 498,
-		"watchers": 0,
-		"repo_name": "TryCatchHCF/PacketWhisper",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 80,
+		"forks": 84,
 		"name": "mcginty/snow",
-		"stars": 524,
+		"stars": 556,
 		"watchers": 0,
 		"repo_name": "mcginty/snow",
 		"ecosystem_slug": "open-source-cryptography",
@@ -828,9 +768,69 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 175,
+		"forks": 143,
+		"name": "gpg/gnupg",
+		"stars": 495,
+		"watchers": 0,
+		"repo_name": "gpg/gnupg",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 64,
+		"name": "cloudflare/circl",
+		"stars": 573,
+		"watchers": 0,
+		"repo_name": "cloudflare/circl",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 97,
+		"name": "darkwire/darkwire.io",
+		"stars": 539,
+		"watchers": 0,
+		"repo_name": "darkwire/darkwire.io",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 115,
+		"name": "TryCatchHCF/PacketWhisper",
+		"stars": 511,
+		"watchers": 0,
+		"repo_name": "TryCatchHCF/PacketWhisper",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 58,
+		"name": "sdrapkin/SecurityDriven.Inferno",
+		"stars": 557,
+		"watchers": 0,
+		"repo_name": "sdrapkin/SecurityDriven.Inferno",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 176,
 		"name": "JHUISI/charm",
-		"stars": 421,
+		"stars": 431,
 		"watchers": 0,
 		"repo_name": "JHUISI/charm",
 		"ecosystem_slug": "open-source-cryptography",
@@ -840,9 +840,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 139,
+		"forks": 145,
 		"name": "dalek-cryptography/curve25519-dalek",
-		"stars": 417,
+		"stars": 437,
 		"watchers": 0,
 		"repo_name": "dalek-cryptography/curve25519-dalek",
 		"ecosystem_slug": "open-source-cryptography",
@@ -852,9 +852,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 139,
+		"forks": 143,
 		"name": "dalek-cryptography/ed25519-dalek",
-		"stars": 384,
+		"stars": 403,
 		"watchers": 0,
 		"repo_name": "dalek-cryptography/ed25519-dalek",
 		"ecosystem_slug": "open-source-cryptography",
@@ -864,21 +864,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 41,
-		"name": "google/capillary",
-		"stars": 455,
-		"watchers": 0,
-		"repo_name": "google/capillary",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 24,
+		"forks": 25,
 		"name": "mcginty/shoop",
-		"stars": 469,
+		"stars": 477,
 		"watchers": 0,
 		"repo_name": "mcginty/shoop",
 		"ecosystem_slug": "open-source-cryptography",
@@ -888,9 +876,21 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 56,
+		"forks": 41,
+		"name": "google/capillary",
+		"stars": 460,
+		"watchers": 0,
+		"repo_name": "google/capillary",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 57,
 		"name": "keybase/triplesec",
-		"stars": 427,
+		"stars": 429,
 		"watchers": 0,
 		"repo_name": "keybase/triplesec",
 		"ecosystem_slug": "open-source-cryptography",
@@ -900,9 +900,21 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 88,
+		"forks": 103,
+		"name": "MPC-SoK/frameworks",
+		"stars": 365,
+		"watchers": 0,
+		"repo_name": "MPC-SoK/frameworks",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 91,
 		"name": "sodiumoxide/sodiumoxide",
-		"stars": 369,
+		"stars": 375,
 		"watchers": 0,
 		"repo_name": "sodiumoxide/sodiumoxide",
 		"ecosystem_slug": "open-source-cryptography",
@@ -912,9 +924,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 62,
+		"forks": 65,
 		"name": "jmcardon/tsec",
-		"stars": 391,
+		"stars": 396,
 		"watchers": 0,
 		"repo_name": "jmcardon/tsec",
 		"ecosystem_slug": "open-source-cryptography",
@@ -924,11 +936,11 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 98,
-		"name": "MPC-SoK/frameworks",
-		"stars": 351,
+		"forks": 95,
+		"name": "WickrInc/wickr-crypto-c",
+		"stars": 338,
 		"watchers": 0,
-		"repo_name": "MPC-SoK/frameworks",
+		"repo_name": "WickrInc/wickr-crypto-c",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",
@@ -948,21 +960,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 94,
-		"name": "WickrInc/wickr-crypto-c",
-		"stars": 333,
-		"watchers": 0,
-		"repo_name": "WickrInc/wickr-crypto-c",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 78,
+		"forks": 81,
 		"name": "l4wio/CTF-challenges-by-me",
-		"stars": 335,
+		"stars": 346,
 		"watchers": 0,
 		"repo_name": "l4wio/CTF-challenges-by-me",
 		"ecosystem_slug": "open-source-cryptography",
@@ -972,9 +972,21 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 52,
+		"forks": 113,
+		"name": "herumi/mcl",
+		"stars": 308,
+		"watchers": 0,
+		"repo_name": "herumi/mcl",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 53,
 		"name": "evpo/EncryptPad",
-		"stars": 357,
+		"stars": 362,
 		"watchers": 0,
 		"repo_name": "evpo/EncryptPad",
 		"ecosystem_slug": "open-source-cryptography",
@@ -984,11 +996,11 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 111,
-		"name": "herumi/mcl",
-		"stars": 296,
+		"forks": 137,
+		"name": "wbond/asn1crypto",
+		"stars": 252,
 		"watchers": 0,
-		"repo_name": "herumi/mcl",
+		"repo_name": "wbond/asn1crypto",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",
@@ -1008,21 +1020,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 135,
-		"name": "wbond/asn1crypto",
-		"stars": 244,
-		"watchers": 0,
-		"repo_name": "wbond/asn1crypto",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
 		"forks": 8,
 		"name": "iqlusioninc/sear",
-		"stars": 363,
+		"stars": 367,
 		"watchers": 0,
 		"repo_name": "iqlusioninc/sear",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1034,7 +1034,7 @@
 	{
 		"forks": 29,
 		"name": "paragonie/sapient",
-		"stars": 329,
+		"stars": 331,
 		"watchers": 0,
 		"repo_name": "paragonie/sapient",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1044,9 +1044,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 50,
+		"forks": 51,
 		"name": "wbond/oscrypto",
-		"stars": 295,
+		"stars": 297,
 		"watchers": 0,
 		"repo_name": "wbond/oscrypto",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1058,9 +1058,21 @@
 	{
 		"forks": 79,
 		"name": "potatosalad/erlang-jose",
-		"stars": 258,
+		"stars": 261,
 		"watchers": 0,
 		"repo_name": "potatosalad/erlang-jose",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 56,
+		"name": "ektrah/nsec",
+		"stars": 265,
+		"watchers": 0,
+		"repo_name": "ektrah/nsec",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",
@@ -1080,21 +1092,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 55,
-		"name": "ektrah/nsec",
-		"stars": 255,
-		"watchers": 0,
-		"repo_name": "ektrah/nsec",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 57,
+		"forks": 58,
 		"name": "patrickfav/armadillo",
-		"stars": 247,
+		"stars": 251,
 		"watchers": 0,
 		"repo_name": "patrickfav/armadillo",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1106,7 +1106,7 @@
 	{
 		"forks": 50,
 		"name": "GildedHonour/frank_jwt",
-		"stars": 235,
+		"stars": 236,
 		"watchers": 0,
 		"repo_name": "GildedHonour/frank_jwt",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1116,9 +1116,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 52,
+		"forks": 53,
 		"name": "dsprenkels/sss",
-		"stars": 219,
+		"stars": 231,
 		"watchers": 0,
 		"repo_name": "dsprenkels/sss",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1128,11 +1128,23 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 67,
+		"forks": 69,
 		"name": "mpgn/poodle-PoC",
-		"stars": 201,
+		"stars": 204,
 		"watchers": 0,
 		"repo_name": "mpgn/poodle-PoC",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 69,
+		"name": "dalek-cryptography/x25519-dalek",
+		"stars": 198,
+		"watchers": 0,
+		"repo_name": "dalek-cryptography/x25519-dalek",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",
@@ -1152,11 +1164,11 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 69,
-		"name": "dalek-cryptography/x25519-dalek",
-		"stars": 193,
+		"forks": 52,
+		"name": "data61/python-paillier",
+		"stars": 187,
 		"watchers": 0,
-		"repo_name": "dalek-cryptography/x25519-dalek",
+		"repo_name": "data61/python-paillier",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",
@@ -1166,7 +1178,7 @@
 	{
 		"forks": 17,
 		"name": "weavejester/crypto-password",
-		"stars": 210,
+		"stars": 212,
 		"watchers": 0,
 		"repo_name": "weavejester/crypto-password",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1188,18 +1200,6 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 45,
-		"name": "data61/python-paillier",
-		"stars": 176,
-		"watchers": 0,
-		"repo_name": "data61/python-paillier",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
 		"forks": 56,
 		"name": "bt3gl/Pentesting-Toolkit",
 		"stars": 164,
@@ -1212,9 +1212,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 68,
+		"forks": 70,
 		"name": "gpg/libgcrypt",
-		"stars": 137,
+		"stars": 144,
 		"watchers": 0,
 		"repo_name": "gpg/libgcrypt",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1224,9 +1224,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 45,
+		"forks": 48,
 		"name": "dalek-cryptography/subtle",
-		"stars": 146,
+		"stars": 153,
 		"watchers": 0,
 		"repo_name": "dalek-cryptography/subtle",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1236,9 +1236,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 57,
+		"forks": 70,
 		"name": "zkcrypto/bls12_381",
-		"stars": 110,
+		"stars": 120,
 		"watchers": 0,
 		"repo_name": "zkcrypto/bls12_381",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1248,21 +1248,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 57,
-		"name": "saltstack/libnacl",
-		"stars": 70,
-		"watchers": 0,
-		"repo_name": "saltstack/libnacl",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 24,
+		"forks": 25,
 		"name": "gpg/gpg4win",
-		"stars": 102,
+		"stars": 110,
 		"watchers": 0,
 		"repo_name": "gpg/gpg4win",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1272,33 +1260,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 17,
-		"name": "dalek-cryptography/zkp",
-		"stars": 109,
-		"watchers": 0,
-		"repo_name": "dalek-cryptography/zkp",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 3,
-		"name": "keys-pub/app",
-		"stars": 123,
-		"watchers": 0,
-		"repo_name": "keys-pub/app",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 43,
+		"forks": 45,
 		"name": "gnutls/gnutls",
-		"stars": 81,
+		"stars": 87,
 		"watchers": 0,
 		"repo_name": "gnutls/gnutls",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1308,9 +1272,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 11,
+		"forks": 12,
 		"name": "RubyCrypto/rbnacl",
-		"stars": 104,
+		"stars": 118,
 		"watchers": 0,
 		"repo_name": "RubyCrypto/rbnacl",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1320,9 +1284,45 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 1,
+		"forks": 3,
+		"name": "keys-pub/app",
+		"stars": 127,
+		"watchers": 0,
+		"repo_name": "keys-pub/app",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 58,
+		"name": "saltstack/libnacl",
+		"stars": 71,
+		"watchers": 0,
+		"repo_name": "saltstack/libnacl",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 17,
+		"name": "dalek-cryptography/zkp",
+		"stars": 110,
+		"watchers": 0,
+		"repo_name": "dalek-cryptography/zkp",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 2,
 		"name": "iqlusioninc/armistice",
-		"stars": 106,
+		"stars": 107,
 		"watchers": 0,
 		"repo_name": "iqlusioninc/armistice",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1334,7 +1334,7 @@
 	{
 		"forks": 29,
 		"name": "dalek-cryptography/merlin",
-		"stars": 69,
+		"stars": 71,
 		"watchers": 0,
 		"repo_name": "dalek-cryptography/merlin",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1344,11 +1344,11 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 22,
-		"name": "gpg/gpgme",
-		"stars": 64,
+		"forks": 6,
+		"name": "iqlusioninc/veriform",
+		"stars": 83,
 		"watchers": 0,
-		"repo_name": "gpg/gpgme",
+		"repo_name": "iqlusioninc/veriform",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",
@@ -1356,11 +1356,11 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 6,
-		"name": "iqlusioninc/veriform",
-		"stars": 80,
+		"forks": 22,
+		"name": "gpg/gpgme",
+		"stars": 66,
 		"watchers": 0,
-		"repo_name": "iqlusioninc/veriform",
+		"repo_name": "gpg/gpgme",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",
@@ -1394,7 +1394,7 @@
 	{
 		"forks": 19,
 		"name": "gpg/pinentry",
-		"stars": 35,
+		"stars": 37,
 		"watchers": 0,
 		"repo_name": "gpg/pinentry",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1404,11 +1404,35 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 16,
+		"forks": 21,
+		"name": "gpg/boa",
+		"stars": 31,
+		"watchers": 0,
+		"repo_name": "gpg/boa",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 17,
 		"name": "randombit/pairings.py",
-		"stars": 30,
+		"stars": 31,
 		"watchers": 0,
 		"repo_name": "randombit/pairings.py",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 9,
+		"name": "iqlusioninc/yubihsm.rs",
+		"stars": 36,
+		"watchers": 0,
+		"repo_name": "iqlusioninc/yubihsm.rs",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",
@@ -1428,21 +1452,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 18,
-		"name": "gpg/boa",
-		"stars": 26,
-		"watchers": 0,
-		"repo_name": "gpg/boa",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
 		"forks": 3,
 		"name": "miscreant/meta",
-		"stars": 37,
+		"stars": 38,
 		"watchers": 0,
 		"repo_name": "miscreant/meta",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1452,11 +1464,11 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 6,
-		"name": "iqlusioninc/yubihsm.rs",
-		"stars": 32,
+		"forks": 23,
+		"name": "gpg/libgpg-error",
+		"stars": 13,
 		"watchers": 0,
-		"repo_name": "iqlusioninc/yubihsm.rs",
+		"repo_name": "gpg/libgpg-error",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",
@@ -1464,11 +1476,11 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 23,
-		"name": "gpg/libgpg-error",
-		"stars": 12,
+		"forks": 8,
+		"name": "mit-dci/zksigma",
+		"stars": 24,
 		"watchers": 0,
-		"repo_name": "gpg/libgpg-error",
+		"repo_name": "mit-dci/zksigma",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",
@@ -1488,21 +1500,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 8,
-		"name": "mit-dci/zksigma",
-		"stars": 22,
-		"watchers": 0,
-		"repo_name": "mit-dci/zksigma",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
 		"forks": 7,
 		"name": "gpg/npth",
-		"stars": 21,
+		"stars": 22,
 		"watchers": 0,
 		"repo_name": "gpg/npth",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1514,7 +1514,7 @@
 	{
 		"forks": 0,
 		"name": "randombit/rust-tls",
-		"stars": 27,
+		"stars": 28,
 		"watchers": 0,
 		"repo_name": "randombit/rust-tls",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1538,7 +1538,7 @@
 	{
 		"forks": 5,
 		"name": "avahowell/masterkey",
-		"stars": 19,
+		"stars": 20,
 		"watchers": 0,
 		"repo_name": "avahowell/masterkey",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1574,7 +1574,7 @@
 	{
 		"forks": 9,
 		"name": "gpg/libassuan",
-		"stars": 9,
+		"stars": 10,
 		"watchers": 0,
 		"repo_name": "gpg/libassuan",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1608,18 +1608,6 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 1,
-		"name": "randombit/crypto-corpus",
-		"stars": 13,
-		"watchers": 0,
-		"repo_name": "randombit/crypto-corpus",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
 		"forks": 3,
 		"name": "gpg/gpgol",
 		"stars": 11,
@@ -1632,9 +1620,21 @@
 		"title": "Open Source Cryptography"
 	},
 	{
+		"forks": 1,
+		"name": "randombit/crypto-corpus",
+		"stars": 13,
+		"watchers": 0,
+		"repo_name": "randombit/crypto-corpus",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
 		"forks": 4,
 		"name": "gpg/gnupg-doc",
-		"stars": 7,
+		"stars": 8,
 		"watchers": 0,
 		"repo_name": "gpg/gnupg-doc",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1646,7 +1646,7 @@
 	{
 		"forks": 5,
 		"name": "gpg/libksba",
-		"stars": 6,
+		"stars": 7,
 		"watchers": 0,
 		"repo_name": "gpg/libksba",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1656,21 +1656,9 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 3,
-		"name": "dalek-cryptography/dalek.rs",
-		"stars": 6,
-		"watchers": 0,
-		"repo_name": "dalek-cryptography/dalek.rs",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
 		"forks": 4,
 		"name": "gpg/ntbtls",
-		"stars": 5,
+		"stars": 6,
 		"watchers": 0,
 		"repo_name": "gpg/ntbtls",
 		"ecosystem_slug": "open-source-cryptography",
@@ -1685,6 +1673,18 @@
 		"stars": 7,
 		"watchers": 0,
 		"repo_name": "dalek-cryptography/dalek-rangeproofs",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 3,
+		"name": "dalek-cryptography/dalek.rs",
+		"stars": 6,
+		"watchers": 0,
+		"repo_name": "dalek-cryptography/dalek.rs",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",
@@ -1716,18 +1716,6 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 1,
-		"name": "gpg/wincetools",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "gpg/wincetools",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
 		"forks": 2,
 		"name": "gpg/w32pth",
 		"stars": 1,
@@ -1740,59 +1728,11 @@
 		"title": "Open Source Cryptography"
 	},
 	{
-		"forks": 0,
-		"name": "dalek-cryptography/dalek_workspace",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "dalek-cryptography/dalek_workspace",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
 		"forks": 1,
-		"name": "gpg/tgpg",
-		"stars": 0,
+		"name": "gpg/wincetools",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "gpg/tgpg",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 1,
-		"name": "gpg/adns",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "gpg/adns",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 1,
-		"name": "gpg/geam",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "gpg/geam",
-		"ecosystem_slug": "open-source-cryptography",
-		"parent_slug": null,
-		"path": "open-source-cryptography",
-		"slug": "open-source-cryptography",
-		"title": "Open Source Cryptography"
-	},
-	{
-		"forks": 1,
-		"name": "gpg/gsti",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "gpg/gsti",
+		"repo_name": "gpg/wincetools",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",
@@ -1813,10 +1753,70 @@
 	},
 	{
 		"forks": 1,
+		"name": "gpg/geam",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "gpg/geam",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 1,
 		"name": "gpg/pinentry-qt",
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "gpg/pinentry-qt",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 1,
+		"name": "gpg/gsti",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "gpg/gsti",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 1,
+		"name": "gpg/tgpg",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "gpg/tgpg",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 0,
+		"name": "dalek-cryptography/dalek_workspace",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "dalek-cryptography/dalek_workspace",
+		"ecosystem_slug": "open-source-cryptography",
+		"parent_slug": null,
+		"path": "open-source-cryptography",
+		"slug": "open-source-cryptography",
+		"title": "Open Source Cryptography"
+	},
+	{
+		"forks": 1,
+		"name": "gpg/adns",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "gpg/adns",
 		"ecosystem_slug": "open-source-cryptography",
 		"parent_slug": null,
 		"path": "open-source-cryptography",

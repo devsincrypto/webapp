@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 50,
+		"forks": 73,
 		"name": "persistenceOne/genesisTransactions",
-		"stars": 7,
+		"stars": 8,
 		"watchers": 0,
 		"repo_name": "persistenceOne/genesisTransactions",
 		"ecosystem_slug": "persistence",
@@ -12,9 +12,9 @@
 		"title": "Persistence"
 	},
 	{
-		"forks": 14,
+		"forks": 17,
 		"name": "persistenceOne/persistenceSDK",
-		"stars": 34,
+		"stars": 40,
 		"watchers": 0,
 		"repo_name": "persistenceOne/persistenceSDK",
 		"ecosystem_slug": "persistence",
@@ -24,7 +24,19 @@
 		"title": "Persistence"
 	},
 	{
-		"forks": 11,
+		"forks": 12,
+		"name": "persistenceOne/assetMantle",
+		"stars": 12,
+		"watchers": 0,
+		"repo_name": "persistenceOne/assetMantle",
+		"ecosystem_slug": "persistence",
+		"parent_slug": "cosmos",
+		"path": "cosmos/persistence",
+		"slug": "persistence",
+		"title": "Persistence"
+	},
+	{
+		"forks": 12,
 		"name": "persistenceOne/persistenceCore",
 		"stars": 12,
 		"watchers": 0,
@@ -36,21 +48,9 @@
 		"title": "Persistence"
 	},
 	{
-		"forks": 10,
-		"name": "persistenceOne/assetMantle",
-		"stars": 8,
-		"watchers": 0,
-		"repo_name": "persistenceOne/assetMantle",
-		"ecosystem_slug": "persistence",
-		"parent_slug": "cosmos",
-		"path": "cosmos/persistence",
-		"slug": "persistence",
-		"title": "Persistence"
-	},
-	{
-		"forks": 6,
+		"forks": 7,
 		"name": "persistenceOne/persistenceWallet",
-		"stars": 1,
+		"stars": 3,
 		"watchers": 0,
 		"repo_name": "persistenceOne/persistenceWallet",
 		"ecosystem_slug": "persistence",
@@ -60,21 +60,9 @@
 		"title": "Persistence"
 	},
 	{
-		"forks": 1,
-		"name": "persistenceOne/persistenceJS",
-		"stars": 4,
-		"watchers": 0,
-		"repo_name": "persistenceOne/persistenceJS",
-		"ecosystem_slug": "persistence",
-		"parent_slug": "cosmos",
-		"path": "cosmos/persistence",
-		"slug": "persistence",
-		"title": "Persistence"
-	},
-	{
 		"forks": 3,
 		"name": "persistenceOne/website",
-		"stars": 2,
+		"stars": 3,
 		"watchers": 0,
 		"repo_name": "persistenceOne/website",
 		"ecosystem_slug": "persistence",
@@ -97,10 +85,10 @@
 	},
 	{
 		"forks": 1,
-		"name": "persistenceOne/pStake-bugBounty",
-		"stars": 3,
+		"name": "persistenceOne/persistenceJS",
+		"stars": 4,
 		"watchers": 0,
-		"repo_name": "persistenceOne/pStake-bugBounty",
+		"repo_name": "persistenceOne/persistenceJS",
 		"ecosystem_slug": "persistence",
 		"parent_slug": "cosmos",
 		"path": "cosmos/persistence",
@@ -108,7 +96,7 @@
 		"title": "Persistence"
 	},
 	{
-		"forks": 1,
+		"forks": 2,
 		"name": "persistenceOne/assetMantle-webApplication",
 		"stars": 2,
 		"watchers": 0,
@@ -120,11 +108,23 @@
 		"title": "Persistence"
 	},
 	{
+		"forks": 1,
+		"name": "persistenceOne/pStake-bugBounty",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "persistenceOne/pStake-bugBounty",
+		"ecosystem_slug": "persistence",
+		"parent_slug": "cosmos",
+		"path": "cosmos/persistence",
+		"slug": "persistence",
+		"title": "Persistence"
+	},
+	{
 		"forks": 0,
-		"name": "persistenceOne/gaia",
+		"name": "persistenceOne/ERC20",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "persistenceOne/gaia",
+		"repo_name": "persistenceOne/ERC20",
 		"ecosystem_slug": "persistence",
 		"parent_slug": "cosmos",
 		"path": "cosmos/persistence",
@@ -145,34 +145,22 @@
 	},
 	{
 		"forks": 0,
+		"name": "persistenceOne/gaia",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "persistenceOne/gaia",
+		"ecosystem_slug": "persistence",
+		"parent_slug": "cosmos",
+		"path": "cosmos/persistence",
+		"slug": "persistence",
+		"title": "Persistence"
+	},
+	{
+		"forks": 0,
 		"name": "persistenceOne/cosmos-sdk",
 		"stars": 1,
 		"watchers": 0,
 		"repo_name": "persistenceOne/cosmos-sdk",
-		"ecosystem_slug": "persistence",
-		"parent_slug": "cosmos",
-		"path": "cosmos/persistence",
-		"slug": "persistence",
-		"title": "Persistence"
-	},
-	{
-		"forks": 0,
-		"name": "persistenceOne/relayer",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "persistenceOne/relayer",
-		"ecosystem_slug": "persistence",
-		"parent_slug": "cosmos",
-		"path": "cosmos/persistence",
-		"slug": "persistence",
-		"title": "Persistence"
-	},
-	{
-		"forks": 0,
-		"name": "persistenceOne/refundCoins",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "persistenceOne/refundCoins",
 		"ecosystem_slug": "persistence",
 		"parent_slug": "cosmos",
 		"path": "cosmos/persistence",
@@ -205,18 +193,6 @@
 	},
 	{
 		"forks": 0,
-		"name": "persistenceOne/wallet-webApplication",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "persistenceOne/wallet-webApplication",
-		"ecosystem_slug": "persistence",
-		"parent_slug": "cosmos",
-		"path": "cosmos/persistence",
-		"slug": "persistence",
-		"title": "Persistence"
-	},
-	{
-		"forks": 0,
 		"name": "persistenceOne/walletWebApp",
 		"stars": 0,
 		"watchers": 0,
@@ -229,22 +205,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "persistenceOne/ERC20",
+		"name": "persistenceOne/relayer",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "persistenceOne/ERC20",
-		"ecosystem_slug": "persistence",
-		"parent_slug": "cosmos",
-		"path": "cosmos/persistence",
-		"slug": "persistence",
-		"title": "Persistence"
-	},
-	{
-		"forks": 0,
-		"name": "persistenceOne/ledger-amino",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "persistenceOne/ledger-amino",
+		"repo_name": "persistenceOne/relayer",
 		"ecosystem_slug": "persistence",
 		"parent_slug": "cosmos",
 		"path": "cosmos/persistence",
@@ -257,6 +221,42 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "persistenceOne/assetDApp",
+		"ecosystem_slug": "persistence",
+		"parent_slug": "cosmos",
+		"path": "cosmos/persistence",
+		"slug": "persistence",
+		"title": "Persistence"
+	},
+	{
+		"forks": 0,
+		"name": "persistenceOne/wallet-webApplication",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "persistenceOne/wallet-webApplication",
+		"ecosystem_slug": "persistence",
+		"parent_slug": "cosmos",
+		"path": "cosmos/persistence",
+		"slug": "persistence",
+		"title": "Persistence"
+	},
+	{
+		"forks": 0,
+		"name": "persistenceOne/refundCoins",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "persistenceOne/refundCoins",
+		"ecosystem_slug": "persistence",
+		"parent_slug": "cosmos",
+		"path": "cosmos/persistence",
+		"slug": "persistence",
+		"title": "Persistence"
+	},
+	{
+		"forks": 0,
+		"name": "persistenceOne/ledger-amino",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "persistenceOne/ledger-amino",
 		"ecosystem_slug": "persistence",
 		"parent_slug": "cosmos",
 		"path": "cosmos/persistence",

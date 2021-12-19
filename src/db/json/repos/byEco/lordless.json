@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 11,
+		"forks": 12,
 		"name": "lordlessio/airdrop",
-		"stars": 28,
+		"stars": 31,
 		"watchers": 0,
 		"repo_name": "lordlessio/airdrop",
 		"ecosystem_slug": "lordless",
@@ -12,9 +12,9 @@
 		"title": "LORDLESS"
 	},
 	{
-		"forks": 9,
+		"forks": 15,
 		"name": "lordlessio/game-contracts",
-		"stars": 16,
+		"stars": 19,
 		"watchers": 0,
 		"repo_name": "lordlessio/game-contracts",
 		"ecosystem_slug": "lordless",
@@ -24,9 +24,9 @@
 		"title": "LORDLESS"
 	},
 	{
-		"forks": 6,
+		"forks": 7,
 		"name": "lordlessio/lordless-frontend",
-		"stars": 5,
+		"stars": 6,
 		"watchers": 0,
 		"repo_name": "lordlessio/lordless-frontend",
 		"ecosystem_slug": "lordless",
@@ -61,18 +61,6 @@
 	},
 	{
 		"forks": 1,
-		"name": "lordlessio/truffle-contract",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "lordlessio/truffle-contract",
-		"ecosystem_slug": "lordless",
-		"parent_slug": null,
-		"path": "lordless",
-		"slug": "lordless",
-		"title": "LORDLESS"
-	},
-	{
-		"forks": 1,
 		"name": "lordlessio/0xsir-frontend",
 		"stars": 0,
 		"watchers": 0,
@@ -85,10 +73,10 @@
 	},
 	{
 		"forks": 1,
-		"name": "lordlessio/frontend-doc",
+		"name": "lordlessio/tokens",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "lordlessio/frontend-doc",
+		"repo_name": "lordlessio/tokens",
 		"ecosystem_slug": "lordless",
 		"parent_slug": null,
 		"path": "lordless",
@@ -97,10 +85,22 @@
 	},
 	{
 		"forks": 1,
-		"name": "lordlessio/tokens",
+		"name": "lordlessio/truffle-contract",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "lordlessio/tokens",
+		"repo_name": "lordlessio/truffle-contract",
+		"ecosystem_slug": "lordless",
+		"parent_slug": null,
+		"path": "lordless",
+		"slug": "lordless",
+		"title": "LORDLESS"
+	},
+	{
+		"forks": 1,
+		"name": "lordlessio/frontend-doc",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "lordlessio/frontend-doc",
 		"ecosystem_slug": "lordless",
 		"parent_slug": null,
 		"path": "lordless",

@@ -36,11 +36,11 @@
 		"title": "NANJCOIN"
 	},
 	{
-		"forks": 1,
-		"name": "NANJ-COIN/nanjs",
-		"stars": 6,
+		"forks": 2,
+		"name": "NANJ-COIN/web-api",
+		"stars": 5,
 		"watchers": 0,
-		"repo_name": "NANJ-COIN/nanjs",
+		"repo_name": "NANJ-COIN/web-api",
 		"ecosystem_slug": "nanjcoin",
 		"parent_slug": null,
 		"path": "nanjcoin",
@@ -48,11 +48,11 @@
 		"title": "NANJCOIN"
 	},
 	{
-		"forks": 2,
-		"name": "NANJ-COIN/web-api",
-		"stars": 5,
+		"forks": 1,
+		"name": "NANJ-COIN/nanjs",
+		"stars": 6,
 		"watchers": 0,
-		"repo_name": "NANJ-COIN/web-api",
+		"repo_name": "NANJ-COIN/nanjs",
 		"ecosystem_slug": "nanjcoin",
 		"parent_slug": null,
 		"path": "nanjcoin",

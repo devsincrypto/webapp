@@ -1,17 +1,5 @@
 [
 	{
-		"forks": 0,
-		"name": "OceanEx/thor-contract-verify",
-		"stars": 4,
-		"watchers": 0,
-		"repo_name": "OceanEx/thor-contract-verify",
-		"ecosystem_slug": "oceanex",
-		"parent_slug": null,
-		"path": "oceanex",
-		"slug": "oceanex",
-		"title": "OCEANEX"
-	},
-	{
 		"forks": 2,
 		"name": "OceanEx/hummingbot",
 		"stars": 2,
@@ -36,6 +24,18 @@
 		"title": "OCEANEX"
 	},
 	{
+		"forks": 0,
+		"name": "OceanEx/thor-contract-verify",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "OceanEx/thor-contract-verify",
+		"ecosystem_slug": "oceanex",
+		"parent_slug": null,
+		"path": "oceanex",
+		"slug": "oceanex",
+		"title": "OCEANEX"
+	},
+	{
 		"forks": 1,
 		"name": "OceanEx/ocean-websocket-client",
 		"stars": 0,
@@ -50,7 +50,7 @@
 	{
 		"forks": 0,
 		"name": "OceanEx/token-registry",
-		"stars": 0,
+		"stars": 1,
 		"watchers": 0,
 		"repo_name": "OceanEx/token-registry",
 		"ecosystem_slug": "oceanex",

@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 61,
+		"forks": 64,
 		"name": "faceterteam/PayCards_iOS",
-		"stars": 231,
+		"stars": 239,
 		"watchers": 0,
 		"repo_name": "faceterteam/PayCards_iOS",
 		"ecosystem_slug": "faceter",
@@ -12,9 +12,9 @@
 		"title": "Faceter"
 	},
 	{
-		"forks": 120,
+		"forks": 122,
 		"name": "faceterteam/PayCards_Android",
-		"stars": 165,
+		"stars": 169,
 		"watchers": 0,
 		"repo_name": "faceterteam/PayCards_Android",
 		"ecosystem_slug": "faceter",
@@ -24,9 +24,9 @@
 		"title": "Faceter"
 	},
 	{
-		"forks": 28,
+		"forks": 29,
 		"name": "faceterteam/PayCards_Source",
-		"stars": 58,
+		"stars": 61,
 		"watchers": 0,
 		"repo_name": "faceterteam/PayCards_Source",
 		"ecosystem_slug": "faceter",
@@ -36,9 +36,9 @@
 		"title": "Faceter"
 	},
 	{
-		"forks": 34,
+		"forks": 35,
 		"name": "faceterteam/PayCards_iOS_Source",
-		"stars": 14,
+		"stars": 16,
 		"watchers": 0,
 		"repo_name": "faceterteam/PayCards_iOS_Source",
 		"ecosystem_slug": "faceter",
@@ -48,9 +48,9 @@
 		"title": "Faceter"
 	},
 	{
-		"forks": 10,
+		"forks": 11,
 		"name": "faceterteam/onvif4go",
-		"stars": 17,
+		"stars": 18,
 		"watchers": 0,
 		"repo_name": "faceterteam/onvif4go",
 		"ecosystem_slug": "faceter",
@@ -62,7 +62,7 @@
 	{
 		"forks": 0,
 		"name": "faceterteam/FaceterFOGClient",
-		"stars": 11,
+		"stars": 13,
 		"watchers": 0,
 		"repo_name": "faceterteam/FaceterFOGClient",
 		"ecosystem_slug": "faceter",
@@ -85,10 +85,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "faceterteam/AlamofireNetworkActivityLogger",
+		"name": "faceterteam/SwiftKeychainWrapper",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "faceterteam/AlamofireNetworkActivityLogger",
+		"repo_name": "faceterteam/SwiftKeychainWrapper",
 		"ecosystem_slug": "faceter",
 		"parent_slug": null,
 		"path": "faceter",
@@ -97,10 +97,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "faceterteam/SwiftKeychainWrapper",
+		"name": "faceterteam/AlamofireNetworkActivityLogger",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "faceterteam/SwiftKeychainWrapper",
+		"repo_name": "faceterteam/AlamofireNetworkActivityLogger",
 		"ecosystem_slug": "faceter",
 		"parent_slug": null,
 		"path": "faceter",

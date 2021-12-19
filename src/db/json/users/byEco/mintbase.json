@@ -1,37 +1,44 @@
 [
 	{
-		"id": 520177,
+		"id": 1252146,
 		"githubLoginMasked": "na",
-		"githubLoginEncrypted": "EyR7oNcmXiz2Py7y6BtgjCeBkb6AxTlv0A==",
-		"githubLoginHashed": "EyR7oNcmXiz2Py7y6BtgjCeBkb6AxTlv0A==",
-		"score": 1487
+		"githubLoginEncrypted": "GjMwxluUmUDiH3TGKnEOggJYTeZT7tvf/A==",
+		"githubLoginHashed": "GjMwxluUmUDiH3TGKnEOggJYTeZT7tvf/A==",
+		"score": 1554
 	},
 	{
-		"id": 493070,
+		"id": 298509,
 		"githubLoginMasked": "mi",
-		"githubLoginEncrypted": "ECxst98gXyD0kTJ/MmV+Fl4sT7XKdI6K//cHSQ==",
-		"githubLoginHashed": "ECxst98gXyD0kTJ/MmV+Fl4sT7XKdI6K//cHSQ==",
-		"score": 894
+		"githubLoginEncrypted": "GTsn0VOSmEzgTXk+gG5RqwcQMoqhp2WSzStRzA==",
+		"githubLoginHashed": "GTsn0VOSmEzgTXk+gG5RqwcQMoqhp2WSzStRzA==",
+		"score": 1331
 	},
 	{
-		"id": 493071,
+		"id": 1780864,
 		"githubLoginMasked": "gi",
-		"githubLoginEncrypted": "Gix7rcUhGijngjVlmKtv+MamYboyfFIx/1RaM202K5VFU74=",
-		"githubLoginHashed": "Gix7rcUhGijngjVlmKtv+MamYboyfFIx/1RaM202K5VFU74=",
-		"score": 275
+		"githubLoginEncrypted": "Ezswy0mT3UTzXn4kWTPvB7Q2HHB8DpnyrYSNBOLFQ6IQuWU=",
+		"githubLoginHashed": "Ezswy0mT3UTzXn4kWTPvB7Q2HHB8DpnyrYSNBOLFQ6IQuWU=",
+		"score": 459
 	},
 	{
-		"id": 520215,
+		"id": 1811904,
 		"githubLoginMasked": "jp",
-		"githubLoginEncrypted": "FzVsqd82RSzthDMs2MO2lNeDtZYFvI9uc3xw",
-		"githubLoginHashed": "FzVsqd82RSzthDMs2MO2lNeDtZYFvI9uc3xw",
-		"score": 55
+		"githubLoginEncrypted": "HiInz1OEgkD5WHjqc8D+d9PYq1HAzmByMgNq",
+		"githubLoginHashed": "HiInz1OEgkD5WHjqc8D+d9PYq1HAzmByMgNq",
+		"score": 85
 	},
 	{
-		"id": 1792860,
+		"id": 1801369,
+		"githubLoginMasked": "sa",
+		"githubLoginEncrypted": "BzMtzUiZmUT3RZtC7Y1Og/mww9ouG68LzMU=",
+		"githubLoginHashed": "BzMtzUiZmUT3RZtC7Y1Og/mww9ouG68LzMU=",
+		"score": 17
+	},
+	{
+		"id": 143264,
 		"githubLoginMasked": "th",
-		"githubLoginEncrypted": "CS1gt4NyA90/DawrGnlAUUGas8PwR3E=",
-		"githubLoginHashed": "CS1gt4NyA90/DawrGnlAUUGas8PwR3E=",
-		"score": 15
+		"githubLoginEncrypted": "ADor0Q/AxOIlpQNKd9KQkK2HFzBwMCQ=",
+		"githubLoginHashed": "ADor0Q/AxOIlpQNKd9KQkK2HFzBwMCQ=",
+		"score": 17
 	}
 ]

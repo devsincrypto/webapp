@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 2982,
+		"forks": 3118,
 		"name": "dogecoin/dogecoin",
-		"stars": 14417,
+		"stars": 15085,
 		"watchers": 0,
 		"repo_name": "dogecoin/dogecoin",
 		"ecosystem_slug": "dogecoin",
@@ -12,9 +12,9 @@
 		"title": "Dogecoin"
 	},
 	{
-		"forks": 269,
+		"forks": 279,
 		"name": "dogecoin/dogecoin.com",
-		"stars": 471,
+		"stars": 497,
 		"watchers": 0,
 		"repo_name": "dogecoin/dogecoin.com",
 		"ecosystem_slug": "dogecoin",
@@ -36,9 +36,9 @@
 		"title": "Dogecoin"
 	},
 	{
-		"forks": 49,
+		"forks": 50,
 		"name": "countable/node-dogecoin",
-		"stars": 131,
+		"stars": 135,
 		"watchers": 0,
 		"repo_name": "countable/node-dogecoin",
 		"ecosystem_slug": "dogecoin",
@@ -48,9 +48,9 @@
 		"title": "Dogecoin"
 	},
 	{
-		"forks": 76,
+		"forks": 80,
 		"name": "dogecoin/libdohj",
-		"stars": 74,
+		"stars": 81,
 		"watchers": 0,
 		"repo_name": "dogecoin/libdohj",
 		"ecosystem_slug": "dogecoin",
@@ -62,7 +62,7 @@
 	{
 		"forks": 32,
 		"name": "mniip/Doger",
-		"stars": 28,
+		"stars": 29,
 		"watchers": 0,
 		"repo_name": "mniip/Doger",
 		"ecosystem_slug": "dogecoin",
@@ -72,9 +72,9 @@
 		"title": "Dogecoin"
 	},
 	{
-		"forks": 25,
+		"forks": 26,
 		"name": "dogecoin/dips",
-		"stars": 29,
+		"stars": 30,
 		"watchers": 0,
 		"repo_name": "dogecoin/dips",
 		"ecosystem_slug": "dogecoin",
@@ -84,9 +84,9 @@
 		"title": "Dogecoin"
 	},
 	{
-		"forks": 25,
+		"forks": 26,
 		"name": "dogecoin/dogecoin.github.io",
-		"stars": 25,
+		"stars": 29,
 		"watchers": 0,
 		"repo_name": "dogecoin/dogecoin.github.io",
 		"ecosystem_slug": "dogecoin",
@@ -98,7 +98,7 @@
 	{
 		"forks": 9,
 		"name": "dogethereum/dogethereum-contracts",
-		"stars": 39,
+		"stars": 42,
 		"watchers": 0,
 		"repo_name": "dogethereum/dogethereum-contracts",
 		"ecosystem_slug": "dogecoin",
@@ -110,7 +110,7 @@
 	{
 		"forks": 20,
 		"name": "electrumalt/electrum-doge",
-		"stars": 27,
+		"stars": 29,
 		"watchers": 0,
 		"repo_name": "electrumalt/electrum-doge",
 		"ecosystem_slug": "dogecoin",
@@ -144,11 +144,35 @@
 		"title": "Dogecoin"
 	},
 	{
+		"forks": 19,
+		"name": "dogecoin/gitian.sigs",
+		"stars": 9,
+		"watchers": 0,
+		"repo_name": "dogecoin/gitian.sigs",
+		"ecosystem_slug": "dogecoin",
+		"parent_slug": null,
+		"path": "dogecoin",
+		"slug": "dogecoin",
+		"title": "Dogecoin"
+	},
+	{
 		"forks": 11,
 		"name": "Emkacf/dogecoins-faucet",
 		"stars": 16,
 		"watchers": 0,
 		"repo_name": "Emkacf/dogecoins-faucet",
+		"ecosystem_slug": "dogecoin",
+		"parent_slug": null,
+		"path": "dogecoin",
+		"slug": "dogecoin",
+		"title": "Dogecoin"
+	},
+	{
+		"forks": 7,
+		"name": "tomcarbon/dogecoinmultisig",
+		"stars": 19,
+		"watchers": 0,
+		"repo_name": "tomcarbon/dogecoinmultisig",
 		"ecosystem_slug": "dogecoin",
 		"parent_slug": null,
 		"path": "dogecoin",
@@ -168,33 +192,9 @@
 		"title": "Dogecoin"
 	},
 	{
-		"forks": 6,
-		"name": "tomcarbon/dogecoinmultisig",
-		"stars": 17,
-		"watchers": 0,
-		"repo_name": "tomcarbon/dogecoinmultisig",
-		"ecosystem_slug": "dogecoin",
-		"parent_slug": null,
-		"path": "dogecoin",
-		"slug": "dogecoin",
-		"title": "Dogecoin"
-	},
-	{
-		"forks": 15,
-		"name": "dogecoin/gitian.sigs",
-		"stars": 8,
-		"watchers": 0,
-		"repo_name": "dogecoin/gitian.sigs",
-		"ecosystem_slug": "dogecoin",
-		"parent_slug": null,
-		"path": "dogecoin",
-		"slug": "dogecoin",
-		"title": "Dogecoin"
-	},
-	{
-		"forks": 8,
+		"forks": 9,
 		"name": "dogecoin/dogecoin-detached-sigs",
-		"stars": 6,
+		"stars": 7,
 		"watchers": 0,
 		"repo_name": "dogecoin/dogecoin-detached-sigs",
 		"ecosystem_slug": "dogecoin",
@@ -228,11 +228,11 @@
 		"title": "Dogecoin"
 	},
 	{
-		"forks": 1,
-		"name": "chrisdwheatley/wowsuch",
-		"stars": 1,
+		"forks": 0,
+		"name": "dogetipproject/dogetip",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "chrisdwheatley/wowsuch",
+		"repo_name": "dogetipproject/dogetip",
 		"ecosystem_slug": "dogecoin",
 		"parent_slug": null,
 		"path": "dogecoin",
@@ -240,11 +240,11 @@
 		"title": "Dogecoin"
 	},
 	{
-		"forks": 0,
-		"name": "dogetipproject/dogetip",
-		"stars": 2,
+		"forks": 1,
+		"name": "chrisdwheatley/wowsuch",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "dogetipproject/dogetip",
+		"repo_name": "chrisdwheatley/wowsuch",
 		"ecosystem_slug": "dogecoin",
 		"parent_slug": null,
 		"path": "dogecoin",

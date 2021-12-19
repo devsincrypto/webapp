@@ -1,6 +1,6 @@
 [
 	{
-		"forks": 45,
+		"forks": 46,
 		"name": "potcoin/Potcoin",
 		"stars": 48,
 		"watchers": 0,
@@ -36,11 +36,11 @@
 		"title": "PotCoin"
 	},
 	{
-		"forks": 6,
-		"name": "potcoin/Potcoin-Binaries",
-		"stars": 3,
+		"forks": 4,
+		"name": "potcoin/potsight-api",
+		"stars": 5,
 		"watchers": 0,
-		"repo_name": "potcoin/Potcoin-Binaries",
+		"repo_name": "potcoin/potsight-api",
 		"ecosystem_slug": "potcoin",
 		"parent_slug": null,
 		"path": "potcoin",
@@ -48,11 +48,11 @@
 		"title": "PotCoin"
 	},
 	{
-		"forks": 4,
-		"name": "potcoin/potsight-api",
-		"stars": 5,
+		"forks": 6,
+		"name": "potcoin/Potcoin-Binaries",
+		"stars": 3,
 		"watchers": 0,
-		"repo_name": "potcoin/potsight-api",
+		"repo_name": "potcoin/Potcoin-Binaries",
 		"ecosystem_slug": "potcoin",
 		"parent_slug": null,
 		"path": "potcoin",

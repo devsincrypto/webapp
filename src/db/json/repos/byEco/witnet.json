@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 55,
+		"forks": 56,
 		"name": "witnet/witnet-rust",
-		"stars": 117,
+		"stars": 125,
 		"watchers": 0,
 		"repo_name": "witnet/witnet-rust",
 		"ecosystem_slug": "witnet",
@@ -12,9 +12,9 @@
 		"title": "Witnet"
 	},
 	{
-		"forks": 20,
+		"forks": 21,
 		"name": "witnet/vrf-rs",
-		"stars": 46,
+		"stars": 49,
 		"watchers": 0,
 		"repo_name": "witnet/vrf-rs",
 		"ecosystem_slug": "witnet",
@@ -24,9 +24,9 @@
 		"title": "Witnet"
 	},
 	{
-		"forks": 23,
+		"forks": 24,
 		"name": "witnet/elliptic-curve-solidity",
-		"stars": 41,
+		"stars": 44,
 		"watchers": 0,
 		"repo_name": "witnet/elliptic-curve-solidity",
 		"ecosystem_slug": "witnet",
@@ -38,7 +38,7 @@
 	{
 		"forks": 25,
 		"name": "witnet/sheikah",
-		"stars": 38,
+		"stars": 39,
 		"watchers": 0,
 		"repo_name": "witnet/sheikah",
 		"ecosystem_slug": "witnet",
@@ -48,9 +48,9 @@
 		"title": "Witnet"
 	},
 	{
-		"forks": 10,
+		"forks": 11,
 		"name": "witnet/vrf-solidity",
-		"stars": 36,
+		"stars": 43,
 		"watchers": 0,
 		"repo_name": "witnet/vrf-solidity",
 		"ecosystem_slug": "witnet",
@@ -74,7 +74,7 @@
 	{
 		"forks": 6,
 		"name": "witnet/protobuf-convert",
-		"stars": 24,
+		"stars": 28,
 		"watchers": 0,
 		"repo_name": "witnet/protobuf-convert",
 		"ecosystem_slug": "witnet",
@@ -98,7 +98,7 @@
 	{
 		"forks": 9,
 		"name": "witnet/bls-solidity",
-		"stars": 10,
+		"stars": 11,
 		"watchers": 0,
 		"repo_name": "witnet/bls-solidity",
 		"ecosystem_slug": "witnet",
@@ -120,9 +120,9 @@
 		"title": "Witnet"
 	},
 	{
-		"forks": 9,
+		"forks": 10,
 		"name": "witnet/truffle-box",
-		"stars": 5,
+		"stars": 6,
 		"watchers": 0,
 		"repo_name": "witnet/truffle-box",
 		"ecosystem_slug": "witnet",
@@ -168,11 +168,11 @@
 		"title": "Witnet"
 	},
 	{
-		"forks": 7,
-		"name": "witnet/bls-signatures-rs",
-		"stars": 4,
+		"forks": 9,
+		"name": "witnet/witnet-operator-tools",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "witnet/bls-signatures-rs",
+		"repo_name": "witnet/witnet-operator-tools",
 		"ecosystem_slug": "witnet",
 		"parent_slug": null,
 		"path": "witnet",
@@ -180,11 +180,11 @@
 		"title": "Witnet"
 	},
 	{
-		"forks": 9,
-		"name": "witnet/witnet-operator-tools",
-		"stars": 2,
+		"forks": 7,
+		"name": "witnet/bls-signatures-rs",
+		"stars": 4,
 		"watchers": 0,
-		"repo_name": "witnet/witnet-operator-tools",
+		"repo_name": "witnet/bls-signatures-rs",
 		"ecosystem_slug": "witnet",
 		"parent_slug": null,
 		"path": "witnet",
@@ -228,6 +228,18 @@
 		"title": "Witnet"
 	},
 	{
+		"forks": 3,
+		"name": "witnet/data-feed-app",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "witnet/data-feed-app",
+		"ecosystem_slug": "witnet",
+		"parent_slug": null,
+		"path": "witnet",
+		"slug": "witnet",
+		"title": "Witnet"
+	},
+	{
 		"forks": 2,
 		"name": "witnet/witnet-ethereum-block-relay",
 		"stars": 2,
@@ -240,11 +252,23 @@
 		"title": "Witnet"
 	},
 	{
-		"forks": 3,
-		"name": "witnet/data-feed-app",
-		"stars": 1,
+		"forks": 4,
+		"name": "witnet/witnet-price-feed-examples",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "witnet/data-feed-app",
+		"repo_name": "witnet/witnet-price-feed-examples",
+		"ecosystem_slug": "witnet",
+		"parent_slug": null,
+		"path": "witnet",
+		"slug": "witnet",
+		"title": "Witnet"
+	},
+	{
+		"forks": 1,
+		"name": "witnet/witnet-pricefeed-tutorial",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "witnet/witnet-pricefeed-tutorial",
 		"ecosystem_slug": "witnet",
 		"parent_slug": null,
 		"path": "witnet",
@@ -277,54 +301,6 @@
 	},
 	{
 		"forks": 2,
-		"name": "witnet/witty-creatures",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "witnet/witty-creatures",
-		"ecosystem_slug": "witnet",
-		"parent_slug": null,
-		"path": "witnet",
-		"slug": "witnet",
-		"title": "Witnet"
-	},
-	{
-		"forks": 2,
-		"name": "witnet/bn",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "witnet/bn",
-		"ecosystem_slug": "witnet",
-		"parent_slug": null,
-		"path": "witnet",
-		"slug": "witnet",
-		"title": "Witnet"
-	},
-	{
-		"forks": 2,
-		"name": "witnet/truffle-flattener",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "witnet/truffle-flattener",
-		"ecosystem_slug": "witnet",
-		"parent_slug": null,
-		"path": "witnet",
-		"slug": "witnet",
-		"title": "Witnet"
-	},
-	{
-		"forks": 1,
-		"name": "witnet/genesis_block",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "witnet/genesis_block",
-		"ecosystem_slug": "witnet",
-		"parent_slug": null,
-		"path": "witnet",
-		"slug": "witnet",
-		"title": "Witnet"
-	},
-	{
-		"forks": 2,
 		"name": "witnet/marketplace-api",
 		"stars": 0,
 		"watchers": 0,
@@ -349,10 +325,10 @@
 	},
 	{
 		"forks": 1,
-		"name": "witnet/witnet-price-feed-examples",
-		"stars": 0,
+		"name": "witnet/genesis_block",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "witnet/witnet-price-feed-examples",
+		"repo_name": "witnet/genesis_block",
 		"ecosystem_slug": "witnet",
 		"parent_slug": null,
 		"path": "witnet",
@@ -360,11 +336,47 @@
 		"title": "Witnet"
 	},
 	{
-		"forks": 1,
-		"name": "witnet/witnet-pricefeed-tutorial",
+		"forks": 2,
+		"name": "witnet/truffle-flattener",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "witnet/witnet-pricefeed-tutorial",
+		"repo_name": "witnet/truffle-flattener",
+		"ecosystem_slug": "witnet",
+		"parent_slug": null,
+		"path": "witnet",
+		"slug": "witnet",
+		"title": "Witnet"
+	},
+	{
+		"forks": 2,
+		"name": "witnet/bn",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "witnet/bn",
+		"ecosystem_slug": "witnet",
+		"parent_slug": null,
+		"path": "witnet",
+		"slug": "witnet",
+		"title": "Witnet"
+	},
+	{
+		"forks": 2,
+		"name": "witnet/witty-creatures",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "witnet/witty-creatures",
+		"ecosystem_slug": "witnet",
+		"parent_slug": null,
+		"path": "witnet",
+		"slug": "witnet",
+		"title": "Witnet"
+	},
+	{
+		"forks": 0,
+		"name": "witnet/community-bot",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "witnet/community-bot",
 		"ecosystem_slug": "witnet",
 		"parent_slug": null,
 		"path": "witnet",
@@ -385,18 +397,6 @@
 	},
 	{
 		"forks": 0,
-		"name": "witnet/ntp",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "witnet/ntp",
-		"ecosystem_slug": "witnet",
-		"parent_slug": null,
-		"path": "witnet",
-		"slug": "witnet",
-		"title": "Witnet"
-	},
-	{
-		"forks": 0,
 		"name": "witnet/foundation-website",
 		"stars": 0,
 		"watchers": 0,
@@ -409,10 +409,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "witnet/cbor-codec",
+		"name": "witnet/ntp",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "witnet/cbor-codec",
+		"repo_name": "witnet/ntp",
 		"ecosystem_slug": "witnet",
 		"parent_slug": null,
 		"path": "witnet",
@@ -421,10 +421,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "witnet/community-bot",
+		"name": "witnet/cbor-codec",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "witnet/community-bot",
+		"repo_name": "witnet/cbor-codec",
 		"ecosystem_slug": "witnet",
 		"parent_slug": null,
 		"path": "witnet",

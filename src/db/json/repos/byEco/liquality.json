@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 57,
+		"forks": 60,
 		"name": "liquality/chainabstractionlayer",
-		"stars": 166,
+		"stars": 175,
 		"watchers": 0,
 		"repo_name": "liquality/chainabstractionlayer",
 		"ecosystem_slug": "liquality",
@@ -12,9 +12,9 @@
 		"title": "Liquality"
 	},
 	{
-		"forks": 35,
+		"forks": 42,
 		"name": "liquality/wallet",
-		"stars": 50,
+		"stars": 56,
 		"watchers": 0,
 		"repo_name": "liquality/wallet",
 		"ecosystem_slug": "liquality",
@@ -24,9 +24,9 @@
 		"title": "Liquality"
 	},
 	{
-		"forks": 19,
+		"forks": 22,
 		"name": "liquality/liquality-swap",
-		"stars": 41,
+		"stars": 43,
 		"watchers": 0,
 		"repo_name": "liquality/liquality-swap",
 		"ecosystem_slug": "liquality",
@@ -36,7 +36,7 @@
 		"title": "Liquality"
 	},
 	{
-		"forks": 15,
+		"forks": 16,
 		"name": "liquality/atomicagent",
 		"stars": 13,
 		"watchers": 0,
@@ -48,7 +48,7 @@
 		"title": "Liquality"
 	},
 	{
-		"forks": 9,
+		"forks": 12,
 		"name": "liquality/cryptoassets",
 		"stars": 3,
 		"watchers": 0,
@@ -60,7 +60,7 @@
 		"title": "Liquality"
 	},
 	{
-		"forks": 4,
+		"forks": 5,
 		"name": "liquality/liquality-launcher",
 		"stars": 6,
 		"watchers": 0,
@@ -77,6 +77,18 @@
 		"stars": 5,
 		"watchers": 0,
 		"repo_name": "liquality/agent",
+		"ecosystem_slug": "liquality",
+		"parent_slug": null,
+		"path": "liquality",
+		"slug": "liquality",
+		"title": "Liquality"
+	},
+	{
+		"forks": 4,
+		"name": "liquality/liquality",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "liquality/liquality",
 		"ecosystem_slug": "liquality",
 		"parent_slug": null,
 		"path": "liquality",
@@ -108,18 +120,6 @@
 		"title": "Liquality"
 	},
 	{
-		"forks": 2,
-		"name": "liquality/liquality",
-		"stars": 4,
-		"watchers": 0,
-		"repo_name": "liquality/liquality",
-		"ecosystem_slug": "liquality",
-		"parent_slug": null,
-		"path": "liquality",
-		"slug": "liquality",
-		"title": "Liquality"
-	},
-	{
 		"forks": 4,
 		"name": "liquality/ethereum-scraper",
 		"stars": 0,
@@ -144,18 +144,6 @@
 		"title": "Liquality"
 	},
 	{
-		"forks": 0,
-		"name": "liquality/block-explorer-demo",
-		"stars": 3,
-		"watchers": 0,
-		"repo_name": "liquality/block-explorer-demo",
-		"ecosystem_slug": "liquality",
-		"parent_slug": null,
-		"path": "liquality",
-		"slug": "liquality",
-		"title": "Liquality"
-	},
-	{
 		"forks": 1,
 		"name": "liquality/bitcoin-api-site",
 		"stars": 2,
@@ -168,11 +156,11 @@
 		"title": "Liquality"
 	},
 	{
-		"forks": 1,
-		"name": "liquality/browser-extensions",
-		"stars": 1,
+		"forks": 0,
+		"name": "liquality/block-explorer-demo",
+		"stars": 3,
 		"watchers": 0,
-		"repo_name": "liquality/browser-extensions",
+		"repo_name": "liquality/block-explorer-demo",
 		"ecosystem_slug": "liquality",
 		"parent_slug": null,
 		"path": "liquality",
@@ -192,11 +180,11 @@
 		"title": "Liquality"
 	},
 	{
-		"forks": 0,
-		"name": "liquality/lips",
+		"forks": 1,
+		"name": "liquality/browser-extensions",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "liquality/lips",
+		"repo_name": "liquality/browser-extensions",
 		"ecosystem_slug": "liquality",
 		"parent_slug": null,
 		"path": "liquality",
@@ -217,10 +205,34 @@
 	},
 	{
 		"forks": 0,
-		"name": "liquality/swap-diag",
+		"name": "liquality/lips",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "liquality/lips",
+		"ecosystem_slug": "liquality",
+		"parent_slug": null,
+		"path": "liquality",
+		"slug": "liquality",
+		"title": "Liquality"
+	},
+	{
+		"forks": 0,
+		"name": "liquality/ledger-webusb-bridge",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "liquality/swap-diag",
+		"repo_name": "liquality/ledger-webusb-bridge",
+		"ecosystem_slug": "liquality",
+		"parent_slug": null,
+		"path": "liquality",
+		"slug": "liquality",
+		"title": "Liquality"
+	},
+	{
+		"forks": 0,
+		"name": "liquality/cross-chain-playground",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "liquality/cross-chain-playground",
 		"ecosystem_slug": "liquality",
 		"parent_slug": null,
 		"path": "liquality",
@@ -241,18 +253,6 @@
 	},
 	{
 		"forks": 0,
-		"name": "liquality/value-management-system",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "liquality/value-management-system",
-		"ecosystem_slug": "liquality",
-		"parent_slug": null,
-		"path": "liquality",
-		"slug": "liquality",
-		"title": "Liquality"
-	},
-	{
-		"forks": 0,
 		"name": "liquality/ledger-live-desktop",
 		"stars": 0,
 		"watchers": 0,
@@ -265,10 +265,22 @@
 	},
 	{
 		"forks": 0,
-		"name": "liquality/cross-chain-playground",
+		"name": "liquality/value-management-system",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "liquality/cross-chain-playground",
+		"repo_name": "liquality/value-management-system",
+		"ecosystem_slug": "liquality",
+		"parent_slug": null,
+		"path": "liquality",
+		"slug": "liquality",
+		"title": "Liquality"
+	},
+	{
+		"forks": 0,
+		"name": "liquality/swap-diag",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "liquality/swap-diag",
 		"ecosystem_slug": "liquality",
 		"parent_slug": null,
 		"path": "liquality",
@@ -293,18 +305,6 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "liquality/coinselect",
-		"ecosystem_slug": "liquality",
-		"parent_slug": null,
-		"path": "liquality",
-		"slug": "liquality",
-		"title": "Liquality"
-	},
-	{
-		"forks": 0,
-		"name": "liquality/ledger-webusb-bridge",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "liquality/ledger-webusb-bridge",
 		"ecosystem_slug": "liquality",
 		"parent_slug": null,
 		"path": "liquality",

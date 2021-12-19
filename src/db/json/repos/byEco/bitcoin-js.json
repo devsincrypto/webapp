@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 1756,
+		"forks": 1792,
 		"name": "bitcoinjs/bitcoinjs-lib",
-		"stars": 4717,
+		"stars": 4809,
 		"watchers": 0,
 		"repo_name": "bitcoinjs/bitcoinjs-lib",
 		"ecosystem_slug": "bitcoin-js",
@@ -12,9 +12,9 @@
 		"title": "Bitcoin JS"
 	},
 	{
-		"forks": 756,
+		"forks": 767,
 		"name": "bcoin-org/bcoin",
-		"stars": 2697,
+		"stars": 2747,
 		"watchers": 0,
 		"repo_name": "bcoin-org/bcoin",
 		"ecosystem_slug": "bitcoin-js",
@@ -24,9 +24,9 @@
 		"title": "Bitcoin JS"
 	},
 	{
-		"forks": 932,
+		"forks": 977,
 		"name": "iancoleman/bip39",
-		"stars": 1963,
+		"stars": 2098,
 		"watchers": 0,
 		"repo_name": "iancoleman/bip39",
 		"ecosystem_slug": "bitcoin-js",
@@ -36,9 +36,9 @@
 		"title": "Bitcoin JS"
 	},
 	{
-		"forks": 75,
+		"forks": 77,
 		"name": "decentralized-identity/sidetree",
-		"stars": 294,
+		"stars": 302,
 		"watchers": 0,
 		"repo_name": "decentralized-identity/sidetree",
 		"ecosystem_slug": "bitcoin-js",
@@ -50,7 +50,7 @@
 	{
 		"forks": 53,
 		"name": "comit-network/comit-rs",
-		"stars": 211,
+		"stars": 212,
 		"watchers": 0,
 		"repo_name": "comit-network/comit-rs",
 		"ecosystem_slug": "bitcoin-js",
@@ -60,7 +60,7 @@
 		"title": "Bitcoin JS"
 	},
 	{
-		"forks": 31,
+		"forks": 32,
 		"name": "ultiledger/utoken",
 		"stars": 72,
 		"watchers": 0,
@@ -72,7 +72,7 @@
 		"title": "Bitcoin JS"
 	},
 	{
-		"forks": 26,
+		"forks": 27,
 		"name": "EdgeApp/edge-currency-bitcoin",
 		"stars": 11,
 		"watchers": 0,
@@ -97,10 +97,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "gabbieian38/bitcore",
+		"name": "Biglabs/mozo-wallet",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "gabbieian38/bitcore",
+		"repo_name": "Biglabs/mozo-wallet",
 		"ecosystem_slug": "bitcoin-js",
 		"parent_slug": null,
 		"path": "bitcoin-js",
@@ -109,10 +109,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "Biglabs/mozo-wallet",
+		"name": "gabbieian38/bitcore",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "Biglabs/mozo-wallet",
+		"repo_name": "gabbieian38/bitcore",
 		"ecosystem_slug": "bitcoin-js",
 		"parent_slug": null,
 		"path": "bitcoin-js",

@@ -36,11 +36,11 @@
 		"title": "Matchpool"
 	},
 	{
-		"forks": 0,
-		"name": "Matchpool/xgup-faucet",
-		"stars": 4,
+		"forks": 1,
+		"name": "Matchpool/whitepaper",
+		"stars": 3,
 		"watchers": 0,
-		"repo_name": "Matchpool/xgup-faucet",
+		"repo_name": "Matchpool/whitepaper",
 		"ecosystem_slug": "matchpool",
 		"parent_slug": null,
 		"path": "matchpool",
@@ -48,11 +48,11 @@
 		"title": "Matchpool"
 	},
 	{
-		"forks": 1,
-		"name": "Matchpool/whitepaper",
-		"stars": 3,
+		"forks": 0,
+		"name": "Matchpool/xgup-faucet",
+		"stars": 4,
 		"watchers": 0,
-		"repo_name": "Matchpool/whitepaper",
+		"repo_name": "Matchpool/xgup-faucet",
 		"ecosystem_slug": "matchpool",
 		"parent_slug": null,
 		"path": "matchpool",

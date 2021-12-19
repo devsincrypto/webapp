@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 14,
+		"forks": 16,
 		"name": "Zapper-fi/Docs",
-		"stars": 20,
+		"stars": 23,
 		"watchers": 0,
 		"repo_name": "Zapper-fi/Docs",
 		"ecosystem_slug": "zapper-fi",
@@ -12,9 +12,9 @@
 		"title": "Zapper.fi"
 	},
 	{
-		"forks": 3,
+		"forks": 8,
 		"name": "Zapper-fi/Zapper-API-Stack",
-		"stars": 9,
+		"stars": 13,
 		"watchers": 0,
 		"repo_name": "Zapper-fi/Zapper-API-Stack",
 		"ecosystem_slug": "zapper-fi",
@@ -24,7 +24,7 @@
 		"title": "Zapper.fi"
 	},
 	{
-		"forks": 7,
+		"forks": 8,
 		"name": "Zapper-fi/token-list",
 		"stars": 1,
 		"watchers": 0,
@@ -36,9 +36,9 @@
 		"title": "Zapper.fi"
 	},
 	{
-		"forks": 1,
+		"forks": 2,
 		"name": "Zapper-fi/zapper-safe-app",
-		"stars": 5,
+		"stars": 6,
 		"watchers": 0,
 		"repo_name": "Zapper-fi/zapper-safe-app",
 		"ecosystem_slug": "zapper-fi",
@@ -72,11 +72,11 @@
 		"title": "Zapper.fi"
 	},
 	{
-		"forks": 1,
-		"name": "Zapper-fi/GECO",
-		"stars": 0,
+		"forks": 0,
+		"name": "Zapper-fi/ethhub",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "Zapper-fi/GECO",
+		"repo_name": "Zapper-fi/ethhub",
 		"ecosystem_slug": "zapper-fi",
 		"parent_slug": "ethereum",
 		"path": "ethereum/zapper-fi",
@@ -84,11 +84,11 @@
 		"title": "Zapper.fi"
 	},
 	{
-		"forks": 0,
-		"name": "Zapper-fi/ethhub",
-		"stars": 1,
+		"forks": 1,
+		"name": "Zapper-fi/GECO",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "Zapper-fi/ethhub",
+		"repo_name": "Zapper-fi/GECO",
 		"ecosystem_slug": "zapper-fi",
 		"parent_slug": "ethereum",
 		"path": "ethereum/zapper-fi",

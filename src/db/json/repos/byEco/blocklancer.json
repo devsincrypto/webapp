@@ -25,18 +25,6 @@
 	},
 	{
 		"forks": 0,
-		"name": "BlocklancerOrg/research",
-		"stars": 8,
-		"watchers": 0,
-		"repo_name": "BlocklancerOrg/research",
-		"ecosystem_slug": "blocklancer",
-		"parent_slug": null,
-		"path": "blocklancer",
-		"slug": "blocklancer",
-		"title": "Blocklancer"
-	},
-	{
-		"forks": 0,
 		"name": "BlocklancerOrg/wiki",
 		"stars": 8,
 		"watchers": 0,
@@ -53,6 +41,18 @@
 		"stars": 8,
 		"watchers": 0,
 		"repo_name": "BlocklancerOrg/Images",
+		"ecosystem_slug": "blocklancer",
+		"parent_slug": null,
+		"path": "blocklancer",
+		"slug": "blocklancer",
+		"title": "Blocklancer"
+	},
+	{
+		"forks": 0,
+		"name": "BlocklancerOrg/research",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "BlocklancerOrg/research",
 		"ecosystem_slug": "blocklancer",
 		"parent_slug": null,
 		"path": "blocklancer",

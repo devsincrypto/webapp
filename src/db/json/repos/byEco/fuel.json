@@ -14,7 +14,7 @@
 	{
 		"forks": 4,
 		"name": "FuelLabs/yulp",
-		"stars": 52,
+		"stars": 66,
 		"watchers": 0,
 		"repo_name": "FuelLabs/yulp",
 		"ecosystem_slug": "fuel",
@@ -36,9 +36,9 @@
 		"title": "Fuel"
 	},
 	{
-		"forks": 5,
+		"forks": 6,
 		"name": "FuelLabs/fuel-js",
-		"stars": 10,
+		"stars": 11,
 		"watchers": 0,
 		"repo_name": "FuelLabs/fuel-js",
 		"ecosystem_slug": "fuel",
@@ -50,9 +50,21 @@
 	{
 		"forks": 1,
 		"name": "FuelLabs/fuel-v1-contracts",
-		"stars": 5,
+		"stars": 7,
 		"watchers": 0,
 		"repo_name": "FuelLabs/fuel-v1-contracts",
+		"ecosystem_slug": "fuel",
+		"parent_slug": "ethereum",
+		"path": "ethereum/fuel",
+		"slug": "fuel",
+		"title": "Fuel"
+	},
+	{
+		"forks": 1,
+		"name": "FuelLabs/fuel-burner-wallet",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "FuelLabs/fuel-burner-wallet",
 		"ecosystem_slug": "fuel",
 		"parent_slug": "ethereum",
 		"path": "ethereum/fuel",
@@ -65,18 +77,6 @@
 		"stars": 5,
 		"watchers": 0,
 		"repo_name": "FuelLabs/fuel-burner-plugin",
-		"ecosystem_slug": "fuel",
-		"parent_slug": "ethereum",
-		"path": "ethereum/fuel",
-		"slug": "fuel",
-		"title": "Fuel"
-	},
-	{
-		"forks": 0,
-		"name": "FuelLabs/fuel-burner-wallet",
-		"stars": 4,
-		"watchers": 0,
-		"repo_name": "FuelLabs/fuel-burner-wallet",
 		"ecosystem_slug": "fuel",
 		"parent_slug": "ethereum",
 		"path": "ethereum/fuel",

@@ -2,7 +2,7 @@
 	{
 		"forks": 48,
 		"name": "bada-studio/knights_contract",
-		"stars": 140,
+		"stars": 141,
 		"watchers": 0,
 		"repo_name": "bada-studio/knights_contract",
 		"ecosystem_slug": "eos-knights",
@@ -24,7 +24,7 @@
 		"title": "EOS Knights"
 	},
 	{
-		"forks": 5,
+		"forks": 6,
 		"name": "bada-studio/k2",
 		"stars": 2,
 		"watchers": 0,
@@ -48,18 +48,6 @@
 		"title": "EOS Knights"
 	},
 	{
-		"forks": 3,
-		"name": "bada-studio/eos",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "bada-studio/eos",
-		"ecosystem_slug": "eos-knights",
-		"parent_slug": "eos",
-		"path": "eos/eos-knights",
-		"slug": "eos-knights",
-		"title": "EOS Knights"
-	},
-	{
 		"forks": 4,
 		"name": "bada-studio/home",
 		"stars": 0,
@@ -73,10 +61,10 @@
 	},
 	{
 		"forks": 3,
-		"name": "bada-studio/thebadatoken",
-		"stars": 0,
+		"name": "bada-studio/eos",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "bada-studio/thebadatoken",
+		"repo_name": "bada-studio/eos",
 		"ecosystem_slug": "eos-knights",
 		"parent_slug": "eos",
 		"path": "eos/eos-knights",
@@ -108,6 +96,18 @@
 		"title": "EOS Knights"
 	},
 	{
+		"forks": 3,
+		"name": "bada-studio/thebadatoken",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "bada-studio/thebadatoken",
+		"ecosystem_slug": "eos-knights",
+		"parent_slug": "eos",
+		"path": "eos/eos-knights",
+		"slug": "eos-knights",
+		"title": "EOS Knights"
+	},
+	{
 		"forks": 0,
 		"name": "bada-studio/labs",
 		"stars": 1,
@@ -121,10 +121,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "bada-studio/k2-cdn",
+		"name": "bada-studio/openzeppelin-contracts",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "bada-studio/k2-cdn",
+		"repo_name": "bada-studio/openzeppelin-contracts",
 		"ecosystem_slug": "eos-knights",
 		"parent_slug": "eos",
 		"path": "eos/eos-knights",
@@ -133,10 +133,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "bada-studio/openzeppelin-contracts",
+		"name": "bada-studio/k2-cdn",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "bada-studio/openzeppelin-contracts",
+		"repo_name": "bada-studio/k2-cdn",
 		"ecosystem_slug": "eos-knights",
 		"parent_slug": "eos",
 		"path": "eos/eos-knights",

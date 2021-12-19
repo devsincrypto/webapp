@@ -1,6 +1,6 @@
 [
 	{
-		"forks": 7,
+		"forks": 8,
 		"name": "DeFinerOrg/compound-protocol",
 		"stars": 5,
 		"watchers": 0,
@@ -36,11 +36,11 @@
 		"title": "DeFiner"
 	},
 	{
-		"forks": 1,
-		"name": "DeFinerOrg/Savings",
-		"stars": 3,
+		"forks": 2,
+		"name": "DeFinerOrg/liquidator-bot",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "DeFinerOrg/Savings",
+		"repo_name": "DeFinerOrg/liquidator-bot",
 		"ecosystem_slug": "definer",
 		"parent_slug": "ethereum",
 		"path": "ethereum/definer",
@@ -49,10 +49,10 @@
 	},
 	{
 		"forks": 1,
-		"name": "DeFinerOrg/liquidator-bot",
-		"stars": 2,
+		"name": "DeFinerOrg/Savings",
+		"stars": 3,
 		"watchers": 0,
-		"repo_name": "DeFinerOrg/liquidator-bot",
+		"repo_name": "DeFinerOrg/Savings",
 		"ecosystem_slug": "definer",
 		"parent_slug": "ethereum",
 		"path": "ethereum/definer",

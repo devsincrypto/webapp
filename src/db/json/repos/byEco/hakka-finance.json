@@ -36,18 +36,6 @@
 		"title": "Hakka.Finance"
 	},
 	{
-		"forks": 0,
-		"name": "hakkafinance/defi-sdk",
-		"stars": 5,
-		"watchers": 0,
-		"repo_name": "hakkafinance/defi-sdk",
-		"ecosystem_slug": "hakka-finance",
-		"parent_slug": null,
-		"path": "hakka-finance",
-		"slug": "hakka-finance",
-		"title": "Hakka.Finance"
-	},
-	{
 		"forks": 2,
 		"name": "hakkafinance/VOTES",
 		"stars": 3,
@@ -65,6 +53,18 @@
 		"stars": 2,
 		"watchers": 0,
 		"repo_name": "hakkafinance/hakka",
+		"ecosystem_slug": "hakka-finance",
+		"parent_slug": null,
+		"path": "hakka-finance",
+		"slug": "hakka-finance",
+		"title": "Hakka.Finance"
+	},
+	{
+		"forks": 0,
+		"name": "hakkafinance/defi-sdk",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "hakkafinance/defi-sdk",
 		"ecosystem_slug": "hakka-finance",
 		"parent_slug": null,
 		"path": "hakka-finance",
@@ -133,10 +133,10 @@
 	},
 	{
 		"forks": 1,
-		"name": "hakkafinance/blackholeswap.com",
+		"name": "hakkafinance/HIPS",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "hakkafinance/blackholeswap.com",
+		"repo_name": "hakkafinance/HIPS",
 		"ecosystem_slug": "hakka-finance",
 		"parent_slug": null,
 		"path": "hakka-finance",
@@ -145,10 +145,10 @@
 	},
 	{
 		"forks": 1,
-		"name": "hakkafinance/HIPS",
+		"name": "hakkafinance/blackholeswap.com",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "hakkafinance/HIPS",
+		"repo_name": "hakkafinance/blackholeswap.com",
 		"ecosystem_slug": "hakka-finance",
 		"parent_slug": null,
 		"path": "hakka-finance",

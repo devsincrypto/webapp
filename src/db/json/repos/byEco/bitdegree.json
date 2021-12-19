@@ -2,7 +2,7 @@
 	{
 		"forks": 14,
 		"name": "bitdegree/bitdegree-token-crowdsale",
-		"stars": 23,
+		"stars": 24,
 		"watchers": 0,
 		"repo_name": "bitdegree/bitdegree-token-crowdsale",
 		"ecosystem_slug": "bitdegree",
@@ -12,7 +12,7 @@
 		"title": "BitDegree"
 	},
 	{
-		"forks": 17,
+		"forks": 20,
 		"name": "bitdegree/challenge-fullstack",
 		"stars": 6,
 		"watchers": 0,
@@ -24,9 +24,9 @@
 		"title": "BitDegree"
 	},
 	{
-		"forks": 6,
+		"forks": 7,
 		"name": "bitdegree/mass-token-distribution-tool",
-		"stars": 10,
+		"stars": 12,
 		"watchers": 0,
 		"repo_name": "bitdegree/mass-token-distribution-tool",
 		"ecosystem_slug": "bitdegree",
@@ -108,6 +108,18 @@
 		"title": "BitDegree"
 	},
 	{
+		"forks": 1,
+		"name": "bitdegree/challenge-front-end-intership",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "bitdegree/challenge-front-end-intership",
+		"ecosystem_slug": "bitdegree",
+		"parent_slug": null,
+		"path": "bitdegree",
+		"slug": "bitdegree",
+		"title": "BitDegree"
+	},
+	{
 		"forks": 0,
 		"name": "bitdegree/api-docs",
 		"stars": 1,
@@ -132,47 +144,11 @@
 		"title": "BitDegree"
 	},
 	{
-		"forks": 1,
-		"name": "bitdegree/challenge-front-end-intership",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "bitdegree/challenge-front-end-intership",
-		"ecosystem_slug": "bitdegree",
-		"parent_slug": null,
-		"path": "bitdegree",
-		"slug": "bitdegree",
-		"title": "BitDegree"
-	},
-	{
-		"forks": 0,
-		"name": "bitdegree/challenge-fullstack-intership",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "bitdegree/challenge-fullstack-intership",
-		"ecosystem_slug": "bitdegree",
-		"parent_slug": null,
-		"path": "bitdegree",
-		"slug": "bitdegree",
-		"title": "BitDegree"
-	},
-	{
 		"forks": 0,
 		"name": "bitdegree/bitdegree-scholarships",
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "bitdegree/bitdegree-scholarships",
-		"ecosystem_slug": "bitdegree",
-		"parent_slug": null,
-		"path": "bitdegree",
-		"slug": "bitdegree",
-		"title": "BitDegree"
-	},
-	{
-		"forks": 0,
-		"name": "bitdegree/openzeppelin-solidity",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "bitdegree/openzeppelin-solidity",
 		"ecosystem_slug": "bitdegree",
 		"parent_slug": null,
 		"path": "bitdegree",
@@ -197,6 +173,30 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "bitdegree/remix",
+		"ecosystem_slug": "bitdegree",
+		"parent_slug": null,
+		"path": "bitdegree",
+		"slug": "bitdegree",
+		"title": "BitDegree"
+	},
+	{
+		"forks": 0,
+		"name": "bitdegree/challenge-fullstack-intership",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "bitdegree/challenge-fullstack-intership",
+		"ecosystem_slug": "bitdegree",
+		"parent_slug": null,
+		"path": "bitdegree",
+		"slug": "bitdegree",
+		"title": "BitDegree"
+	},
+	{
+		"forks": 0,
+		"name": "bitdegree/openzeppelin-solidity",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "bitdegree/openzeppelin-solidity",
 		"ecosystem_slug": "bitdegree",
 		"parent_slug": null,
 		"path": "bitdegree",

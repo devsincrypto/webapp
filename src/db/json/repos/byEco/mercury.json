@@ -12,11 +12,11 @@
 		"title": "Mercury"
 	},
 	{
-		"forks": 2,
-		"name": "SigwoTechnologies/jupiter",
-		"stars": 8,
+		"forks": 5,
+		"name": "SigwoTechnologies/jupiter-gravity",
+		"stars": 5,
 		"watchers": 0,
-		"repo_name": "SigwoTechnologies/jupiter",
+		"repo_name": "SigwoTechnologies/jupiter-gravity",
 		"ecosystem_slug": "mercury",
 		"parent_slug": null,
 		"path": "mercury",
@@ -24,11 +24,11 @@
 		"title": "Mercury"
 	},
 	{
-		"forks": 5,
-		"name": "SigwoTechnologies/jupiter-gravity",
-		"stars": 5,
+		"forks": 2,
+		"name": "SigwoTechnologies/jupiter",
+		"stars": 8,
 		"watchers": 0,
-		"repo_name": "SigwoTechnologies/jupiter-gravity",
+		"repo_name": "SigwoTechnologies/jupiter",
 		"ecosystem_slug": "mercury",
 		"parent_slug": null,
 		"path": "mercury",

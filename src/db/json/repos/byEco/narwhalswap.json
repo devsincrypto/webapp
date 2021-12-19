@@ -24,6 +24,18 @@
 		"title": "Narwhalswap"
 	},
 	{
+		"forks": 1,
+		"name": "narwhalswap/narwhalswap-subgraph",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "narwhalswap/narwhalswap-subgraph",
+		"ecosystem_slug": "narwhalswap",
+		"parent_slug": "binance-coin",
+		"path": "binance-coin/narwhalswap",
+		"slug": "narwhalswap",
+		"title": "Narwhalswap"
+	},
+	{
 		"forks": 0,
 		"name": "narwhalswap/thegrandbanks",
 		"stars": 1,
@@ -60,11 +72,11 @@
 		"title": "Narwhalswap"
 	},
 	{
-		"forks": 1,
-		"name": "narwhalswap/narwhalswap-subgraph",
+		"forks": 0,
+		"name": "narwhalswap/grand-bank",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "narwhalswap/narwhalswap-subgraph",
+		"repo_name": "narwhalswap/grand-bank",
 		"ecosystem_slug": "narwhalswap",
 		"parent_slug": "binance-coin",
 		"path": "binance-coin/narwhalswap",
@@ -73,10 +85,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "narwhalswap/thegrandbanks-assets",
+		"name": "narwhalswap/contracts",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "narwhalswap/thegrandbanks-assets",
+		"repo_name": "narwhalswap/contracts",
 		"ecosystem_slug": "narwhalswap",
 		"parent_slug": "binance-coin",
 		"path": "binance-coin/narwhalswap",
@@ -97,22 +109,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "narwhalswap/grand-bank",
+		"name": "narwhalswap/thegrandbanks-assets",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "narwhalswap/grand-bank",
-		"ecosystem_slug": "narwhalswap",
-		"parent_slug": "binance-coin",
-		"path": "binance-coin/narwhalswap",
-		"slug": "narwhalswap",
-		"title": "Narwhalswap"
-	},
-	{
-		"forks": 0,
-		"name": "narwhalswap/contracts",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "narwhalswap/contracts",
+		"repo_name": "narwhalswap/thegrandbanks-assets",
 		"ecosystem_slug": "narwhalswap",
 		"parent_slug": "binance-coin",
 		"path": "binance-coin/narwhalswap",

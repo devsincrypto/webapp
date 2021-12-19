@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 29,
+		"forks": 41,
 		"name": "enzymefinance/oyente",
-		"stars": 120,
+		"stars": 154,
 		"watchers": 0,
 		"repo_name": "enzymefinance/oyente",
 		"ecosystem_slug": "enzyme",
@@ -12,9 +12,9 @@
 		"title": "Enzyme"
 	},
 	{
-		"forks": 38,
+		"forks": 46,
 		"name": "enzymefinance/protocol",
-		"stars": 84,
+		"stars": 96,
 		"watchers": 0,
 		"repo_name": "enzymefinance/protocol",
 		"ecosystem_slug": "enzyme",
@@ -24,7 +24,7 @@
 		"title": "Enzyme"
 	},
 	{
-		"forks": 9,
+		"forks": 11,
 		"name": "enzymefinance/enzyme-subgraph",
 		"stars": 16,
 		"watchers": 0,
@@ -36,7 +36,7 @@
 		"title": "Enzyme"
 	},
 	{
-		"forks": 3,
+		"forks": 4,
 		"name": "enzymefinance/ENZIP",
 		"stars": 6,
 		"watchers": 0,
@@ -48,7 +48,7 @@
 		"title": "Enzyme"
 	},
 	{
-		"forks": 3,
+		"forks": 4,
 		"name": "enzymefinance/melon-website",
 		"stars": 3,
 		"watchers": 0,
@@ -60,19 +60,7 @@
 		"title": "Enzyme"
 	},
 	{
-		"forks": 2,
-		"name": "enzymefinance/dao-fund-framework",
-		"stars": 3,
-		"watchers": 0,
-		"repo_name": "enzymefinance/dao-fund-framework",
-		"ecosystem_slug": "enzyme",
-		"parent_slug": null,
-		"path": "enzyme",
-		"slug": "enzyme",
-		"title": "Enzyme"
-	},
-	{
-		"forks": 2,
+		"forks": 3,
 		"name": "enzymefinance/melon",
 		"stars": 3,
 		"watchers": 0,
@@ -84,7 +72,19 @@
 		"title": "Enzyme"
 	},
 	{
-		"forks": 2,
+		"forks": 3,
+		"name": "enzymefinance/dao-fund-framework",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "enzymefinance/dao-fund-framework",
+		"ecosystem_slug": "enzyme",
+		"parent_slug": null,
+		"path": "enzyme",
+		"slug": "enzyme",
+		"title": "Enzyme"
+	},
+	{
+		"forks": 3,
 		"name": "enzymefinance/melonjs",
 		"stars": 2,
 		"watchers": 0,
@@ -96,7 +96,7 @@
 		"title": "Enzyme"
 	},
 	{
-		"forks": 1,
+		"forks": 2,
 		"name": "enzymefinance/monitoring",
 		"stars": 2,
 		"watchers": 0,
@@ -108,9 +108,9 @@
 		"title": "Enzyme"
 	},
 	{
-		"forks": 1,
+		"forks": 2,
 		"name": "enzymefinance/MFP",
-		"stars": 1,
+		"stars": 2,
 		"watchers": 0,
 		"repo_name": "enzymefinance/MFP",
 		"ecosystem_slug": "enzyme",
@@ -121,10 +121,70 @@
 	},
 	{
 		"forks": 1,
+		"name": "enzymefinance/security",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "enzymefinance/security",
+		"ecosystem_slug": "enzyme",
+		"parent_slug": null,
+		"path": "enzyme",
+		"slug": "enzyme",
+		"title": "Enzyme"
+	},
+	{
+		"forks": 2,
 		"name": "enzymefinance/branding",
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "enzymefinance/branding",
+		"ecosystem_slug": "enzyme",
+		"parent_slug": null,
+		"path": "enzyme",
+		"slug": "enzyme",
+		"title": "Enzyme"
+	},
+	{
+		"forks": 1,
+		"name": "enzymefinance/documentation",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "enzymefinance/documentation",
+		"ecosystem_slug": "enzyme",
+		"parent_slug": null,
+		"path": "enzyme",
+		"slug": "enzyme",
+		"title": "Enzyme"
+	},
+	{
+		"forks": 1,
+		"name": "enzymefinance/DeFi-Pulse-Adapters",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "enzymefinance/DeFi-Pulse-Adapters",
+		"ecosystem_slug": "enzyme",
+		"parent_slug": null,
+		"path": "enzyme",
+		"slug": "enzyme",
+		"title": "Enzyme"
+	},
+	{
+		"forks": 1,
+		"name": "enzymefinance/paper",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "enzymefinance/paper",
+		"ecosystem_slug": "enzyme",
+		"parent_slug": null,
+		"path": "enzyme",
+		"slug": "enzyme",
+		"title": "Enzyme"
+	},
+	{
+		"forks": 1,
+		"name": "enzymefinance/ens-server",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "enzymefinance/ens-server",
 		"ecosystem_slug": "enzyme",
 		"parent_slug": null,
 		"path": "enzyme",
@@ -145,54 +205,6 @@
 	},
 	{
 		"forks": 0,
-		"name": "enzymefinance/security",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "enzymefinance/security",
-		"ecosystem_slug": "enzyme",
-		"parent_slug": null,
-		"path": "enzyme",
-		"slug": "enzyme",
-		"title": "Enzyme"
-	},
-	{
-		"forks": 0,
-		"name": "enzymefinance/paper",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "enzymefinance/paper",
-		"ecosystem_slug": "enzyme",
-		"parent_slug": null,
-		"path": "enzyme",
-		"slug": "enzyme",
-		"title": "Enzyme"
-	},
-	{
-		"forks": 0,
-		"name": "enzymefinance/software-disclaimer",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "enzymefinance/software-disclaimer",
-		"ecosystem_slug": "enzyme",
-		"parent_slug": null,
-		"path": "enzyme",
-		"slug": "enzyme",
-		"title": "Enzyme"
-	},
-	{
-		"forks": 0,
-		"name": "enzymefinance/DeFi-Pulse-Adapters",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "enzymefinance/DeFi-Pulse-Adapters",
-		"ecosystem_slug": "enzyme",
-		"parent_slug": null,
-		"path": "enzyme",
-		"slug": "enzyme",
-		"title": "Enzyme"
-	},
-	{
-		"forks": 0,
 		"name": "enzymefinance/melon-subgraph",
 		"stars": 0,
 		"watchers": 0,
@@ -205,22 +217,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "enzymefinance/ens-server",
+		"name": "enzymefinance/software-disclaimer",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "enzymefinance/ens-server",
-		"ecosystem_slug": "enzyme",
-		"parent_slug": null,
-		"path": "enzyme",
-		"slug": "enzyme",
-		"title": "Enzyme"
-	},
-	{
-		"forks": 0,
-		"name": "enzymefinance/documentation",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "enzymefinance/documentation",
+		"repo_name": "enzymefinance/software-disclaimer",
 		"ecosystem_slug": "enzyme",
 		"parent_slug": null,
 		"path": "enzyme",

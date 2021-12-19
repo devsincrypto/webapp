@@ -1,6 +1,6 @@
 [
 	{
-		"forks": 157,
+		"forks": 159,
 		"name": "CounterpartyXCP/counterwallet",
 		"stars": 151,
 		"watchers": 0,
@@ -12,9 +12,9 @@
 		"title": "Counterparty"
 	},
 	{
-		"forks": 111,
+		"forks": 114,
 		"name": "CounterpartyXCP/counterparty-lib",
-		"stars": 160,
+		"stars": 163,
 		"watchers": 0,
 		"repo_name": "CounterpartyXCP/counterparty-lib",
 		"ecosystem_slug": "counterparty",
@@ -36,7 +36,7 @@
 		"title": "Counterparty"
 	},
 	{
-		"forks": 61,
+		"forks": 62,
 		"name": "CounterpartyXCP/counterparty-cli",
 		"stars": 15,
 		"watchers": 0,
@@ -50,7 +50,7 @@
 	{
 		"forks": 34,
 		"name": "CounterpartyXCP/indexd-server",
-		"stars": 39,
+		"stars": 40,
 		"watchers": 0,
 		"repo_name": "CounterpartyXCP/indexd-server",
 		"ecosystem_slug": "counterparty",
@@ -60,7 +60,7 @@
 		"title": "Counterparty"
 	},
 	{
-		"forks": 46,
+		"forks": 48,
 		"name": "CounterpartyXCP/counterblock",
 		"stars": 13,
 		"watchers": 0,
@@ -86,7 +86,7 @@
 	{
 		"forks": 16,
 		"name": "CounterpartyXCP/cips",
-		"stars": 12,
+		"stars": 13,
 		"watchers": 0,
 		"repo_name": "CounterpartyXCP/cips",
 		"ecosystem_slug": "counterparty",
@@ -96,7 +96,7 @@
 		"title": "Counterparty"
 	},
 	{
-		"forks": 17,
+		"forks": 18,
 		"name": "CounterpartyXCP/blockparty",
 		"stars": 6,
 		"watchers": 0,
@@ -108,7 +108,7 @@
 		"title": "Counterparty"
 	},
 	{
-		"forks": 14,
+		"forks": 15,
 		"name": "CounterpartyXCP/counterparty-gui",
 		"stars": 5,
 		"watchers": 0,
@@ -120,7 +120,7 @@
 		"title": "Counterparty"
 	},
 	{
-		"forks": 13,
+		"forks": 14,
 		"name": "CounterpartyXCP/armory-utxsvr",
 		"stars": 2,
 		"watchers": 0,
@@ -168,11 +168,11 @@
 		"title": "Counterparty"
 	},
 	{
-		"forks": 2,
-		"name": "CounterpartyXCP/pyrpcwallet",
-		"stars": 4,
+		"forks": 5,
+		"name": "CounterpartyXCP/addrindexrs",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "CounterpartyXCP/pyrpcwallet",
+		"repo_name": "CounterpartyXCP/addrindexrs",
 		"ecosystem_slug": "counterparty",
 		"parent_slug": null,
 		"path": "counterparty",
@@ -180,11 +180,11 @@
 		"title": "Counterparty"
 	},
 	{
-		"forks": 4,
-		"name": "CounterpartyXCP/python-bitcoinlib",
-		"stars": 1,
+		"forks": 2,
+		"name": "CounterpartyXCP/pyrpcwallet",
+		"stars": 4,
 		"watchers": 0,
-		"repo_name": "CounterpartyXCP/python-bitcoinlib",
+		"repo_name": "CounterpartyXCP/pyrpcwallet",
 		"ecosystem_slug": "counterparty",
 		"parent_slug": null,
 		"path": "counterparty",
@@ -204,11 +204,11 @@
 		"title": "Counterparty"
 	},
 	{
-		"forks": 3,
-		"name": "CounterpartyXCP/addrindexrs",
+		"forks": 4,
+		"name": "CounterpartyXCP/python-bitcoinlib",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "CounterpartyXCP/addrindexrs",
+		"repo_name": "CounterpartyXCP/python-bitcoinlib",
 		"ecosystem_slug": "counterparty",
 		"parent_slug": null,
 		"path": "counterparty",
@@ -221,18 +221,6 @@
 		"stars": 1,
 		"watchers": 0,
 		"repo_name": "CounterpartyXCP/pyethereum",
-		"ecosystem_slug": "counterparty",
-		"parent_slug": null,
-		"path": "counterparty",
-		"slug": "counterparty",
-		"title": "Counterparty"
-	},
-	{
-		"forks": 2,
-		"name": "CounterpartyXCP/gosqliteproxy",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "CounterpartyXCP/gosqliteproxy",
 		"ecosystem_slug": "counterparty",
 		"parent_slug": null,
 		"path": "counterparty",
@@ -276,11 +264,11 @@
 		"title": "Counterparty"
 	},
 	{
-		"forks": 1,
-		"name": "CounterpartyXCP/pyrlp",
+		"forks": 2,
+		"name": "CounterpartyXCP/gosqliteproxy",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "CounterpartyXCP/pyrlp",
+		"repo_name": "CounterpartyXCP/gosqliteproxy",
 		"ecosystem_slug": "counterparty",
 		"parent_slug": null,
 		"path": "counterparty",
@@ -293,6 +281,18 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "CounterpartyXCP/lightxcpclient",
+		"ecosystem_slug": "counterparty",
+		"parent_slug": null,
+		"path": "counterparty",
+		"slug": "counterparty",
+		"title": "Counterparty"
+	},
+	{
+		"forks": 1,
+		"name": "CounterpartyXCP/pyrlp",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "CounterpartyXCP/pyrlp",
 		"ecosystem_slug": "counterparty",
 		"parent_slug": null,
 		"path": "counterparty",

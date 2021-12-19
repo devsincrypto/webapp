@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 111,
+		"forks": 120,
 		"name": "dydxprotocol/liquidator",
-		"stars": 330,
+		"stars": 363,
 		"watchers": 0,
 		"repo_name": "dydxprotocol/liquidator",
 		"ecosystem_slug": "dydx",
@@ -12,9 +12,9 @@
 		"title": "dYdX"
 	},
 	{
-		"forks": 83,
+		"forks": 94,
 		"name": "dydxprotocol/solo",
-		"stars": 223,
+		"stars": 246,
 		"watchers": 0,
 		"repo_name": "dydxprotocol/solo",
 		"ecosystem_slug": "dydx",
@@ -36,9 +36,9 @@
 		"title": "dYdX"
 	},
 	{
-		"forks": 29,
+		"forks": 35,
 		"name": "dydxprotocol/perpetual",
-		"stars": 94,
+		"stars": 107,
 		"watchers": 0,
 		"repo_name": "dydxprotocol/perpetual",
 		"ecosystem_slug": "dydx",
@@ -48,9 +48,9 @@
 		"title": "dYdX"
 	},
 	{
-		"forks": 30,
+		"forks": 34,
 		"name": "dydxprotocol/dydx-python",
-		"stars": 69,
+		"stars": 81,
 		"watchers": 0,
 		"repo_name": "dydxprotocol/dydx-python",
 		"ecosystem_slug": "dydx",
@@ -60,21 +60,9 @@
 		"title": "dYdX"
 	},
 	{
-		"forks": 23,
-		"name": "dydxprotocol/exchange-wrappers",
-		"stars": 55,
-		"watchers": 0,
-		"repo_name": "dydxprotocol/exchange-wrappers",
-		"ecosystem_slug": "dydx",
-		"parent_slug": "ethereum",
-		"path": "ethereum/dydx",
-		"slug": "dydx",
-		"title": "dYdX"
-	},
-	{
-		"forks": 25,
+		"forks": 41,
 		"name": "dydxprotocol/dydx-v3-python",
-		"stars": 49,
+		"stars": 68,
 		"watchers": 0,
 		"repo_name": "dydxprotocol/dydx-v3-python",
 		"ecosystem_slug": "dydx",
@@ -85,8 +73,20 @@
 	},
 	{
 		"forks": 24,
+		"name": "dydxprotocol/exchange-wrappers",
+		"stars": 59,
+		"watchers": 0,
+		"repo_name": "dydxprotocol/exchange-wrappers",
+		"ecosystem_slug": "dydx",
+		"parent_slug": "ethereum",
+		"path": "ethereum/dydx",
+		"slug": "dydx",
+		"title": "dYdX"
+	},
+	{
+		"forks": 25,
 		"name": "dydxprotocol/protocol_v1",
-		"stars": 38,
+		"stars": 41,
 		"watchers": 0,
 		"repo_name": "dydxprotocol/protocol_v1",
 		"ecosystem_slug": "dydx",
@@ -96,9 +96,9 @@
 		"title": "dYdX"
 	},
 	{
-		"forks": 17,
+		"forks": 21,
 		"name": "dydxprotocol/v3-client",
-		"stars": 39,
+		"stars": 45,
 		"watchers": 0,
 		"repo_name": "dydxprotocol/v3-client",
 		"ecosystem_slug": "dydx",
@@ -122,7 +122,7 @@
 	{
 		"forks": 7,
 		"name": "dydxprotocol/starkex-lib",
-		"stars": 7,
+		"stars": 14,
 		"watchers": 0,
 		"repo_name": "dydxprotocol/starkex-lib",
 		"ecosystem_slug": "dydx",
@@ -132,11 +132,11 @@
 		"title": "dYdX"
 	},
 	{
-		"forks": 5,
-		"name": "dydxprotocol/oracles-v2",
-		"stars": 5,
+		"forks": 6,
+		"name": "dydxprotocol/starkex-eth",
+		"stars": 12,
 		"watchers": 0,
-		"repo_name": "dydxprotocol/oracles-v2",
+		"repo_name": "dydxprotocol/starkex-eth",
 		"ecosystem_slug": "dydx",
 		"parent_slug": "ethereum",
 		"path": "ethereum/dydx",
@@ -144,11 +144,11 @@
 		"title": "dYdX"
 	},
 	{
-		"forks": 4,
-		"name": "dydxprotocol/starkex-eth",
-		"stars": 4,
+		"forks": 5,
+		"name": "dydxprotocol/oracles-v2",
+		"stars": 6,
 		"watchers": 0,
-		"repo_name": "dydxprotocol/starkex-eth",
+		"repo_name": "dydxprotocol/oracles-v2",
 		"ecosystem_slug": "dydx",
 		"parent_slug": "ethereum",
 		"path": "ethereum/dydx",
@@ -180,6 +180,18 @@
 		"title": "dYdX"
 	},
 	{
+		"forks": 3,
+		"name": "dydxprotocol/kotlin-walletconnect-lib",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "dydxprotocol/kotlin-walletconnect-lib",
+		"ecosystem_slug": "dydx",
+		"parent_slug": "ethereum",
+		"path": "ethereum/dydx",
+		"slug": "dydx",
+		"title": "dYdX"
+	},
+	{
 		"forks": 2,
 		"name": "dydxprotocol/og-image",
 		"stars": 1,
@@ -197,18 +209,6 @@
 		"stars": 2,
 		"watchers": 0,
 		"repo_name": "dydxprotocol/docs",
-		"ecosystem_slug": "dydx",
-		"parent_slug": "ethereum",
-		"path": "ethereum/dydx",
-		"slug": "dydx",
-		"title": "dYdX"
-	},
-	{
-		"forks": 2,
-		"name": "dydxprotocol/kotlin-walletconnect-lib",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "dydxprotocol/kotlin-walletconnect-lib",
 		"ecosystem_slug": "dydx",
 		"parent_slug": "ethereum",
 		"path": "ethereum/dydx",

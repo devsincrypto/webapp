@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 395,
+		"forks": 429,
 		"name": "aave/aave-protocol",
-		"stars": 958,
+		"stars": 1077,
 		"watchers": 0,
 		"repo_name": "aave/aave-protocol",
 		"ecosystem_slug": "aave",
@@ -12,9 +12,9 @@
 		"title": "Aave"
 	},
 	{
-		"forks": 288,
+		"forks": 364,
 		"name": "aave/protocol-v2",
-		"stars": 292,
+		"stars": 356,
 		"watchers": 0,
 		"repo_name": "aave/protocol-v2",
 		"ecosystem_slug": "aave",
@@ -24,9 +24,9 @@
 		"title": "Aave"
 	},
 	{
-		"forks": 160,
+		"forks": 182,
 		"name": "aave/flashloan-box",
-		"stars": 320,
+		"stars": 350,
 		"watchers": 0,
 		"repo_name": "aave/flashloan-box",
 		"ecosystem_slug": "aave",
@@ -36,9 +36,9 @@
 		"title": "Aave"
 	},
 	{
-		"forks": 75,
+		"forks": 83,
 		"name": "aave/aip",
-		"stars": 48,
+		"stars": 54,
 		"watchers": 0,
 		"repo_name": "aave/aip",
 		"ecosystem_slug": "aave",
@@ -48,9 +48,9 @@
 		"title": "Aave"
 	},
 	{
-		"forks": 57,
+		"forks": 69,
 		"name": "aave/code-examples-protocol",
-		"stars": 60,
+		"stars": 68,
 		"watchers": 0,
 		"repo_name": "aave/code-examples-protocol",
 		"ecosystem_slug": "aave",
@@ -60,9 +60,9 @@
 		"title": "Aave"
 	},
 	{
-		"forks": 37,
+		"forks": 44,
 		"name": "aave/aave-js",
-		"stars": 75,
+		"stars": 79,
 		"watchers": 0,
 		"repo_name": "aave/aave-js",
 		"ecosystem_slug": "aave",
@@ -72,11 +72,11 @@
 		"title": "Aave"
 	},
 	{
-		"forks": 24,
-		"name": "aave/protocol-v2-subgraph",
-		"stars": 24,
+		"forks": 25,
+		"name": "aave/aave-stake-v2",
+		"stars": 33,
 		"watchers": 0,
-		"repo_name": "aave/protocol-v2-subgraph",
+		"repo_name": "aave/aave-stake-v2",
 		"ecosystem_slug": "aave",
 		"parent_slug": "ethereum",
 		"path": "ethereum/aave",
@@ -84,11 +84,11 @@
 		"title": "Aave"
 	},
 	{
-		"forks": 21,
-		"name": "aave/aave-stake-v2",
-		"stars": 25,
+		"forks": 28,
+		"name": "aave/protocol-v2-subgraph",
+		"stars": 29,
 		"watchers": 0,
-		"repo_name": "aave/aave-stake-v2",
+		"repo_name": "aave/protocol-v2-subgraph",
 		"ecosystem_slug": "aave",
 		"parent_slug": "ethereum",
 		"path": "ethereum/aave",
@@ -108,9 +108,9 @@
 		"title": "Aave"
 	},
 	{
-		"forks": 17,
+		"forks": 18,
 		"name": "aave/governance-v2",
-		"stars": 12,
+		"stars": 13,
 		"watchers": 0,
 		"repo_name": "aave/governance-v2",
 		"ecosystem_slug": "aave",
@@ -120,9 +120,9 @@
 		"title": "Aave"
 	},
 	{
-		"forks": 14,
+		"forks": 15,
 		"name": "aave/aave-token",
-		"stars": 14,
+		"stars": 15,
 		"watchers": 0,
 		"repo_name": "aave/aave-token",
 		"ecosystem_slug": "aave",
@@ -134,7 +134,7 @@
 	{
 		"forks": 10,
 		"name": "aave/aave-token-v2",
-		"stars": 12,
+		"stars": 13,
 		"watchers": 0,
 		"repo_name": "aave/aave-token-v2",
 		"ecosystem_slug": "aave",
@@ -168,7 +168,7 @@
 		"title": "Aave"
 	},
 	{
-		"forks": 14,
+		"forks": 16,
 		"name": "aave/aave-asset-listing",
 		"stars": 3,
 		"watchers": 0,
@@ -182,7 +182,7 @@
 	{
 		"forks": 9,
 		"name": "aave/safety-module",
-		"stars": 7,
+		"stars": 8,
 		"watchers": 0,
 		"repo_name": "aave/safety-module",
 		"ecosystem_slug": "aave",
@@ -192,11 +192,23 @@
 		"title": "Aave"
 	},
 	{
-		"forks": 7,
+		"forks": 8,
 		"name": "aave/governance-v2-subgraph",
 		"stars": 8,
 		"watchers": 0,
 		"repo_name": "aave/governance-v2-subgraph",
+		"ecosystem_slug": "aave",
+		"parent_slug": "ethereum",
+		"path": "ethereum/aave",
+		"slug": "aave",
+		"title": "Aave"
+	},
+	{
+		"forks": 6,
+		"name": "aave/price-aggregators",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "aave/price-aggregators",
 		"ecosystem_slug": "aave",
 		"parent_slug": "ethereum",
 		"path": "ethereum/aave",
@@ -264,11 +276,11 @@
 		"title": "Aave"
 	},
 	{
-		"forks": 4,
-		"name": "aave/DeFi-Pulse-Adapters",
-		"stars": 2,
+		"forks": 2,
+		"name": "aave/upgradeable-configurable-rights-pool",
+		"stars": 4,
 		"watchers": 0,
-		"repo_name": "aave/DeFi-Pulse-Adapters",
+		"repo_name": "aave/upgradeable-configurable-rights-pool",
 		"ecosystem_slug": "aave",
 		"parent_slug": "ethereum",
 		"path": "ethereum/aave",
@@ -288,23 +300,11 @@
 		"title": "Aave"
 	},
 	{
-		"forks": 2,
-		"name": "aave/upgradeable-configurable-rights-pool",
-		"stars": 4,
+		"forks": 4,
+		"name": "aave/DeFi-Pulse-Adapters",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "aave/upgradeable-configurable-rights-pool",
-		"ecosystem_slug": "aave",
-		"parent_slug": "ethereum",
-		"path": "ethereum/aave",
-		"slug": "aave",
-		"title": "Aave"
-	},
-	{
-		"forks": 3,
-		"name": "aave/price-aggregators",
-		"stars": 3,
-		"watchers": 0,
-		"repo_name": "aave/price-aggregators",
+		"repo_name": "aave/DeFi-Pulse-Adapters",
 		"ecosystem_slug": "aave",
 		"parent_slug": "ethereum",
 		"path": "ethereum/aave",
@@ -324,11 +324,35 @@
 		"title": "Aave"
 	},
 	{
+		"forks": 4,
+		"name": "aave/aave-addresses",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "aave/aave-addresses",
+		"ecosystem_slug": "aave",
+		"parent_slug": "ethereum",
+		"path": "ethereum/aave",
+		"slug": "aave",
+		"title": "Aave"
+	},
+	{
 		"forks": 3,
 		"name": "aave/split-croatia-workshop",
 		"stars": 1,
 		"watchers": 0,
 		"repo_name": "aave/split-croatia-workshop",
+		"ecosystem_slug": "aave",
+		"parent_slug": "ethereum",
+		"path": "ethereum/aave",
+		"slug": "aave",
+		"title": "Aave"
+	},
+	{
+		"forks": 2,
+		"name": "aave/aip-uploader",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "aave/aip-uploader",
 		"ecosystem_slug": "aave",
 		"parent_slug": "ethereum",
 		"path": "ethereum/aave",
@@ -349,34 +373,10 @@
 	},
 	{
 		"forks": 2,
-		"name": "aave/aave-addresses",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "aave/aave-addresses",
-		"ecosystem_slug": "aave",
-		"parent_slug": "ethereum",
-		"path": "ethereum/aave",
-		"slug": "aave",
-		"title": "Aave"
-	},
-	{
-		"forks": 2,
 		"name": "aave/genesis-migration",
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "aave/genesis-migration",
-		"ecosystem_slug": "aave",
-		"parent_slug": "ethereum",
-		"path": "ethereum/aave",
-		"slug": "aave",
-		"title": "Aave"
-	},
-	{
-		"forks": 2,
-		"name": "aave/aip-uploader",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "aave/aip-uploader",
 		"ecosystem_slug": "aave",
 		"parent_slug": "ethereum",
 		"path": "ethereum/aave",

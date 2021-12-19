@@ -13,6 +13,18 @@
 	},
 	{
 		"forks": 1,
+		"name": "MeroCoin/Graphics",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "MeroCoin/Graphics",
+		"ecosystem_slug": "mero",
+		"parent_slug": null,
+		"path": "mero",
+		"slug": "mero",
+		"title": "Mero"
+	},
+	{
+		"forks": 1,
 		"name": "MeroCoin/mero-detached-sigs",
 		"stars": 0,
 		"watchers": 0,
@@ -37,30 +49,6 @@
 	},
 	{
 		"forks": 1,
-		"name": "MeroCoin/website",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "MeroCoin/website",
-		"ecosystem_slug": "mero",
-		"parent_slug": null,
-		"path": "mero",
-		"slug": "mero",
-		"title": "Mero"
-	},
-	{
-		"forks": 1,
-		"name": "MeroCoin/Graphics",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "MeroCoin/Graphics",
-		"ecosystem_slug": "mero",
-		"parent_slug": null,
-		"path": "mero",
-		"slug": "mero",
-		"title": "Mero"
-	},
-	{
-		"forks": 1,
 		"name": "MeroCoin/gitian.sigs",
 		"stars": 0,
 		"watchers": 0,
@@ -72,11 +60,11 @@
 		"title": "Mero"
 	},
 	{
-		"forks": 0,
-		"name": "MeroCoin/merocoin-seeder",
+		"forks": 1,
+		"name": "MeroCoin/website",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "MeroCoin/merocoin-seeder",
+		"repo_name": "MeroCoin/website",
 		"ecosystem_slug": "mero",
 		"parent_slug": null,
 		"path": "mero",
@@ -89,6 +77,18 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "MeroCoin/documentation",
+		"ecosystem_slug": "mero",
+		"parent_slug": null,
+		"path": "mero",
+		"slug": "mero",
+		"title": "Mero"
+	},
+	{
+		"forks": 0,
+		"name": "MeroCoin/merocoin-seeder",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "MeroCoin/merocoin-seeder",
 		"ecosystem_slug": "mero",
 		"parent_slug": null,
 		"path": "mero",

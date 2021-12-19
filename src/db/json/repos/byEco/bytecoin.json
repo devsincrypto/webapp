@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 766,
+		"forks": 771,
 		"name": "zone117x/node-cryptonote-pool",
-		"stars": 937,
+		"stars": 947,
 		"watchers": 0,
 		"repo_name": "zone117x/node-cryptonote-pool",
 		"ecosystem_slug": "bytecoin",
@@ -12,9 +12,9 @@
 		"title": "Bytecoin"
 	},
 	{
-		"forks": 297,
+		"forks": 303,
 		"name": "bcndev/bytecoin",
-		"stars": 242,
+		"stars": 249,
 		"watchers": 0,
 		"repo_name": "bcndev/bytecoin",
 		"ecosystem_slug": "bytecoin",
@@ -24,7 +24,7 @@
 		"title": "Bytecoin"
 	},
 	{
-		"forks": 85,
+		"forks": 86,
 		"name": "bcndev/bytecoin-gui",
 		"stars": 56,
 		"watchers": 0,
@@ -120,11 +120,11 @@
 		"title": "Bytecoin"
 	},
 	{
-		"forks": 6,
-		"name": "byte-coin/bytecoin",
-		"stars": 4,
+		"forks": 4,
+		"name": "xdo-soft/CryptoNoteMultiWalletMonitor",
+		"stars": 6,
 		"watchers": 0,
-		"repo_name": "byte-coin/bytecoin",
+		"repo_name": "xdo-soft/CryptoNoteMultiWalletMonitor",
 		"ecosystem_slug": "bytecoin",
 		"parent_slug": null,
 		"path": "bytecoin",
@@ -132,11 +132,11 @@
 		"title": "Bytecoin"
 	},
 	{
-		"forks": 4,
-		"name": "xdo-soft/CryptoNoteMultiWalletMonitor",
-		"stars": 6,
+		"forks": 6,
+		"name": "byte-coin/bytecoin",
+		"stars": 4,
 		"watchers": 0,
-		"repo_name": "xdo-soft/CryptoNoteMultiWalletMonitor",
+		"repo_name": "byte-coin/bytecoin",
 		"ecosystem_slug": "bytecoin",
 		"parent_slug": null,
 		"path": "bytecoin",
@@ -168,11 +168,11 @@
 		"title": "Bytecoin"
 	},
 	{
-		"forks": 1,
-		"name": "cryptozona/bytecoinBCN",
-		"stars": 4,
+		"forks": 3,
+		"name": "bcndev/trezor-core",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "cryptozona/bytecoinBCN",
+		"repo_name": "bcndev/trezor-core",
 		"ecosystem_slug": "bytecoin",
 		"parent_slug": null,
 		"path": "bytecoin",
@@ -192,35 +192,11 @@
 		"title": "Bytecoin"
 	},
 	{
-		"forks": 3,
-		"name": "bcndev/trezor-core",
-		"stars": 2,
+		"forks": 1,
+		"name": "cryptozona/bytecoinBCN",
+		"stars": 4,
 		"watchers": 0,
-		"repo_name": "bcndev/trezor-core",
-		"ecosystem_slug": "bytecoin",
-		"parent_slug": null,
-		"path": "bytecoin",
-		"slug": "bytecoin",
-		"title": "Bytecoin"
-	},
-	{
-		"forks": 0,
-		"name": "xtronica/bytecoinBCN",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "xtronica/bytecoinBCN",
-		"ecosystem_slug": "bytecoin",
-		"parent_slug": null,
-		"path": "bytecoin",
-		"slug": "bytecoin",
-		"title": "Bytecoin"
-	},
-	{
-		"forks": 0,
-		"name": "bcndev/bytecoin-javascript",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "bcndev/bytecoin-javascript",
+		"repo_name": "cryptozona/bytecoinBCN",
 		"ecosystem_slug": "bytecoin",
 		"parent_slug": null,
 		"path": "bytecoin",
@@ -245,6 +221,30 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "BYTECOlN/Bytecoin",
+		"ecosystem_slug": "bytecoin",
+		"parent_slug": null,
+		"path": "bytecoin",
+		"slug": "bytecoin",
+		"title": "Bytecoin"
+	},
+	{
+		"forks": 0,
+		"name": "xtronica/bytecoinBCN",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "xtronica/bytecoinBCN",
+		"ecosystem_slug": "bytecoin",
+		"parent_slug": null,
+		"path": "bytecoin",
+		"slug": "bytecoin",
+		"title": "Bytecoin"
+	},
+	{
+		"forks": 0,
+		"name": "bcndev/bytecoin-javascript",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "bcndev/bytecoin-javascript",
 		"ecosystem_slug": "bytecoin",
 		"parent_slug": null,
 		"path": "bytecoin",

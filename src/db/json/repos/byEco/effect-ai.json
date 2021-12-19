@@ -1,5 +1,17 @@
 [
 	{
+		"forks": 4,
+		"name": "effectai/effect-network",
+		"stars": 35,
+		"watchers": 0,
+		"repo_name": "effectai/effect-network",
+		"ecosystem_slug": "effect-ai",
+		"parent_slug": null,
+		"path": "effect-ai",
+		"slug": "effect-ai",
+		"title": "Effect.AI"
+	},
+	{
 		"forks": 6,
 		"name": "effectai/effect-network-eos",
 		"stars": 11,
@@ -29,18 +41,6 @@
 		"stars": 6,
 		"watchers": 0,
 		"repo_name": "effectai/effect-dashboard",
-		"ecosystem_slug": "effect-ai",
-		"parent_slug": null,
-		"path": "effect-ai",
-		"slug": "effect-ai",
-		"title": "Effect.AI"
-	},
-	{
-		"forks": 3,
-		"name": "effectai/effect-network",
-		"stars": 8,
-		"watchers": 0,
-		"repo_name": "effectai/effect-network",
 		"ecosystem_slug": "effect-ai",
 		"parent_slug": null,
 		"path": "effect-ai",
@@ -109,20 +109,8 @@
 	},
 	{
 		"forks": 0,
-		"name": "effectai/bridge-frontend",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "effectai/bridge-frontend",
-		"ecosystem_slug": "effect-ai",
-		"parent_slug": null,
-		"path": "effect-ai",
-		"slug": "effect-ai",
-		"title": "Effect.AI"
-	},
-	{
-		"forks": 0,
 		"name": "effectai/eos-cljs",
-		"stars": 2,
+		"stars": 3,
 		"watchers": 0,
 		"repo_name": "effectai/eos-cljs",
 		"ecosystem_slug": "effect-ai",
@@ -137,6 +125,18 @@
 		"stars": 1,
 		"watchers": 0,
 		"repo_name": "effectai/genesis-distribution",
+		"ecosystem_slug": "effect-ai",
+		"parent_slug": null,
+		"path": "effect-ai",
+		"slug": "effect-ai",
+		"title": "Effect.AI"
+	},
+	{
+		"forks": 0,
+		"name": "effectai/bridge-frontend",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "effectai/bridge-frontend",
 		"ecosystem_slug": "effect-ai",
 		"parent_slug": null,
 		"path": "effect-ai",

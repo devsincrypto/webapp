@@ -73,18 +73,6 @@
 	},
 	{
 		"forks": 0,
-		"name": "KuChainNetwork/kds",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "KuChainNetwork/kds",
-		"ecosystem_slug": "kuchain-network",
-		"parent_slug": "cosmos",
-		"path": "cosmos/kuchain-network",
-		"slug": "kuchain-network",
-		"title": "Kuchain Network"
-	},
-	{
-		"forks": 0,
 		"name": "KuChainNetwork/kuchain-currency-icon-lib",
 		"stars": 0,
 		"watchers": 0,
@@ -101,6 +89,18 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "KuChainNetwork/go-kratos",
+		"ecosystem_slug": "kuchain-network",
+		"parent_slug": "cosmos",
+		"path": "cosmos/kuchain-network",
+		"slug": "kuchain-network",
+		"title": "Kuchain Network"
+	},
+	{
+		"forks": 0,
+		"name": "KuChainNetwork/kds",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "KuChainNetwork/kds",
 		"ecosystem_slug": "kuchain-network",
 		"parent_slug": "cosmos",
 		"path": "cosmos/kuchain-network",

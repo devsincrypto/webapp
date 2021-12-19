@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 3,
+		"forks": 5,
 		"name": "Europechain/eosio-dev-introduction-course",
-		"stars": 11,
+		"stars": 14,
 		"watchers": 0,
 		"repo_name": "Europechain/eosio-dev-introduction-course",
 		"ecosystem_slug": "europechain",
@@ -49,18 +49,6 @@
 	},
 	{
 		"forks": 0,
-		"name": "Europechain/eos-airdrops",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "Europechain/eos-airdrops",
-		"ecosystem_slug": "europechain",
-		"parent_slug": null,
-		"path": "europechain",
-		"slug": "europechain",
-		"title": "Europechain"
-	},
-	{
-		"forks": 0,
 		"name": "Europechain/Testnet",
 		"stars": 0,
 		"watchers": 0,
@@ -77,6 +65,18 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "Europechain/xec.contracts",
+		"ecosystem_slug": "europechain",
+		"parent_slug": null,
+		"path": "europechain",
+		"slug": "europechain",
+		"title": "Europechain"
+	},
+	{
+		"forks": 0,
+		"name": "Europechain/eos-airdrops",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Europechain/eos-airdrops",
 		"ecosystem_slug": "europechain",
 		"parent_slug": null,
 		"path": "europechain",

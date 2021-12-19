@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 450,
+		"forks": 452,
 		"name": "energicryptocurrency/energi",
-		"stars": 7643,
+		"stars": 7645,
 		"watchers": 0,
 		"repo_name": "energicryptocurrency/energi",
 		"ecosystem_slug": "energi",
@@ -26,7 +26,7 @@
 	{
 		"forks": 16,
 		"name": "energicryptocurrency/energi3",
-		"stars": 39,
+		"stars": 40,
 		"watchers": 0,
 		"repo_name": "energicryptocurrency/energi3",
 		"ecosystem_slug": "energi",
@@ -36,7 +36,7 @@
 		"title": "Energi"
 	},
 	{
-		"forks": 6,
+		"forks": 7,
 		"name": "energicryptocurrency/proposal-creator",
 		"stars": 26,
 		"watchers": 0,
@@ -60,11 +60,11 @@
 		"title": "Energi"
 	},
 	{
-		"forks": 7,
-		"name": "energicryptocurrency/energihash",
-		"stars": 16,
+		"forks": 6,
+		"name": "energicryptocurrency/explorer",
+		"stars": 17,
 		"watchers": 0,
-		"repo_name": "energicryptocurrency/energihash",
+		"repo_name": "energicryptocurrency/explorer",
 		"ecosystem_slug": "energi",
 		"parent_slug": null,
 		"path": "energi",
@@ -72,11 +72,11 @@
 		"title": "Energi"
 	},
 	{
-		"forks": 6,
-		"name": "energicryptocurrency/explorer",
-		"stars": 17,
+		"forks": 7,
+		"name": "energicryptocurrency/energihash",
+		"stars": 16,
 		"watchers": 0,
-		"repo_name": "energicryptocurrency/explorer",
+		"repo_name": "energicryptocurrency/energihash",
 		"ecosystem_slug": "energi",
 		"parent_slug": null,
 		"path": "energi",
@@ -144,11 +144,11 @@
 		"title": "Energi"
 	},
 	{
-		"forks": 5,
-		"name": "energicryptocurrency/sentinel",
-		"stars": 5,
+		"forks": 6,
+		"name": "energicryptocurrency/energi3-blockscout",
+		"stars": 4,
 		"watchers": 0,
-		"repo_name": "energicryptocurrency/sentinel",
+		"repo_name": "energicryptocurrency/energi3-blockscout",
 		"ecosystem_slug": "energi",
 		"parent_slug": null,
 		"path": "energi",
@@ -156,11 +156,11 @@
 		"title": "Energi"
 	},
 	{
-		"forks": 6,
-		"name": "energicryptocurrency/energi3-blockscout",
-		"stars": 4,
+		"forks": 5,
+		"name": "energicryptocurrency/sentinel",
+		"stars": 5,
 		"watchers": 0,
-		"repo_name": "energicryptocurrency/energi3-blockscout",
+		"repo_name": "energicryptocurrency/sentinel",
 		"ecosystem_slug": "energi",
 		"parent_slug": null,
 		"path": "energi",
@@ -228,18 +228,6 @@
 		"title": "Energi"
 	},
 	{
-		"forks": 0,
-		"name": "energicryptocurrency/energi-vote-tracker",
-		"stars": 3,
-		"watchers": 0,
-		"repo_name": "energicryptocurrency/energi-vote-tracker",
-		"ecosystem_slug": "energi",
-		"parent_slug": null,
-		"path": "energi",
-		"slug": "energi",
-		"title": "Energi"
-	},
-	{
 		"forks": 1,
 		"name": "energicryptocurrency/vote-tracker-api",
 		"stars": 2,
@@ -257,6 +245,18 @@
 		"stars": 3,
 		"watchers": 0,
 		"repo_name": "energicryptocurrency/EasyEnergi-PHP",
+		"ecosystem_slug": "energi",
+		"parent_slug": null,
+		"path": "energi",
+		"slug": "energi",
+		"title": "Energi"
+	},
+	{
+		"forks": 0,
+		"name": "energicryptocurrency/energi-vote-tracker",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "energicryptocurrency/energi-vote-tracker",
 		"ecosystem_slug": "energi",
 		"parent_slug": null,
 		"path": "energi",

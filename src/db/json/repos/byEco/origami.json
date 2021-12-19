@@ -1,10 +1,10 @@
 [
 	{
-		"forks": 1,
-		"name": "origamiMP/OrigamiReleaseNote",
-		"stars": 2,
+		"forks": 0,
+		"name": "origamiMP/OrigamiTokenSale",
+		"stars": 3,
 		"watchers": 0,
-		"repo_name": "origamiMP/OrigamiReleaseNote",
+		"repo_name": "origamiMP/OrigamiTokenSale",
 		"ecosystem_slug": "origami",
 		"parent_slug": null,
 		"path": "origami",
@@ -12,11 +12,11 @@
 		"title": "Origami"
 	},
 	{
-		"forks": 0,
-		"name": "origamiMP/OrigamiTokenSale",
-		"stars": 3,
+		"forks": 1,
+		"name": "origamiMP/OrigamiReleaseNote",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "origamiMP/OrigamiTokenSale",
+		"repo_name": "origamiMP/OrigamiReleaseNote",
 		"ecosystem_slug": "origami",
 		"parent_slug": null,
 		"path": "origami",

@@ -1,10 +1,10 @@
 [
 	{
-		"forks": 1,
-		"name": "zperteam/Docs",
-		"stars": 0,
+		"forks": 0,
+		"name": "zperteam/TokennSalenTools",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "zperteam/Docs",
+		"repo_name": "zperteam/TokennSalenTools",
 		"ecosystem_slug": "zper",
 		"parent_slug": null,
 		"path": "zper",
@@ -12,11 +12,11 @@
 		"title": "ZPER"
 	},
 	{
-		"forks": 0,
-		"name": "zperteam/TokennSalenTools",
-		"stars": 1,
+		"forks": 1,
+		"name": "zperteam/Docs",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "zperteam/TokennSalenTools",
+		"repo_name": "zperteam/Docs",
 		"ecosystem_slug": "zper",
 		"parent_slug": null,
 		"path": "zper",

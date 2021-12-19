@@ -14,7 +14,7 @@
 	{
 		"forks": 25,
 		"name": "JSEcoin/server",
-		"stars": 28,
+		"stars": 29,
 		"watchers": 0,
 		"repo_name": "JSEcoin/server",
 		"ecosystem_slug": "jsecoin",
@@ -48,7 +48,7 @@
 		"title": "JSECOIN"
 	},
 	{
-		"forks": 9,
+		"forks": 10,
 		"name": "JSEcoin/buyback",
 		"stars": 5,
 		"watchers": 0,
@@ -84,11 +84,11 @@
 		"title": "JSECOIN"
 	},
 	{
-		"forks": 6,
-		"name": "JSEcoin/v1platform",
-		"stars": 1,
+		"forks": 7,
+		"name": "JSEcoin/signapp",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "JSEcoin/v1platform",
+		"repo_name": "JSEcoin/signapp",
 		"ecosystem_slug": "jsecoin",
 		"parent_slug": null,
 		"path": "jsecoin",
@@ -120,11 +120,11 @@
 		"title": "JSECOIN"
 	},
 	{
-		"forks": 7,
-		"name": "JSEcoin/signapp",
-		"stars": 0,
+		"forks": 6,
+		"name": "JSEcoin/v1platform",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "JSEcoin/signapp",
+		"repo_name": "JSEcoin/v1platform",
 		"ecosystem_slug": "jsecoin",
 		"parent_slug": null,
 		"path": "jsecoin",

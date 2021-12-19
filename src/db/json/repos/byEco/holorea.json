@@ -2,7 +2,7 @@
 	{
 		"forks": 8,
 		"name": "holo-rea/holo-rea",
-		"stars": 81,
+		"stars": 87,
 		"watchers": 0,
 		"repo_name": "holo-rea/holo-rea",
 		"ecosystem_slug": "holorea",
@@ -14,7 +14,7 @@
 	{
 		"forks": 0,
 		"name": "holo-rea/ecosystem",
-		"stars": 17,
+		"stars": 19,
 		"watchers": 0,
 		"repo_name": "holo-rea/ecosystem",
 		"ecosystem_slug": "holorea",
@@ -38,7 +38,7 @@
 	{
 		"forks": 0,
 		"name": "holo-rea/app-offers-needs-marketplace",
-		"stars": 4,
+		"stars": 5,
 		"watchers": 0,
 		"repo_name": "holo-rea/app-offers-needs-marketplace",
 		"ecosystem_slug": "holorea",
@@ -61,10 +61,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "holo-rea/personal-agent-react-app",
+		"name": "holo-rea/app-personal-agent",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "holo-rea/personal-agent-react-app",
+		"repo_name": "holo-rea/app-personal-agent",
 		"ecosystem_slug": "holorea",
 		"parent_slug": "holo",
 		"path": "holo/holorea",
@@ -73,10 +73,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "holo-rea/app-personal-agent",
+		"name": "holo-rea/personal-agent-react-app",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "holo-rea/app-personal-agent",
+		"repo_name": "holo-rea/personal-agent-react-app",
 		"ecosystem_slug": "holorea",
 		"parent_slug": "holo",
 		"path": "holo/holorea",

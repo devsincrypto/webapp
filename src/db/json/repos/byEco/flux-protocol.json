@@ -14,7 +14,7 @@
 	{
 		"forks": 3,
 		"name": "fluxprotocol/flux-index-node",
-		"stars": 17,
+		"stars": 19,
 		"watchers": 0,
 		"repo_name": "fluxprotocol/flux-index-node",
 		"ecosystem_slug": "flux-protocol",
@@ -24,9 +24,9 @@
 		"title": "Flux Protocol"
 	},
 	{
-		"forks": 4,
+		"forks": 5,
 		"name": "fluxprotocol/flux-capacitor",
-		"stars": 15,
+		"stars": 17,
 		"watchers": 0,
 		"repo_name": "fluxprotocol/flux-capacitor",
 		"ecosystem_slug": "flux-protocol",
@@ -50,7 +50,7 @@
 	{
 		"forks": 2,
 		"name": "fluxprotocol/flux-sdk",
-		"stars": 13,
+		"stars": 14,
 		"watchers": 0,
 		"repo_name": "fluxprotocol/flux-sdk",
 		"ecosystem_slug": "flux-protocol",
@@ -120,6 +120,18 @@
 		"title": "Flux Protocol"
 	},
 	{
+		"forks": 1,
+		"name": "fluxprotocol/flux-sdk-amm",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "fluxprotocol/flux-sdk-amm",
+		"ecosystem_slug": "flux-protocol",
+		"parent_slug": "near-protocol",
+		"path": "near-protocol/flux-protocol",
+		"slug": "flux-protocol",
+		"title": "Flux Protocol"
+	},
+	{
 		"forks": 0,
 		"name": "fluxprotocol/nep122-implementation-demo",
 		"stars": 2,
@@ -144,11 +156,11 @@
 		"title": "Flux Protocol"
 	},
 	{
-		"forks": 1,
-		"name": "fluxprotocol/flux-sdk-amm",
+		"forks": 0,
+		"name": "fluxprotocol/amm-sdk",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "fluxprotocol/flux-sdk-amm",
+		"repo_name": "fluxprotocol/amm-sdk",
 		"ecosystem_slug": "flux-protocol",
 		"parent_slug": "near-protocol",
 		"path": "near-protocol/flux-protocol",
@@ -169,10 +181,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "fluxprotocol/amm-sdk",
-		"stars": 1,
+		"name": "fluxprotocol/oracle-explorer-api",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "fluxprotocol/amm-sdk",
+		"repo_name": "fluxprotocol/oracle-explorer-api",
 		"ecosystem_slug": "flux-protocol",
 		"parent_slug": "near-protocol",
 		"path": "near-protocol/flux-protocol",
@@ -205,18 +217,6 @@
 	},
 	{
 		"forks": 0,
-		"name": "fluxprotocol/flux-sdk-am",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "fluxprotocol/flux-sdk-am",
-		"ecosystem_slug": "flux-protocol",
-		"parent_slug": "near-protocol",
-		"path": "near-protocol/flux-protocol",
-		"slug": "flux-protocol",
-		"title": "Flux Protocol"
-	},
-	{
-		"forks": 0,
 		"name": "fluxprotocol/oracle-explorer-fe",
 		"stars": 0,
 		"watchers": 0,
@@ -229,10 +229,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "fluxprotocol/oracle-explorer-api",
+		"name": "fluxprotocol/flux-sdk-am",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "fluxprotocol/oracle-explorer-api",
+		"repo_name": "fluxprotocol/flux-sdk-am",
 		"ecosystem_slug": "flux-protocol",
 		"parent_slug": "near-protocol",
 		"path": "near-protocol/flux-protocol",

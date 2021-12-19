@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 445,
+		"forks": 448,
 		"name": "stratisproject/StratisBitcoinFullNode",
-		"stars": 872,
+		"stars": 877,
 		"watchers": 0,
 		"repo_name": "stratisproject/StratisBitcoinFullNode",
 		"ecosystem_slug": "stratis",
@@ -12,7 +12,7 @@
 		"title": "Stratis"
 	},
 	{
-		"forks": 93,
+		"forks": 94,
 		"name": "stratisproject/NStratis",
 		"stars": 152,
 		"watchers": 0,
@@ -36,7 +36,7 @@
 		"title": "Stratis"
 	},
 	{
-		"forks": 60,
+		"forks": 61,
 		"name": "stratisproject/Breeze",
 		"stars": 104,
 		"watchers": 0,
@@ -48,9 +48,9 @@
 		"title": "Stratis"
 	},
 	{
-		"forks": 47,
+		"forks": 53,
 		"name": "stratisproject/StratisFullNode",
-		"stars": 51,
+		"stars": 59,
 		"watchers": 0,
 		"repo_name": "stratisproject/StratisFullNode",
 		"ecosystem_slug": "stratis",
@@ -60,7 +60,7 @@
 		"title": "Stratis"
 	},
 	{
-		"forks": 37,
+		"forks": 38,
 		"name": "stratisproject/FederatedSidechains",
 		"stars": 23,
 		"watchers": 0,
@@ -96,6 +96,18 @@
 		"title": "Stratis"
 	},
 	{
+		"forks": 13,
+		"name": "stratisproject/TCPServer",
+		"stars": 35,
+		"watchers": 0,
+		"repo_name": "stratisproject/TCPServer",
+		"ecosystem_slug": "stratis",
+		"parent_slug": null,
+		"path": "stratis",
+		"slug": "stratis",
+		"title": "Stratis"
+	},
+	{
 		"forks": 28,
 		"name": "stratisproject/FullNodeUI",
 		"stars": 19,
@@ -110,7 +122,7 @@
 	{
 		"forks": 21,
 		"name": "stratisproject/electrum-stratis",
-		"stars": 25,
+		"stars": 26,
 		"watchers": 0,
 		"repo_name": "stratisproject/electrum-stratis",
 		"ecosystem_slug": "stratis",
@@ -120,19 +132,7 @@
 		"title": "Stratis"
 	},
 	{
-		"forks": 13,
-		"name": "stratisproject/TCPServer",
-		"stars": 33,
-		"watchers": 0,
-		"repo_name": "stratisproject/TCPServer",
-		"ecosystem_slug": "stratis",
-		"parent_slug": null,
-		"path": "stratis",
-		"slug": "stratis",
-		"title": "Stratis"
-	},
-	{
-		"forks": 17,
+		"forks": 18,
 		"name": "stratisproject/CirrusSmartContracts",
 		"stars": 18,
 		"watchers": 0,
@@ -168,9 +168,21 @@
 		"title": "Stratis"
 	},
 	{
-		"forks": 13,
+		"forks": 16,
+		"name": "stratisproject/Documentation",
+		"stars": 8,
+		"watchers": 0,
+		"repo_name": "stratisproject/Documentation",
+		"ecosystem_slug": "stratis",
+		"parent_slug": null,
+		"path": "stratis",
+		"slug": "stratis",
+		"title": "Stratis"
+	},
+	{
+		"forks": 14,
 		"name": "stratisproject/StratisSmartContractsSamples",
-		"stars": 7,
+		"stars": 10,
 		"watchers": 0,
 		"repo_name": "stratisproject/StratisSmartContractsSamples",
 		"ecosystem_slug": "stratis",
@@ -180,7 +192,7 @@
 		"title": "Stratis"
 	},
 	{
-		"forks": 10,
+		"forks": 12,
 		"name": "stratisproject/Stratis.SmartContracts",
 		"stars": 10,
 		"watchers": 0,
@@ -192,11 +204,11 @@
 		"title": "Stratis"
 	},
 	{
-		"forks": 13,
-		"name": "stratisproject/Documentation",
-		"stars": 7,
+		"forks": 4,
+		"name": "stratisproject/BlockchainProgramming",
+		"stars": 15,
 		"watchers": 0,
-		"repo_name": "stratisproject/Documentation",
+		"repo_name": "stratisproject/BlockchainProgramming",
 		"ecosystem_slug": "stratis",
 		"parent_slug": null,
 		"path": "stratis",
@@ -229,18 +241,6 @@
 	},
 	{
 		"forks": 3,
-		"name": "stratisproject/BlockchainProgramming",
-		"stars": 15,
-		"watchers": 0,
-		"repo_name": "stratisproject/BlockchainProgramming",
-		"ecosystem_slug": "stratis",
-		"parent_slug": null,
-		"path": "stratis",
-		"slug": "stratis",
-		"title": "Stratis"
-	},
-	{
-		"forks": 3,
 		"name": "stratisproject/StratisPatricia",
 		"stars": 11,
 		"watchers": 0,
@@ -254,7 +254,7 @@
 	{
 		"forks": 8,
 		"name": "stratisproject/Stratis.SmartContracts.Tools.Sct",
-		"stars": 4,
+		"stars": 5,
 		"watchers": 0,
 		"repo_name": "stratisproject/Stratis.SmartContracts.Tools.Sct",
 		"ecosystem_slug": "stratis",
@@ -264,11 +264,11 @@
 		"title": "Stratis"
 	},
 	{
-		"forks": 6,
-		"name": "stratisproject/NStratis.API",
-		"stars": 5,
+		"forks": 4,
+		"name": "stratisproject/pyStratis",
+		"stars": 8,
 		"watchers": 0,
-		"repo_name": "stratisproject/NStratis.API",
+		"repo_name": "stratisproject/pyStratis",
 		"ecosystem_slug": "stratis",
 		"parent_slug": null,
 		"path": "stratis",
@@ -288,11 +288,11 @@
 		"title": "Stratis"
 	},
 	{
-		"forks": 4,
-		"name": "stratisproject/pyStratis",
-		"stars": 7,
+		"forks": 6,
+		"name": "stratisproject/NStratis.API",
+		"stars": 5,
 		"watchers": 0,
-		"repo_name": "stratisproject/pyStratis",
+		"repo_name": "stratisproject/NStratis.API",
 		"ecosystem_slug": "stratis",
 		"parent_slug": null,
 		"path": "stratis",
@@ -349,6 +349,30 @@
 	},
 	{
 		"forks": 4,
+		"name": "stratisproject/Unity3dIntegration",
+		"stars": 3,
+		"watchers": 0,
+		"repo_name": "stratisproject/Unity3dIntegration",
+		"ecosystem_slug": "stratis",
+		"parent_slug": null,
+		"path": "stratis",
+		"slug": "stratis",
+		"title": "Stratis"
+	},
+	{
+		"forks": 5,
+		"name": "stratisproject/Stratis.SmartContracts.Standards",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "stratisproject/Stratis.SmartContracts.Standards",
+		"ecosystem_slug": "stratis",
+		"parent_slug": null,
+		"path": "stratis",
+		"slug": "stratis",
+		"title": "Stratis"
+	},
+	{
+		"forks": 4,
 		"name": "stratisproject/NStaker",
 		"stars": 2,
 		"watchers": 0,
@@ -372,11 +396,11 @@
 		"title": "Stratis"
 	},
 	{
-		"forks": 5,
-		"name": "stratisproject/Stratis.SmartContracts.Standards",
-		"stars": 1,
+		"forks": 2,
+		"name": "stratisproject/archive_azure-blockchain-projects",
+		"stars": 3,
 		"watchers": 0,
-		"repo_name": "stratisproject/Stratis.SmartContracts.Standards",
+		"repo_name": "stratisproject/archive_azure-blockchain-projects",
 		"ecosystem_slug": "stratis",
 		"parent_slug": null,
 		"path": "stratis",
@@ -397,10 +421,22 @@
 	},
 	{
 		"forks": 2,
-		"name": "stratisproject/archive_azure-blockchain-projects",
-		"stars": 3,
+		"name": "stratisproject/archive_azure-quickstart-templates",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "stratisproject/archive_azure-blockchain-projects",
+		"repo_name": "stratisproject/archive_azure-quickstart-templates",
+		"ecosystem_slug": "stratis",
+		"parent_slug": null,
+		"path": "stratis",
+		"slug": "stratis",
+		"title": "Stratis"
+	},
+	{
+		"forks": 4,
+		"name": "stratisproject/CirrusCore",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "stratisproject/CirrusCore",
 		"ecosystem_slug": "stratis",
 		"parent_slug": null,
 		"path": "stratis",
@@ -413,30 +449,6 @@
 		"stars": 2,
 		"watchers": 0,
 		"repo_name": "stratisproject/archive_stratis",
-		"ecosystem_slug": "stratis",
-		"parent_slug": null,
-		"path": "stratis",
-		"slug": "stratis",
-		"title": "Stratis"
-	},
-	{
-		"forks": 2,
-		"name": "stratisproject/archive_azure-quickstart-templates",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "stratisproject/archive_azure-quickstart-templates",
-		"ecosystem_slug": "stratis",
-		"parent_slug": null,
-		"path": "stratis",
-		"slug": "stratis",
-		"title": "Stratis"
-	},
-	{
-		"forks": 3,
-		"name": "stratisproject/bitcore-lib-stratis",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "stratisproject/bitcore-lib-stratis",
 		"ecosystem_slug": "stratis",
 		"parent_slug": null,
 		"path": "stratis",
@@ -468,11 +480,11 @@
 		"title": "Stratis"
 	},
 	{
-		"forks": 1,
-		"name": "stratisproject/warp",
-		"stars": 1,
+		"forks": 3,
+		"name": "stratisproject/bitcore-lib-stratis",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "stratisproject/warp",
+		"repo_name": "stratisproject/bitcore-lib-stratis",
 		"ecosystem_slug": "stratis",
 		"parent_slug": null,
 		"path": "stratis",
@@ -485,18 +497,6 @@
 		"stars": 1,
 		"watchers": 0,
 		"repo_name": "stratisproject/STOPlatform",
-		"ecosystem_slug": "stratis",
-		"parent_slug": null,
-		"path": "stratis",
-		"slug": "stratis",
-		"title": "Stratis"
-	},
-	{
-		"forks": 0,
-		"name": "stratisproject/Unity3dIntegration",
-		"stars": 2,
-		"watchers": 0,
-		"repo_name": "stratisproject/Unity3dIntegration",
 		"ecosystem_slug": "stratis",
 		"parent_slug": null,
 		"path": "stratis",
@@ -517,6 +517,18 @@
 	},
 	{
 		"forks": 1,
+		"name": "stratisproject/warp",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "stratisproject/warp",
+		"ecosystem_slug": "stratis",
+		"parent_slug": null,
+		"path": "stratis",
+		"slug": "stratis",
+		"title": "Stratis"
+	},
+	{
+		"forks": 1,
 		"name": "stratisproject/bitcore-strax",
 		"stars": 0,
 		"watchers": 0,
@@ -529,22 +541,10 @@
 	},
 	{
 		"forks": 1,
-		"name": "stratisproject/CirrusCore",
+		"name": "stratisproject/rocksdb-sharp",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "stratisproject/CirrusCore",
-		"ecosystem_slug": "stratis",
-		"parent_slug": null,
-		"path": "stratis",
-		"slug": "stratis",
-		"title": "Stratis"
-	},
-	{
-		"forks": 0,
-		"name": "stratisproject/StraxCLI",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "stratisproject/StraxCLI",
+		"repo_name": "stratisproject/rocksdb-sharp",
 		"ecosystem_slug": "stratis",
 		"parent_slug": null,
 		"path": "stratis",
@@ -564,11 +564,11 @@
 		"title": "Stratis"
 	},
 	{
-		"forks": 1,
-		"name": "stratisproject/rocksdb-sharp",
-		"stars": 0,
+		"forks": 0,
+		"name": "stratisproject/StraxCLI",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "stratisproject/rocksdb-sharp",
+		"repo_name": "stratisproject/StraxCLI",
 		"ecosystem_slug": "stratis",
 		"parent_slug": null,
 		"path": "stratis",

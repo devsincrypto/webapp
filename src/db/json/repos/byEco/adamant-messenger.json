@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 25,
+		"forks": 30,
 		"name": "Adamant-im/adamant",
-		"stars": 426,
+		"stars": 434,
 		"watchers": 0,
 		"repo_name": "Adamant-im/adamant",
 		"ecosystem_slug": "adamant-messenger",
@@ -12,9 +12,9 @@
 		"title": "ADAMANT Messenger"
 	},
 	{
-		"forks": 32,
+		"forks": 37,
 		"name": "Adamant-im/adamant-im",
-		"stars": 229,
+		"stars": 231,
 		"watchers": 0,
 		"repo_name": "Adamant-im/adamant-im",
 		"ecosystem_slug": "adamant-messenger",
@@ -24,9 +24,9 @@
 		"title": "ADAMANT Messenger"
 	},
 	{
-		"forks": 33,
+		"forks": 39,
 		"name": "Adamant-im/ETH-transactions-storage",
-		"stars": 102,
+		"stars": 133,
 		"watchers": 0,
 		"repo_name": "Adamant-im/ETH-transactions-storage",
 		"ecosystem_slug": "adamant-messenger",
@@ -36,9 +36,9 @@
 		"title": "ADAMANT Messenger"
 	},
 	{
-		"forks": 12,
+		"forks": 16,
 		"name": "Adamant-im/adamant-android",
-		"stars": 30,
+		"stars": 31,
 		"watchers": 0,
 		"repo_name": "Adamant-im/adamant-android",
 		"ecosystem_slug": "adamant-messenger",
@@ -48,21 +48,9 @@
 		"title": "ADAMANT Messenger"
 	},
 	{
-		"forks": 9,
-		"name": "Adamant-im/adamant-iOS",
-		"stars": 17,
-		"watchers": 0,
-		"repo_name": "Adamant-im/adamant-iOS",
-		"ecosystem_slug": "adamant-messenger",
-		"parent_slug": null,
-		"path": "adamant-messenger",
-		"slug": "adamant-messenger",
-		"title": "ADAMANT Messenger"
-	},
-	{
-		"forks": 7,
+		"forks": 16,
 		"name": "Adamant-im/adamant-tradebot",
-		"stars": 18,
+		"stars": 23,
 		"watchers": 0,
 		"repo_name": "Adamant-im/adamant-tradebot",
 		"ecosystem_slug": "adamant-messenger",
@@ -72,7 +60,19 @@
 		"title": "ADAMANT Messenger"
 	},
 	{
-		"forks": 3,
+		"forks": 11,
+		"name": "Adamant-im/adamant-iOS",
+		"stars": 20,
+		"watchers": 0,
+		"repo_name": "Adamant-im/adamant-iOS",
+		"ecosystem_slug": "adamant-messenger",
+		"parent_slug": null,
+		"path": "adamant-messenger",
+		"slug": "adamant-messenger",
+		"title": "ADAMANT Messenger"
+	},
+	{
+		"forks": 4,
 		"name": "Adamant-im/adamant-explorer",
 		"stars": 6,
 		"watchers": 0,
@@ -84,7 +84,7 @@
 		"title": "ADAMANT Messenger"
 	},
 	{
-		"forks": 4,
+		"forks": 5,
 		"name": "Adamant-im/adamant-2fa",
 		"stars": 3,
 		"watchers": 0,
@@ -96,7 +96,19 @@
 		"title": "ADAMANT Messenger"
 	},
 	{
-		"forks": 4,
+		"forks": 5,
+		"name": "Adamant-im/adamant-pool",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "Adamant-im/adamant-pool",
+		"ecosystem_slug": "adamant-messenger",
+		"parent_slug": null,
+		"path": "adamant-messenger",
+		"slug": "adamant-messenger",
+		"title": "ADAMANT Messenger"
+	},
+	{
+		"forks": 5,
 		"name": "Adamant-im/adamant-api-jsclient",
 		"stars": 2,
 		"watchers": 0,
@@ -109,18 +121,6 @@
 	},
 	{
 		"forks": 5,
-		"name": "Adamant-im/adamant-pool",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "Adamant-im/adamant-pool",
-		"ecosystem_slug": "adamant-messenger",
-		"parent_slug": null,
-		"path": "adamant-messenger",
-		"slug": "adamant-messenger",
-		"title": "ADAMANT Messenger"
-	},
-	{
-		"forks": 4,
 		"name": "Adamant-im/AIPs",
 		"stars": 1,
 		"watchers": 0,
@@ -144,7 +144,7 @@
 		"title": "ADAMANT Messenger"
 	},
 	{
-		"forks": 4,
+		"forks": 5,
 		"name": "Adamant-im/adamant-console",
 		"stars": 0,
 		"watchers": 0,
@@ -168,18 +168,6 @@
 		"title": "ADAMANT Messenger"
 	},
 	{
-		"forks": 3,
-		"name": "Adamant-im/adamant-currencyinfo-services",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "Adamant-im/adamant-currencyinfo-services",
-		"ecosystem_slug": "adamant-messenger",
-		"parent_slug": null,
-		"path": "adamant-messenger",
-		"slug": "adamant-messenger",
-		"title": "ADAMANT Messenger"
-	},
-	{
 		"forks": 1,
 		"name": "Adamant-im/adamant-notificationService",
 		"stars": 2,
@@ -192,23 +180,11 @@
 		"title": "ADAMANT Messenger"
 	},
 	{
-		"forks": 1,
-		"name": "Adamant-im/adamant-bet",
-		"stars": 1,
+		"forks": 3,
+		"name": "Adamant-im/adamant-currencyinfo-services",
+		"stars": 0,
 		"watchers": 0,
-		"repo_name": "Adamant-im/adamant-bet",
-		"ecosystem_slug": "adamant-messenger",
-		"parent_slug": null,
-		"path": "adamant-messenger",
-		"slug": "adamant-messenger",
-		"title": "ADAMANT Messenger"
-	},
-	{
-		"forks": 1,
-		"name": "Adamant-im/adamant-fcm-notification-service",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "Adamant-im/adamant-fcm-notification-service",
+		"repo_name": "Adamant-im/adamant-currencyinfo-services",
 		"ecosystem_slug": "adamant-messenger",
 		"parent_slug": null,
 		"path": "adamant-messenger",
@@ -229,10 +205,34 @@
 	},
 	{
 		"forks": 1,
-		"name": "Adamant-im/lisk-swift",
+		"name": "Adamant-im/adamant-fcm-notification-service",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Adamant-im/adamant-fcm-notification-service",
+		"ecosystem_slug": "adamant-messenger",
+		"parent_slug": null,
+		"path": "adamant-messenger",
+		"slug": "adamant-messenger",
+		"title": "ADAMANT Messenger"
+	},
+	{
+		"forks": 1,
+		"name": "Adamant-im/adamant-bet",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "Adamant-im/adamant-bet",
+		"ecosystem_slug": "adamant-messenger",
+		"parent_slug": null,
+		"path": "adamant-messenger",
+		"slug": "adamant-messenger",
+		"title": "ADAMANT Messenger"
+	},
+	{
+		"forks": 1,
+		"name": "Adamant-im/adamant-mixer",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "Adamant-im/lisk-swift",
+		"repo_name": "Adamant-im/adamant-mixer",
 		"ecosystem_slug": "adamant-messenger",
 		"parent_slug": null,
 		"path": "adamant-messenger",
@@ -253,10 +253,10 @@
 	},
 	{
 		"forks": 1,
-		"name": "Adamant-im/adamant-mixer",
+		"name": "Adamant-im/lisk-swift",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "Adamant-im/adamant-mixer",
+		"repo_name": "Adamant-im/lisk-swift",
 		"ecosystem_slug": "adamant-messenger",
 		"parent_slug": null,
 		"path": "adamant-messenger",
@@ -277,10 +277,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "Adamant-im/adamant-erc20",
+		"name": "Adamant-im/adamant-infoservices",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "Adamant-im/adamant-erc20",
+		"repo_name": "Adamant-im/adamant-infoservices",
 		"ecosystem_slug": "adamant-messenger",
 		"parent_slug": null,
 		"path": "adamant-messenger",
@@ -289,10 +289,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "Adamant-im/adamant-infoservices",
+		"name": "Adamant-im/adamant-erc20",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "Adamant-im/adamant-infoservices",
+		"repo_name": "Adamant-im/adamant-erc20",
 		"ecosystem_slug": "adamant-messenger",
 		"parent_slug": null,
 		"path": "adamant-messenger",

@@ -25,18 +25,6 @@
 	},
 	{
 		"forks": 1,
-		"name": "Cdiamondcoin/dpass",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "Cdiamondcoin/dpass",
-		"ecosystem_slug": "diamond-platform-token",
-		"parent_slug": null,
-		"path": "diamond-platform-token",
-		"slug": "diamond-platform-token",
-		"title": "Diamond Platform Token"
-	},
-	{
-		"forks": 1,
 		"name": "Cdiamondcoin/diamond-exchange",
 		"stars": 0,
 		"watchers": 0,
@@ -48,11 +36,23 @@
 		"title": "Diamond Platform Token"
 	},
 	{
-		"forks": 0,
-		"name": "Cdiamondcoin/medianizer",
+		"forks": 1,
+		"name": "Cdiamondcoin/dpass",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "Cdiamondcoin/medianizer",
+		"repo_name": "Cdiamondcoin/dpass",
+		"ecosystem_slug": "diamond-platform-token",
+		"parent_slug": null,
+		"path": "diamond-platform-token",
+		"slug": "diamond-platform-token",
+		"title": "Diamond Platform Token"
+	},
+	{
+		"forks": 0,
+		"name": "Cdiamondcoin/proxy",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Cdiamondcoin/proxy",
 		"ecosystem_slug": "diamond-platform-token",
 		"parent_slug": null,
 		"path": "diamond-platform-token",
@@ -85,10 +85,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "Cdiamondcoin/proxy",
+		"name": "Cdiamondcoin/medianizer",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "Cdiamondcoin/proxy",
+		"repo_name": "Cdiamondcoin/medianizer",
 		"ecosystem_slug": "diamond-platform-token",
 		"parent_slug": null,
 		"path": "diamond-platform-token",

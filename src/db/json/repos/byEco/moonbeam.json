@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 107,
+		"forks": 131,
 		"name": "PureStake/moonbeam",
-		"stars": 386,
+		"stars": 515,
 		"watchers": 0,
 		"repo_name": "PureStake/moonbeam",
 		"ecosystem_slug": "moonbeam",
@@ -12,9 +12,9 @@
 		"title": "Moonbeam"
 	},
 	{
-		"forks": 30,
+		"forks": 36,
 		"name": "PureStake/moonbeam-docs",
-		"stars": 16,
+		"stars": 23,
 		"watchers": 0,
 		"repo_name": "PureStake/moonbeam-docs",
 		"ecosystem_slug": "moonbeam",
@@ -24,23 +24,11 @@
 		"title": "Moonbeam"
 	},
 	{
-		"forks": 19,
+		"forks": 27,
 		"name": "PureStake/frontier",
-		"stars": 15,
+		"stars": 16,
 		"watchers": 0,
 		"repo_name": "PureStake/frontier",
-		"ecosystem_slug": "moonbeam",
-		"parent_slug": null,
-		"path": "moonbeam",
-		"slug": "moonbeam",
-		"title": "Moonbeam"
-	},
-	{
-		"forks": 1,
-		"name": "PureStake/moonbeam-sub0",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "PureStake/moonbeam-sub0",
 		"ecosystem_slug": "moonbeam",
 		"parent_slug": null,
 		"path": "moonbeam",
@@ -53,6 +41,18 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "PureStake/moonbeam-testnet",
+		"ecosystem_slug": "moonbeam",
+		"parent_slug": null,
+		"path": "moonbeam",
+		"slug": "moonbeam",
+		"title": "Moonbeam"
+	},
+	{
+		"forks": 1,
+		"name": "PureStake/moonbeam-sub0",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "PureStake/moonbeam-sub0",
 		"ecosystem_slug": "moonbeam",
 		"parent_slug": null,
 		"path": "moonbeam",

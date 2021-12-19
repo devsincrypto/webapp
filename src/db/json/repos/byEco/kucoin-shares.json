@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 78,
+		"forks": 93,
 		"name": "Kucoin/kucoin-api-docs",
-		"stars": 129,
+		"stars": 153,
 		"watchers": 0,
 		"repo_name": "Kucoin/kucoin-api-docs",
 		"ecosystem_slug": "kucoin-shares",
@@ -12,9 +12,9 @@
 		"title": "KuCoin Shares"
 	},
 	{
-		"forks": 39,
+		"forks": 52,
 		"name": "Kucoin/kucoin-python-sdk",
-		"stars": 76,
+		"stars": 110,
 		"watchers": 0,
 		"repo_name": "Kucoin/kucoin-python-sdk",
 		"ecosystem_slug": "kucoin-shares",
@@ -24,9 +24,9 @@
 		"title": "KuCoin Shares"
 	},
 	{
-		"forks": 39,
+		"forks": 46,
 		"name": "Kucoin/kucoin-go-sdk",
-		"stars": 50,
+		"stars": 59,
 		"watchers": 0,
 		"repo_name": "Kucoin/kucoin-go-sdk",
 		"ecosystem_slug": "kucoin-shares",
@@ -36,9 +36,9 @@
 		"title": "KuCoin Shares"
 	},
 	{
-		"forks": 35,
+		"forks": 40,
 		"name": "Kucoin/kucoin-java-sdk",
-		"stars": 38,
+		"stars": 48,
 		"watchers": 0,
 		"repo_name": "Kucoin/kucoin-java-sdk",
 		"ecosystem_slug": "kucoin-shares",
@@ -48,11 +48,23 @@
 		"title": "KuCoin Shares"
 	},
 	{
-		"forks": 25,
+		"forks": 30,
 		"name": "Kucoin/kucoin-php-sdk",
-		"stars": 43,
+		"stars": 52,
 		"watchers": 0,
 		"repo_name": "Kucoin/kucoin-php-sdk",
+		"ecosystem_slug": "kucoin-shares",
+		"parent_slug": null,
+		"path": "kucoin-shares",
+		"slug": "kucoin-shares",
+		"title": "KuCoin Shares"
+	},
+	{
+		"forks": 20,
+		"name": "Kucoin/kucoin-node-sdk",
+		"stars": 43,
+		"watchers": 0,
+		"repo_name": "Kucoin/kucoin-node-sdk",
 		"ecosystem_slug": "kucoin-shares",
 		"parent_slug": null,
 		"path": "kucoin-shares",
@@ -73,20 +85,8 @@
 	},
 	{
 		"forks": 15,
-		"name": "Kucoin/kucoin-node-sdk",
-		"stars": 22,
-		"watchers": 0,
-		"repo_name": "Kucoin/kucoin-node-sdk",
-		"ecosystem_slug": "kucoin-shares",
-		"parent_slug": null,
-		"path": "kucoin-shares",
-		"slug": "kucoin-shares",
-		"title": "KuCoin Shares"
-	},
-	{
-		"forks": 14,
 		"name": "Kucoin/kucoin-futures-python-sdk",
-		"stars": 15,
+		"stars": 19,
 		"watchers": 0,
 		"repo_name": "Kucoin/kucoin-futures-python-sdk",
 		"ecosystem_slug": "kucoin-shares",
@@ -98,7 +98,7 @@
 	{
 		"forks": 13,
 		"name": "Kucoin/kucoin-level3-sdk",
-		"stars": 11,
+		"stars": 12,
 		"watchers": 0,
 		"repo_name": "Kucoin/kucoin-level3-sdk",
 		"ecosystem_slug": "kucoin-shares",
@@ -122,7 +122,7 @@
 	{
 		"forks": 6,
 		"name": "Kucoin/kumex-python-sdk",
-		"stars": 13,
+		"stars": 14,
 		"watchers": 0,
 		"repo_name": "Kucoin/kumex-python-sdk",
 		"ecosystem_slug": "kucoin-shares",
@@ -156,6 +156,30 @@
 		"title": "KuCoin Shares"
 	},
 	{
+		"forks": 4,
+		"name": "Kucoin/kucoin-futures-java-sdk",
+		"stars": 6,
+		"watchers": 0,
+		"repo_name": "Kucoin/kucoin-futures-java-sdk",
+		"ecosystem_slug": "kucoin-shares",
+		"parent_slug": null,
+		"path": "kucoin-shares",
+		"slug": "kucoin-shares",
+		"title": "KuCoin Shares"
+	},
+	{
+		"forks": 2,
+		"name": "Kucoin/kucoin-api-demo",
+		"stars": 7,
+		"watchers": 0,
+		"repo_name": "Kucoin/kucoin-api-demo",
+		"ecosystem_slug": "kucoin-shares",
+		"parent_slug": null,
+		"path": "kucoin-shares",
+		"slug": "kucoin-shares",
+		"title": "KuCoin Shares"
+	},
+	{
 		"forks": 2,
 		"name": "Kucoin/python-kucoin",
 		"stars": 7,
@@ -168,11 +192,23 @@
 		"title": "KuCoin Shares"
 	},
 	{
-		"forks": 3,
-		"name": "Kucoin/kucoin-futures-java-sdk",
-		"stars": 5,
+		"forks": 6,
+		"name": "Kucoin/kucoin-futures-go-sdk",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "Kucoin/kucoin-futures-java-sdk",
+		"repo_name": "Kucoin/kucoin-futures-go-sdk",
+		"ecosystem_slug": "kucoin-shares",
+		"parent_slug": null,
+		"path": "kucoin-shares",
+		"slug": "kucoin-shares",
+		"title": "KuCoin Shares"
+	},
+	{
+		"forks": 4,
+		"name": "Kucoin/kucoin-futures-php-sdk",
+		"stars": 4,
+		"watchers": 0,
+		"repo_name": "Kucoin/kucoin-futures-php-sdk",
 		"ecosystem_slug": "kucoin-shares",
 		"parent_slug": null,
 		"path": "kucoin-shares",
@@ -192,33 +228,9 @@
 		"title": "KuCoin Shares"
 	},
 	{
-		"forks": 4,
-		"name": "Kucoin/kucoin-futures-php-sdk",
-		"stars": 3,
-		"watchers": 0,
-		"repo_name": "Kucoin/kucoin-futures-php-sdk",
-		"ecosystem_slug": "kucoin-shares",
-		"parent_slug": null,
-		"path": "kucoin-shares",
-		"slug": "kucoin-shares",
-		"title": "KuCoin Shares"
-	},
-	{
-		"forks": 1,
-		"name": "Kucoin/kucoin-api-demo",
-		"stars": 6,
-		"watchers": 0,
-		"repo_name": "Kucoin/kucoin-api-demo",
-		"ecosystem_slug": "kucoin-shares",
-		"parent_slug": null,
-		"path": "kucoin-shares",
-		"slug": "kucoin-shares",
-		"title": "KuCoin Shares"
-	},
-	{
 		"forks": 5,
 		"name": "Kucoin/kucoin-futures-api-docs",
-		"stars": 1,
+		"stars": 2,
 		"watchers": 0,
 		"repo_name": "Kucoin/kucoin-futures-api-docs",
 		"ecosystem_slug": "kucoin-shares",
@@ -228,11 +240,11 @@
 		"title": "KuCoin Shares"
 	},
 	{
-		"forks": 5,
-		"name": "Kucoin/kucoin-futures-go-sdk",
-		"stars": 1,
+		"forks": 2,
+		"name": "Kucoin/kumex-api-demo",
+		"stars": 4,
 		"watchers": 0,
-		"repo_name": "Kucoin/kucoin-futures-go-sdk",
+		"repo_name": "Kucoin/kumex-api-demo",
 		"ecosystem_slug": "kucoin-shares",
 		"parent_slug": null,
 		"path": "kucoin-shares",
@@ -257,18 +269,6 @@
 		"stars": 3,
 		"watchers": 0,
 		"repo_name": "Kucoin/kumex-java-sdk",
-		"ecosystem_slug": "kucoin-shares",
-		"parent_slug": null,
-		"path": "kucoin-shares",
-		"slug": "kucoin-shares",
-		"title": "KuCoin Shares"
-	},
-	{
-		"forks": 1,
-		"name": "Kucoin/kumex-api-demo",
-		"stars": 4,
-		"watchers": 0,
-		"repo_name": "Kucoin/kumex-api-demo",
 		"ecosystem_slug": "kucoin-shares",
 		"parent_slug": null,
 		"path": "kucoin-shares",

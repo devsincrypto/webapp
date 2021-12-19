@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 104,
+		"forks": 105,
 		"name": "harvest-finance/harvest",
-		"stars": 184,
+		"stars": 201,
 		"watchers": 0,
 		"repo_name": "harvest-finance/harvest",
 		"ecosystem_slug": "harvest-finance",
@@ -12,9 +12,9 @@
 		"title": "Harvest Finance"
 	},
 	{
-		"forks": 19,
+		"forks": 27,
 		"name": "harvest-finance/harvest-strategy",
-		"stars": 77,
+		"stars": 93,
 		"watchers": 0,
 		"repo_name": "harvest-finance/harvest-strategy",
 		"ecosystem_slug": "harvest-finance",
@@ -26,7 +26,7 @@
 	{
 		"forks": 10,
 		"name": "harvest-finance/harvest-strategy-bsc",
-		"stars": 34,
+		"stars": 35,
 		"watchers": 0,
 		"repo_name": "harvest-finance/harvest-strategy-bsc",
 		"ecosystem_slug": "harvest-finance",
@@ -48,11 +48,11 @@
 		"title": "Harvest Finance"
 	},
 	{
-		"forks": 3,
-		"name": "harvest-finance/tracing-efforts",
-		"stars": 1,
+		"forks": 5,
+		"name": "harvest-finance/harvest-strategy-polygon",
+		"stars": 3,
 		"watchers": 0,
-		"repo_name": "harvest-finance/tracing-efforts",
+		"repo_name": "harvest-finance/harvest-strategy-polygon",
 		"ecosystem_slug": "harvest-finance",
 		"parent_slug": null,
 		"path": "harvest-finance",
@@ -61,10 +61,10 @@
 	},
 	{
 		"forks": 3,
-		"name": "harvest-finance/harvest-strategy-polygon",
+		"name": "harvest-finance/tracing-efforts",
 		"stars": 1,
 		"watchers": 0,
-		"repo_name": "harvest-finance/harvest-strategy-polygon",
+		"repo_name": "harvest-finance/tracing-efforts",
 		"ecosystem_slug": "harvest-finance",
 		"parent_slug": null,
 		"path": "harvest-finance",

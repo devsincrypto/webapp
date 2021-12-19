@@ -1,10 +1,10 @@
 [
 	{
 		"forks": 0,
-		"name": "osa-decentralized/data_busters",
+		"name": "osa-decentralized/blockchain",
 		"stars": 2,
 		"watchers": 0,
-		"repo_name": "osa-decentralized/data_busters",
+		"repo_name": "osa-decentralized/blockchain",
 		"ecosystem_slug": "optimal-shelf-availability-token",
 		"parent_slug": null,
 		"path": "optimal-shelf-availability-token",
@@ -25,10 +25,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "osa-decentralized/blockchain",
+		"name": "osa-decentralized/data_busters",
 		"stars": 2,
 		"watchers": 0,
-		"repo_name": "osa-decentralized/blockchain",
+		"repo_name": "osa-decentralized/data_busters",
 		"ecosystem_slug": "optimal-shelf-availability-token",
 		"parent_slug": null,
 		"path": "optimal-shelf-availability-token",

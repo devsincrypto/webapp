@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 288,
+		"forks": 291,
 		"name": "electroneum/electroneum",
-		"stars": 495,
+		"stars": 499,
 		"watchers": 0,
 		"repo_name": "electroneum/electroneum",
 		"ecosystem_slug": "electroneum",
@@ -72,6 +72,18 @@
 		"title": "Electroneum"
 	},
 	{
+		"forks": 2,
+		"name": "electroneum/wallet-manager-php",
+		"stars": 5,
+		"watchers": 0,
+		"repo_name": "electroneum/wallet-manager-php",
+		"ecosystem_slug": "electroneum",
+		"parent_slug": null,
+		"path": "electroneum",
+		"slug": "electroneum",
+		"title": "Electroneum"
+	},
+	{
 		"forks": 4,
 		"name": "electroneum/electroneum-ledger-app",
 		"stars": 3,
@@ -89,18 +101,6 @@
 		"stars": 4,
 		"watchers": 0,
 		"repo_name": "electroneum/node-cryptonote-util",
-		"ecosystem_slug": "electroneum",
-		"parent_slug": null,
-		"path": "electroneum",
-		"slug": "electroneum",
-		"title": "Electroneum"
-	},
-	{
-		"forks": 2,
-		"name": "electroneum/wallet-manager-php",
-		"stars": 5,
-		"watchers": 0,
-		"repo_name": "electroneum/wallet-manager-php",
 		"ecosystem_slug": "electroneum",
 		"parent_slug": null,
 		"path": "electroneum",
@@ -145,18 +145,6 @@
 	},
 	{
 		"forks": 0,
-		"name": "electroneum/cordova-plugin-inappbrowser",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "electroneum/cordova-plugin-inappbrowser",
-		"ecosystem_slug": "electroneum",
-		"parent_slug": null,
-		"path": "electroneum",
-		"slug": "electroneum",
-		"title": "Electroneum"
-	},
-	{
-		"forks": 0,
 		"name": "electroneum/cordova-plugin-network-information",
 		"stars": 0,
 		"watchers": 0,
@@ -173,6 +161,18 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "electroneum/cordova-plugin-crypt-file",
+		"ecosystem_slug": "electroneum",
+		"parent_slug": null,
+		"path": "electroneum",
+		"slug": "electroneum",
+		"title": "Electroneum"
+	},
+	{
+		"forks": 0,
+		"name": "electroneum/cordova-plugin-inappbrowser",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "electroneum/cordova-plugin-inappbrowser",
 		"ecosystem_slug": "electroneum",
 		"parent_slug": null,
 		"path": "electroneum",

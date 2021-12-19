@@ -48,7 +48,7 @@
 		"title": "POPCHAIN"
 	},
 	{
-		"forks": 2,
+		"forks": 3,
 		"name": "PopchainOrg/PopChain-Original",
 		"stars": 2,
 		"watchers": 0,
@@ -61,10 +61,10 @@
 	},
 	{
 		"forks": 2,
-		"name": "PopchainOrg/poprig",
+		"name": "PopchainOrg/poprig-deps",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "PopchainOrg/poprig",
+		"repo_name": "PopchainOrg/poprig-deps",
 		"ecosystem_slug": "popchain",
 		"parent_slug": null,
 		"path": "popchain",
@@ -73,10 +73,10 @@
 	},
 	{
 		"forks": 2,
-		"name": "PopchainOrg/poprig-deps",
+		"name": "PopchainOrg/poprig",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "PopchainOrg/poprig-deps",
+		"repo_name": "PopchainOrg/poprig",
 		"ecosystem_slug": "popchain",
 		"parent_slug": null,
 		"path": "popchain",

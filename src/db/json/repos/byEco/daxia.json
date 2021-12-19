@@ -24,11 +24,11 @@
 		"title": "Daxia"
 	},
 	{
-		"forks": 2,
-		"name": "DecentralizedDerivatives/Deriveth",
-		"stars": 7,
+		"forks": 5,
+		"name": "DecentralizedDerivatives/MineableOracle",
+		"stars": 4,
 		"watchers": 0,
-		"repo_name": "DecentralizedDerivatives/Deriveth",
+		"repo_name": "DecentralizedDerivatives/MineableOracle",
 		"ecosystem_slug": "daxia",
 		"parent_slug": null,
 		"path": "daxia",
@@ -36,11 +36,11 @@
 		"title": "Daxia"
 	},
 	{
-		"forks": 5,
-		"name": "DecentralizedDerivatives/MineableOracle",
-		"stars": 4,
+		"forks": 2,
+		"name": "DecentralizedDerivatives/Deriveth",
+		"stars": 7,
 		"watchers": 0,
-		"repo_name": "DecentralizedDerivatives/MineableOracle",
+		"repo_name": "DecentralizedDerivatives/Deriveth",
 		"ecosystem_slug": "daxia",
 		"parent_slug": null,
 		"path": "daxia",
@@ -72,18 +72,6 @@
 		"title": "Daxia"
 	},
 	{
-		"forks": 2,
-		"name": "DecentralizedDerivatives/Wrapped_Ether",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "DecentralizedDerivatives/Wrapped_Ether",
-		"ecosystem_slug": "daxia",
-		"parent_slug": null,
-		"path": "daxia",
-		"slug": "daxia",
-		"title": "Daxia"
-	},
-	{
 		"forks": 0,
 		"name": "DecentralizedDerivatives/cryptobridge-contracts",
 		"stars": 2,
@@ -96,11 +84,11 @@
 		"title": "Daxia"
 	},
 	{
-		"forks": 1,
-		"name": "DecentralizedDerivatives/membership",
+		"forks": 2,
+		"name": "DecentralizedDerivatives/Wrapped_Ether",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "DecentralizedDerivatives/membership",
+		"repo_name": "DecentralizedDerivatives/Wrapped_Ether",
 		"ecosystem_slug": "daxia",
 		"parent_slug": null,
 		"path": "daxia",
@@ -120,11 +108,23 @@
 		"title": "Daxia"
 	},
 	{
-		"forks": 0,
-		"name": "DecentralizedDerivatives/association",
+		"forks": 1,
+		"name": "DecentralizedDerivatives/membership",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "DecentralizedDerivatives/association",
+		"repo_name": "DecentralizedDerivatives/membership",
+		"ecosystem_slug": "daxia",
+		"parent_slug": null,
+		"path": "daxia",
+		"slug": "daxia",
+		"title": "Daxia"
+	},
+	{
+		"forks": 0,
+		"name": "DecentralizedDerivatives/tools",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "DecentralizedDerivatives/tools",
 		"ecosystem_slug": "daxia",
 		"parent_slug": null,
 		"path": "daxia",
@@ -145,10 +145,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "DecentralizedDerivatives/tools",
+		"name": "DecentralizedDerivatives/association",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "DecentralizedDerivatives/tools",
+		"repo_name": "DecentralizedDerivatives/association",
 		"ecosystem_slug": "daxia",
 		"parent_slug": null,
 		"path": "daxia",

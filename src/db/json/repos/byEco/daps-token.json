@@ -2,7 +2,7 @@
 	{
 		"forks": 58,
 		"name": "DAPSCoin/DAPSCoin",
-		"stars": 80,
+		"stars": 81,
 		"watchers": 0,
 		"repo_name": "DAPSCoin/DAPSCoin",
 		"ecosystem_slug": "daps-token",
@@ -85,6 +85,18 @@
 	},
 	{
 		"forks": 2,
+		"name": "DAPSCoin/daps-seeder",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "DAPSCoin/daps-seeder",
+		"ecosystem_slug": "daps-token",
+		"parent_slug": null,
+		"path": "daps-token",
+		"slug": "daps-token",
+		"title": "DAPS Token"
+	},
+	{
+		"forks": 2,
 		"name": "DAPSCoin/DAPS-iOS",
 		"stars": 0,
 		"watchers": 0,
@@ -108,11 +120,11 @@
 		"title": "DAPS Token"
 	},
 	{
-		"forks": 2,
-		"name": "DAPSCoin/daps-seeder",
+		"forks": 0,
+		"name": "DAPSCoin/bitcoin-ts",
 		"stars": 0,
 		"watchers": 0,
-		"repo_name": "DAPSCoin/daps-seeder",
+		"repo_name": "DAPSCoin/bitcoin-ts",
 		"ecosystem_slug": "daps-token",
 		"parent_slug": null,
 		"path": "daps-token",
@@ -125,18 +137,6 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "DAPSCoin/secp256k1-mw",
-		"ecosystem_slug": "daps-token",
-		"parent_slug": null,
-		"path": "daps-token",
-		"slug": "daps-token",
-		"title": "DAPS Token"
-	},
-	{
-		"forks": 0,
-		"name": "DAPSCoin/bitcoin-ts",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "DAPSCoin/bitcoin-ts",
 		"ecosystem_slug": "daps-token",
 		"parent_slug": null,
 		"path": "daps-token",

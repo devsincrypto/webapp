@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 199,
+		"forks": 232,
 		"name": "rotki/rotki",
-		"stars": 1071,
+		"stars": 1218,
 		"watchers": 0,
 		"repo_name": "rotki/rotki",
 		"ecosystem_slug": "rotki",
@@ -12,7 +12,7 @@
 		"title": "Rotki"
 	},
 	{
-		"forks": 6,
+		"forks": 7,
 		"name": "rotki/assets",
 		"stars": 6,
 		"watchers": 0,
@@ -29,6 +29,18 @@
 		"stars": 1,
 		"watchers": 0,
 		"repo_name": "rotki/rotkicom.github.io",
+		"ecosystem_slug": "rotki",
+		"parent_slug": null,
+		"path": "rotki",
+		"slug": "rotki",
+		"title": "Rotki"
+	},
+	{
+		"forks": 0,
+		"name": "rotki/dbscript",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "rotki/dbscript",
 		"ecosystem_slug": "rotki",
 		"parent_slug": null,
 		"path": "rotki",
@@ -53,18 +65,6 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "rotki/zerorpc-node-rotkehlchen",
-		"ecosystem_slug": "rotki",
-		"parent_slug": null,
-		"path": "rotki",
-		"slug": "rotki",
-		"title": "Rotki"
-	},
-	{
-		"forks": 0,
-		"name": "rotki/dbscript",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "rotki/dbscript",
 		"ecosystem_slug": "rotki",
 		"parent_slug": null,
 		"path": "rotki",

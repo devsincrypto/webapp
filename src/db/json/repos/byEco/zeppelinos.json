@@ -36,11 +36,11 @@
 		"title": "ZeppelinOS"
 	},
 	{
-		"forks": 11,
-		"name": "zeppelinos/zos-docs",
-		"stars": 8,
+		"forks": 7,
+		"name": "zeppelinos/kernel",
+		"stars": 12,
 		"watchers": 0,
-		"repo_name": "zeppelinos/zos-docs",
+		"repo_name": "zeppelinos/kernel",
 		"ecosystem_slug": "zeppelinos",
 		"parent_slug": null,
 		"path": "zeppelinos",
@@ -48,11 +48,11 @@
 		"title": "ZeppelinOS"
 	},
 	{
-		"forks": 7,
-		"name": "zeppelinos/kernel",
-		"stars": 12,
+		"forks": 11,
+		"name": "zeppelinos/zos-docs",
+		"stars": 8,
 		"watchers": 0,
-		"repo_name": "zeppelinos/kernel",
+		"repo_name": "zeppelinos/zos-docs",
 		"ecosystem_slug": "zeppelinos",
 		"parent_slug": null,
 		"path": "zeppelinos",

@@ -2,7 +2,7 @@
 	{
 		"forks": 11,
 		"name": "Sharders/sharder-chain",
-		"stars": 49,
+		"stars": 50,
 		"watchers": 0,
 		"repo_name": "Sharders/sharder-chain",
 		"ecosystem_slug": "sharder",
@@ -24,18 +24,6 @@
 		"title": "Sharder"
 	},
 	{
-		"forks": 2,
-		"name": "Sharders/sharder.org",
-		"stars": 3,
-		"watchers": 0,
-		"repo_name": "Sharders/sharder.org",
-		"ecosystem_slug": "sharder",
-		"parent_slug": null,
-		"path": "sharder",
-		"slug": "sharder",
-		"title": "Sharder"
-	},
-	{
 		"forks": 3,
 		"name": "Sharders/sharder-token",
 		"stars": 2,
@@ -48,11 +36,11 @@
 		"title": "Sharder"
 	},
 	{
-		"forks": 1,
-		"name": "Sharders/whitepaper",
-		"stars": 1,
+		"forks": 2,
+		"name": "Sharders/sharder.org",
+		"stars": 3,
 		"watchers": 0,
-		"repo_name": "Sharders/whitepaper",
+		"repo_name": "Sharders/sharder.org",
 		"ecosystem_slug": "sharder",
 		"parent_slug": null,
 		"path": "sharder",
@@ -73,10 +61,10 @@
 	},
 	{
 		"forks": 1,
-		"name": "Sharders/sharder-watcher",
-		"stars": 0,
+		"name": "Sharders/whitepaper",
+		"stars": 1,
 		"watchers": 0,
-		"repo_name": "Sharders/sharder-watcher",
+		"repo_name": "Sharders/whitepaper",
 		"ecosystem_slug": "sharder",
 		"parent_slug": null,
 		"path": "sharder",
@@ -89,6 +77,18 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "Sharders/mldht",
+		"ecosystem_slug": "sharder",
+		"parent_slug": null,
+		"path": "sharder",
+		"slug": "sharder",
+		"title": "Sharder"
+	},
+	{
+		"forks": 1,
+		"name": "Sharders/sharder-watcher",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "Sharders/sharder-watcher",
 		"ecosystem_slug": "sharder",
 		"parent_slug": null,
 		"path": "sharder",

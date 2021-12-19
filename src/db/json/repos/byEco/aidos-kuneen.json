@@ -14,7 +14,7 @@
 	{
 		"forks": 10,
 		"name": "AidosKuneen/cuckoo",
-		"stars": 16,
+		"stars": 17,
 		"watchers": 0,
 		"repo_name": "AidosKuneen/cuckoo",
 		"ecosystem_slug": "aidos-kuneen",
@@ -26,7 +26,7 @@
 	{
 		"forks": 7,
 		"name": "AidosKuneen/aidos-node",
-		"stars": 16,
+		"stars": 17,
 		"watchers": 0,
 		"repo_name": "AidosKuneen/aidos-node",
 		"ecosystem_slug": "aidos-kuneen",
@@ -60,9 +60,9 @@
 		"title": "Aidos Kuneen"
 	},
 	{
-		"forks": 5,
+		"forks": 6,
 		"name": "AidosKuneen/aidosd",
-		"stars": 4,
+		"stars": 5,
 		"watchers": 0,
 		"repo_name": "AidosKuneen/aidosd",
 		"ecosystem_slug": "aidos-kuneen",
@@ -84,6 +84,18 @@
 		"title": "Aidos Kuneen"
 	},
 	{
+		"forks": 1,
+		"name": "AidosKuneen/whitepaper",
+		"stars": 6,
+		"watchers": 0,
+		"repo_name": "AidosKuneen/whitepaper",
+		"ecosystem_slug": "aidos-kuneen",
+		"parent_slug": null,
+		"path": "aidos-kuneen",
+		"slug": "aidos-kuneen",
+		"title": "Aidos Kuneen"
+	},
+	{
 		"forks": 3,
 		"name": "AidosKuneen/aklib",
 		"stars": 4,
@@ -96,33 +108,9 @@
 		"title": "Aidos Kuneen"
 	},
 	{
-		"forks": 1,
-		"name": "AidosKuneen/whitepaper",
-		"stars": 5,
-		"watchers": 0,
-		"repo_name": "AidosKuneen/whitepaper",
-		"ecosystem_slug": "aidos-kuneen",
-		"parent_slug": null,
-		"path": "aidos-kuneen",
-		"slug": "aidos-kuneen",
-		"title": "Aidos Kuneen"
-	},
-	{
-		"forks": 4,
-		"name": "AidosKuneen/gadk",
-		"stars": 1,
-		"watchers": 0,
-		"repo_name": "AidosKuneen/gadk",
-		"ecosystem_slug": "aidos-kuneen",
-		"parent_slug": null,
-		"path": "aidos-kuneen",
-		"slug": "aidos-kuneen",
-		"title": "Aidos Kuneen"
-	},
-	{
 		"forks": 2,
 		"name": "AidosKuneen/numcpu",
-		"stars": 3,
+		"stars": 4,
 		"watchers": 0,
 		"repo_name": "AidosKuneen/numcpu",
 		"ecosystem_slug": "aidos-kuneen",
@@ -132,11 +120,11 @@
 		"title": "Aidos Kuneen"
 	},
 	{
-		"forks": 3,
-		"name": "AidosKuneen/gogui",
-		"stars": 1,
+		"forks": 4,
+		"name": "AidosKuneen/gadk",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "AidosKuneen/gogui",
+		"repo_name": "AidosKuneen/gadk",
 		"ecosystem_slug": "aidos-kuneen",
 		"parent_slug": null,
 		"path": "aidos-kuneen",
@@ -144,11 +132,11 @@
 		"title": "Aidos Kuneen"
 	},
 	{
-		"forks": 0,
-		"name": "AidosKuneen/scp",
+		"forks": 3,
+		"name": "AidosKuneen/gogui",
 		"stars": 2,
 		"watchers": 0,
-		"repo_name": "AidosKuneen/scp",
+		"repo_name": "AidosKuneen/gogui",
 		"ecosystem_slug": "aidos-kuneen",
 		"parent_slug": null,
 		"path": "aidos-kuneen",
@@ -169,10 +157,10 @@
 	},
 	{
 		"forks": 0,
-		"name": "AidosKuneen/sha256-simd",
-		"stars": 1,
+		"name": "AidosKuneen/scp",
+		"stars": 2,
 		"watchers": 0,
-		"repo_name": "AidosKuneen/sha256-simd",
+		"repo_name": "AidosKuneen/scp",
 		"ecosystem_slug": "aidos-kuneen",
 		"parent_slug": null,
 		"path": "aidos-kuneen",
@@ -182,9 +170,21 @@
 	{
 		"forks": 1,
 		"name": "AidosKuneen/adk-js",
-		"stars": 0,
+		"stars": 1,
 		"watchers": 0,
 		"repo_name": "AidosKuneen/adk-js",
+		"ecosystem_slug": "aidos-kuneen",
+		"parent_slug": null,
+		"path": "aidos-kuneen",
+		"slug": "aidos-kuneen",
+		"title": "Aidos Kuneen"
+	},
+	{
+		"forks": 0,
+		"name": "AidosKuneen/sha256-simd",
+		"stars": 1,
+		"watchers": 0,
+		"repo_name": "AidosKuneen/sha256-simd",
 		"ecosystem_slug": "aidos-kuneen",
 		"parent_slug": null,
 		"path": "aidos-kuneen",

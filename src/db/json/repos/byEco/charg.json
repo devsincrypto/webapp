@@ -1,18 +1,6 @@
 [
 	{
 		"forks": 0,
-		"name": "ChargCoinLLC/NODE",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "ChargCoinLLC/NODE",
-		"ecosystem_slug": "charg",
-		"parent_slug": null,
-		"path": "charg",
-		"slug": "charg",
-		"title": "Charg"
-	},
-	{
-		"forks": 0,
 		"name": "ChargCoinLLC/CHG-3.0-Whiteboard",
 		"stars": 0,
 		"watchers": 0,
@@ -29,6 +17,18 @@
 		"stars": 0,
 		"watchers": 0,
 		"repo_name": "ChargCoinLLC/Smart-Contract",
+		"ecosystem_slug": "charg",
+		"parent_slug": null,
+		"path": "charg",
+		"slug": "charg",
+		"title": "Charg"
+	},
+	{
+		"forks": 0,
+		"name": "ChargCoinLLC/NODE",
+		"stars": 0,
+		"watchers": 0,
+		"repo_name": "ChargCoinLLC/NODE",
 		"ecosystem_slug": "charg",
 		"parent_slug": null,
 		"path": "charg",

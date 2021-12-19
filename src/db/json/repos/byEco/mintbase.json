@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 23,
+		"forks": 33,
 		"name": "Mintbase/create-mintbase-app",
-		"stars": 25,
+		"stars": 28,
 		"watchers": 0,
 		"repo_name": "Mintbase/create-mintbase-app",
 		"ecosystem_slug": "mintbase",
@@ -24,9 +24,9 @@
 		"title": "Mintbase"
 	},
 	{
-		"forks": 2,
+		"forks": 3,
 		"name": "Mintbase/near-nft-standards",
-		"stars": 13,
+		"stars": 14,
 		"watchers": 0,
 		"repo_name": "Mintbase/near-nft-standards",
 		"ecosystem_slug": "mintbase",
@@ -38,7 +38,7 @@
 	{
 		"forks": 0,
 		"name": "Mintbase/mintbase-js",
-		"stars": 11,
+		"stars": 17,
 		"watchers": 0,
 		"repo_name": "Mintbase/mintbase-js",
 		"ecosystem_slug": "mintbase",
@@ -50,7 +50,7 @@
 	{
 		"forks": 3,
 		"name": "Mintbase/graph-mint-factory",
-		"stars": 8,
+		"stars": 9,
 		"watchers": 0,
 		"repo_name": "Mintbase/graph-mint-factory",
 		"ecosystem_slug": "mintbase",
@@ -74,7 +74,7 @@
 	{
 		"forks": 3,
 		"name": "Mintbase/near-wallet",
-		"stars": 4,
+		"stars": 5,
 		"watchers": 0,
 		"repo_name": "Mintbase/near-wallet",
 		"ecosystem_slug": "mintbase",

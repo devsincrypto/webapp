@@ -1,8 +1,8 @@
 [
 	{
-		"forks": 2208,
+		"forks": 2597,
 		"name": "pancakeswap/pancake-frontend",
-		"stars": 1068,
+		"stars": 1331,
 		"watchers": 0,
 		"repo_name": "pancakeswap/pancake-frontend",
 		"ecosystem_slug": "pancakeswap",
@@ -12,9 +12,9 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 656,
+		"forks": 742,
 		"name": "pancakeswap/pancake-farm",
-		"stars": 301,
+		"stars": 351,
 		"watchers": 0,
 		"repo_name": "pancakeswap/pancake-farm",
 		"ecosystem_slug": "pancakeswap",
@@ -24,9 +24,9 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 627,
+		"forks": 765,
 		"name": "pancakeswap/pancake-toolkit",
-		"stars": 149,
+		"stars": 201,
 		"watchers": 0,
 		"repo_name": "pancakeswap/pancake-toolkit",
 		"ecosystem_slug": "pancakeswap",
@@ -36,9 +36,9 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 570,
+		"forks": 649,
 		"name": "pancakeswap/pancake-swap-core",
-		"stars": 177,
+		"stars": 204,
 		"watchers": 0,
 		"repo_name": "pancakeswap/pancake-swap-core",
 		"ecosystem_slug": "pancakeswap",
@@ -60,9 +60,9 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 489,
+		"forks": 529,
 		"name": "pancakeswap/pancake-swap-interface-v1",
-		"stars": 121,
+		"stars": 135,
 		"watchers": 0,
 		"repo_name": "pancakeswap/pancake-swap-interface-v1",
 		"ecosystem_slug": "pancakeswap",
@@ -72,9 +72,9 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 441,
+		"forks": 466,
 		"name": "pancakeswap/pancake-uikit",
-		"stars": 63,
+		"stars": 73,
 		"watchers": 0,
 		"repo_name": "pancakeswap/pancake-uikit",
 		"ecosystem_slug": "pancakeswap",
@@ -84,9 +84,9 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 333,
+		"forks": 397,
 		"name": "pancakeswap/pancake-swap-periphery",
-		"stars": 70,
+		"stars": 92,
 		"watchers": 0,
 		"repo_name": "pancakeswap/pancake-swap-periphery",
 		"ecosystem_slug": "pancakeswap",
@@ -96,21 +96,9 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 264,
-		"name": "pancakeswap/pancake-subgraph",
-		"stars": 113,
-		"watchers": 0,
-		"repo_name": "pancakeswap/pancake-subgraph",
-		"ecosystem_slug": "pancakeswap",
-		"parent_slug": "binance-coin",
-		"path": "binance-coin/pancakeswap",
-		"slug": "pancakeswap",
-		"title": "PancakeSwap"
-	},
-	{
-		"forks": 189,
+		"forks": 224,
 		"name": "pancakeswap/pancake-info-api",
-		"stars": 167,
+		"stars": 240,
 		"watchers": 0,
 		"repo_name": "pancakeswap/pancake-info-api",
 		"ecosystem_slug": "pancakeswap",
@@ -120,9 +108,33 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 199,
+		"forks": 319,
+		"name": "pancakeswap/pancake-subgraph",
+		"stars": 139,
+		"watchers": 0,
+		"repo_name": "pancakeswap/pancake-subgraph",
+		"ecosystem_slug": "pancakeswap",
+		"parent_slug": "binance-coin",
+		"path": "binance-coin/pancakeswap",
+		"slug": "pancakeswap",
+		"title": "PancakeSwap"
+	},
+	{
+		"forks": 294,
+		"name": "pancakeswap/pancake-swap-sdk",
+		"stars": 90,
+		"watchers": 0,
+		"repo_name": "pancakeswap/pancake-swap-sdk",
+		"ecosystem_slug": "pancakeswap",
+		"parent_slug": "binance-coin",
+		"path": "binance-coin/pancakeswap",
+		"slug": "pancakeswap",
+		"title": "PancakeSwap"
+	},
+	{
+		"forks": 227,
 		"name": "pancakeswap/pancake-swap-lib",
-		"stars": 47,
+		"stars": 61,
 		"watchers": 0,
 		"repo_name": "pancakeswap/pancake-swap-lib",
 		"ecosystem_slug": "pancakeswap",
@@ -144,11 +156,11 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 187,
-		"name": "pancakeswap/pancake-swap-sdk",
-		"stars": 47,
+		"forks": 172,
+		"name": "pancakeswap/lottery-contract",
+		"stars": 59,
 		"watchers": 0,
-		"repo_name": "pancakeswap/pancake-swap-sdk",
+		"repo_name": "pancakeswap/lottery-contract",
 		"ecosystem_slug": "pancakeswap",
 		"parent_slug": "binance-coin",
 		"path": "binance-coin/pancakeswap",
@@ -168,21 +180,9 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 152,
-		"name": "pancakeswap/lottery-contract",
-		"stars": 49,
-		"watchers": 0,
-		"repo_name": "pancakeswap/lottery-contract",
-		"ecosystem_slug": "pancakeswap",
-		"parent_slug": "binance-coin",
-		"path": "binance-coin/pancakeswap",
-		"slug": "pancakeswap",
-		"title": "PancakeSwap"
-	},
-	{
-		"forks": 145,
+		"forks": 167,
 		"name": "pancakeswap/pancake-document",
-		"stars": 53,
+		"stars": 62,
 		"watchers": 0,
 		"repo_name": "pancakeswap/pancake-document",
 		"ecosystem_slug": "pancakeswap",
@@ -192,9 +192,9 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 117,
+		"forks": 130,
 		"name": "pancakeswap/pancakeswap-sdk-v2",
-		"stars": 35,
+		"stars": 38,
 		"watchers": 0,
 		"repo_name": "pancakeswap/pancakeswap-sdk-v2",
 		"ecosystem_slug": "pancakeswap",
@@ -204,9 +204,9 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 124,
+		"forks": 129,
 		"name": "pancakeswap/gatsby-pancake-api",
-		"stars": 6,
+		"stars": 7,
 		"watchers": 0,
 		"repo_name": "pancakeswap/gatsby-pancake-api",
 		"ecosystem_slug": "pancakeswap",
@@ -216,21 +216,9 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 82,
-		"name": "pancakeswap/pancakeswap-sdk-v1",
-		"stars": 25,
-		"watchers": 0,
-		"repo_name": "pancakeswap/pancakeswap-sdk-v1",
-		"ecosystem_slug": "pancakeswap",
-		"parent_slug": "binance-coin",
-		"path": "binance-coin/pancakeswap",
-		"slug": "pancakeswap",
-		"title": "PancakeSwap"
-	},
-	{
-		"forks": 88,
+		"forks": 95,
 		"name": "pancakeswap/initial-farm-offering",
-		"stars": 18,
+		"stars": 24,
 		"watchers": 0,
 		"repo_name": "pancakeswap/initial-farm-offering",
 		"ecosystem_slug": "pancakeswap",
@@ -240,9 +228,21 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 86,
+		"forks": 91,
+		"name": "pancakeswap/pancakeswap-sdk-v1",
+		"stars": 27,
+		"watchers": 0,
+		"repo_name": "pancakeswap/pancakeswap-sdk-v1",
+		"ecosystem_slug": "pancakeswap",
+		"parent_slug": "binance-coin",
+		"path": "binance-coin/pancakeswap",
+		"slug": "pancakeswap",
+		"title": "PancakeSwap"
+	},
+	{
+		"forks": 87,
 		"name": "pancakeswap/pancake-v2-subgraph",
-		"stars": 13,
+		"stars": 15,
 		"watchers": 0,
 		"repo_name": "pancakeswap/pancake-v2-subgraph",
 		"ecosystem_slug": "pancakeswap",
@@ -252,9 +252,9 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 58,
+		"forks": 61,
 		"name": "pancakeswap/PancakeSwap-Design",
-		"stars": 9,
+		"stars": 12,
 		"watchers": 0,
 		"repo_name": "pancakeswap/PancakeSwap-Design",
 		"ecosystem_slug": "pancakeswap",
@@ -264,9 +264,9 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 55,
+		"forks": 58,
 		"name": "pancakeswap/eslint-config-pancake",
-		"stars": 4,
+		"stars": 5,
 		"watchers": 0,
 		"repo_name": "pancakeswap/eslint-config-pancake",
 		"ecosystem_slug": "pancakeswap",
@@ -278,7 +278,7 @@
 	{
 		"forks": 45,
 		"name": "pancakeswap/snapshot.js",
-		"stars": 2,
+		"stars": 3,
 		"watchers": 0,
 		"repo_name": "pancakeswap/snapshot.js",
 		"ecosystem_slug": "pancakeswap",
@@ -302,7 +302,7 @@
 	{
 		"forks": 30,
 		"name": "pancakeswap/snapshot",
-		"stars": 3,
+		"stars": 5,
 		"watchers": 0,
 		"repo_name": "pancakeswap/snapshot",
 		"ecosystem_slug": "pancakeswap",
@@ -324,9 +324,21 @@
 		"title": "PancakeSwap"
 	},
 	{
+		"forks": 20,
+		"name": "pancakeswap/pancake-info-v1",
+		"stars": 2,
+		"watchers": 0,
+		"repo_name": "pancakeswap/pancake-info-v1",
+		"ecosystem_slug": "pancakeswap",
+		"parent_slug": "binance-coin",
+		"path": "binance-coin/pancakeswap",
+		"slug": "pancakeswap",
+		"title": "PancakeSwap"
+	},
+	{
 		"forks": 17,
 		"name": "pancakeswap/snapshot-spaces",
-		"stars": 0,
+		"stars": 1,
 		"watchers": 0,
 		"repo_name": "pancakeswap/snapshot-spaces",
 		"ecosystem_slug": "pancakeswap",
@@ -348,18 +360,6 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 16,
-		"name": "pancakeswap/pancake-info-v1",
-		"stars": 0,
-		"watchers": 0,
-		"repo_name": "pancakeswap/pancake-info-v1",
-		"ecosystem_slug": "pancakeswap",
-		"parent_slug": "binance-coin",
-		"path": "binance-coin/pancakeswap",
-		"slug": "pancakeswap",
-		"title": "PancakeSwap"
-	},
-	{
 		"forks": 13,
 		"name": "pancakeswap/snapshot-front",
 		"stars": 1,
@@ -372,9 +372,9 @@
 		"title": "PancakeSwap"
 	},
 	{
-		"forks": 9,
+		"forks": 10,
 		"name": "pancakeswap/token-pocket-splash",
-		"stars": 1,
+		"stars": 2,
 		"watchers": 0,
 		"repo_name": "pancakeswap/token-pocket-splash",
 		"ecosystem_slug": "pancakeswap",
