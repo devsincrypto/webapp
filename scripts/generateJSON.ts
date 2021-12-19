@@ -1,4 +1,5 @@
 import cliProgress from 'cli-progress';
+import * as fs from 'fs/promises';
 
 import * as ecoQ from '../src/db/eco';
 import {
@@ -9,6 +10,7 @@ import {
 	genIndividualEcos,
 	genReposByEcosystem,
 } from './queries';
+import { BASE_JSON_DIR } from './queries/shared';
 
 export async function main(): Promise<void> {
 	console.log('Starting script to generate JSONs.');
@@ -25,7 +27,15 @@ export async function main(): Promise<void> {
 		genIndividualEcos(slugs, mb),
 		genEcoUsers(slugs, mb),
 		genReposByEcosystem(slugs, mb),
+		lastUpdated(),
 	]);
+}
+
+async function lastUpdated() {
+	await fs.writeFile(
+		`${BASE_JSON_DIR}/lastUpdated.json`,
+		JSON.stringify(new Date().toUTCString())
+	);
 }
 
 main()
